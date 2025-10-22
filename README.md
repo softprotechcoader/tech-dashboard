@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,24 +46,24 @@
 
 ### 📑 Hacker News
 
-- **[Knocker, a knock based access control system for your homelab](https://github.com/FarisZR/knocker)**
-  *<p>Article URL: <a href="https://github.com/FarisZR/knocker">https://github.com/FarisZR/knocker</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45666327">https://news.ycombinato...*
-  📅 Wed, 22 Oct 2025 08:37:31 +0000
+- **[Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate">https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate<...*
+  📅 Wed, 22 Oct 2025 12:02:02 +0000
 
-- **[Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)**
-  *<p>Article URL: <a href="https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service">https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-se...*
-  📅 Wed, 22 Oct 2025 07:14:40 +0000
+- **[HarmonyOS 6 Full Overview: New Design, AI Features and Privacy Upgrades [video]](https://www.youtube.com/watch?v=KzpXObhArco)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=KzpXObhArco">https://www.youtube.com/watch?v=KzpXObhArco</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45667456">https...*
+  📅 Wed, 22 Oct 2025 11:23:12 +0000
+
+- **[Greg Newby, CEO of Project Gutenberg, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)**
+  *<p>Article URL: <a href="https://www.pgdp.net/wiki/In_Memoriam/gbnewby">https://www.pgdp.net/wiki/In_Memoriam/gbnewby</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45666510">h...*
+  📅 Wed, 22 Oct 2025 09:05:21 +0000
 
 - **[MinIO (apparently) becomes source-only](https://github.com/minio/minio/issues/21647)**
   *<p>Article URL: <a href="https://github.com/minio/minio/issues/21647">https://github.com/minio/minio/issues/21647</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45665452">https...*
   📅 Wed, 22 Oct 2025 06:17:18 +0000
-
-- **[French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cvgkm2j0xelo">https://www.bbc.com/news/articles/cvgkm2j0xelo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45665311"...*
-  📅 Wed, 22 Oct 2025 05:49:58 +0000
 
 - **[Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)**
   *<p>Article URL: <a href="https://chipsandcheese.com/p/evaluating-the-infinity-cache-in">https://chipsandcheese.com/p/evaluating-the-infinity-cache-in</a></p>
@@ -76,6 +76,14 @@
   📅 Wed, 22 Oct 2025 02:02:58 +0000
 
 ### 📑 TechCrunch
+
+- **[Life360 ventures into pet tech with the launch of a new GPS tracker](https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/)**
+  *Family location safety app Life360 is venturing into pet tech with the launch of its new tracking device for cats and dogs....*
+  📅 Wed, 22 Oct 2025 12:00:00 +0000
+
+- **[One startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)**
+  *Sizable Energy has a plan to store excess renewable energy in flexible reservoirs out at sea. The startup has raised $8 million to test prototypes....*
+  📅 Wed, 22 Oct 2025 11:00:00 +0000
 
 - **[Netflix goes ‘all in’ on generative AI as entertainment industry remains divided](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/)**
   *Netflix isn't planning to use generative AI as the backbone of its content but believes the technology has potential as a tool to make creatives more efficient....*
@@ -93,36 +101,129 @@
   *OpenAI's new browser announcement made it clear exactly how much Google has to lose in the AI era....*
   📅 Tue, 21 Oct 2025 21:17:50 +0000
 
-- **[Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/)**
-  *Fal provides developers with over 600 image, video, audio, and 3D models, it says, and boasts that its cloud has thousands of Nvidia H100 and H200 GPUs and is fine-tuned for speedy inference....*
-  📅 Tue, 21 Oct 2025 20:12:41 +0000
-
-- **[Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google’s search and AI crawlers](https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/)**
-  *Cloudflare CEO Matthew Prince is urging regulators to rein in Google’s AI practices, arguing the tech giant’s dominance in search gives it an unfair edge in the AI race....*
-  📅 Tue, 21 Oct 2025 19:34:21 +0000
-
 ### 📑 Dev.to
 
-- **[Understanding Timestamp Difference between shutdown and systemctl poweroff](https://dev.to/mkt/understanding-timestamp-difference-between-shutdown-and-systemctl-poweroff-4a5l)**
-  *<p><em>(This is the English translation of my original Japanese post at <a href="https://zenn.dev/md_irohas/articles/343351fac096e3" rel="noopener noreferrer">Zenn</a>.)</em></p>
+- **[DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA](https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4)**
+  *<p>bu kurulum için bir domain adına ihtiyacımız var benim senaryomda keycloak.local olarak ilerleyeceğim.</p>
 
-<p>I ran into troubl...*
-  📅 Wed, 22 Oct 2025 09:48:21 +0000
+<p><strong>1. Adım:</strong> Host makinemde, yani browserımla keycloak'a erişeceğim makin...*
+  📅 Wed, 22 Oct 2025 12:19:10 +0000
 
-- **[🚀 Simplify ZKTeco Biometric Device Integration in PHP — No SDK Needed!](https://dev.to/mrzstack/simplify-zkteco-biometric-device-integration-in-php-no-sdk-needed-5f9b)**
-  *<h1>
+- **[Simple queue system](https://dev.to/brendon_oneill__/simple-queue-system-1lnk)**
+  *<h2>
   
   
-  🚀 Simplify ZKTeco Biometric Device Integration in PHP — No SDK Needed
-</h1>
+  Introduction
+</h2>
 
-<p>Working with <strong>ZKTeco biometric attendance devices</strong> can be frustrating.<br /><br />
-Most deve...*
-  📅 Wed, 22 Oct 2025 09:45:01 +0000
+<p>When I am handling processes that can be a heavy load on my server, I like to create a sort of queuing system to handle each process one by one, so that if there is...*
+  📅 Wed, 22 Oct 2025 12:15:46 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[Sfregs/ZeroCrumb](https://github.com/Sfregs/ZeroCrumb)** ⭐ 117
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Dumping App Bound Protected Credentials & Cookies Without Privileges.
+
+- **[bhupendra4888/Roblox-MMap-Injector](https://github.com/bhupendra4888/Roblox-MMap-Injector)** ⭐ 73
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  A Manual Map Injector made for Roblox
+
+- **[kongenstrongen123/RBust](https://github.com/kongenstrongen123/RBust)** ⭐ 73
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  [ Blazing Fast Web Fuzzer in Rust ]
+
+- **[jerrescheenaard/External-Roblox-ESP](https://github.com/jerrescheenaard/External-Roblox-ESP)** ⭐ 68
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  This is an external ESP for Roblox. It was made while I was learning to reverse Roblox's structures. This is just a base so it doesn't do anything fancy. Please ignore the ugly code.
+
+- **[Vincenzo0220/Aimbot-V3](https://github.com/Vincenzo0220/Aimbot-V3)** ⭐ 59
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Universal ROBLOX Aimbot Module
+
+- **[JSabino16/cs2-cheat-cpp](https://github.com/JSabino16/cs2-cheat-cpp)** ⭐ 51
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  CS2游戏外挂 - ESP外部注入
+
+- **[sandstormorc863/Rust-lootviewer-loot-guide-mapviewer-recoil-control-guide](https://github.com/sandstormorc863/Rust-lootviewer-loot-guide-mapviewer-recoil-control-guide)** ⭐ 45
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[helldragon30lokobjg/Minecraft-VapeV4-Game-utility-Killaura-xray-tool](https://github.com/helldragon30lokobjg/Minecraft-VapeV4-Game-utility-Killaura-xray-tool)** ⭐ 43
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+### 📈 Weekly Trending
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 10,226
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder)** ⭐ 1,492
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution
+
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 1,492
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Single powerful tool to convert ANY documentation website into a Claude skill
+
+- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** ⭐ 1,322
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated list of Claude Skills.
+
+- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** ⭐ 852
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 762
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 432
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
+
+- **[aeyakovenko/percolator](https://github.com/aeyakovenko/percolator)** ⭐ 352
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  None
+
+### 📈 Monthly Trending
+
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 30,505
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The best ChatGPT that $100 can buy.
+
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 10,226
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Contexts Optical Compression
+
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,058
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,358
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Claude Code superpowers: core skills library
+
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,020
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+
+- **[tw93/Mole](https://github.com/tw93/Mole)** ⭐ 3,703
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+
+- **[JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)** ⭐ 3,640
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Generate a timeline of your day, automatically
+
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,594
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  On-device TTS model by Neuphonic
 
 ## 🚀 Latest Releases
 
@@ -392,58 +493,58 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
