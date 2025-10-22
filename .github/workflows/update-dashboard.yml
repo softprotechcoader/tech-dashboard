@@ -66,16 +66,8 @@ jobs:
             echo "✅ Data collection successful"
             echo "data_generated=true" >> $GITHUB_OUTPUT
             
-            # Extract stats from generated data
-            STATS=$(python -c "
-            import json
-            with open('data/dashboard_data.json', 'r') as f:
-                data = json.load(f)
-            stats = data.get('stats', {})
-            print(f\"📰 {stats.get('total_news_items', 0)} news articles\")
-            print(f\"🔥 {stats.get('total_trending_repos', 0)} trending repos\")
-            print(f\"🚀 {stats.get('total_releases', 0)} latest releases\")
-            ")
+            # Extract stats from generated data - single line Python
+            STATS=$(python -c "import json; data = json.load(open('data/dashboard_data.json')); stats = data.get('stats', {}); print(f\"📰 {stats.get('total_news_items', 0)} news articles\"); print(f\"🔥 {stats.get('total_trending_repos', 0)} trending repos\"); print(f\"🚀 {stats.get('total_releases', 0)} latest releases\")")
             echo "stats<<EOF" >> $GITHUB_OUTPUT
             echo "$STATS" >> $GITHUB_OUTPUT
             echo "EOF" >> $GITHUB_OUTPUT
