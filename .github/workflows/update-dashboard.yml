@@ -48,19 +48,7 @@ jobs:
 
       - name: ✅ Validate configuration
         run: |
-          python -c "
-          import json
-          import sys
-          try:
-              with open('config/interests.json', 'r') as f:
-                  config = json.load(f)
-              print('✅ Configuration validation passed')
-              print(f'📊 Found {len(config.get(\"interests\", {}))} interest categories')
-              print(f'🎯 Found {len(config.get(\"learning_goals\", []))} learning goals')
-          except Exception as e:
-              print(f'❌ Configuration validation failed: {e}')
-              sys.exit(1)
-          "
+          python -c "import json; import sys; config = json.load(open('config/interests.json')); print('✅ Configuration validation passed'); print(f'📊 Found {len(config.get(\"interests\", {}))} interest categories'); print(f'🎯 Found {len(config.get(\"learning_goals\", []))} learning goals')"
 
       - name: 🗂️ Create data directory
         run: |
