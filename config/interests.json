@@ -1,0 +1,17 @@
+{
+  "interests": {
+    "programming_languages": ["Java", "Python", "JavaScript", "TypeScript", "Go"],
+    "frameworks": ["React", "Spring Boot", "Django", "Node.js", "Next.js"],
+    "cybersecurity": ["Penetration Testing", "Web Security", "Network Security", "OWASP"],
+    "ai_ml": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "TensorFlow", "PyTorch"],
+    "devops": ["Docker", "Kubernetes", "CI/CD", "AWS", "Azure"],
+    "other": ["Blockchain", "Web3", "Cloud Computing"]
+  },
+  "learning_goals": [
+    "Master Kubernetes and container orchestration",
+    "Deep dive into AI/ML model deployment",
+    "Advanced cybersecurity certifications",
+    "Build full-stack applications with modern frameworks"
+  ],
+  "current_focus": ["AI & ML", "CyberSecurity", "Full Stack Development"]
+}
