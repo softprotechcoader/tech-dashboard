@@ -1,0 +1,13 @@
+# Data Directory
+
+This directory contains generated data files from the Tech Dashboard automation.
+
+## Files
+
+- `dashboard_data.json` - Main data file containing all collected information
+- Other temporary files may be created during processing
+
+## Note
+
+These files are automatically generated and should not be manually edited.
+They are excluded from version control via `.gitignore`.
