@@ -46,15 +46,23 @@
 
 ### 📑 Hacker News
 
+- **[VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)**
+  *<p>Article URL: <a href="https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988">https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Thu, 23 Oct 2025 05:48:02 +0000
+
+- **[The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)**
+  *<p>Article URL: <a href="https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/">https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolifi...*
+  📅 Thu, 23 Oct 2025 04:23:39 +0000
+
+- **[Sodium-ion batteries have started to appear in cars and home storage](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)**
+  *<p>Article URL: <a href="https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/">https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/</a></p...*
+  📅 Thu, 23 Oct 2025 01:36:37 +0000
+
 - **[VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)**
   *<p>Article URL: <a href="https://github.com/samim23/vortexnet">https://github.com/samim23/vortexnet</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45676162">https://news.ycombi...*
   📅 Wed, 22 Oct 2025 22:51:58 +0000
-
-- **[Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time)**
-  *<p>Article URL: <a href="https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time">https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time</a></p>
-<p>Comments URL:...*
-  📅 Wed, 22 Oct 2025 22:15:29 +0000
 
 - **[InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)**
   *<p>Article URL: <a href="https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer">https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer</a></p>
@@ -65,16 +73,11 @@
   *<p>Article URL: <a href="https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/">https://yasa.com/new...*
   📅 Wed, 22 Oct 2025 20:54:37 +0000
 
-- **[Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)**
-  *<p>Article URL: <a href="https://immich.app/blog/google-flags-immich-as-dangerous">https://immich.app/blog/google-flags-immich-as-dangerous</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Wed, 22 Oct 2025 20:53:49 +0000
-
-- **[Rethinking CQRS: An Interview on OpenCQRS](https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/)**
-  *<p>Article URL: <a href="https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/">https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-open...*
-  📅 Wed, 22 Oct 2025 20:46:06 +0000
-
 ### 📑 TechCrunch
+
+- **[As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)**
+  *South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investors worry it's too restrictive....*
+  📅 Thu, 23 Oct 2025 06:00:02 +0000
 
 - **[Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/)**
   *Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit....*
@@ -96,21 +99,18 @@
   *OpenAI's new browser is a surface for the company to distribute ChatGPT and develop new AI features rather than improving core web experience....*
   📅 Wed, 22 Oct 2025 18:51:43 +0000
 
-- **[Amazon unveils AI smart glasses for its delivery drivers](https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/)**
-  *Amazon likely hopes that the new glasses will shave valuable time off of each delivery by providing delivery drivers with detailed directions and information about hazards directly in their line of si...*
-  📅 Wed, 22 Oct 2025 18:33:34 +0000
-
 ### 📑 Dev.to
 
-- **[a introduction to deepseek API](https://dev.to/sengseng/a-introduction-to-deepseek-api-b92)**
-  *<ol>
-<li><p>The DeepSeek API is compatible with OpenAI's. You can directly use the OpenAI SDK to access the DeepSeek API by simply modifying the configuration.</p></li>
-<li><p>For compatibility with O...*
-  📅 Thu, 23 Oct 2025 00:54:18 +0000
+- **[Check out the guide on - Building Regression Models in R using Support Vector Regression (SVR)](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0)**
+  *<div class="ltag__link">
+  <a class="ltag__link__link" href="https://dev.to/thedatageek">
+    <div class="ltag__link__pic">
+      <img alt="thedatageek" src="https://media2.dev.to/dynamic/image/width=...*
+  📅 Thu, 23 Oct 2025 06:07:56 +0000
 
-- **[LLM evaluation: a quick overview of Stax](https://dev.to/lethargicpanda/llm-evaluation-a-quick-overview-of-stax-51km)**
-  *<p><em>The views and opinions expressed on this blog are my own and do not reflect those of my employer. Additionally, any solutions, APIs, or products mentioned are for informational and discussion p...*
-  📅 Thu, 23 Oct 2025 00:38:46 +0000
+- **[Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n)**
+  *<p>Jeff Su distills nine years of teaching over 6,600 Googlers into one simple framework: the CORE workflow. Four steps—Capture everything immediately, Organize with minimal friction, Review during sc...*
+  📅 Thu, 23 Oct 2025 06:07:45 +0000
 
 </details>
 
@@ -118,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[jk-caro/Vape-V4-Loader-Remake](https://github.com/jk-caro/Vape-V4-Loader-Remake)** ⭐ 44
+- **[majetyanupam/stealer](https://github.com/majetyanupam/stealer)** ⭐ 75
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  None
+  C# stealer Chrome, Opera, Chromium ,Edge ,Firefox, IE , Outlook passwords, cookies , bookmarks , autofill , desktop files , wallets
 
-- **[Wribeiro09/klopa115x](https://github.com/Wribeiro09/klopa115x)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  tsup
+- **[sasprojectdobs/predictions-trader](https://github.com/sasprojectdobs/predictions-trader)** ⭐ 67
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Trading bot for prediction marketplaces. Currently supports Polymarket and Drift.trade
 
-- **[Wribeiro09/teGATElx](https://github.com/Wribeiro09/teGATElx)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Repo
+- **[themonsterdev/Vare-Stealer](https://github.com/themonsterdev/Vare-Stealer)** ⭐ 66
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  The Best Stealer, Fully Undetected Discord, Browser, Roblox Stealer, Cookie Password Token Stealer
 
-- **[Jupapaa/klopa115x](https://github.com/Jupapaa/klopa115x)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  tsup
+- **[MarioF-dev/server-query-fake-player-count](https://github.com/MarioF-dev/server-query-fake-player-count)** ⭐ 62
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  🥸 A proxy that allows to modify the reported number of players on a game server to Steam
 
-- **[Blysser/klopa115x](https://github.com/Blysser/klopa115x)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  tsup
+- **[SVNG01/ZeroTrace-Stealer-13-2026](https://github.com/SVNG01/ZeroTrace-Stealer-13-2026)** ⭐ 56
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server.
 
-- **[ElkinyairBautista/Hexnone1](https://github.com/ElkinyairBautista/Hexnone1)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Repo
+- **[hieptthSE161662/Snitcher](https://github.com/hieptthSE161662/Snitcher)** ⭐ 55
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  A Browser Password and Discord Token Stealer
 
-- **[Earendilstar199011/Hexnone1](https://github.com/Earendilstar199011/Hexnone1)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Repo
+- **[megyerikenez/polymarket_copy_trader](https://github.com/megyerikenez/polymarket_copy_trader)** ⭐ 53
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An automated bot for tailing the trades of the top ranked wallets on Polymarket monthly
 
-- **[Dayvsonddmp/Hexnone1](https://github.com/Dayvsonddmp/Hexnone1)** ⭐ 8
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Repo
+- **[termite12/polymarket-copy-trading-bot-v1](https://github.com/termite12/polymarket-copy-trading-bot-v1)** ⭐ 51
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  The most largest prediction market - Polymarket copy trading bot: Copy master's trades and positions by using this bot
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 11,873
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 12,884
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 1,533
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 1,547
   ![Python](https://img.shields.io/badge/-Python-blue)
   Single powerful tool to convert ANY documentation website into a Claude skill
 
-- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** ⭐ 1,367
+- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** ⭐ 1,384
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated list of Claude Skills.
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 846
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 870
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 544
+- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 569
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 467
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 475
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 368
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 436
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI Notebooks
+
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 395
   ![Python](https://img.shields.io/badge/-Python-blue)
   Curate, Annotate, and Manage Your Data in LightlyStudio.
 
-- **[aeyakovenko/percolator](https://github.com/aeyakovenko/percolator)** ⭐ 365
-  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
-  None
-
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 30,883
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 31,096
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 11,873
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 12,884
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,080
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,086
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,423
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,442
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,045
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,066
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,600
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,605
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,160
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,172
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,722
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,733
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -484,28 +484,28 @@ WebAssembly and JIT pipeline o...
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -514,27 +514,27 @@ WebAssembly and JIT pipeline o...
 |-------|--------|
 | Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
