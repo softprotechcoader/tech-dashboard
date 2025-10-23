@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 10 |
+| 🎯 Latest Releases | 0 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,34 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)**
-  *<p>Article URL: <a href="https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988">https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Thu, 23 Oct 2025 05:48:02 +0000
+- **[Nango (YC W23) is hiring Staff Back end Engs (remote)](https://www.nango.dev/careers)**
+  *<p>Article URL: <a href="https://www.nango.dev/careers">https://www.nango.dev/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45680847">https://news.ycombinator.com/item...*
+  📅 Thu, 23 Oct 2025 12:00:11 +0000
 
-- **[The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/)**
-  *<p>Article URL: <a href="https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/">https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolifi...*
-  📅 Thu, 23 Oct 2025 04:23:39 +0000
+- **[The Game Theory of How Algorithms Can Drive Up Prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/">https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-p...*
+  📅 Thu, 23 Oct 2025 11:38:49 +0000
 
-- **[Sodium-ion batteries have started to appear in cars and home storage](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)**
-  *<p>Article URL: <a href="https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/">https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/</a></p...*
-  📅 Thu, 23 Oct 2025 01:36:37 +0000
+- **[SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)**
+  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/">https://arstechnica.com/tech-policy/2025/10/starlin...*
+  📅 Thu, 23 Oct 2025 11:15:44 +0000
 
-- **[VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)**
-  *<p>Article URL: <a href="https://github.com/samim23/vortexnet">https://github.com/samim23/vortexnet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45676162">https://news.ycombi...*
-  📅 Wed, 22 Oct 2025 22:51:58 +0000
+- **[Egg prices vs. Consumer Price Index since 1980](https://fred.stlouisfed.org/graph/?g=1Nm5b)**
+  *<p>Article URL: <a href="https://fred.stlouisfed.org/graph/?g=1Nm5b">https://fred.stlouisfed.org/graph/?g=1Nm5b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45680390">https:/...*
+  📅 Thu, 23 Oct 2025 10:49:02 +0000
 
-- **[InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)**
-  *<p>Article URL: <a href="https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer">https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Wed, 22 Oct 2025 21:01:07 +0000
+- **[PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)**
+  *<p>Article URL: <a href="https://pytorch.org/blog/introducing-pytorch-monarch/">https://pytorch.org/blog/introducing-pytorch-monarch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Thu, 23 Oct 2025 10:15:12 +0000
 
-- **[YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)**
-  *<p>Article URL: <a href="https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/">https://yasa.com/new...*
-  📅 Wed, 22 Oct 2025 20:54:37 +0000
+- **[C64 Blood Money](https://lemmings.info/c64-blood-money/)**
+  *<p>Article URL: <a href="https://lemmings.info/c64-blood-money/">https://lemmings.info/c64-blood-money/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45679638">https://news.yc...*
+  📅 Thu, 23 Oct 2025 08:41:21 +0000
 
 ### 📑 TechCrunch
+
+- **[Redwood Materials raises another $350M to power up its energy storage business](https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/)**
+  *The round was led by Eclipse and saw participation from Nvidia's venture capital arm, NVentures....*
+  📅 Thu, 23 Oct 2025 12:00:00 +0000
 
 - **[As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)**
   *South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investors worry it's too restrictive....*
@@ -95,22 +100,23 @@
   *The new information comes as the Raines family updated its lawsuit against OpenAI. The family first filed a wrongful death suit against OpenAI in August after alleging their son had taken his own life...*
   📅 Wed, 22 Oct 2025 20:49:19 +0000
 
-- **[OpenAI’s Atlas is more about ChatGPT than the web](https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/)**
-  *OpenAI's new browser is a surface for the company to distribute ChatGPT and develop new AI features rather than improving core web experience....*
-  📅 Wed, 22 Oct 2025 18:51:43 +0000
-
 ### 📑 Dev.to
 
-- **[Check out the guide on - Building Regression Models in R using Support Vector Regression (SVR)](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0)**
-  *<div class="ltag__link">
-  <a class="ltag__link__link" href="https://dev.to/thedatageek">
-    <div class="ltag__link__pic">
-      <img alt="thedatageek" src="https://media2.dev.to/dynamic/image/width=...*
-  📅 Thu, 23 Oct 2025 06:07:56 +0000
+- **[Why Edge-Native MVNOs Are Critical for IoT Success: A Developer’s Perspective](https://dev.to/hassham_1_f5926bd173cb1a5/why-edge-native-mvnos-are-critical-for-iot-success-a-developers-perspective-43fb)**
+  *<p>By 2030, <a href="https://telcoedge.com/" rel="noopener noreferrer">“5G-only” MVNOs</a> won’t cut it. Speed and coverage have become baseline expectations. The real differentiator? Edge-native arch...*
+  📅 Thu, 23 Oct 2025 12:09:10 +0000
 
-- **[Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n)**
-  *<p>Jeff Su distills nine years of teaching over 6,600 Googlers into one simple framework: the CORE workflow. Four steps—Capture everything immediately, Organize with minimal friction, Review during sc...*
-  📅 Thu, 23 Oct 2025 06:07:45 +0000
+- **[From Beginner to Codex CLI Pro](https://dev.to/andyrewlee/from-beginner-to-codex-cli-pro-4no3)**
+  *<p>I've spent the last month living inside of Codex CLI. Here are the most helpful tips.</p>
+
+<h2>
+  
+  
+  Copy Paste Images
+</h2>
+
+<p>I copy and paste images into Codex all the time. The easiest way ...*
+  📅 Thu, 23 Oct 2025 12:08:53 +0000
 
 </details>
 
@@ -118,9 +124,13 @@
 
 ### 📈 Daily Trending
 
-- **[majetyanupam/stealer](https://github.com/majetyanupam/stealer)** ⭐ 75
+- **[majetyanupam/stealer](https://github.com/majetyanupam/stealer)** ⭐ 73
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   C# stealer Chrome, Opera, Chromium ,Edge ,Firefox, IE , Outlook passwords, cookies , bookmarks , autofill , desktop files , wallets
+
+- **[KarlArjns/Vital](https://github.com/KarlArjns/Vital)** ⭐ 71
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Malware for Discord, designed to steal passwords, tokens, and inject discord folders for long-term use.
 
 - **[sasprojectdobs/predictions-trader](https://github.com/sasprojectdobs/predictions-trader)** ⭐ 67
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
@@ -130,9 +140,13 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   The Best Stealer, Fully Undetected Discord, Browser, Roblox Stealer, Cookie Password Token Stealer
 
-- **[MarioF-dev/server-query-fake-player-count](https://github.com/MarioF-dev/server-query-fake-player-count)** ⭐ 62
+- **[MarioF-dev/server-query-fake-player-count](https://github.com/MarioF-dev/server-query-fake-player-count)** ⭐ 61
   ![Go](https://img.shields.io/badge/-Go-cyan)
   🥸 A proxy that allows to modify the reported number of players on a game server to Steam
+
+- **[Chathuraherath/Lo4f-Malware](https://github.com/Chathuraherath/Lo4f-Malware)** ⭐ 57
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Lo4f is a sophistochated RAT (Remote Access Trojan), written entirely in python.
 
 - **[SVNG01/ZeroTrace-Stealer-13-2026](https://github.com/SVNG01/ZeroTrace-Stealer-13-2026)** ⭐ 56
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
@@ -142,79 +156,71 @@
   ![C#](https://img.shields.io/badge/-C#-lightgrey)
   A Browser Password and Discord Token Stealer
 
-- **[megyerikenez/polymarket_copy_trader](https://github.com/megyerikenez/polymarket_copy_trader)** ⭐ 53
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An automated bot for tailing the trades of the top ranked wallets on Polymarket monthly
-
-- **[termite12/polymarket-copy-trading-bot-v1](https://github.com/termite12/polymarket-copy-trading-bot-v1)** ⭐ 51
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  The most largest prediction market - Polymarket copy trading bot: Copy master's trades and positions by using this bot
-
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 12,884
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 13,926
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 1,547
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** ⭐ 1,576
   ![Python](https://img.shields.io/badge/-Python-blue)
   Single powerful tool to convert ANY documentation website into a Claude skill
 
-- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** ⭐ 1,384
+- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** ⭐ 1,408
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A curated list of Claude Skills.
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 870
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 891
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 589
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI Notebooks
 
 - **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 569
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 475
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 481
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 436
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI Notebooks
-
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 395
+- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 413
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Curate, Annotate, and Manage Your Data in LightlyStudio.
+  Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 31,096
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 31,313
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 12,884
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 13,926
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,086
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,100
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,442
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,477
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,066
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,089
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,605
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,614
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,172
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,174
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,733
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,739
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -222,141 +228,6 @@
 
 <details>
 <summary>Click to expand latest releases</summary>
-
-### 📦 microsoft/vscode
-
-**[September 2025 Recovery 1](https://github.com/microsoft/vscode/releases/tag/1.105.1)** `1.105.1`
-
-📅 Released: October 15, 2025
-
-The update addresses these [issues](https://github.com/Microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22September+2025+Recovery+1%22+is%3Aclosed+).
-
-For the complete release notes go to [Updates]...
-
----
-
-### 📦 facebook/react
-
-**[19.2.0 (Oct 1, 2025)](https://github.com/facebook/react/releases/tag/v19.2.0)** `v19.2.0`
-
-📅 Released: October 01, 2025
-
-Below is a list of all new features, APIs, and bug fixes.
-
-Read the [React 19.2 release post](https://react.dev/blog/2025/10/01/react-19-2) for more information.
-
-## New React Features
-
-- [`<Act...
-
----
-
-### 📦 angular/angular
-
-**[20.3.7](https://github.com/angular/angular/releases/tag/20.3.7)** `20.3.7`
-
-📅 Released: October 22, 2025
-
-### animations
-| Commit | Description |
-| -- | -- |
-| [![fix - bd38cd45a5](https://img.shields.io/badge/bd38cd45a5-fix-green)](https://github.com/angular/angular/commit/bd38cd45a5fb81e92b91e582d7b13aa...
-
----
-
-### 📦 vuejs/vue
-
-**[v2.7.16 "Swan Song"](https://github.com/vuejs/vue/releases/tag/v2.7.16)** `v2.7.16`
-
-📅 Released: December 24, 2023
-
-**This is the final release for Vue 2.**
-
-Vue 2 will reach End of Life on December 31st, 2023. For more details, please read this [blog post](https://blog.vuejs.org/posts/vue-2-eol).
-
-Please refer...
-
----
-
-### 📦 tensorflow/tensorflow
-
-**[TensorFlow 2.20.0](https://github.com/tensorflow/tensorflow/releases/tag/v2.20.0)** `v2.20.0`
-
-📅 Released: August 13, 2025
-
-# Release 2.20.0
-
-## TensorFlow
-
-### Breaking Changes
-
-* The `tensorflow-io-gcs-filesystem` package is now optional, due its uncertain, and limited support. To install it alongside `tensorflow`,...
-
----
-
-### 📦 pytorch/pytorch
-
-**[2.9 Release Notes](https://github.com/pytorch/pytorch/releases/tag/v2.9.0)** `v2.9.0`
-
-📅 Released: October 15, 2025
-
-# PyTorch 2.9.0 Release Notes
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- [Im...
-
----
-
-### 📦 kubernetes/kubernetes
-
-**[Kubernetes v1.34.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.1)** `v1.34.1`
-
-📅 Released: September 10, 2025
-
-
-See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-announce). Additional binary downloads are linked in the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master...
-
----
-
-### 📦 docker/compose
-
-**[v2.40.2](https://github.com/docker/compose/releases/tag/v2.40.2)** `v2.40.2`
-
-📅 Released: October 22, 2025
-
-## What's Changed
-* Compose can't create a tar with adequate uid:gid ownership by @ndeloof in https://github.com/docker/compose/pull/13299
-* fail build if minimal required version of buildx isn't in...
-
----
-
-### 📦 nodejs/node
-
-**[2025-10-15, Version 25.0.0 (Current), @RafaelGSS](https://github.com/nodejs/node/releases/tag/v25.0.0)** `v25.0.0`
-
-📅 Released: October 15, 2025
-
-Node.js 25 is here! We have upgraded V8 to **14.1**, bringing major `JSON.stringify`
-performance improvements, built-in `Uint8Array` base64/hex conversion, and ongoing
-WebAssembly and JIT pipeline o...
-
----
-
-### 📦 rust-lang/rust
-
-**[Rust 1.90.0](https://github.com/rust-lang/rust/releases/tag/1.90.0)** `1.90.0`
-
-📅 Released: September 18, 2025
-
-<a id="1.90-Language"></a>
-
-## Language
-
-- [Split up the `unknown_or_malformed_diagnostic_attributes` lint](https://github.com/rust-lang/rust/pull/140717). This lint has been split up into four finer-...
-
----
 
 </details>
 
@@ -483,10 +354,10 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
@@ -494,48 +365,48 @@ WebAssembly and JIT pipeline o...
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🟢 Proficient |
 | Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
