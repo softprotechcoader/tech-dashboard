@@ -46,34 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)**
-  *<p>Article URL: <a href="https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/">https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/</a></p>
-...*
-  📅 Fri, 24 Oct 2025 04:13:01 +0000
+- **[Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)**
+  *<p>Article URL: <a href="https://padlet.jobs">https://padlet.jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693743">https://news.ycombinator.com/item?id=45693743</a></p>...*
+  📅 Fri, 24 Oct 2025 12:01:08 +0000
 
-- **[Roc Camera](https://roc.camera/)**
-  *<p>Article URL: <a href="https://roc.camera/">https://roc.camera/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45690251">https://news.ycombinator.com/item?id=45690251</a></p>...*
-  📅 Fri, 24 Oct 2025 02:54:29 +0000
+- **[ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2510.02361">https://arxiv.org/abs/2510.02361</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693591">https://news.ycombinator.co...*
+  📅 Fri, 24 Oct 2025 11:41:26 +0000
 
-- **[Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2505.22618">https://arxiv.org/abs/2505.22618</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45690219">https://news.ycombinator.co...*
-  📅 Fri, 24 Oct 2025 02:50:50 +0000
+- **[Bring Your 3D Models to Life](https://mesh2motion.org/)**
+  *<p>Article URL: <a href="https://mesh2motion.org/">https://mesh2motion.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693325">https://news.ycombinator.com/item?id=456933...*
+  📅 Fri, 24 Oct 2025 11:01:23 +0000
 
-- **[Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html)**
-  *<p>Article URL: <a href="https://prog21.dadgum.com/210.html">https://prog21.dadgum.com/210.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45690045">https://news.ycombinato...*
-  📅 Fri, 24 Oct 2025 02:22:07 +0000
+- **[Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)**
+  *<p>Article URL: <a href="https://github.com/linagora/twake-drive">https://github.com/linagora/twake-drive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45692984">https://news....*
+  📅 Fri, 24 Oct 2025 10:16:25 +0000
 
-- **[Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)**
-  *<p>Article URL: <a href="https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/">https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall...*
-  📅 Fri, 24 Oct 2025 00:24:11 +0000
+- **[Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)**
+  *<p>Article URL: <a href="https://lwn.net/Articles/1041316/">https://lwn.net/Articles/1041316/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45692915">https://news.ycombinator....*
+  📅 Fri, 24 Oct 2025 10:07:34 +0000
 
-- **[React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)**
-  *<p>Article URL: <a href="https://github.com/xyflow/xyflow">https://github.com/xyflow/xyflow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45688836">https://news.ycombinator.co...*
-  📅 Thu, 23 Oct 2025 23:33:28 +0000
+- **[Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)**
+  *<p>Article URL: <a href="https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/">https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/</a></p>
+<p>C...*
+  📅 Fri, 24 Oct 2025 09:17:24 +0000
 
 ### 📑 TechCrunch
 
@@ -103,25 +104,29 @@
 
 ### 📑 Dev.to
 
-- **[Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-1i72)**
+- **[No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4jdn)**
+  *<h1>
+  
+  
+  The Booth Vol.23 | Trap Draw, Ep 365 – TL;DR
+</h1>
+
+<p>Cody and Neil kick off this episode by dishing out “Mea Culpas” (and inviting listeners to do the same), then veer into Neil’s big m...*
+  📅 Fri, 24 Oct 2025 12:10:02 +0000
+
+- **[Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-39a1)**
   *<h1>
   
   
   Steal the Productivity System I Taught to 6,642 Googlers
 </h1>
 
-<p>Jeff Su breaks down his CORE workflow—a simple, four-step system (Capture everything, Organize with minimal friction, Re...*
-  📅 Fri, 24 Oct 2025 06:06:17 +0000
+<p>Jeff Su spills the exact CORE workflow he trained over 6,600 Googlers on:  </p>
 
-- **[CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-cgm)**
-  *<h1>
-  
-  
-  tl;dr
-</h1>
-
-<p>CinemaSins just dropped a video tearing into every Saw movie “sins” style—spotlighting all the plot holes, weird logic flips and cheesy one-liners you never noticed.  </p>...*
-  📅 Fri, 24 Oct 2025 06:00:43 +0000
+<ol>
+<li>
+<strong>Capture</strong> ever...*
+  📅 Fri, 24 Oct 2025 12:08:46 +0000
 
 </details>
 
@@ -129,7 +134,7 @@
 
 ### 📈 Daily Trending
 
-- **[saygin17crow/LiveOverflowMod](https://github.com/saygin17crow/LiveOverflowMod)** ⭐ 71
+- **[saygin17crow/LiveOverflowMod](https://github.com/saygin17crow/LiveOverflowMod)** ⭐ 70
   ![Java](https://img.shields.io/badge/-Java-orange)
   A Minecraft hacked-client for the LiveOverflow Server. Contains various hacks for the challenges on the server, and some utilities.
 
@@ -137,23 +142,23 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Cross-platform library for binary debugging and memory hacking written in Rust
 
-- **[Caluna123/Dexterion](https://github.com/Caluna123/Dexterion)** ⭐ 65
+- **[Caluna123/Dexterion](https://github.com/Caluna123/Dexterion)** ⭐ 64
   ![C++](https://img.shields.io/badge/-C++-pink)
   External CS2 Cheat
 
-- **[bartek0731/TigoAntiCheat](https://github.com/bartek0731/TigoAntiCheat)** ⭐ 58
+- **[MeisterQuerulant/Valthrun](https://github.com/MeisterQuerulant/Valthrun)** ⭐ 59
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  Valthrunner's Script 🚀 - The script for Valthrun.
+
+- **[bartek0731/TigoAntiCheat](https://github.com/bartek0731/TigoAntiCheat)** ⭐ 57
   ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
   A resource that detects different types of cheating
 
-- **[ROTSHAK101/RustCheatersDataPipeline](https://github.com/ROTSHAK101/RustCheatersDataPipeline)** ⭐ 57
+- **[ROTSHAK101/RustCheatersDataPipeline](https://github.com/ROTSHAK101/RustCheatersDataPipeline)** ⭐ 56
   ![Python](https://img.shields.io/badge/-Python-blue)
   Data pipeline that scrapes Rust cheater Steam profiles
 
-- **[SmartPiglet/cod-warzone-cheat](https://github.com/SmartPiglet/cod-warzone-cheat)** ⭐ 50
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match.
-
-- **[srebrina/BlackOut](https://github.com/srebrina/BlackOut)** ⭐ 45
+- **[srebrina/BlackOut](https://github.com/srebrina/BlackOut)** ⭐ 46
   ![Java](https://img.shields.io/badge/-Java-orange)
   Plugin for meteor client adding more features mostly focusing on CPVP
 
@@ -163,11 +168,11 @@
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,297
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,443
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 939
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 953
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
@@ -175,19 +180,19 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 498
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 503
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 472
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Curate, Annotate, and Manage Your Data in LightlyStudio.
-
-- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 465
+- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 477
   ![Python](https://img.shields.io/badge/-Python-blue)
   Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 448
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 475
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Curate, Annotate, and Manage Your Data in LightlyStudio.
+
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 459
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A quick vibe coded app for deepseek OCR
 
@@ -197,35 +202,35 @@
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 31,793
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 31,918
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 15,883
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,575
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,124
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,136
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,618
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,645
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,120
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,130
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,629
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,641
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,191
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,200
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,766
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,773
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -495,59 +500,59 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟡 Learning |
 | Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🟡 Learning |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
