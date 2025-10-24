@@ -46,87 +46,74 @@
 
 ### 📑 Hacker News
 
+- **[Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)**
+  *<p>Article URL: <a href="https://flamedfury.com/posts/disable-ai-in-firefox/">https://flamedfury.com/posts/disable-ai-in-firefox/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Fri, 24 Oct 2025 17:11:58 +0000
+
+- **[The Mainframe Six (2022)](https://arcanesciences.com/os2200/app1.html)**
+  *<p>Article URL: <a href="https://arcanesciences.com/os2200/app1.html">https://arcanesciences.com/os2200/app1.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45695956">https...*
+  📅 Fri, 24 Oct 2025 16:01:23 +0000
+
+- **[Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)**
+  *<p>Article URL: <a href="https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update">https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Fri, 24 Oct 2025 14:03:22 +0000
+
+- **[A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)**
+  *<p>Article URL: <a href="https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge">https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 24 Oct 2025 12:54:47 +0000
+
+- **[Typst 0.14](https://typst.app/blog/2025/typst-0.14/)**
+  *<p>Article URL: <a href="https://typst.app/blog/2025/typst-0.14/">https://typst.app/blog/2025/typst-0.14/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693978">https://news....*
+  📅 Fri, 24 Oct 2025 12:33:10 +0000
+
 - **[Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)**
   *<p>Article URL: <a href="https://padlet.jobs">https://padlet.jobs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693743">https://news.ycombinator.com/item?id=45693743</a></p>...*
   📅 Fri, 24 Oct 2025 12:01:08 +0000
 
-- **[ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)**
-  *<p>Article URL: <a href="https://arxiv.org/abs/2510.02361">https://arxiv.org/abs/2510.02361</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693591">https://news.ycombinator.co...*
-  📅 Fri, 24 Oct 2025 11:41:26 +0000
-
-- **[Bring Your 3D Models to Life](https://mesh2motion.org/)**
-  *<p>Article URL: <a href="https://mesh2motion.org/">https://mesh2motion.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693325">https://news.ycombinator.com/item?id=456933...*
-  📅 Fri, 24 Oct 2025 11:01:23 +0000
-
-- **[Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)**
-  *<p>Article URL: <a href="https://github.com/linagora/twake-drive">https://github.com/linagora/twake-drive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45692984">https://news....*
-  📅 Fri, 24 Oct 2025 10:16:25 +0000
-
-- **[Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)**
-  *<p>Article URL: <a href="https://lwn.net/Articles/1041316/">https://lwn.net/Articles/1041316/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45692915">https://news.ycombinator....*
-  📅 Fri, 24 Oct 2025 10:07:34 +0000
-
-- **[Interstellar Mission to a Black Hole](https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/)**
-  *<p>Article URL: <a href="https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/">https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/</a></p>
-<p>C...*
-  📅 Fri, 24 Oct 2025 09:17:24 +0000
-
 ### 📑 TechCrunch
 
-- **[Big tech is paying for Trump’s White House ballroom](https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/)**
-  *Trump's $250 million White House ballroom will be funded in part by big tech companies like Amazon, Apple, Google, Meta, and Microsoft....*
-  📅 Fri, 24 Oct 2025 02:54:46 +0000
+- **[Instagram’s latest feature lets you go back see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/)**
+  *With this new feature, users can go back and find videos they might not have had the chance to save....*
+  📅 Fri, 24 Oct 2025 16:38:02 +0000
 
-- **[With an Intel recovery underway, all eyes turn to its foundry business](https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/)**
-  *Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business....*
-  📅 Fri, 24 Oct 2025 00:09:29 +0000
+- **[Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore](https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/)**
+  *As demand for electricity from data centers grows, Arbor Energy has made its power plant capable of burning natural gas in addition to biomass....*
+  📅 Fri, 24 Oct 2025 16:10:12 +0000
 
-- **[Ford isn’t going to make more F-150 Lightnings for a while](https://techcrunch.com/2025/10/23/ford-isnt-going-to-make-more-f-150-lightnings-for-a-while/)**
-  *Ford is prioritizing its gas and hybrid F-150 trucks instead....*
-  📅 Thu, 23 Oct 2025 23:58:36 +0000
+- **[EC finds Meta and TikTok breached transparency rules under DSA](https://techcrunch.com/2025/10/24/ec-finds-meta-and-tiktok-breached-transparency-rules-under-dsa/)**
+  *The European Commission said on Friday that it has preliminarily found that both companies are not complying with rules of the Digital Services Act (DSA) that mandate them to give researchers adequate...*
+  📅 Fri, 24 Oct 2025 15:58:45 +0000
 
-- **[Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco](https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/)**
-  *Trump said he scrapped plans to send the National Guard into San Francisco after calls from Nvidia’s Jensen Huang and Salesforce’s Marc Benioff. Mayor Daniel Lurie confirmed the plan was canceled....*
-  📅 Thu, 23 Oct 2025 21:04:00 +0000
+- **[TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub and more to host](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/)**
+  *With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon V...*
+  📅 Fri, 24 Oct 2025 15:30:00 +0000
 
-- **[OpenAI buys Sky, an AI interface for Mac](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/)**
-  *OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural language interface for Mac that can view your screen and take actions in your apps....*
-  📅 Thu, 23 Oct 2025 20:53:02 +0000
+- **[The full breakout session agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/)**
+  *The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&#038;A, workflows, and more. Browse the full lineup and register today to save ...*
+  📅 Fri, 24 Oct 2025 15:00:00 +0000
 
-- **[Rivian CEO takes top marketing role in shakeup ahead of R2 launch](https://techcrunch.com/2025/10/23/rivian-ceo-takes-top-marketing-role-in-shakeup-ahead-of-r2-launch/)**
-  *Founder and CEO RJ Scaringe will be wearing yet another hat as the company preps for arguably its most important vehicle launch -- the mass market R2 SUV -- in 2026....*
-  📅 Thu, 23 Oct 2025 20:29:59 +0000
+- **[Automattic files counterclaims against WP Engine in WordPress lawsuit, alleging trademark misuse](https://techcrunch.com/2025/10/24/automattic-files-counterclaims-against-wp-engine-in-wordpress-lawsuit-alleging-trademark-misuse/)**
+  *Automattic has filed counterclaims against WP Engine, alleging that the company — backed by private equity firm Silver Lake — misused WordPress and WooCommerce trademarks, misled users, and undermined...*
+  📅 Fri, 24 Oct 2025 14:57:06 +0000
 
 ### 📑 Dev.to
 
-- **[No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4jdn)**
-  *<h1>
-  
-  
-  The Booth Vol.23 | Trap Draw, Ep 365 – TL;DR
-</h1>
+- **[The Strategic Migration: Transforming a Manual QA Team into an Automation Powerhouse](https://dev.to/mohsen_akbari_ebe53d7cbc2/the-strategic-migration-transforming-a-manual-qa-team-into-an-automation-powerhouse-54mb)**
+  *<p><strong>Introduction</strong><br />
+In today’s fast-paced Agile and DevOps ecosystems, QA teams face a pivotal challenge: how to uphold product quality without slowing down continuous deployment. T...*
+  📅 Fri, 24 Oct 2025 18:15:30 +0000
 
-<p>Cody and Neil kick off this episode by dishing out “Mea Culpas” (and inviting listeners to do the same), then veer into Neil’s big m...*
-  📅 Fri, 24 Oct 2025 12:10:02 +0000
+- **[Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4oob)**
+  *<p><strong>Steal the Productivity System I Taught to 6,642 Googlers</strong></p>
 
-- **[Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-39a1)**
-  *<h1>
-  
-  
-  Steal the Productivity System I Taught to 6,642 Googlers
-</h1>
-
-<p>Jeff Su spills the exact CORE workflow he trained over 6,600 Googlers on:  </p>
-
-<ol>
-<li>
-<strong>Capture</strong> ever...*
-  📅 Fri, 24 Oct 2025 12:08:46 +0000
+<p>Jeff Su lays out the CORE workflow he taught at Google—Capture every idea immediately, Organize with minimal fricti...*
+  📅 Fri, 24 Oct 2025 18:08:35 +0000
 
 </details>
 
@@ -134,7 +121,7 @@
 
 ### 📈 Daily Trending
 
-- **[saygin17crow/LiveOverflowMod](https://github.com/saygin17crow/LiveOverflowMod)** ⭐ 70
+- **[saygin17crow/LiveOverflowMod](https://github.com/saygin17crow/LiveOverflowMod)** ⭐ 69
   ![Java](https://img.shields.io/badge/-Java-orange)
   A Minecraft hacked-client for the LiveOverflow Server. Contains various hacks for the challenges on the server, and some utilities.
 
@@ -142,95 +129,95 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Cross-platform library for binary debugging and memory hacking written in Rust
 
-- **[Caluna123/Dexterion](https://github.com/Caluna123/Dexterion)** ⭐ 64
+- **[Caluna123/Dexterion](https://github.com/Caluna123/Dexterion)** ⭐ 62
   ![C++](https://img.shields.io/badge/-C++-pink)
   External CS2 Cheat
+
+- **[PYrOogrEvENUs/BSC-MEME-RUSH-BOT](https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT)** ⭐ 60
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain.
 
 - **[MeisterQuerulant/Valthrun](https://github.com/MeisterQuerulant/Valthrun)** ⭐ 59
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   Valthrunner's Script 🚀 - The script for Valthrun.
 
-- **[bartek0731/TigoAntiCheat](https://github.com/bartek0731/TigoAntiCheat)** ⭐ 57
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
-  A resource that detects different types of cheating
+- **[metaverse00/ZeroTrace-Stealer-13-2026](https://github.com/metaverse00/ZeroTrace-Stealer-13-2026)** ⭐ 58
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server.
 
 - **[ROTSHAK101/RustCheatersDataPipeline](https://github.com/ROTSHAK101/RustCheatersDataPipeline)** ⭐ 56
   ![Python](https://img.shields.io/badge/-Python-blue)
   Data pipeline that scrapes Rust cheater Steam profiles
 
-- **[srebrina/BlackOut](https://github.com/srebrina/BlackOut)** ⭐ 46
+- **[nicholass307/ESP_For_PubgMobile](https://github.com/nicholass307/ESP_For_PubgMobile)** ⭐ 56
   ![Java](https://img.shields.io/badge/-Java-orange)
-  Plugin for meteor client adding more features mostly focusing on CPVP
-
-- **[tarekk2/Osiris](https://github.com/tarekk2/Osiris)** ⭐ 43
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
+  🛩Pubg Mobile Hack using Extra Sensory Perception(ESP)🐱‍💻
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,443
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,536
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 953
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 970
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 569
+- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 556
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 503
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 509
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 
-- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 477
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
-
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 475
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 495
   ![Python](https://img.shields.io/badge/-Python-blue)
   Curate, Annotate, and Manage Your Data in LightlyStudio.
 
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 459
+- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 489
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
+
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 466
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A quick vibe coded app for deepseek OCR
 
-- **[setls/HacxGPT](https://github.com/setls/HacxGPT)** ⭐ 421
+- **[mocred/spyder-osint](https://github.com/mocred/spyder-osint)** ⭐ 457
   ![Python](https://img.shields.io/badge/-Python-blue)
-  HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy.
+  An universal OSINT tool.
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 31,918
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,057
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,575
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,703
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,136
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,148
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,645
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,679
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,130
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,136
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,641
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,647
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,200
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,203
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,773
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,777
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -500,29 +487,29 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
@@ -530,28 +517,28 @@ WebAssembly and JIT pipeline o...
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | ⚪ Planned |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | ⚪ Planned |
 
 </details>
