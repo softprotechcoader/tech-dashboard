@@ -46,36 +46,42 @@
 
 ### 📑 Hacker News
 
+- **[Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)**
+  *<p>TLDR: I’m expanding the family of text-splitting Chonky models with new multilingual model.<p>You can learn more about this neural approach in a previous post: <a href="https://news.ycombinator.com...*
+  📅 Sat, 25 Oct 2025 12:01:44 +0000
+
+- **[The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/)**
+  *<p>Article URL: <a href="https://missing.csail.mit.edu/">https://missing.csail.mit.edu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45702736">https://news.ycombinator.com/it...*
+  📅 Sat, 25 Oct 2025 10:36:35 +0000
+
+- **[React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)**
+  *<p>Article URL: <a href="https://backbonenotbad.hyperclay.com/">https://backbonenotbad.hyperclay.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45702558">https://news.ycom...*
+  📅 Sat, 25 Oct 2025 09:43:54 +0000
+
+- **[Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)**
+  *<p>Article URL: <a href="https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174">https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-netwo...*
+  📅 Sat, 25 Oct 2025 06:48:12 +0000
+
+- **[Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)**
+  *<p>Article URL: <a href="https://ftaproject.dev/">https://ftaproject.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45701607">https://news.ycombinator.com/item?id=45701607...*
+  📅 Sat, 25 Oct 2025 05:51:31 +0000
+
 - **[Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)**
   *<p>Article URL: <a href="https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update">https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-io...*
   📅 Sat, 25 Oct 2025 02:31:55 +0000
 
-- **[Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)**
-  *<p>Article URL: <a href="https://www.youtube.com/watch?v=on_sK8KoObo">https://www.youtube.com/watch?v=on_sK8KoObo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700932">https...*
-  📅 Sat, 25 Oct 2025 02:29:31 +0000
-
-- **[Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)**
-  *<p>Article URL: <a href="https://eugeneyan.com/writing/principal/">https://eugeneyan.com/writing/principal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700911">https://new...*
-  📅 Sat, 25 Oct 2025 02:24:30 +0000
-
-- **[Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)**
-  *<p>Article URL: <a href="https://deepagent.abacus.ai">https://deepagent.abacus.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700720">https://news.ycombinator.com/item?id=...*
-  📅 Sat, 25 Oct 2025 01:36:10 +0000
-
-- **[What Is Intelligence? (2024)](https://whatisintelligence.antikythera.org/)**
-  *<p>Article URL: <a href="https://whatisintelligence.antikythera.org/">https://whatisintelligence.antikythera.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700663">https...*
-  📅 Sat, 25 Oct 2025 01:21:43 +0000
-
-- **[Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)**
-  *<p>Article URL: <a href="https://rmitz.org/carmack.on.operating.systems.html">https://rmitz.org/carmack.on.operating.systems.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Sat, 25 Oct 2025 00:59:23 +0000
-
 ### 📑 TechCrunch
+
+- **[The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)**
+  *New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks....*
+  📅 Sat, 25 Oct 2025 12:00:00 +0000
+
+- **[Musk’s ad chief at X departs after just 10 months](https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/)**
+  *The revolving door reportedly reflects deeper tensions....*
+  📅 Sat, 25 Oct 2025 06:46:38 +0000
 
 - **[A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/)**
   *A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024....*
@@ -93,23 +99,15 @@
   *With this new feature, users can go back and find videos they might not have had the chance to save....*
   📅 Fri, 24 Oct 2025 16:38:02 +0000
 
-- **[Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore](https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/)**
-  *As demand for electricity from data centers grows, Arbor Energy has made its power plant capable of burning natural gas in addition to biomass....*
-  📅 Fri, 24 Oct 2025 16:10:12 +0000
-
-- **[EC finds Meta and TikTok breached transparency rules under DSA](https://techcrunch.com/2025/10/24/ec-finds-meta-and-tiktok-breached-transparency-rules-under-dsa/)**
-  *The European Commission said on Friday that it has preliminarily found that both companies are not complying with rules of the Digital Services Act (DSA) that mandate them to give researchers adequate...*
-  📅 Fri, 24 Oct 2025 15:58:45 +0000
-
 ### 📑 Dev.to
 
-- **[Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration](https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd)**
-  *<p>Back in the 1960s, when computers were rare and applications even rarer, the term API quietly entered the scene. It wasn't about the web or microservices back then; it was about getting one piece o...*
-  📅 Sat, 25 Oct 2025 06:09:16 +0000
+- **[NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8)**
+  *<p>Tyshawn Sorey spent a whirlwind weekend at the Big Ears Festival, but when he finally sat down with Lara Downes in NPR’s makeshift studio, all the hustle melted away into a conversation about the p...*
+  📅 Sat, 25 Oct 2025 12:09:06 +0000
 
-- **[The History of HTTP](https://dev.to/iarchitsharma/the-history-of-http-32ga)**
-  *<p><strong>HTTP (HyperText Transfer Protocol)</strong> is a protocol used for fetching resources such as HTML documents. Its primary function is to enable a conversation between a client (like a web b...*
-  📅 Sat, 25 Oct 2025 06:06:47 +0000
+- **[Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c)**
+  *<p>I challenged Tom, the head pro at Heswall Golf Club, to a £1,000 showdown on his own turf—huge thanks to Titleist for backing this series and championing club pros across the UK. Plus, they’re putt...*
+  📅 Sat, 25 Oct 2025 12:05:27 +0000
 
 </details>
 
@@ -151,15 +149,19 @@
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,612
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,647
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,003
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,031
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-- **[mocred/spyder-osint](https://github.com/mocred/spyder-osint)** ⭐ 563
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 664
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A quick vibe coded app for deepseek OCR
+
+- **[mocred/spyder-osint](https://github.com/mocred/spyder-osint)** ⭐ 564
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal OSINT tool.
 
@@ -167,53 +169,49 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 542
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A quick vibe coded app for deepseek OCR
-
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 528
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Curate, Annotate, and Manage Your Data in LightlyStudio.
-
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 516
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
-
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 515
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 536
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Workflow DevKit: Build durable, resilient, and observable workflows
 
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 534
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Curate, Annotate, and Manage Your Data in LightlyStudio.
+
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 530
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
+
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,226
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,325
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,858
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,946
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,149
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,156
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,715
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,734
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,153
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,166
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,651
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,653
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,214
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,219
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,790
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,793
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -483,59 +481,59 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🔴 Beginner |
 | Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
