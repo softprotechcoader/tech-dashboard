@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Vibe Coding in the 90s](https://ssg.dev/vibe-coding-in-the-90s/)**
-  *<p>Article URL: <a href="https://ssg.dev/vibe-coding-in-the-90s/">https://ssg.dev/vibe-coding-in-the-90s/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700266">https://news....*
-  📅 Fri, 24 Oct 2025 23:53:27 +0000
+- **[Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)**
+  *<p>Article URL: <a href="https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update">https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-io...*
+  📅 Sat, 25 Oct 2025 02:31:55 +0000
 
-- **[New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)**
-  *<p>Article URL: <a href="https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151">https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-...*
-  📅 Fri, 24 Oct 2025 22:23:50 +0000
+- **[Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)**
+  *<p>Article URL: <a href="https://www.youtube.com/watch?v=on_sK8KoObo">https://www.youtube.com/watch?v=on_sK8KoObo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700932">https...*
+  📅 Sat, 25 Oct 2025 02:29:31 +0000
 
-- **[Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer">https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer</a></p>
-<p>Comme...*
-  📅 Fri, 24 Oct 2025 21:00:27 +0000
+- **[Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)**
+  *<p>Article URL: <a href="https://eugeneyan.com/writing/principal/">https://eugeneyan.com/writing/principal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700911">https://new...*
+  📅 Sat, 25 Oct 2025 02:24:30 +0000
 
-- **[MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)**
-  *<p>Article URL: <a href="https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/">https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harm...*
-  📅 Fri, 24 Oct 2025 20:48:46 +0000
+- **[Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)**
+  *<p>Article URL: <a href="https://deepagent.abacus.ai">https://deepagent.abacus.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700720">https://news.ycombinator.com/item?id=...*
+  📅 Sat, 25 Oct 2025 01:36:10 +0000
 
-- **[TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)**
-  *<p>Article URL: <a href="https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software">https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simp...*
-  📅 Fri, 24 Oct 2025 20:25:58 +0000
+- **[What Is Intelligence? (2024)](https://whatisintelligence.antikythera.org/)**
+  *<p>Article URL: <a href="https://whatisintelligence.antikythera.org/">https://whatisintelligence.antikythera.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700663">https...*
+  📅 Sat, 25 Oct 2025 01:21:43 +0000
 
-- **[The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)**
-  *<p>Article URL: <a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/">https://www.swift.org/blog/nightly-swift-sdk-for-android/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Fri, 24 Oct 2025 20:06:52 +0000
+- **[Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)**
+  *<p>Article URL: <a href="https://rmitz.org/carmack.on.operating.systems.html">https://rmitz.org/carmack.on.operating.systems.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Sat, 25 Oct 2025 00:59:23 +0000
 
 ### 📑 TechCrunch
 
@@ -101,19 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)**
-  *<h2>
-  
-  
-  Introduction: The Evolution of Analytics Architecture
-</h2>
+- **[Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration](https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd)**
+  *<p>Back in the 1960s, when computers were rare and applications even rarer, the term API quietly entered the scene. It wasn't about the web or microservices back then; it was about getting one piece o...*
+  📅 Sat, 25 Oct 2025 06:09:16 +0000
 
-<p>The modern analytics landscape demands a stack that can handle petabyte-scale data, deliver sub-second query performance, a...*
-  📅 Sat, 25 Oct 2025 00:45:40 +0000
-
-- **[My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)**
-  *<p>I'm now starting to look at the Go language seriously, whereas before I just thought it was an "Indy" language. In the past month, I've had the chance to work with a team that uses Go, which led me...*
-  📅 Sat, 25 Oct 2025 00:39:44 +0000
+- **[The History of HTTP](https://dev.to/iarchitsharma/the-history-of-http-32ga)**
+  *<p><strong>HTTP (HyperText Transfer Protocol)</strong> is a protocol used for fetching resources such as HTML documents. Its primary function is to enable a conversation between a client (like a web b...*
+  📅 Sat, 25 Oct 2025 06:06:47 +0000
 
 </details>
 
@@ -121,45 +117,45 @@
 
 ### 📈 Daily Trending
 
-- **[lawlietu0/EnigmaCracker](https://github.com/lawlietu0/EnigmaCracker)** ⭐ 42
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  EnigmaCracker is a tool for brute forcing crypto wallets
+- **[Nick-p-w/nimrod-stealer](https://github.com/Nick-p-w/nimrod-stealer)** ⭐ 68
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Powerful Token Stealer! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer
 
-- **[Ailhamdev/dynamic-clicker](https://github.com/Ailhamdev/dynamic-clicker)** ⭐ 34
+- **[DPMENU/Vert-Stealer](https://github.com/DPMENU/Vert-Stealer)** ⭐ 59
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  VERT-STEALER Token Stealer, Discord Token Grabber , Discord Injection , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
+
+- **[Ailhamdev/dynamic-clicker](https://github.com/Ailhamdev/dynamic-clicker)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Super powerful autoclicker with 10 operating modes, perfect for gaming and various tasks.
 
-- **[Alex-Marco18/secure-vault](https://github.com/Alex-Marco18/secure-vault)** ⭐ 33
+- **[hornet67/mt5-trader](https://github.com/hornet67/mt5-trader)** ⭐ 47
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  MetaTrader 5 (MT5) is a powerful, multi-asset trading platform that offers advanced trading tools, a wide range of markets, and a user-friendly interface, making it ideal for both novice and experienced traders.
+
+- **[Alex-Marco18/secure-vault](https://github.com/Alex-Marco18/secure-vault)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A robust and user-friendly password manager based on KeePass, ensuring secure storage and easy access to your credentials.
 
-- **[Aniket0723/disk-insight](https://github.com/Aniket0723/disk-insight)** ⭐ 33
+- **[elwendys/creative-design](https://github.com/elwendys/creative-design)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A comprehensive disk health monitoring tool inspired by CrystalDiskInfo, providing detailed insights into your storage devices.
+  CorelDRAW Graphics Suite 2025 is a comprehensive graphic design software that offers advanced tools for vector illustration, page layout, photo editing, and typography, providing a powerful and versatile solution for professional designers.
 
-- **[Axel-Nahum/stellar-system](https://github.com/Axel-Nahum/stellar-system)** ⭐ 33
+- **[hugomatillaneira-sys/profit-trailer](https://github.com/hugomatillaneira-sys/profit-trailer)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Microsoft Windows Activator is a lightweight utility that helps users check and activate their Windows license quickly and easily, ensuring their system runs smoothly and remains fully verified.
+  ProfitTrailer is a sophisticated and highly customizable cryptocurrency trading bot designed to help traders automate their strategies and maximize profits in the volatile crypto markets. It offers a wide range of features, including backtesting, paper trading, and a vast library of pre-built strategies, making it suitable for both novice and exper
 
-- **[ChilimanTube/melodic-haven](https://github.com/ChilimanTube/melodic-haven)** ⭐ 29
+- **[ChristianLucero/creative-vegas](https://github.com/ChristianLucero/creative-vegas)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Cracked Spotify version free and ready to use.
-
-- **[vmendi/web-scrapping-agent](https://github.com/vmendi/web-scrapping-agent)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[CRT-Dev21/fullstack-microservices-video-platform](https://github.com/CRT-Dev21/fullstack-microservices-video-platform)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Full-Stack Microservices Video Platform using Spring Boot, Angular, Kafka, and FFmpeg for HLS transcoding and streaming.
+  MAGIX VEGAS Pro 2025 is a powerful video editing software designed for content creators, offering an all-in-one environment for professional video, audio, and Blu-ray Disc creation with advanced features and an intuitive interface.
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,579
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,612
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 985
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,003
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
@@ -167,45 +163,45 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal OSINT tool.
 
-- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 545
+- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 546
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 522
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 542
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A quick vibe coded app for deepseek OCR
+
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 528
   ![Python](https://img.shields.io/badge/-Python-blue)
   Curate, Annotate, and Manage Your Data in LightlyStudio.
 
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 514
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 516
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 
-- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 496
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
-
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 488
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 515
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Workflow DevKit: Build durable, resilient, and observable workflows
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,153
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,226
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,780
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,858
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,144
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,149
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,704
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,715
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,146
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,153
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
@@ -213,11 +209,11 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,206
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,214
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,786
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,790
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -487,59 +483,59 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
