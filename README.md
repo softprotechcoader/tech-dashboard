@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 24, 2025-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October 25, 2025-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,39 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/)**
-  *<p>Article URL: <a href="https://flamedfury.com/posts/disable-ai-in-firefox/">https://flamedfury.com/posts/disable-ai-in-firefox/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 24 Oct 2025 17:11:58 +0000
+- **[Vibe Coding in the 90s](https://ssg.dev/vibe-coding-in-the-90s/)**
+  *<p>Article URL: <a href="https://ssg.dev/vibe-coding-in-the-90s/">https://ssg.dev/vibe-coding-in-the-90s/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45700266">https://news....*
+  📅 Fri, 24 Oct 2025 23:53:27 +0000
 
-- **[The Mainframe Six (2022)](https://arcanesciences.com/os2200/app1.html)**
-  *<p>Article URL: <a href="https://arcanesciences.com/os2200/app1.html">https://arcanesciences.com/os2200/app1.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45695956">https...*
-  📅 Fri, 24 Oct 2025 16:01:23 +0000
+- **[New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)**
+  *<p>Article URL: <a href="https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151">https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-...*
+  📅 Fri, 24 Oct 2025 22:23:50 +0000
 
-- **[Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)**
-  *<p>Article URL: <a href="https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update">https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Fri, 24 Oct 2025 14:03:22 +0000
+- **[Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer">https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer</a></p>
+<p>Comme...*
+  📅 Fri, 24 Oct 2025 21:00:27 +0000
 
-- **[A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)**
-  *<p>Article URL: <a href="https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge">https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Fri, 24 Oct 2025 12:54:47 +0000
+- **[MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)**
+  *<p>Article URL: <a href="https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/">https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harm...*
+  📅 Fri, 24 Oct 2025 20:48:46 +0000
 
-- **[Typst 0.14](https://typst.app/blog/2025/typst-0.14/)**
-  *<p>Article URL: <a href="https://typst.app/blog/2025/typst-0.14/">https://typst.app/blog/2025/typst-0.14/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693978">https://news....*
-  📅 Fri, 24 Oct 2025 12:33:10 +0000
+- **[TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)**
+  *<p>Article URL: <a href="https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software">https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simp...*
+  📅 Fri, 24 Oct 2025 20:25:58 +0000
 
-- **[Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)**
-  *<p>Article URL: <a href="https://padlet.jobs">https://padlet.jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45693743">https://news.ycombinator.com/item?id=45693743</a></p>...*
-  📅 Fri, 24 Oct 2025 12:01:08 +0000
+- **[The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)**
+  *<p>Article URL: <a href="https://www.swift.org/blog/nightly-swift-sdk-for-android/">https://www.swift.org/blog/nightly-swift-sdk-for-android/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 24 Oct 2025 20:06:52 +0000
 
 ### 📑 TechCrunch
 
-- **[Instagram’s latest feature lets you go back see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/)**
+- **[A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/)**
+  *A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024....*
+  📅 Fri, 24 Oct 2025 19:55:31 +0000
+
+- **[How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/)**
+  *Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT....*
+  📅 Fri, 24 Oct 2025 19:08:10 +0000
+
+- **[The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)**
+  *The browser wars are heating up again, this time with AI in the driver’s seat.&#160; OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language, and even...*
+  📅 Fri, 24 Oct 2025 19:00:00 +0000
+
+- **[Instagram’s latest feature lets you go back to see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/)**
   *With this new feature, users can go back and find videos they might not have had the chance to save....*
   📅 Fri, 24 Oct 2025 16:38:02 +0000
 
@@ -90,30 +99,21 @@
   *The European Commission said on Friday that it has preliminarily found that both companies are not complying with rules of the Digital Services Act (DSA) that mandate them to give researchers adequate...*
   📅 Fri, 24 Oct 2025 15:58:45 +0000
 
-- **[TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub and more to host](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/)**
-  *With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon V...*
-  📅 Fri, 24 Oct 2025 15:30:00 +0000
-
-- **[The full breakout session agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/)**
-  *The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&#038;A, workflows, and more. Browse the full lineup and register today to save ...*
-  📅 Fri, 24 Oct 2025 15:00:00 +0000
-
-- **[Automattic files counterclaims against WP Engine in WordPress lawsuit, alleging trademark misuse](https://techcrunch.com/2025/10/24/automattic-files-counterclaims-against-wp-engine-in-wordpress-lawsuit-alleging-trademark-misuse/)**
-  *Automattic has filed counterclaims against WP Engine, alleging that the company — backed by private equity firm Silver Lake — misused WordPress and WooCommerce trademarks, misled users, and undermined...*
-  📅 Fri, 24 Oct 2025 14:57:06 +0000
-
 ### 📑 Dev.to
 
-- **[The Strategic Migration: Transforming a Manual QA Team into an Automation Powerhouse](https://dev.to/mohsen_akbari_ebe53d7cbc2/the-strategic-migration-transforming-a-manual-qa-team-into-an-automation-powerhouse-54mb)**
-  *<p><strong>Introduction</strong><br />
-In today’s fast-paced Agile and DevOps ecosystems, QA teams face a pivotal challenge: how to uphold product quality without slowing down continuous deployment. T...*
-  📅 Fri, 24 Oct 2025 18:15:30 +0000
+- **[Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)**
+  *<h2>
+  
+  
+  Introduction: The Evolution of Analytics Architecture
+</h2>
 
-- **[Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4oob)**
-  *<p><strong>Steal the Productivity System I Taught to 6,642 Googlers</strong></p>
+<p>The modern analytics landscape demands a stack that can handle petabyte-scale data, deliver sub-second query performance, a...*
+  📅 Sat, 25 Oct 2025 00:45:40 +0000
 
-<p>Jeff Su lays out the CORE workflow he taught at Google—Capture every idea immediately, Organize with minimal fricti...*
-  📅 Fri, 24 Oct 2025 18:08:35 +0000
+- **[My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)**
+  *<p>I'm now starting to look at the Go language seriously, whereas before I just thought it was an "Indy" language. In the past month, I've had the chance to work with a team that uses Go, which led me...*
+  📅 Sat, 25 Oct 2025 00:39:44 +0000
 
 </details>
 
@@ -121,103 +121,103 @@ In today’s fast-paced Agile and DevOps ecosystems, QA teams face a pivotal cha
 
 ### 📈 Daily Trending
 
-- **[saygin17crow/LiveOverflowMod](https://github.com/saygin17crow/LiveOverflowMod)** ⭐ 69
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  A Minecraft hacked-client for the LiveOverflow Server. Contains various hacks for the challenges on the server, and some utilities.
-
-- **[gobvug/udbg](https://github.com/gobvug/udbg)** ⭐ 66
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Cross-platform library for binary debugging and memory hacking written in Rust
-
-- **[Caluna123/Dexterion](https://github.com/Caluna123/Dexterion)** ⭐ 62
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  External CS2 Cheat
-
-- **[PYrOogrEvENUs/BSC-MEME-RUSH-BOT](https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT)** ⭐ 60
+- **[lawlietu0/EnigmaCracker](https://github.com/lawlietu0/EnigmaCracker)** ⭐ 42
   ![Python](https://img.shields.io/badge/-Python-blue)
-  EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain.
+  EnigmaCracker is a tool for brute forcing crypto wallets
 
-- **[MeisterQuerulant/Valthrun](https://github.com/MeisterQuerulant/Valthrun)** ⭐ 59
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  Valthrunner's Script 🚀 - The script for Valthrun.
+- **[Ailhamdev/dynamic-clicker](https://github.com/Ailhamdev/dynamic-clicker)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Super powerful autoclicker with 10 operating modes, perfect for gaming and various tasks.
 
-- **[metaverse00/ZeroTrace-Stealer-13-2026](https://github.com/metaverse00/ZeroTrace-Stealer-13-2026)** ⭐ 58
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server.
+- **[Alex-Marco18/secure-vault](https://github.com/Alex-Marco18/secure-vault)** ⭐ 33
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A robust and user-friendly password manager based on KeePass, ensuring secure storage and easy access to your credentials.
 
-- **[ROTSHAK101/RustCheatersDataPipeline](https://github.com/ROTSHAK101/RustCheatersDataPipeline)** ⭐ 56
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Data pipeline that scrapes Rust cheater Steam profiles
+- **[Aniket0723/disk-insight](https://github.com/Aniket0723/disk-insight)** ⭐ 33
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A comprehensive disk health monitoring tool inspired by CrystalDiskInfo, providing detailed insights into your storage devices.
 
-- **[nicholass307/ESP_For_PubgMobile](https://github.com/nicholass307/ESP_For_PubgMobile)** ⭐ 56
+- **[Axel-Nahum/stellar-system](https://github.com/Axel-Nahum/stellar-system)** ⭐ 33
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Microsoft Windows Activator is a lightweight utility that helps users check and activate their Windows license quickly and easily, ensuring their system runs smoothly and remains fully verified.
+
+- **[ChilimanTube/melodic-haven](https://github.com/ChilimanTube/melodic-haven)** ⭐ 29
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Cracked Spotify version free and ready to use.
+
+- **[vmendi/web-scrapping-agent](https://github.com/vmendi/web-scrapping-agent)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[CRT-Dev21/fullstack-microservices-video-platform](https://github.com/CRT-Dev21/fullstack-microservices-video-platform)** ⭐ 1
   ![Java](https://img.shields.io/badge/-Java-orange)
-  🛩Pubg Mobile Hack using Extra Sensory Perception(ESP)🐱‍💻
+  Full-Stack Microservices Video Platform using Spring Boot, Angular, Kafka, and FFmpeg for HLS transcoding and streaming.
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,536
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,579
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 970
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 985
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 556
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An advanced cryptocurrency & personal income tax calculator.
-
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 509
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
-
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 495
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Curate, Annotate, and Manage Your Data in LightlyStudio.
-
-- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 489
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
-
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 466
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A quick vibe coded app for deepseek OCR
-
-- **[mocred/spyder-osint](https://github.com/mocred/spyder-osint)** ⭐ 457
+- **[mocred/spyder-osint](https://github.com/mocred/spyder-osint)** ⭐ 563
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal OSINT tool.
 
+- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 545
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  An advanced cryptocurrency & personal income tax calculator.
+
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 522
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Curate, Annotate, and Manage Your Data in LightlyStudio.
+
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 514
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
+
+- **[Katakate/k7](https://github.com/Katakate/k7)** ⭐ 496
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
+
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 488
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Workflow DevKit: Build durable, resilient, and observable workflows
+
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,057
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,153
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,703
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,780
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,148
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,144
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,679
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,704
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,136
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,146
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,647
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,651
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,203
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,206
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,777
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,786
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -488,58 +488,58 @@ WebAssembly and JIT pipeline o...
 | Skill | Status |
 |-------|--------|
 | Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -557,7 +557,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** October 24, 2025
+**Last Updated:** October 25, 2025
 
 Made with ❤️ and automated with GitHub Actions
 
