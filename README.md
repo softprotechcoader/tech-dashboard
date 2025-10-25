@@ -46,34 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1)**
-  *<p>TLDR: I’m expanding the family of text-splitting Chonky models with new multilingual model.<p>You can learn more about this neural approach in a previous post: <a href="https://news.ycombinator.com...*
-  📅 Sat, 25 Oct 2025 12:01:44 +0000
+- **[Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised)**
+  *<p>Article URL: <a href="https://libera.chat/news/advised">https://libera.chat/news/advised</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45705381">https://news.ycombinator.co...*
+  📅 Sat, 25 Oct 2025 17:07:40 +0000
 
-- **[The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/)**
-  *<p>Article URL: <a href="https://missing.csail.mit.edu/">https://missing.csail.mit.edu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45702736">https://news.ycombinator.com/it...*
-  📅 Sat, 25 Oct 2025 10:36:35 +0000
+- **[Armed police handcuff teen after AI mistakes chip bag for gun in Baltimore](https://www.bbc.com/news/articles/cgjdlx92lylo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/cgjdlx92lylo">https://www.bbc.com/news/articles/cgjdlx92lylo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45705250"...*
+  📅 Sat, 25 Oct 2025 16:48:16 +0000
 
-- **[React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)**
-  *<p>Article URL: <a href="https://backbonenotbad.hyperclay.com/">https://backbonenotbad.hyperclay.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45702558">https://news.ycom...*
-  📅 Sat, 25 Oct 2025 09:43:54 +0000
+- **[Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)**
+  *<p>Article URL: <a href="https://rocktumbler.com/tips/rock-tumbler-instructions/">https://rocktumbler.com/tips/rock-tumbler-instructions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 25 Oct 2025 16:32:40 +0000
 
-- **[Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)**
-  *<p>Article URL: <a href="https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174">https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-netwo...*
-  📅 Sat, 25 Oct 2025 06:48:12 +0000
+- **[DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)**
+  *<p>Article URL: <a href="https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army">https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army<...*
+  📅 Sat, 25 Oct 2025 13:33:57 +0000
 
-- **[Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/)**
-  *<p>Article URL: <a href="https://ftaproject.dev/">https://ftaproject.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45701607">https://news.ycombinator.com/item?id=45701607...*
-  📅 Sat, 25 Oct 2025 05:51:31 +0000
+- **[Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)**
+  *<p>Article URL: <a href="https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge">https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge</a></p>
+<p>Comments URL: <a href...*
+  📅 Sat, 25 Oct 2025 13:24:14 +0000
 
-- **[Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)**
-  *<p>Article URL: <a href="https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update">https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-io...*
-  📅 Sat, 25 Oct 2025 02:31:55 +0000
+- **[Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)**
+  *<p>Article URL: <a href="https://popovicu.com/posts/making-a-micro-linux-distro/">https://popovicu.com/posts/making-a-micro-linux-distro/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 25 Oct 2025 13:01:39 +0000
 
 ### 📑 TechCrunch
+
+- **[Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)**
+  *OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best....*
+  📅 Sat, 25 Oct 2025 16:51:36 +0000
+
+- **[TikTok robot star Rizzbot gave me the middle finger](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/)**
+  *About a week ago, I woke to a dizzying DM on Instagram — Rizzbot flipping me off. This sent me down a rabbit hole  about humanoids in society....*
+  📅 Sat, 25 Oct 2025 15:00:00 +0000
+
+- **[India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/)**
+  *BlaBlaCar is seeing rapid growth in India, with 20 million passengers expected this year — up 50% from last year....*
+  📅 Sat, 25 Oct 2025 14:00:00 +0000
 
 - **[The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)**
   *New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks....*
@@ -87,27 +101,22 @@
   *A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024....*
   📅 Fri, 24 Oct 2025 19:55:31 +0000
 
-- **[How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/)**
-  *Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT....*
-  📅 Fri, 24 Oct 2025 19:08:10 +0000
-
-- **[The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)**
-  *The browser wars are heating up again, this time with AI in the driver’s seat.&#160; OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language, and even...*
-  📅 Fri, 24 Oct 2025 19:00:00 +0000
-
-- **[Instagram’s latest feature lets you go back to see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/)**
-  *With this new feature, users can go back and find videos they might not have had the chance to save....*
-  📅 Fri, 24 Oct 2025 16:38:02 +0000
-
 ### 📑 Dev.to
 
-- **[NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8)**
-  *<p>Tyshawn Sorey spent a whirlwind weekend at the Big Ears Festival, but when he finally sat down with Lara Downes in NPR’s makeshift studio, all the hustle melted away into a conversation about the p...*
-  📅 Sat, 25 Oct 2025 12:09:06 +0000
+- **[Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc)**
+  *<p><strong>Why 90% of golfers block their irons (and hybrids)</strong><br /><br />
+Danny Maude says it all boils down to five setup/swing sins: your sternum’s in the wrong spot, your forearms aren’t a...*
+  📅 Sat, 25 Oct 2025 18:06:03 +0000
 
-- **[Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c)**
-  *<p>I challenged Tom, the head pro at Heswall Golf Club, to a £1,000 showdown on his own turf—huge thanks to Titleist for backing this series and championing club pros across the UK. Plus, they’re putt...*
-  📅 Sat, 25 Oct 2025 12:05:27 +0000
+- **[Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)**
+  *<h1>
+  
+  
+  The Productivity System I Taught to 6,642 Googlers
+</h1>
+
+<p>Jeff Su’s CORE workflow is a simple, four-step system for handling all your workplace info: Capture anything the moment it pop...*
+  📅 Sat, 25 Oct 2025 18:05:41 +0000
 
 </details>
 
@@ -115,103 +124,103 @@
 
 ### 📈 Daily Trending
 
+- **[TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** ⭐ 118
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
+
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** ⭐ 111
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[rt5555/vryxen](https://github.com/rt5555/vryxen)** ⭐ 77
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Next-Gen Stealer written in Go. Stealing from Chromium-Based & Firefox-Based Browsers, Crypto Wallets and more, from every user on every disk.
+
+- **[anshlambagit/Data_Engineer_Roadmap](https://github.com/anshlambagit/Data_Engineer_Roadmap)** ⭐ 72
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[elishakiseya/Discord-RAT-2.0](https://github.com/elishakiseya/Discord-RAT-2.0)** ⭐ 71
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  Game enhancement tool
+
+- **[NotSteppenwolf/LummaC2-Stealer](https://github.com/NotSteppenwolf/LummaC2-Stealer)** ⭐ 71
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  LummaC2 extracted binaries by reversing & LummaC2 Stealer Analysis
+
 - **[Nick-p-w/nimrod-stealer](https://github.com/Nick-p-w/nimrod-stealer)** ⭐ 68
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Powerful Token Stealer! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer
 
-- **[DPMENU/Vert-Stealer](https://github.com/DPMENU/Vert-Stealer)** ⭐ 59
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  VERT-STEALER Token Stealer, Discord Token Grabber , Discord Injection , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
-
-- **[Ailhamdev/dynamic-clicker](https://github.com/Ailhamdev/dynamic-clicker)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Super powerful autoclicker with 10 operating modes, perfect for gaming and various tasks.
-
-- **[hornet67/mt5-trader](https://github.com/hornet67/mt5-trader)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MetaTrader 5 (MT5) is a powerful, multi-asset trading platform that offers advanced trading tools, a wide range of markets, and a user-friendly interface, making it ideal for both novice and experienced traders.
-
-- **[Alex-Marco18/secure-vault](https://github.com/Alex-Marco18/secure-vault)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A robust and user-friendly password manager based on KeePass, ensuring secure storage and easy access to your credentials.
-
-- **[elwendys/creative-design](https://github.com/elwendys/creative-design)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  CorelDRAW Graphics Suite 2025 is a comprehensive graphic design software that offers advanced tools for vector illustration, page layout, photo editing, and typography, providing a powerful and versatile solution for professional designers.
-
-- **[hugomatillaneira-sys/profit-trailer](https://github.com/hugomatillaneira-sys/profit-trailer)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ProfitTrailer is a sophisticated and highly customizable cryptocurrency trading bot designed to help traders automate their strategies and maximize profits in the volatile crypto markets. It offers a wide range of features, including backtesting, paper trading, and a vast library of pre-built strategies, making it suitable for both novice and exper
-
-- **[ChristianLucero/creative-vegas](https://github.com/ChristianLucero/creative-vegas)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  MAGIX VEGAS Pro 2025 is a powerful video editing software designed for content creators, offering an all-in-one environment for professional video, audio, and Blu-ray Disc creation with advanced features and an intuitive interface.
+- **[NotNintendoSwitch64/Vare-Stealer](https://github.com/NotNintendoSwitch64/Vare-Stealer)** ⭐ 67
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  The Best Stealer, Fully Undetected Discord, Browser, Roblox Stealer, Cookie Password Token Stealer
 
 ### 📈 Weekly Trending
 
-- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,647
+- **[deta/surf](https://github.com/deta/surf)** ⭐ 1,685
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
-- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,031
+- **[anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** ⭐ 1,056
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 664
+- **[rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** ⭐ 730
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A quick vibe coded app for deepseek OCR
+
+- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 567
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Workflow DevKit: Build durable, resilient, and observable workflows
 
 - **[mocred/spyder-osint](https://github.com/mocred/spyder-osint)** ⭐ 564
   ![Python](https://img.shields.io/badge/-Python-blue)
   An universal OSINT tool.
 
-- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 546
+- **[s4myot/crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** ⭐ 544
   ![Python](https://img.shields.io/badge/-Python-blue)
   An advanced cryptocurrency & personal income tax calculator.
 
-- **[vercel/workflow](https://github.com/vercel/workflow)** ⭐ 536
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Workflow DevKit: Build durable, resilient, and observable workflows
-
-- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 534
+- **[lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio)** ⭐ 540
   ![Python](https://img.shields.io/badge/-Python-blue)
   Curate, Annotate, and Manage Your Data in LightlyStudio.
 
-- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 530
+- **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** ⭐ 538
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 
 ### 📈 Monthly Trending
 
-- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,325
+- **[karpathy/nanochat](https://github.com/karpathy/nanochat)** ⭐ 32,419
   ![Python](https://img.shields.io/badge/-Python-blue)
   The best ChatGPT that $100 can buy.
 
-- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 16,946
+- **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** ⭐ 17,052
   ![Python](https://img.shields.io/badge/-Python-blue)
   Contexts Optical Compression
 
-- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,156
+- **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** ⭐ 5,160
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,734
+- **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ 4,766
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Claude Code superpowers: core skills library
 
-- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,166
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** ⭐ 4,180
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,653
+- **[neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)** ⭐ 3,658
   ![Python](https://img.shields.io/badge/-Python-blue)
   On-device TTS model by Neuphonic
 
-- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,219
+- **[pathwaycom/bdh](https://github.com/pathwaycom/bdh)** ⭐ 3,221
   ![Python](https://img.shields.io/badge/-Python-blue)
   Baby Dragon Hatchling (BDH) – Architecture and Code
 
-- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,793
+- **[midudev/jscamp](https://github.com/midudev/jscamp)** ⭐ 2,795
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   Contenido y ejercicios del JSCamp InfoJobs
 
@@ -481,59 +490,59 @@ WebAssembly and JIT pipeline o...
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | ⚪ Planned |
 | JavaScript | 🔴 Beginner |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
