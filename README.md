@@ -46,34 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)**
-  *<p>Article URL: <a href="https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/">https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-...*
-  📅 Fri, 24 Jul 2026 23:13:18 +0000
+- **[Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)**
+  *<p>Article URL: <a href="https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/">https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/</a></p>
+<p>Comme...*
+  📅 Sat, 25 Jul 2026 06:57:14 +0000
 
-- **[SpaceX Starship Flight 13 livestream [video]](https://www.spacex.com/launches/starship-flight-13)**
-  *<p>Article URL: <a href="https://www.spacex.com/launches/starship-flight-13">https://www.spacex.com/launches/starship-flight-13</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Fri, 24 Jul 2026 22:44:38 +0000
+- **[ARC-AGI Leaderboard](https://arcprize.org/leaderboard)**
+  *<p>Article URL: <a href="https://arcprize.org/leaderboard">https://arcprize.org/leaderboard</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49045040">https://news.ycombinator.co...*
+  📅 Sat, 25 Jul 2026 06:31:40 +0000
 
-- **[AIs don't do what you want. This is bad](https://rewardhacking.org)**
-  *<p>Article URL: <a href="https://rewardhacking.org">https://rewardhacking.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49042354">https://news.ycombinator.com/item?id=4904...*
-  📅 Fri, 24 Jul 2026 22:24:08 +0000
+- **[Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)**
+  *<p>Article URL: <a href="https://extinct-media-museum.blog.jp/otemachi/">https://extinct-media-museum.blog.jp/otemachi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49044874"...*
+  📅 Sat, 25 Jul 2026 05:51:27 +0000
 
-- **[Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)**
-  *<p>Article URL: <a href="https://artificialanalysis.ai/models">https://artificialanalysis.ai/models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49040741">https://news.ycombi...*
-  📅 Fri, 24 Jul 2026 19:45:10 +0000
+- **[UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)**
+  *<p>Article URL: <a href="https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities">https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-pre...*
+  📅 Sat, 25 Jul 2026 04:20:21 +0000
 
-- **[Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)**
-  *<p>Article URL: <a href="https://www.dbos.dev/blog/postgres-listen-notify-scalability">https://www.dbos.dev/blog/postgres-listen-notify-scalability</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Fri, 24 Jul 2026 19:05:53 +0000
+- **[Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)**
+  *<p>Article URL: <a href="https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc">https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc</a></p>
+<p>Comment...*
+  📅 Sat, 25 Jul 2026 02:54:36 +0000
 
-- **[Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)**
-  *<p>Article URL: <a href="https://ui.gsxhq.dev/">https://ui.gsxhq.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49039395">https://news.ycombinator.com/item?id=49039395</a>...*
-  📅 Fri, 24 Jul 2026 17:59:08 +0000
+- **[Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)**
+  *<p>Article URL: <a href="https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize">https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize</a></p>
+<p>Comme...*
+  📅 Sat, 25 Jul 2026 01:44:12 +0000
 
 ### 📑 TechCrunch
 
@@ -103,15 +103,20 @@
 
 ### 📑 Dev.to
 
-- **[🐈‍⬛Check Out Catbot's New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)**
-  *<p>This is fun. I absolutely must share.</p>
+- **[TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit](https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3)**
+  *<h1>
+  
+  
+  TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit
+</h1>
 
-<p>So I recently created a desktop pet, called Catbot. Catbot is voice activated and has memory in an obsidian vault that it shares with models of choice ...*
-  📅 Sat, 25 Jul 2026 01:40:56 +0000
+<blockquote>
+<p><em>This article was written with the assistance of AI, under h...*
+  📅 Sat, 25 Jul 2026 07:37:03 +0000
 
-- **[Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja)**
-  *<p>If you work on more than one Java codebase, you've probably lived this: one service targets JDK 17, another needs 21, and there's a legacy app that will only ever build on 11. Every context switch ...*
-  📅 Sat, 25 Jul 2026 01:35:25 +0000
+- **[Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint](https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9)**
+  *<p>As cryptographic research accelerates, the looming threat of cryptanalytically relevant quantum computers (CRQCs) poses a severe risk to traditional public-key cryptography. Standard algorithms lik...*
+  📅 Sat, 25 Jul 2026 07:29:51 +0000
 
 </details>
 
@@ -119,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[Secrtect/slint-windows-mica-template](https://github.com/Secrtect/slint-windows-mica-template)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[iclovemiku/qwen-omni-live](https://github.com/iclovemiku/qwen-omni-live)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A low-latency Qwen Omni live voice demo with native audio routing, reasoning, and streaming TTS.
-
-- **[angelbandera0/flutter_animations_test](https://github.com/angelbandera0/flutter_animations_test)** ⭐ 2
-  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
-  Una app completa para aprender animaciones en Flutter desde básico hasta experto. Incluye 16 lecciones interactivas, demos en vivo, explorador de curvas y playground para experimentar sin código.
-
-- **[GloriousEggroll/steam-add-nonsteam-game](https://github.com/GloriousEggroll/steam-add-nonsteam-game)** ⭐ 2
+- **[Stepha1983/Crypto-Checker](https://github.com/Stepha1983/Crypto-Checker)** ⭐ 27
   ![Python](https://img.shields.io/badge/-Python-blue)
-  CLI tool to add nonsteam games or applications to steam. Does -NOT- require a steam restart
+  Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes proxy rotation, portfolio aggregation, USD valuation, token scanning, and TXT/CSV/JSON export for auditing, research, and analytics.
 
-- **[reyrove/ChaotiColor-Generative-Art](https://github.com/reyrove/ChaotiColor-Generative-Art)** ⭐ 2
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ChaotiColor — Generative cellular automata art with chaotic patterns, vibrant color palettes, and three unique modes. Pure JavaScript, no dependencies. Preview on apparel.
-
-- **[mlazar333/edualloc](https://github.com/mlazar333/edualloc)** ⭐ 2
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  An educational C memory allocator implementing malloc, free, calloc, and realloc over a managed heap.
-
-- **[Mekanbahmanjeh/RLF](https://github.com/Mekanbahmanjeh/RLF)** ⭐ 2
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A C++23 research prototype for non-neural machine learning. Achieves learning via sparse resonant dynamics and phase vectors instead of backpropagation.  RLF is a C++23 multimodal learning system built on complex phase-vectors, sparse mode retrieval, and recurrent settling—with zero neural networks or backpropagation.
-
-- **[blue391723/First](https://github.com/blue391723/First)** ⭐ 1
+- **[mrd-bdsmetro/FiinTrade-Methodology](https://github.com/mrd-bdsmetro/FiinTrade-Methodology)** ⭐ 23
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
+- **[365-Grim-Bear072/Boris-FX-Crack](https://github.com/365-Grim-Bear072/Boris-FX-Crack)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Collection of Boris FX tools, plugins, presets, and scripts for Mocha Pro, Sapphire, and Continuum. Advanced VFX workflows, video editing assets, motion graphics templates, and tracking data for After Effects, Premiere Pro, and DaVinci Resolve.
+
+- **[Cursed-Revenant85/Patreon-VIewer-Tool](https://github.com/Cursed-Revenant85/Patreon-VIewer-Tool)** ⭐ 11
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open-source Patreon Viewer, media downloader, and content archiver. Scrape creator posts, backup data, and manage Patreon API attachments locally
+
+- **[GloriousEggroll/steam-add-nonsteam-game](https://github.com/GloriousEggroll/steam-add-nonsteam-game)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  CLI tool to add nonsteam games or applications to steam. Does -NOT- require a steam restart
+
+- **[iaryasharma/SangamDrive](https://github.com/iaryasharma/SangamDrive)** ⭐ 8
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Unify multiple Google Drive accounts in one secure dashboard—browse, upload, sync, and manage files while they remain in Google Drive.
+
+- **[HeFeicc/monopoly-go-community-hub](https://github.com/HeFeicc/monopoly-go-community-hub)** ⭐ 7
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Documentation, feature planning, architecture notes, and public resources for a Monopoly Go player community platform.
+
+- **[DearLicy/cursor-studio](https://github.com/DearLicy/cursor-studio)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Cursor Studio 是一款 Windows 桌面工具，用于集中管理个人 Cursor 使用体验。你可以在一个界面中管理模型供应商、用量、会话、提示词、MCP、Skills、外观和 Cursor 资料。
+
 ### 📈 Weekly Trending
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 3,441
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 3,722
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** ⭐ 1,445
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** ⭐ 1,554
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
 
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 933
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 944
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
 
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 861
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 868
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
-- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** ⭐ 802
+- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** ⭐ 818
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
 
-- **[pireel/pireel](https://github.com/pireel/pireel)** ⭐ 710
+- **[pireel/pireel](https://github.com/pireel/pireel)** ⭐ 718
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.
 
-- **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** ⭐ 608
+- **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** ⭐ 613
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
 
-- **[CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge)** ⭐ 522
+- **[CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge)** ⭐ 534
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 22,354
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 22,406
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 18,664
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 18,746
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,229
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,259
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,135
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,181
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,764
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** ⭐ 6,765
   ![Python](https://img.shields.io/badge/-Python-blue)
   DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,612
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,625
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,163
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,171
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   autonomous red teaming platform; multi-agent offensive-security meta-harness
 
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,118
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,146
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
@@ -484,38 +489,38 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | 🔴 Beginner |
 
@@ -523,19 +528,19 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
