@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)**
-  *<p>Article URL: <a href="https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices">https://discuss.grapheneos.org/d/40700-grapheneos-protections-agains...*
-  📅 Sun, 26 Jul 2026 05:57:22 +0000
+- **[Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)**
+  *<p>Article URL: <a href="https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c">https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking...*
+  📅 Sun, 26 Jul 2026 12:43:21 +0000
 
-- **[W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)**
-  *<p>Article URL: <a href="https://github.com/mulfyx/w4me-station">https://github.com/mulfyx/w4me-station</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49054697">https://news.yc...*
-  📅 Sun, 26 Jul 2026 04:19:59 +0000
+- **[Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)**
+  *<p>Article URL: <a href="https://english.mapn.ro/">https://english.mapn.ro/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49057248">https://news.ycombinator.com/item?id=490572...*
+  📅 Sun, 26 Jul 2026 12:00:42 +0000
 
-- **[Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)**
-  *<p>Article URL: <a href="https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure">https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pre...*
-  📅 Sun, 26 Jul 2026 03:09:46 +0000
+- **[Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)**
+  *<p>Article URL: <a href="https://code.claude.com/docs/en/data-usage">https://code.claude.com/docs/en/data-usage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49056689">https:/...*
+  📅 Sun, 26 Jul 2026 10:42:00 +0000
 
-- **[JetZero](https://www.jetzero.aero)**
-  *<p>Article URL: <a href="https://www.jetzero.aero">https://www.jetzero.aero</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49054224">https://news.ycombinator.com/item?id=490542...*
-  📅 Sun, 26 Jul 2026 02:55:50 +0000
+- **[No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)**
+  *<p>Article URL: <a href="https://comuniq.xyz/post?t=1439">https://comuniq.xyz/post?t=1439</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49056424">https://news.ycombinator.com/...*
+  📅 Sun, 26 Jul 2026 09:58:11 +0000
 
-- **[An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)**
-  *<p>Article URL: <a href="https://blog.ktz.me/esp32-plane-radar/">https://blog.ktz.me/esp32-plane-radar/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49054107">https://news.yc...*
-  📅 Sun, 26 Jul 2026 02:35:43 +0000
+- **[Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)**
+  *<p>Article URL: <a href="https://etbe.coker.com.au/2026/07/24/systemd-linger/">https://etbe.coker.com.au/2026/07/24/systemd-linger/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sun, 26 Jul 2026 09:43:13 +0000
 
-- **[Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)**
-  *<p>I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as...*
-  📅 Sun, 26 Jul 2026 02:22:26 +0000
+- **[Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)**
+  *<p>Article URL: <a href="https://status.claude.com/incidents/zftg3gqkmv18">https://status.claude.com/incidents/zftg3gqkmv18</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49056...*
+  📅 Sun, 26 Jul 2026 09:18:34 +0000
 
 ### 📑 TechCrunch
 
@@ -101,13 +103,16 @@
 
 ### 📑 Dev.to
 
-- **[The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408)**
-  *<p>When a subscriber disappears from a list, nobody gets an error. The campaign sends, the contact count is one fewer than expected, and unless someone is watching very carefully, you might never know...*
-  📅 Sun, 26 Jul 2026 07:58:51 +0000
+- **[A Deep Dive into Amazon Bedrock Prompt Caching for Claude 4.6](https://dev.to/nitheesh_gaddam_e36ec4aa4/a-deep-dive-into-amazon-bedrock-prompt-caching-for-claude-46-28ob)**
+  *<p>Have you ever noticed that your GenAI applications are spending massive amounts of time and money re-reading the exact same setup text?<br />
+Every time a user asks a short question in a chatbot, t...*
+  📅 Sun, 26 Jul 2026 12:43:47 +0000
 
-- **[Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-242f)**
-  *<p>Most journaling and mental wellness apps require syncing sensitive personal thoughts to cloud servers where they risk being mined or exposed. I wanted a space where user data never leaves the brows...*
-  📅 Sun, 26 Jul 2026 07:54:05 +0000
+- **[🛠️ How to Run a Privacy-First, Browser-Based Stream Downloader (FlowPick) — A Hands-On Tutorial](https://dev.to/flowpick/how-to-run-a-privacy-first-browser-based-stream-downloader-flowpick-a-hands-on-tutorial-ljd)**
+  *<p>Hey folks 👋</p>
+
+<p>If you've ever wanted to save a video lecture, a livestream replay, or a podcast episode for offline listening, you've probably run into the usual options: sketchy "online video...*
+  📅 Sun, 26 Jul 2026 12:34:56 +0000
 
 </details>
 
@@ -115,105 +120,105 @@
 
 ### 📈 Daily Trending
 
+- **[dr-Crimson-Smoke39/Discord-Nitro-Generator](https://github.com/dr-Crimson-Smoke39/Discord-Nitro-Generator)** ⭐ 101
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🚀 Advanced Discord Nitro Generator and Checker (2026). Fast, multi-threaded, and proxy-supported free Discord Nitro gift code generator & checker.
+
+- **[deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow)** ⭐ 54
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.
+
+- **[fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)** ⭐ 48
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[MinhSangGDVN/stars](https://github.com/MinhSangGDVN/stars)** ⭐ 39
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  an empty repository still receives stars? 
+
 - **[SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-](https://github.com/SmellyToes67/Calculate-Minecraft-Coordinates-From-Bedrock-Formation-)** ⭐ 32
   ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)** ⭐ 30
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[god97-Seal972518walk/Claude-Jailbreak-Prompt](https://github.com/god97-Seal972518walk/Claude-Jailbreak-Prompt)** ⭐ 31
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🚀 Ultimate Claude Jailbreak prompts, bypass methods & Anthropic Claude 5 Sonnet / Opus system prompt research repository.
+
+- **[yaoleifly/ai-stock-pool](https://github.com/yaoleifly/ai-stock-pool)** ⭐ 24
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.
 
 - **[BradySec/log-parser](https://github.com/BradySec/log-parser)** ⭐ 22
   ![Python](https://img.shields.io/badge/-Python-blue)
   Zero-dependency Python log parser that detects each line's format for you. Handles Apache/Nginx combined and common, JSON lines, fixed-field and generic app logs in one pass. Normalises timestamps to UTC, writes a CSV, and summarises traffic, error rates, broken links and scanner probes. Fully tested.
 
-- **[yaoleifly/ai-stock-pool](https://github.com/yaoleifly/ai-stock-pool)** ⭐ 16
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.
-
-- **[kerogenesis/InputRedirect](https://github.com/kerogenesis/InputRedirect)** ⭐ 11
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Redirect keyboard, touchpad and mouse input through a real signed driver
-
-- **[kunal12203/swafra](https://github.com/kunal12203/swafra)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[casioreview20-glitch/forge-os](https://github.com/casioreview20-glitch/forge-os)** ⭐ 10
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  The open-source control plane for AI agents — skill routing, context governance, trustworthy execution, evidence, security, and multi-agent orchestration.
-
-- **[cookyman74/llmwiki-harness](https://github.com/cookyman74/llmwiki-harness)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
 ### 📈 Weekly Trending
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 5,551
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 5,959
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 1,048
+- **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** ⭐ 1,132
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** ⭐ 1,064
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
 
-- **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** ⭐ 974
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** ⭐ 896
+- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** ⭐ 915
   ![Python](https://img.shields.io/badge/-Python-blue)
   一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
 
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 887
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** ⭐ 890
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
-- **[pireel/pireel](https://github.com/pireel/pireel)** ⭐ 759
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.
-
-- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 695
+- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 762
   ![Python](https://img.shields.io/badge/-Python-blue)
   An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
 
-- **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** ⭐ 635
+- **[pireel/pireel](https://github.com/pireel/pireel)** ⭐ 761
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.
+
+- **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** ⭐ 643
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 22,595
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 22,654
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 19,229
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 19,353
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,318
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,327
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,322
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,354
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,726
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,757
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 5,551
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 5,959
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,259
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,284
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** ⭐ 5,200
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  autonomous red teaming platform; multi-agent offensive-security meta-harness
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 5,243
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
 ## 🚀 Latest Releases
 
@@ -479,59 +484,59 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
