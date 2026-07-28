@@ -46,36 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)**
-  *<p>Article URL: <a href="https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en">https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&la...*
-  📅 Tue, 28 Jul 2026 07:44:24 +0000
+- **[Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)**
+  *<p>for decades, i have been concerned that the internet was being built around non-fiction, so i built something to show how we could celebrate great fiction on the web.<p>i started with an amazing li...*
+  📅 Tue, 28 Jul 2026 13:16:52 +0000
 
-- **[Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)**
-  *<p>Article URL: <a href="https://arsastronomica.com/">https://arsastronomica.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49079727">https://news.ycombinator.com/item?id=...*
-  📅 Tue, 28 Jul 2026 05:25:34 +0000
+- **[Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)**
+  *<p>Article URL: <a href="https://github.com/ctrlb-hq/ctrlb-decompose">https://github.com/ctrlb-hq/ctrlb-decompose</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49083336">https...*
+  📅 Tue, 28 Jul 2026 13:13:35 +0000
 
-- **[Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)**
-  *<p>Article URL: <a href="https://www.fermionresearch.com/models/neutrino-8b/">https://www.fermionresearch.com/models/neutrino-8b/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Tue, 28 Jul 2026 04:49:54 +0000
+- **[New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)**
+  *<p>Article URL: <a href="https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/">https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-un...*
+  📅 Tue, 28 Jul 2026 13:12:01 +0000
 
-- **[PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)**
-  *<p>Article URL: <a href="https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/">https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/</a></p>
-...*
-  📅 Tue, 28 Jul 2026 04:46:00 +0000
+- **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)**
+  *<p>To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise spec...*
+  📅 Tue, 28 Jul 2026 13:07:14 +0000
 
-- **[The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)**
-  *<p>Article URL: <a href="https://golemui.com/blog/the-age-of-token-efficiency/">https://golemui.com/blog/the-age-of-token-efficiency/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Tue, 28 Jul 2026 03:56:08 +0000
+- **[What AI developers could learn from Charles Bukowski?](https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski)**
+  *<p>Article URL: <a href="https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski">https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski</a></p>
+<p>Comments URL: <a href...*
+  📅 Tue, 28 Jul 2026 13:00:12 +0000
 
-- **[Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)**
-  *<p>Article URL: <a href="https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/">https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/</a></p>
-<p>Comments URL:...*
-  📅 Tue, 28 Jul 2026 02:37:14 +0000
+- **[Show HN: Segue – Save context in one AI, load it in another by a short handle](https://segue.ai/)**
+  *<p>Article URL: <a href="https://segue.ai/">https://segue.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49082779">https://news.ycombinator.com/item?id=49082779</a></p>
+<p>...*
+  📅 Tue, 28 Jul 2026 12:27:05 +0000
 
 ### 📑 TechCrunch
+
+- **[Recursive Superintelligence signs $410 compute deal with Amazon](https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/)**
+  *Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date....*
+  📅 Tue, 28 Jul 2026 13:19:17 +0000
+
+- **[Granola launches an Apple Watch app](https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/)**
+  *Granola debutes an Apple Watch app for in-person notetaking...*
+  📅 Tue, 28 Jul 2026 13:00:00 +0000
 
 - **[Lyft and Baidu enter London’s robotaxi battleground as testing begins](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/)**
   *Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025....*
@@ -93,30 +100,16 @@
   *Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says....*
   📅 Mon, 27 Jul 2026 21:17:11 +0000
 
-- **[Thea Energy lands $20M federal grant to build its magnets for fusion reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/)**
-  *Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets....*
-  📅 Mon, 27 Jul 2026 20:40:12 +0000
-
-- **[As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube](https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/)**
-  *The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform....*
-  📅 Mon, 27 Jul 2026 20:40:00 +0000
-
 ### 📑 Dev.to
 
-- **["I built a Python compiler that runs in browser using WebAssembly"](https://dev.to/shrirang_8770f57b6607952a/i-built-a-python-compiler-that-runs-in-browser-using-webassembly-26if)**
-  *<p>"I recently built PyPlayground — <br />
-a free online Python compiler.</p>
+- **[OpenAI Expands GPT-Live ChatGPT Voice to Enterprise Workspaces Worldwide](https://dev.to/alifar/openai-expands-gpt-live-chatgpt-voice-to-enterprise-workspaces-worldwide-1nme)**
+  *<p>OpenAI has expanded <a href="https://scalevise.com/resources/chatgpt-voice-gpt-live-desktop/" rel="noopener noreferrer"><strong>GPT-Live in ChatGPT Voice</strong></a> to Edu, Business, and Enterpri...*
+  📅 Tue, 28 Jul 2026 13:40:43 +0000
 
-<p>The interesting part is it runs <br />
-Python 3.12 entirely in the browser <br />
-using Pyodide WebAssembly — no <br /...*
-  📅 Tue, 28 Jul 2026 08:10:46 +0000
-
-- **[Did it check, or did it guess? Testing a tool whose output is written by an LLM](https://dev.to/dragosbln/did-it-check-or-did-it-guess-testing-a-tool-whose-output-is-written-by-an-llm-1i4c)**
-  *<p>My first AI tool was ready, and in typical AI-era fashion, I rushed to publish it. After all, it worked. Or at least when I ran it, the output looked right to me.</p>
-
-<p>But one scenario kept haun...*
-  📅 Tue, 28 Jul 2026 08:10:31 +0000
+- **[The Middelmen (Ep-3 of The 0$ Cloud)](https://dev.to/adhithyan_b_5d2daadc216e4/the-middelmen-ep-3-of-the-0-cloud-268m)**
+  *<p>It turns out the internet is full of middlemen. Some forward requests, some establish trust, and some simply make communication possible. I learned about two of those middlemen: Nginx and SSH.</p>
+...*
+  📅 Tue, 28 Jul 2026 13:40:32 +0000
 
 </details>
 
@@ -124,103 +117,103 @@ using Pyodide WebAssembly — no <br /...*
 
 ### 📈 Daily Trending
 
-- **[harinishrisaravanan/Polllu-Sence](https://github.com/harinishrisaravanan/Polllu-Sence)** ⭐ 19
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
-  PolluSense is an AI-powered environmental monitoring system designed to identify pollution sources and forecast Air Quality Index (AQI) levels for the next 24–72 hours. By integrating real-time air quality, weather, and satellite data, the system provides accurate predictions, health alerts, and actionable insights to help citizens and authorities.
+- **[Onyx-Phase43-lol/Any-Unlock](https://github.com/Onyx-Phase43-lol/Any-Unlock)** ⭐ 110
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  AnyUnlock — free iPhone unlocker tool. Bypass iCloud Activation Lock, unlock iPhone screen passcode, remove Apple ID, MDM bypass, and recover iTunes backup password. Free download AnyUnlock full version guide, open-source scripts, and alternatives for iOS 15, iOS 16, iOS 17, and iOS 18.
 
-- **[gavamedia/deltafin](https://github.com/gavamedia/deltafin)** ⭐ 13
+- **[Blazing-Rocket-vip77/Cinema-4D-Tool](https://github.com/Blazing-Rocket-vip77/Cinema-4D-Tool)** ⭐ 36
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Maxon Cinema 4D Setup Guide & Activation Solutions. Configure the fully functional version of Cinema 4D for Windows and macOS. Complete environment setup.
+
+- **[624-Mega-Cannon84/Driver-Easy-Pro-utility-tool](https://github.com/624-Mega-Cannon84/Driver-Easy-Pro-utility-tool)** ⭐ 31
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Repository containing the latest deployment files for Driver Easy Pro. Includes step-by-step activation instructions, performance tweaks, and full version configuration.
+
+- **[robbin/wechat-exporter](https://github.com/robbin/wechat-exporter)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Claude Code / Codex skill to export and decrypt WeChat (macOS) chat history into plaintext SQLite databases
+
+- **[rad2-Forge18859710/Filmora-Tools](https://github.com/rad2-Forge18859710/Filmora-Tools)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wondershare Filmora Installer 🚀 Get Filmora video editor full version for Windows & Mac. Free download for video editing with premium effects and elements. Multi-language setup wizard, creative assets guide, and lifetime access. No watermark export.
+
+- **[hot-Pilot11104643/Voicemod-Pro-2026](https://github.com/hot-Pilot11104643/Voicemod-Pro-2026)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  VoiceMod Pro Real-Time Voice Changer & Soundboard. Download free voice modulator for Discord, PC gaming, streaming (OBS, Streamlabs). Change voice to AI, robot, female, or male. Custom sound effects, configurations, and setup guide for seamless integration.
+
+- **[gavamedia/deltafin](https://github.com/gavamedia/deltafin)** ⭐ 21
   ![Python](https://img.shields.io/badge/-Python-blue)
   Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.
 
-- **[nsdkinx/twell](https://github.com/nsdkinx/twell)** ⭐ 9
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  A tiny physics-aware animation engine for remarkably fluid GUIs. Written in single-header C
-
-- **[libing93920/CodexStatus](https://github.com/libing93920/CodexStatus)** ⭐ 8
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  这是一个可以监测Codex、ChatGPT状态的windows端桌面小工具，可以查看重置时间、剩余额度、重置卡过期倒计时以及使用Codex比较关注的额度重置预测，性价比模型推荐等功能。
-
-- **[buluslan/amazon-listing-doctor](https://github.com/buluslan/amazon-listing-doctor)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  亚马逊 Listing 质检+打分 Skill | Amazon listing health-check & scoring (CDQ/A9/COSMO/Alexa) 
-
-- **[ssuixinsuoyu/zede-zero-learning-roadmap](https://github.com/ssuixinsuoyu/zede-zero-learning-roadmap)** ⭐ 7
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  从原点出发，无限逼近真知。目标驱动、证据导向、可验证、可迭代的学习路线规划 Skill。
-
-- **[liujuntao123/get-zlib-link](https://github.com/liujuntao123/get-zlib-link)** ⭐ 7
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Fetch Z-Library official links from Wikipedia and display them. Deployable to Vercel or Cloudflare Pages.
-
-- **[dct-cell/erdos](https://github.com/dct-cell/erdos)** ⭐ 7
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  Proposed solutions to Erdős problems
+- **[Savage-Shadow-sdk73/Boris-FX-Tool](https://github.com/Savage-Shadow-sdk73/Boris-FX-Tool)** ⭐ 20
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Boris FX Sapphire & Continuum 2026 installation guide. Get BorisFX Mocha Pro pre-activated version & Silhouette plugin setup for After Effects, Premiere Pro, DaVinci Resolve. Safe downloader, license activator, serial key fix for Windows & macOS.
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 2,579
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 3,010
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)** ⭐ 1,910
+- **[vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)** ⭐ 1,991
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   TypeScript-to-Native Compiler
 
-- **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** ⭐ 1,857
+- **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** ⭐ 1,965
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)** ⭐ 1,142
+- **[kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)** ⭐ 1,317
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
-- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 1,095
+- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 1,259
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
-- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 958
+- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 974
   ![Python](https://img.shields.io/badge/-Python-blue)
   An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
 
-- **[makecindy/cindy](https://github.com/makecindy/cindy)** ⭐ 930
+- **[makecindy/cindy](https://github.com/makecindy/cindy)** ⭐ 961
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
-- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 676
+- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 720
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
+  MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,123
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,183
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 20,303
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 20,412
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,509
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,549
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 9,421
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 9,797
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,633
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,661
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 7,221
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 7,419
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,908
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,929
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,556
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,577
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
@@ -488,39 +481,39 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
@@ -528,10 +521,10 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
 ### Other
@@ -539,8 +532,8 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
