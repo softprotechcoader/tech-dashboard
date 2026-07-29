@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Learning Rust by writing a Markdown to HTML compiler](https://andreadimatteo.com/md-to-html-compiler.html)**
-  *<p>Hi HN,<p>I'm new to Rust and, after half of `The Rust Programming Language` I decided to delve into a project I would actually use: a markdown to html compiler that actually serves my micro-blog (I...*
-  📅 Wed, 29 Jul 2026 01:04:30 +0000
+- **[More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)**
+  *<p>Article URL: <a href="https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Wed, 29 Jul 2026 04:58:46 +0000
 
-- **[Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]](https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf)**
-  *<p>Article URL: <a href="https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf">https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Wed, 29 Jul 2026 00:44:26 +0000
+- **[Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)**
+  *<p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html">https://www.collabora.com/news-and-blog/news-and-events/cracking-wind...*
+  📅 Wed, 29 Jul 2026 04:30:47 +0000
 
-- **[Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)**
-  *<p>Article URL: <a href="https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html">https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Wed, 29 Jul 2026 00:32:08 +0000
+- **[User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)**
+  *<p>Article URL: <a href="https://www.datagubbe.se/scenegui/">https://www.datagubbe.se/scenegui/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093434">https://news.ycombinato...*
+  📅 Wed, 29 Jul 2026 04:30:36 +0000
 
-- **[The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)**
-  *<p>Article URL: <a href="https://unplannedobsolescence.com/blog/buttons-vs-links/">https://unplannedobsolescence.com/blog/buttons-vs-links/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Wed, 29 Jul 2026 00:12:14 +0000
+- **[Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)**
+  *<p>Article URL: <a href="https://transformer-transformer.github.io/">https://transformer-transformer.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49093232">https:/...*
+  📅 Wed, 29 Jul 2026 03:52:29 +0000
 
-- **[Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/)**
-  *<p>Article URL: <a href="https://www.hubble.md/">https://www.hubble.md/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49091730">https://news.ycombinator.com/item?id=49091730</...*
-  📅 Wed, 29 Jul 2026 00:11:23 +0000
+- **[Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)**
+  *<p>Article URL: <a href="https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/">https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Wed, 29 Jul 2026 02:25:29 +0000
 
-- **[Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](https://studio.academa.ai/)**
-  *<p>Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.<p>We reimplemented Manim with the same Python API, but the implementation undernea...*
-  📅 Wed, 29 Jul 2026 00:07:43 +0000
+- **[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)**
+  *<p>Article URL: <a href="https://learnvector.ai/">https://learnvector.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092499">https://news.ycombinator.com/item?id=49092499...*
+  📅 Wed, 29 Jul 2026 01:49:19 +0000
 
 ### 📑 TechCrunch
 
@@ -102,19 +103,19 @@
 
 ### 📑 Dev.to
 
-- **[React usePrevious Hook: Track Previous State & Props (2026)](https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7)**
-  *<h1>
+- **[Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60)**
+  *<p>A new AI startup called Recursive Superintelligence just committed $410 million to Amazon Web Services for compute capacity — and that number tells you something important about where the AI indust...*
+  📅 Wed, 29 Jul 2026 08:17:24 +0000
+
+- **[Kimi K3: A New Benchmark for Open-Weights Mixture-of-Experts](https://dev.to/pneumetron/kimi-k3-a-new-benchmark-for-open-weights-mixture-of-experts-3fla)**
+  *<h2>
   
   
-  React usePrevious Hook: Track Previous State &amp; Props (2026)
-</h1>
+  What Changed
+</h2>
 
-<p>React gives you the current value of state and props on every render — and no built-in way to ask what the value ...*
-  📅 Wed, 29 Jul 2026 01:35:27 +0000
-
-- **[Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131)**
-  *<p>TikTok's public web endpoints do not always return the page size an application requests. One route may return a small native window, another may underfill a page even though more data exists, and ...*
-  📅 Wed, 29 Jul 2026 01:16:52 +0000
+<p>The release of Kimi K3 represents a significant shift in the landscape of open-weights large language models. With a total parameter count of 2.8 trillion, Kimi K3 ...*
+  📅 Wed, 29 Jul 2026 08:17:03 +0000
 
 </details>
 
@@ -122,103 +123,103 @@
 
 ### 📈 Daily Trending
 
+- **[YaponsRH/yapons](https://github.com/YaponsRH/yapons)** ⭐ 34
+  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
+  yap to earn $YAP on Robinhood Chain
+
+- **[eveacla11/fingertips](https://github.com/eveacla11/fingertips)** ⭐ 28
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Let your AI feel the hesitation in your typing. Rhythm only, never content.
+
+- **[LotusDecoder/zhixin-companion](https://github.com/LotusDecoder/zhixin-companion)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  面向个人自我记录、复盘和认知梳理的伙伴型-提示词及agent配置文件：从具体线索出发，区分事实、感受和解释，在共情的同时保留现实检验。
+
+- **[harinishri2204-cpu/Pollu-Sence](https://github.com/harinishri2204-cpu/Pollu-Sence)** ⭐ 21
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  PolluSense is an AI-driven pollution monitoring and forecasting system designed to identify pollution sources and predict Air Quality Index (AQI) levels using machine learning and deep learning techniques. The platform integrates real-time air quality data.
+
+- **[lvreng/puzzle-vision-simulator](https://github.com/lvreng/puzzle-vision-simulator)** ⭐ 20
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  适配 2026 年全国大学生电子设计竞赛 E 题：1～4 片拼图视觉识别、矩形还原、位姿矩阵与可视化仿真
+
+- **[filipj9/Hermes-Control-Deck](https://github.com/filipj9/Hermes-Control-Deck)** ⭐ 14
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  Hermes Control is a CLI-first, mobile PWA control deck for Hermes WebUI and local Codex CLI. It unifies prompts, streaming, sessions, tasks, runtime status, approvals, reasoning, and STOP through clean adapter boundaries, with phone-ready SSE updates and no Codex Desktop, CDP, or private renderer dependencies.
+
+- **[alphaparkinc/genpark-autonomous-codebase-documentation-indexer-skill](https://github.com/alphaparkinc/genpark-autonomous-codebase-documentation-indexer-skill)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Automated codebase architecture & symbol documentation indexer
+
 - **[alphaparkinc/genpark-launch-readiness-skill](https://github.com/alphaparkinc/genpark-launch-readiness-skill)** ⭐ 9
   ![None](https://img.shields.io/badge/-None-lightgrey)
   AI skill module: genpark-launch-readiness-skill
 
-- **[alphaparkinc/genpark-content-quality-auditor-skill](https://github.com/alphaparkinc/genpark-content-quality-auditor-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI skill module: genpark-content-quality-auditor-skill
-
-- **[alphaparkinc/genpark-competitive-intel-skill](https://github.com/alphaparkinc/genpark-competitive-intel-skill)** ⭐ 9
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AI skill module: genpark-competitive-intel-skill
-
-- **[alphaparkinc/genpark-seo-metadata-generator-skill](https://github.com/alphaparkinc/genpark-seo-metadata-generator-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI skill module: genpark-seo-metadata-generator-skill
-
-- **[alphaparkinc/genpark-user-persona-generator-skill](https://github.com/alphaparkinc/genpark-user-persona-generator-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI skill module: genpark-user-persona-generator-skill
-
-- **[alphaparkinc/genpark-multilingual-copy-skill](https://github.com/alphaparkinc/genpark-multilingual-copy-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI skill module: genpark-multilingual-copy-skill
-
-- **[NewLifeX/RainbowBridge](https://github.com/NewLifeX/RainbowBridge)** ⭐ 4
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Rainbow 通用软路由系统，提供多 WAN 负载均衡、DHCP/DNS 管控、防火墙、VPN 等全场景网络管理功能
-
-- **[isairey/SISMEDICO-FRONTEND](https://github.com/isairey/SISMEDICO-FRONTEND)** ⭐ 4
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  None
-
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 3,442
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 3,740
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** ⭐ 2,065
+- **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** ⭐ 2,137
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 1,753
+- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 1,984
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
-- **[kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)** ⭐ 1,442
+- **[kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)** ⭐ 1,546
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
-- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 991
+- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 1,001
   ![Python](https://img.shields.io/badge/-Python-blue)
   An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
 
-- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 804
+- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 831
   ![Python](https://img.shields.io/badge/-Python-blue)
   Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
-- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 791
+- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 827
   ![Python](https://img.shields.io/badge/-Python-blue)
   MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
 
-- **[fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)** ⭐ 673
+- **[fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)** ⭐ 824
   ![Python](https://img.shields.io/badge/-Python-blue)
   An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,251
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,325
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 20,622
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 20,733
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,574
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,637
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 10,045
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 10,258
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,720
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  AOS Community Edition: the open agent operating system.
-
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 7,652
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 7,846
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,958
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,752
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  AOS Community Edition: the open agent operating system.
+
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 6,965
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,623
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** ⭐ 5,645
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A skill that turn any brand into a scrollable 3D world
 
@@ -488,26 +489,26 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
@@ -515,30 +516,30 @@ Welcome to our newest releaser, [Stewart X Addison](https://github.com/sxa). Fut
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
