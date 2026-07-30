@@ -46,15 +46,20 @@
 
 ### 📑 Hacker News
 
-- **[Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)**
-  *<p>Article URL: <a href="https://waveformsecurity.com/blog/flume/">https://waveformsecurity.com/blog/flume/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105136">https://new...*
-  📅 Thu, 30 Jul 2026 01:27:12 +0000
+- **[NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)**
+  *<p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
+<p...*
+  📅 Thu, 30 Jul 2026 02:55:21 +0000
 
-- **[Starter Homes Are Piling Up While Luxury Homes Fly Off the Market](https://www.zillow.com/research/starter-homes-price-tiers-36571/)**
-  *<p>Article URL: <a href="https://www.zillow.com/research/starter-homes-price-tiers-36571/">https://www.zillow.com/research/starter-homes-price-tiers-36571/</a></p>
-<p>Comments URL: <a href="https://ne...*
-  📅 Thu, 30 Jul 2026 01:03:22 +0000
+- **[Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)**
+  *<p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombi...*
+  📅 Thu, 30 Jul 2026 02:41:16 +0000
+
+- **[Logic for Programmers](https://logicforprogrammers.com/)**
+  *<p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.co...*
+  📅 Thu, 30 Jul 2026 00:51:39 +0000
 
 - **[Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)**
   *<p>I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast l...*
@@ -69,11 +74,6 @@
   *<p>Article URL: <a href="https://archive.org/details/mancomputerbyjoh0000john">https://archive.org/details/mancomputerbyjoh0000john</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?...*
   📅 Wed, 29 Jul 2026 22:53:44 +0000
-
-- **[LLM Honeypot](https://llm2human.pages.dev/)**
-  *<p>Article URL: <a href="https://llm2human.pages.dev/">https://llm2human.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104117">https://news.ycombinator.com/item?i...*
-  📅 Wed, 29 Jul 2026 22:51:03 +0000
 
 ### 📑 TechCrunch
 
@@ -103,19 +103,13 @@
 
 ### 📑 Dev.to
 
-- **[Seven government recall feeds, and what it takes to make them agree](https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf)**
-  *<p>Every developed market publishes its product recalls. The EU has Safety Gate, France runs<br />
-RappelConso on top of it, the US splits the job across the CPSC, NHTSA and three separate FDA<br />
-e...*
-  📅 Thu, 30 Jul 2026 01:35:57 +0000
+- **[Local-First Is Not Offline: How to Test Phone-to-Computer File Access](https://dev.to/lynavo/local-first-is-not-offline-how-to-test-phone-to-computer-file-access-33pe)**
+  *<p>A file-access feature can look successful in a demo and still fail in the exact situation that matters. The phone may be authorized but the computer is asleep. Both devices may show the same Wi-Fi ...*
+  📅 Thu, 30 Jul 2026 07:56:01 +0000
 
-- **[Why I Believe Vibe Coding Is Becoming a Real Engineering skills](https://dev.to/sabeer/why-i-believe-vibe-coding-is-becoming-a-real-engineering-skills-4a6d)**
-  *<p>For a long time, I thought vibe coding was simply about asking AI to generate code.</p>
-
-<p>The more I build, the more I realize that's only a small part of it.</p>
-
-<p>The real skill isn't writing...*
-  📅 Thu, 30 Jul 2026 01:35:04 +0000
+- **[Your chatbot is a second door onto your content](https://dev.to/goodbarber/your-chatbot-is-a-second-door-onto-your-content-535h)**
+  *<p>Building a RAG chatbot has become a well-marked exercise: split the content into chunks, compute embeddings, search by similarity, hand the relevant passages to a model, generate the answer. It's a...*
+  📅 Thu, 30 Jul 2026 07:53:27 +0000
 
 </details>
 
@@ -123,103 +117,103 @@ e...*
 
 ### 📈 Daily Trending
 
-- **[alphaparkinc/genpark-agent-to-agent-brand-commerce-representative-skill](https://github.com/alphaparkinc/genpark-agent-to-agent-brand-commerce-representative-skill)** ⭐ 6
+- **[codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian)** ⭐ 171
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  sub2api-guardian
+
+- **[Crushflalead/DragonSword-Awakening-Trainer](https://github.com/Crushflalead/DragonSword-Awakening-Trainer)** ⭐ 21
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent-to-Agent (A2A) brand commerce representative for LLM search recommendation
+  A feature-rich trainer for DragonSword: Awakening that provides quality-of-life enhancements and gameplay customization. Includes combat, movement, exploration, and progression modules with adjustable values and an easy-to-use in-game menu.
 
-- **[alphaparkinc/genpark-amazon-ppc-ad-campaign-waste-optimizer-skill](https://github.com/alphaparkinc/genpark-amazon-ppc-ad-campaign-waste-optimizer-skill)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  E-commerce PPC ad campaign search-term waste analyzer & bid optimizer
-
-- **[alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  E-commerce listing research, bullet points & conversion rate optimizer
-
-- **[alphaparkinc/genpark-e-commerce-keyword-seasonality-listing-health-monitor-skill](https://github.com/alphaparkinc/genpark-e-commerce-keyword-seasonality-listing-health-monitor-skill)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  24/7 automated monitor for search volume, seasonality & listing health
-
-- **[alphaparkinc/genpark-e-commerce-inventory-stockout-dead-listing-alert-skill](https://github.com/alphaparkinc/genpark-e-commerce-inventory-stockout-dead-listing-alert-skill)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Multi-channel inventory forecasting & stockout risk alert engine
-
-- **[alphaparkinc/genpark-e-commerce-human-in-the-loop-guardrail-auditor-skill](https://github.com/alphaparkinc/genpark-e-commerce-human-in-the-loop-guardrail-auditor-skill)** ⭐ 5
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Human-in-the-loop safety guardrail auditor for ad account & pricing protection
-
-- **[zaydea805/term-a11y](https://github.com/zaydea805/term-a11y)** ⭐ 4
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Accessible spinners, progress bars, and tables for command line tools, plus a linter that catches screen reader breaking output before it ships.
-
-- **[6t9xstar/Open-Cold-Dialer](https://github.com/6t9xstar/Open-Cold-Dialer)** ⭐ 3
+- **[wjyzhixing/coding-workflow-toolkit-project-skill-discovery](https://github.com/wjyzhixing/coding-workflow-toolkit-project-skill-discovery)** ⭐ 14
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source cold calling CRM with SIP softphone, lead management, campaigns, call scripts, analytics, REST API, Docker deployment, and self-hosted support. Works with SignalWire, Twilio, Telnyx, and custom SIP providers.
+  代码工作流引导工具
+
+- **[hmh323/mubai-ears](https://github.com/hmh323/mubai-ears)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  给AI伴侣装耳朵——本地语音转写＋韵律分析
+
+- **[wutongyuonce/pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading)** ⭐ 11
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  用于 Pi 的上下文卸载扩展：将过大的工具结果移到会话 sidecar 文件中，在需要时可用原生 `read` 取回，并在结果被模型使用后从后续请求中移除正文。
+
+- **[Cyber-Shield73-ops/FL-Studio.Windows](https://github.com/Cyber-Shield73-ops/FL-Studio.Windows)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FL Studio 25.2.4.5242 for Windows is a powerful DAW for music production, offering advanced features like multi-track recording, mixing, and plugin support.
+
+- **[19-Silver-Abyss68/Flick-Aimlock](https://github.com/19-Silver-Abyss68/Flick-Aimlock)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[19-Silver-Abyss68/Movavi-Editor](https://github.com/19-Silver-Abyss68/Movavi-Editor)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 5,842
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 6,865
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,251
+- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,301
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
-- **[digimata/quill](https://github.com/digimata/quill)** ⭐ 1,528
+- **[digimata/quill](https://github.com/digimata/quill)** ⭐ 1,717
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Ultra-minimalist macOS recording + transcription.
 
-- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 1,046
+- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 1,052
   ![Python](https://img.shields.io/badge/-Python-blue)
   An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
 
-- **[fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)** ⭐ 933
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.
-
-- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 874
+- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 889
   ![Python](https://img.shields.io/badge/-Python-blue)
   Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
-- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 861
+- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 885
   ![Python](https://img.shields.io/badge/-Python-blue)
   MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
 
-- **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** ⭐ 554
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 601
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bringing real-time voice to life.
+
+- **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** ⭐ 557
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   runs anywhere. uses anything
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,421
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,467
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 21,002
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 21,068
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,692
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,726
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 10,636
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 10,787
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,176
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,339
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 7,828
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,020
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,035
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,046
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 5,842
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 6,866
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -488,57 +482,57 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
+| Node.js | 🔴 Beginner |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
