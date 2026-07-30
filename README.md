@@ -46,77 +46,78 @@
 
 ### 📑 Hacker News
 
-- **[RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)**
-  *<p>Article URL: <a href="https://mnot.net/blog/2020/for_the_users">https://mnot.net/blog/2020/for_the_users</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49109474">https://new...*
-  📅 Thu, 30 Jul 2026 13:07:53 +0000
+- **[UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)**
+  *<p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/0...*
+  📅 Thu, 30 Jul 2026 18:40:52 +0000
 
-- **[Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)**
-  *<p>Article URL: <a href="https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a">https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a</a></p>
-<p>Comments URL: <a ...*
-  📅 Thu, 30 Jul 2026 12:38:51 +0000
+- **[Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale)**
+  *<p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Thu, 30 Jul 2026 18:39:32 +0000
 
-- **[OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)**
-  *<p>Article URL: <a href="https://openjdk.org/legal/ai">https://openjdk.org/legal/ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49109165">https://news.ycombinator.com/item?i...*
-  📅 Thu, 30 Jul 2026 12:36:38 +0000
+- **[So you want to use plants to reduce CO₂](https://dynomight.net/plants/)**
+  *<p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item...*
+  📅 Thu, 30 Jul 2026 18:31:02 +0000
 
-- **[Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/)**
-  *<p>Article URL: <a href="https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/">https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Thu, 30 Jul 2026 12:21:34 +0000
+- **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)**
+  *<p>Article URL: <a href="https://github.com/yashmahajan10/llm-differential-privacy-gateway">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Thu, 30 Jul 2026 18:08:48 +0000
 
-- **[How Old Is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)**
-  *<p>Article URL: <a href="https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/">https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/</a></p>
-<p>Comments URL: <a href="https://news.yco...*
-  📅 Thu, 30 Jul 2026 12:14:23 +0000
+- **[Show HN: Tally – check a spreadsheet's numbers against their source, in-browser](https://tally.jiegou.ai/)**
+  *<p>Article URL: <a href="https://tally.jiegou.ai/">https://tally.jiegou.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113381">https://news.ycombinator.com/item?id=491133...*
+  📅 Thu, 30 Jul 2026 17:55:54 +0000
 
-- **[What it means for an API to be RESTful](https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/)**
-  *<p>Article URL: <a href="https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/">https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/</a></p>
-<p>Comments UR...*
-  📅 Thu, 30 Jul 2026 12:13:46 +0000
+- **[CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)**
+  *<p>Article URL: <a href="https://chriscoyier.net/2026/07/30/codepen-2-0/">https://chriscoyier.net/2026/07/30/codepen-2-0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4911333...*
+  📅 Thu, 30 Jul 2026 17:52:51 +0000
 
 ### 📑 TechCrunch
 
-- **[Zoox clears final federal hurdle to launch paid robotaxi service](https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/)**
-  *Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi....*
-  📅 Thu, 30 Jul 2026 13:09:03 +0000
+- **[Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)**
+  *As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and ...*
+  📅 Thu, 30 Jul 2026 18:57:58 +0000
 
-- **[Spotify adds a running mode to its app](https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/)**
-  *Running Mode will be available to Premium users on iOS in select countries...*
-  📅 Thu, 30 Jul 2026 13:00:00 +0000
+- **[Florida plans to build air taxi pads using $200M intended for EV chargers](https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/)**
+  *Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports....*
+  📅 Thu, 30 Jul 2026 18:38:12 +0000
 
-- **[Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks](https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/)**
-  *London-based Inforcer just closed a $50 million Series C round led by Insight Partners....*
-  📅 Thu, 30 Jul 2026 13:00:00 +0000
+- **[LinkedIn adds a button to report AI-generated ‘slop’](https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/)**
+  *LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool....*
+  📅 Thu, 30 Jul 2026 18:05:21 +0000
 
-- **[Dili raises $21.7M to bring AI compliance to the infrastructure boom](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/)**
-  *The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan....*
-  📅 Thu, 30 Jul 2026 13:00:00 +0000
+- **[Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A](https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/)**
+  *Add another member to the fast-and-furious AI unicorn club: Simile...*
+  📅 Thu, 30 Jul 2026 17:50:11 +0000
 
-- **[Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)**
-  *Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth....*
-  📅 Thu, 30 Jul 2026 00:21:06 +0000
+- **[Spotify launches ‘User notes’ to let users add memories to songs](https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/)**
+  *Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it...*
+  📅 Thu, 30 Jul 2026 17:41:25 +0000
 
-- **[Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)**
-  *As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price....*
-  📅 Wed, 29 Jul 2026 23:00:11 +0000
+- **[Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/)**
+  *The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments....*
+  📅 Thu, 30 Jul 2026 16:09:42 +0000
 
 ### 📑 Dev.to
 
-- **[Aligning NHI Governance With Financial Services Regulatory Expectations](https://dev.to/gitguardian/aligning-nhi-governance-with-financial-services-regulatory-expectations-g3f)**
-  *<h1>
+- **[PISCA: I turned an Andean breakfast soup into an interactive landscape](https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8)**
+  *<p><em>This is a submission for <a href="https://dev.to/challenges/frontend-2026-07-29">Frontend Challenge: Comfort Food Edition, Perfect Landing</a>.</em></p>
+
+<h2>
   
   
-  Aligning NHI Governance With Financial Services Regulatory Expectations
-</h1>
+  What I built
+</h2>
 
-<p>Explore how NHI governance, secrets management, and risk framing support regulatory compliance, audit ass...*
-  📅 Thu, 30 Jul 2026 13:26:21 +0000
+<p>PIS...*
+  📅 Thu, 30 Jul 2026 19:09:35 +0000
 
-- **[Waymo Ojai Debuts a Three-Screen Cabin and Sixth-Generation Driver in Rider Rollout](https://dev.to/alifar/waymo-ojai-debuts-a-three-screen-cabin-and-sixth-generation-driver-in-rider-rollout-4cp8)**
-  *<p>Waymo has begun rolling out <strong>Ojai</strong>, a new rider-focused vehicle platform that combines a redesigned, three-screen cabin with the company's sixth-generation Waymo Driver. The update i...*
-  📅 Thu, 30 Jul 2026 13:20:30 +0000
+- **[What a failed renewal does to an affiliate commission you already paid](https://dev.to/mihirkanzariya/what-a-failed-renewal-does-to-an-affiliate-commission-you-already-paid-33ip)**
+  *<p>If you run an affiliate program on Stripe subscriptions, you pay commission when an invoice gets paid. The part that quietly breaks is what happens when a renewal that already earned someone a comm...*
+  📅 Thu, 30 Jul 2026 19:08:15 +0000
 
 </details>
 
@@ -124,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian)** ⭐ 209
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  sub2api-guardian
-
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 140
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 231
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat)** ⭐ 36
+- **[codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian)** ⭐ 214
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  sub2api-guardian
+
+- **[0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat)** ⭐ 69
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill
 
-- **[ProfeLizaMolina/prueba_final](https://github.com/ProfeLizaMolina/prueba_final)** ⭐ 24
+- **[YuJunZhiXue/Cline-proxy](https://github.com/YuJunZhiXue/Cline-proxy)** ⭐ 39
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  一个使用go写的简略的反代CLine的网关
+
+- **[abimelsbk/CPENT-Crash-Course](https://github.com/abimelsbk/CPENT-Crash-Course)** ⭐ 30
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[wjyzhixing/coding-workflow-toolkit-project-skill-discovery](https://github.com/wjyzhixing/coding-workflow-toolkit-project-skill-discovery)** ⭐ 18
+- **[shuaiplus/inkstone](https://github.com/shuaiplus/inkstone)** ⭐ 28
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  代码工作流引导工具
+  A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.
 
-- **[Crushflalead/DragonSword-Awakening-Trainer](https://github.com/Crushflalead/DragonSword-Awakening-Trainer)** ⭐ 18
+- **[edvardgrishin27/nativeprompt](https://github.com/edvardgrishin27/nativeprompt)** ⭐ 27
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A feature-rich trainer for DragonSword: Awakening that provides quality-of-life enhancements and gameplay customization. Includes combat, movement, exploration, and progression modules with adjustable values and an easy-to-use in-game menu.
+  Rewrite your prompt into the native dialect of the model you're actually running (Claude Code / Codex) — by each vendor's OFFICIAL rules — and see which rule drove each edit. Self-updating. Zero deps.
 
-- **[hmh323/mubai-ears](https://github.com/hmh323/mubai-ears)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  给AI伴侣装耳朵——本地语音转写＋韵律分析
-
-- **[wangyao1052/Yi3D](https://github.com/wangyao1052/Yi3D)** ⭐ 14
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Official source code of Yi3D, a free and opensource multiplatform 3D modeler.
+- **[Wren-CMS/wren-cms](https://github.com/Wren-CMS/wren-cms)** ⭐ 25
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  tiny, quick, sings louder than its size suggests.
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,435
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,502
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,340
+- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,381
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
-- **[digimata/quill](https://github.com/digimata/quill)** ⭐ 1,898
+- **[digimata/quill](https://github.com/digimata/quill)** ⭐ 2,199
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Ultra-minimalist macOS recording + transcription.
 
-- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 984
+- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 986
   ![Python](https://img.shields.io/badge/-Python-blue)
   An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
 
-- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 906
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
-
-- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 903
+- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 922
   ![Python](https://img.shields.io/badge/-Python-blue)
   Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 642
+- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 915
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
+
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 666
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bringing real-time voice to life.
 
-- **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** ⭐ 559
+- **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** ⭐ 561
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   runs anywhere. uses anything
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,519
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,548
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 21,127
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 21,190
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,767
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,779
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 10,879
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 10,956
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,439
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,512
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,048
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,056
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,435
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,502
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,075
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,102
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -489,9 +490,9 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🔴 Beginner |
 | Go | 🟡 Learning |
 
@@ -499,41 +500,41 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
