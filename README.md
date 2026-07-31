@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-July 30, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-July 31, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,78 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)**
-  *<p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/0...*
-  📅 Thu, 30 Jul 2026 18:40:52 +0000
+- **[The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)**
+  *<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/ai-aesthetic/">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4911709...*
+  📅 Thu, 30 Jul 2026 23:22:16 +0000
 
-- **[Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale)**
-  *<p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Thu, 30 Jul 2026 18:39:32 +0000
+- **[Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)**
+  *<p>Article URL: <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>
+<p>Comments URL:...*
+  📅 Thu, 30 Jul 2026 23:00:51 +0000
 
-- **[So you want to use plants to reduce CO₂](https://dynomight.net/plants/)**
-  *<p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item...*
-  📅 Thu, 30 Jul 2026 18:31:02 +0000
+- **[I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)**
+  *<p>Article URL: <a href="https://geospatialml.com/posts/reviewing-ai-slop/">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=491...*
+  📅 Thu, 30 Jul 2026 22:33:11 +0000
 
-- **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)**
-  *<p>Article URL: <a href="https://github.com/yashmahajan10/llm-differential-privacy-gateway">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Thu, 30 Jul 2026 18:08:48 +0000
+- **[Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)**
+  *<p>Article URL: <a href="https://rune.build/blog/rune-1-1-release">https://rune.build/blog/rune-1-1-release</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116272">https://new...*
+  📅 Thu, 30 Jul 2026 21:47:31 +0000
 
-- **[Show HN: Tally – check a spreadsheet's numbers against their source, in-browser](https://tally.jiegou.ai/)**
-  *<p>Article URL: <a href="https://tally.jiegou.ai/">https://tally.jiegou.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113381">https://news.ycombinator.com/item?id=491133...*
-  📅 Thu, 30 Jul 2026 17:55:54 +0000
+- **[Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)**
+  *<p>Article URL: <a href="https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct">https://www.science.org/content/article/saber-toothed-cats-becam...*
+  📅 Thu, 30 Jul 2026 21:31:03 +0000
 
-- **[CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)**
-  *<p>Article URL: <a href="https://chriscoyier.net/2026/07/30/codepen-2-0/">https://chriscoyier.net/2026/07/30/codepen-2-0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4911333...*
-  📅 Thu, 30 Jul 2026 17:52:51 +0000
+- **[Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)**
+  *<p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://new...*
+  📅 Thu, 30 Jul 2026 19:34:27 +0000
 
 ### 📑 TechCrunch
 
-- **[Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)**
-  *As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and ...*
-  📅 Thu, 30 Jul 2026 18:57:58 +0000
+- **[Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)**
+  *After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents...*
+  📅 Fri, 31 Jul 2026 01:06:54 +0000
 
-- **[Florida plans to build air taxi pads using $200M intended for EV chargers](https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/)**
-  *Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports....*
-  📅 Thu, 30 Jul 2026 18:38:12 +0000
+- **[Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/)**
+  *Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September....*
+  📅 Thu, 30 Jul 2026 23:28:05 +0000
 
-- **[LinkedIn adds a button to report AI-generated ‘slop’](https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/)**
-  *LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool....*
-  📅 Thu, 30 Jul 2026 18:05:21 +0000
+- **[AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)**
+  *The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play....*
+  📅 Thu, 30 Jul 2026 23:25:58 +0000
 
-- **[Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A](https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/)**
-  *Add another member to the fast-and-furious AI unicorn club: Simile...*
-  📅 Thu, 30 Jul 2026 17:50:11 +0000
+- **[Reddit reports a solid quarter but shows signs of AI’s impact](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/)**
+  *Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns....*
+  📅 Thu, 30 Jul 2026 23:08:58 +0000
 
-- **[Spotify launches ‘User notes’ to let users add memories to songs](https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/)**
-  *Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it...*
-  📅 Thu, 30 Jul 2026 17:41:25 +0000
+- **[Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)**
+  *Amazon isn't slowing down on data center spending — but investors don't seem to mind....*
+  📅 Thu, 30 Jul 2026 22:41:41 +0000
 
-- **[Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/)**
-  *The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments....*
-  📅 Thu, 30 Jul 2026 16:09:42 +0000
+- **[Apple says gaming slowdown and App Store changes hurt services growth](https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/)**
+  *Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company ...*
+  📅 Thu, 30 Jul 2026 22:37:06 +0000
 
 ### 📑 Dev.to
 
-- **[PISCA: I turned an Andean breakfast soup into an interactive landscape](https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8)**
-  *<p><em>This is a submission for <a href="https://dev.to/challenges/frontend-2026-07-29">Frontend Challenge: Comfort Food Edition, Perfect Landing</a>.</em></p>
+- **[Solon Cache: Three Annotations, One Interface, and a Tags Trick You'll Use Every Day](https://dev.to/solonjava/solon-cache-three-annotations-one-interface-and-a-tags-trick-you39ll-use-every-day-4aa0)**
+  *<p>I've been writing Solon for a while now, and one thing that surprised me early on was how clean the caching layer is. Not because it does anything revolutionary — it doesn't — but because it <em>st...*
+  📅 Fri, 31 Jul 2026 01:12:45 +0000
 
-<h2>
-  
-  
-  What I built
-</h2>
+- **[How to Generate Short Videos from Claude.ai with a Seedance MCP Connector](https://dev.to/germey/how-to-generate-short-videos-from-claudeai-with-a-seedance-mcp-connector-4dna)**
+  *<p>Sometimes the fastest way to prototype a video idea is not to open a separate generation dashboard, but to let your assistant create and poll the task while you stay in the conversation.</p>
 
-<p>PIS...*
-  📅 Thu, 30 Jul 2026 19:09:35 +0000
-
-- **[What a failed renewal does to an affiliate commission you already paid](https://dev.to/mihirkanzariya/what-a-failed-renewal-does-to-an-affiliate-commission-you-already-paid-33ip)**
-  *<p>If you run an affiliate program on Stripe subscriptions, you pay commission when an invoice gets paid. The part that quietly breaks is what happens when a renewal that already earned someone a comm...*
-  📅 Thu, 30 Jul 2026 19:08:15 +0000
+<p>Th...*
+  📅 Fri, 31 Jul 2026 01:11:50 +0000
 
 </details>
 
@@ -125,105 +119,105 @@
 
 ### 📈 Daily Trending
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 231
+- **[liuhuanyong/FDEGreenBook](https://github.com/liuhuanyong/FDEGreenBook)** ⭐ 6
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  一个自包含的交互式网站，把 FDE（Forward Deployed Engineer，前线部署工程师）讲透：教程 + 游戏 + 画像测试三合一。
+
+- **[BynBang1/easy-crackme](https://github.com/BynBang1/easy-crackme)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
+  Obfuscated Crack Me
 
-- **[codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian)** ⭐ 214
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  sub2api-guardian
-
-- **[0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat)** ⭐ 69
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill
-
-- **[YuJunZhiXue/Cline-proxy](https://github.com/YuJunZhiXue/Cline-proxy)** ⭐ 39
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  一个使用go写的简略的反代CLine的网关
-
-- **[abimelsbk/CPENT-Crash-Course](https://github.com/abimelsbk/CPENT-Crash-Course)** ⭐ 30
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[Maolipeng/SMS-sync](https://github.com/Maolipeng/SMS-sync)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[shuaiplus/inkstone](https://github.com/shuaiplus/inkstone)** ⭐ 28
+- **[Fransuelton/escpos-direct](https://github.com/Fransuelton/escpos-direct)** ⭐ 2
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.
+  ESC/POS thermal printing for Node and the browser, writing straight to the USB endpoint. Correct code pages, real printer status, no CUPS in the way.
 
-- **[edvardgrishin27/nativeprompt](https://github.com/edvardgrishin27/nativeprompt)** ⭐ 27
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Rewrite your prompt into the native dialect of the model you're actually running (Claude Code / Codex) — by each vendor's OFFICIAL rules — and see which rule drove each edit. Self-updating. Zero deps.
+- **[Samuels-Development/sd-tablet](https://github.com/Samuels-Development/sd-tablet)** ⭐ 2
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  An in-game tablet for FiveM, and a companion to sd-phone. Same apps, same accounts, same data, on a bigger screen.
 
-- **[Wren-CMS/wren-cms](https://github.com/Wren-CMS/wren-cms)** ⭐ 25
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  tiny, quick, sings louder than its size suggests.
+- **[pooyahpx/HPXPANEL](https://github.com/pooyahpx/HPXPANEL)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Command-deck proxy ops console — users, nodes, cores & subscription delivery.
+
+- **[Wang-dachui986/coding-rules](https://github.com/Wang-dachui986/coding-rules)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Reusable Codex project-governance skill with approval gates, task cards, and durable handoffs.
+
+- **[wenjiazhu1980/ham-radio-exam](https://github.com/wenjiazhu1980/ham-radio-exam)** ⭐ 1
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  业余无线电A类模拟考试与题库：在线刷题、模拟考、知识图谱 | Free China Ham Radio Class A (CRAC) mock exam & practice
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,502
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,541
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,381
+- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,406
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
-- **[digimata/quill](https://github.com/digimata/quill)** ⭐ 2,199
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Ultra-minimalist macOS recording + transcription.
-
-- **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** ⭐ 986
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
-
-- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 922
+- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 934
   ![Python](https://img.shields.io/badge/-Python-blue)
   Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
-- **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** ⭐ 915
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
-
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 666
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 676
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bringing real-time voice to life.
 
-- **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** ⭐ 561
+- **[0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** ⭐ 564
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+- **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** ⭐ 562
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   runs anywhere. uses anything
 
+- **[talivia-group/talivia](https://github.com/talivia-group/talivia)** ⭐ 489
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative
+
+- **[gavamedia/deltafin](https://github.com/gavamedia/deltafin)** ⭐ 482
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.
+
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,548
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,573
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** ⭐ 21,190
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,779
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,786
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 10,956
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,015
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,512
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,561
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,056
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,077
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,502
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,541
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,102
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,117
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
+
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 6,934
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
 ## 🚀 Latest Releases
 
@@ -491,58 +485,58 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -560,7 +554,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** July 30, 2026
+**Last Updated:** July 31, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
