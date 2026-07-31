@@ -46,35 +46,41 @@
 
 ### 📑 Hacker News
 
+- **[Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)**
+  *<p>Article URL: <a href="https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/">https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Fri, 31 Jul 2026 12:10:55 +0000
+
+- **[Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)**
+  *<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Fri, 31 Jul 2026 12:00:59 +0000
+
+- **[The End of an Era](https://hughhowey.com/the-end-of-an-era/)**
+  *<p>Article URL: <a href="https://hughhowey.com/the-end-of-an-era/">https://hughhowey.com/the-end-of-an-era/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49121980">https://new...*
+  📅 Fri, 31 Jul 2026 11:51:46 +0000
+
+- **[DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)**
+  *<p>Article URL: <a href="https://artificialanalysis.ai/models/deepseek-v4-flash-ga">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 31 Jul 2026 07:59:11 +0000
+
+- **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)**
+  *<p>Article URL: <a href="https://blog.google/security/chrome-stronger-with-every-update/">https://blog.google/security/chrome-stronger-with-every-update/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 31 Jul 2026 07:29:22 +0000
+
 - **[DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)**
   *<p>Article URL: <a href="https://api-docs.deepseek.com/updates/">https://api-docs.deepseek.com/updates/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119559">https://news.yc...*
   📅 Fri, 31 Jul 2026 06:08:36 +0000
 
-- **[Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)**
-  *<p>Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about openi...*
-  📅 Fri, 31 Jul 2026 05:45:13 +0000
-
-- **[Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)**
-  *<p>Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.<p>The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for...*
-  📅 Fri, 31 Jul 2026 05:17:29 +0000
-
-- **[JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)**
-  *<p>Article URL: <a href="https://github.com/openjdk/jdk/pull/31120">https://github.com/openjdk/jdk/pull/31120</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119063">https://n...*
-  📅 Fri, 31 Jul 2026 04:38:19 +0000
-
-- **[The session you cannot take with you](https://earendil.com/posts/session-portability/)**
-  *<p>Article URL: <a href="https://earendil.com/posts/session-portability/">https://earendil.com/posts/session-portability/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4911878...*
-  📅 Fri, 31 Jul 2026 03:47:59 +0000
-
-- **["the very foundation of modern academia has been blown to bits"](https://twitter.com/lemire/status/2082851447499088173)**
-  *<p>Article URL: <a href="https://twitter.com/lemire/status/2082851447499088173">https://twitter.com/lemire/status/2082851447499088173</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Fri, 31 Jul 2026 02:54:02 +0000
-
 ### 📑 TechCrunch
+
+- **[Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/)**
+  *Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding....*
+  📅 Fri, 31 Jul 2026 12:00:00 +0000
 
 - **[Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)**
   *After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents...*
@@ -96,29 +102,22 @@
   *Amazon isn't slowing down on data center spending — but investors don't seem to mind....*
   📅 Thu, 30 Jul 2026 22:41:41 +0000
 
-- **[Apple says gaming slowdown and App Store changes hurt services growth](https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/)**
-  *Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company ...*
-  📅 Thu, 30 Jul 2026 22:37:06 +0000
-
 ### 📑 Dev.to
 
-- **[Migrating a Next.js app from node:sqlite to Cloudflare D1](https://dev.to/hirodeath/migrating-a-nextjs-app-from-nodesqlite-to-cloudflare-d1-225i)**
-  *<blockquote>
-<p>This is an English translation of my original Japanese article on <a href="https://zenn.dev/hirodeath/articles/migrate-node-sqlite-to-d1" rel="noopener noreferrer">Zenn</a>.</p>
-</bloc...*
-  📅 Fri, 31 Jul 2026 08:11:19 +0000
+- **[Building a Linux Kernel Module in Pure x86](https://dev.to/danielpetrovic/building-a-linux-kernel-module-in-pure-x86-i7l)**
+  *<p>Most Linux kernel modules are written in C.</p>
 
-- **[Your AI Coding Agent Is LYING When It Says "Done"](https://dev.to/gemyago/your-ai-coding-agent-is-lying-when-it-says-done-2a85)**
-  *<h2>
-  
-  
-  TL;DR
-</h2>
+<p>The reasons are obvious:</p>
 
-<p>When an AI agent changes few files, runs few tests, and says "Done", is it really done? Not always. Things may still break in unexpected places.</p>
+<ul>
+<li>The kernel APIs are designed around C.</li>
+<li>Documentation assumes C.</li>
+<li>The build system natural...*
+  📅 Fri, 31 Jul 2026 13:38:31 +0000
 
-<p>I prefer to define...*
-  📅 Fri, 31 Jul 2026 08:10:07 +0000
+- **[Nova: Your friendly and not-so-average extraterrestrial life coach.](https://dev.to/tanay_dwivedi9098/nova-your-friendly-and-not-so-average-extraterrestrial-life-coach-1jc8)**
+  *<p>Long time no see. Many of you guys here at Dev.to might have forgotten me, as I was pretty much inactive for the past couple of weeks. Life happens, and sometimes you gotta prioritize stuff that's ...*
+  📅 Fri, 31 Jul 2026 13:35:29 +0000
 
 </details>
 
@@ -126,61 +125,65 @@
 
 ### 📈 Daily Trending
 
+- **[kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster](https://github.com/kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster)** ⭐ 116
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Boost FPS and improve overall performance in Halo: Campaign Evolved 2026 with optimized graphics presets, memory tweaks, shader optimizations, CPU scheduling improvements, and launch parameter recommendations. Designed for smoother gameplay, lower latency, and a more responsive experience on Windows PCs.
+
 - **[romanson-xo8/Palworld-Optimizer-2026](https://github.com/romanson-xo8/Palworld-Optimizer-2026)** ⭐ 116
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Boost Palworld 2026 performance with PalBoost. Optimize Windows, monitor FPS, reduce lag, improve frame stability and enhance your gaming experience on Windows 10 & 11
 
-- **[Indhu27-pixel/Labour-Law-Violation-System](https://github.com/Indhu27-pixel/Labour-Law-Violation-System)** ⭐ 31
+- **[deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer)** ⭐ 94
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[liangnjupt/VisTouch](https://github.com/liangnjupt/VisTouch)** ⭐ 36
   ![Python](https://img.shields.io/badge/-Python-blue)
-  AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.
+  A large-scale synchronized vision–touch–audio dataset of robotic sliding contact
 
-- **[THARUNRAJ15/Student-Expense-Tracker](https://github.com/THARUNRAJ15/Student-Expense-Tracker)** ⭐ 26
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  A web-based Student Expense Tracker using HTML, CSS, JavaScript, PHP, and MySQL.
-
-- **[cyberxiaowan/xiaowan-wechat-layout-skill](https://github.com/cyberxiaowan/xiaowan-wechat-layout-skill)** ⭐ 22
+- **[cyberxiaowan/xiaowan-wechat-layout-skill](https://github.com/cyberxiaowan/xiaowan-wechat-layout-skill)** ⭐ 34
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   @小晚不在的微信公众号移动端排版与发布工作流，基于 gzh-design 的公开增强层。
 
-- **[yuanshuacpu/robot_futuring_rl](https://github.com/yuanshuacpu/robot_futuring_rl)** ⭐ 21
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[yhlyhl666/yanshi-focus](https://github.com/yhlyhl666/yanshi-focus)** ⭐ 17
+- **[yhlyhl666/yanshi-focus](https://github.com/yhlyhl666/yanshi-focus)** ⭐ 34
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   研时 - 为考研复习设计的专注计时与学习统计桌面应用(番茄todo）
 
-- **[helmdesk-ai/helmdesk](https://github.com/helmdesk-ai/helmdesk)** ⭐ 14
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  AI-native, self-hosted customer support for small and  medium-sized teams. 面向中小团队的 AI 原生自托管客服系统。
+- **[Indhu27-pixel/Labour-Law-Violation-System](https://github.com/Indhu27-pixel/Labour-Law-Violation-System)** ⭐ 33
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.
 
-- **[deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer)** ⭐ 13
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[yuanshuacpu/robot_futuring_rl](https://github.com/yuanshuacpu/robot_futuring_rl)** ⭐ 32
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,610
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,658
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,438
+- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,464
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
-- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 959
+- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 984
   ![Python](https://img.shields.io/badge/-Python-blue)
   Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 690
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Bringing real-time voice to life.
-
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 576
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 933
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** ⭐ 566
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 699
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bringing real-time voice to life.
+
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 573
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
+
+- **[0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** ⭐ 569
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
@@ -188,41 +191,37 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   runs anywhere. uses anything
 
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 517
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
-
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,623
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,650
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,843
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,874
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,133
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,229
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,660
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,723
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,084
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,545
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,610
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open Frontier Intelligence
-
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 7,452
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 7,683
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,127
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,658
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
+
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,155
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -491,59 +490,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
