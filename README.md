@@ -46,84 +46,86 @@
 
 ### 📑 Hacker News
 
-- **[Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)**
-  *<p>Article URL: <a href="https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/">https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Fri, 31 Jul 2026 12:10:55 +0000
+- **[Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)**
+  *<p>Article URL: <a href="https://github.com/l00sed/termixer">https://github.com/l00sed/termixer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126883">https://news.ycombinato...*
+  📅 Fri, 31 Jul 2026 18:28:08 +0000
 
-- **[Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)**
-  *<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Fri, 31 Jul 2026 12:00:59 +0000
+- **[How to Survive an Infestation of Toxic Caterpillars](https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars)**
+  *<p>Article URL: <a href="https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars">https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-tox...*
+  📅 Fri, 31 Jul 2026 18:13:09 +0000
 
-- **[The End of an Era](https://hughhowey.com/the-end-of-an-era/)**
-  *<p>Article URL: <a href="https://hughhowey.com/the-end-of-an-era/">https://hughhowey.com/the-end-of-an-era/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49121980">https://new...*
-  📅 Fri, 31 Jul 2026 11:51:46 +0000
+- **[Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)**
+  *<p>Article URL: <a href="https://manifest.build/blog/why-we-deprecated-our-llm-router/">https://manifest.build/blog/why-we-deprecated-our-llm-router/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Fri, 31 Jul 2026 18:06:39 +0000
 
-- **[DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)**
-  *<p>Article URL: <a href="https://artificialanalysis.ai/models/deepseek-v4-flash-ga">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Fri, 31 Jul 2026 07:59:11 +0000
+- **[qm](https://github.com/yc-software/qm)**
+  *<p>Article URL: <a href="https://github.com/yc-software/qm">https://github.com/yc-software/qm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126604">https://news.ycombinator....*
+  📅 Fri, 31 Jul 2026 18:04:58 +0000
 
-- **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)**
-  *<p>Article URL: <a href="https://blog.google/security/chrome-stronger-with-every-update/">https://blog.google/security/chrome-stronger-with-every-update/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Fri, 31 Jul 2026 07:29:22 +0000
+- **[AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup](https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup)**
+  *<p>Article URL: <a href="https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup">https://www.the-afc.com/en/more/afc_news.html...*
+  📅 Fri, 31 Jul 2026 17:33:32 +0000
 
-- **[DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)**
-  *<p>Article URL: <a href="https://api-docs.deepseek.com/updates/">https://api-docs.deepseek.com/updates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119559">https://news.yc...*
-  📅 Fri, 31 Jul 2026 06:08:36 +0000
+- **[Show HN: Slope remade in HTML5 to load instantly on any browser, any device](https://hurtle.site/)**
+  *<p>A whole free daily game served in under 100kb with no ads, lags or logins. The URL will serve a new track every day, forever. And I've added setting sliders so players have full control over their ...*
+  📅 Fri, 31 Jul 2026 17:11:53 +0000
 
 ### 📑 TechCrunch
 
-- **[Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/)**
-  *Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding....*
-  📅 Fri, 31 Jul 2026 12:00:00 +0000
+- **[VC-backed startups commit more fraud, and researchers think they know why](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/)**
+  *New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play....*
+  📅 Fri, 31 Jul 2026 19:00:00 +0000
 
-- **[Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)**
-  *After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents...*
-  📅 Fri, 31 Jul 2026 01:06:54 +0000
+- **[Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)**
+  *After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI...*
+  📅 Fri, 31 Jul 2026 17:26:32 +0000
 
-- **[Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/)**
-  *Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September....*
-  📅 Thu, 30 Jul 2026 23:28:05 +0000
+- **[Snapchat no longer rewards fully AI-generated Spotlight content](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/)**
+  *Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop....*
+  📅 Fri, 31 Jul 2026 16:49:08 +0000
 
-- **[AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)**
-  *The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play....*
-  📅 Thu, 30 Jul 2026 23:25:58 +0000
+- **[Siri AI could come with a paywall for power users](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/)**
+  *Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions....*
+  📅 Fri, 31 Jul 2026 16:08:18 +0000
 
-- **[Reddit reports a solid quarter but shows signs of AI’s impact](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/)**
-  *Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns....*
-  📅 Thu, 30 Jul 2026 23:08:58 +0000
+- **[GM and Ford are talking less and less about EVs](https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/)**
+  *The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs....*
+  📅 Fri, 31 Jul 2026 15:47:46 +0000
 
-- **[Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)**
-  *Amazon isn't slowing down on data center spending — but investors don't seem to mind....*
-  📅 Thu, 30 Jul 2026 22:41:41 +0000
+- **[Samsung expects memory shortage to worsen through 2027 and last until 2028](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/)**
+  *AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices....*
+  📅 Fri, 31 Jul 2026 15:37:58 +0000
 
 ### 📑 Dev.to
 
-- **[Building a Linux Kernel Module in Pure x86](https://dev.to/danielpetrovic/building-a-linux-kernel-module-in-pure-x86-i7l)**
-  *<p>Most Linux kernel modules are written in C.</p>
+- **[Designing QR Codes That Survive Real-World Scanning: A Debugging Playbook](https://dev.to/lizely/designing-qr-codes-that-survive-real-world-scanning-a-debugging-playbook-1f9l)**
+  *<p>A QR code can look perfect in your browser and still fail on a printed flyer behind glass, on a wrinkled shipping label, or under a flickering streetlight at dusk. When you treat generation as a on...*
+  📅 Fri, 31 Jul 2026 19:02:30 +0000
 
-<p>The reasons are obvious:</p>
-
-<ul>
-<li>The kernel APIs are designed around C.</li>
-<li>Documentation assumes C.</li>
-<li>The build system natural...*
-  📅 Fri, 31 Jul 2026 13:38:31 +0000
-
-- **[Nova: Your friendly and not-so-average extraterrestrial life coach.](https://dev.to/tanay_dwivedi9098/nova-your-friendly-and-not-so-average-extraterrestrial-life-coach-1jc8)**
-  *<p>Long time no see. Many of you guys here at Dev.to might have forgotten me, as I was pretty much inactive for the past couple of weeks. Life happens, and sometimes you gotta prioritize stuff that's ...*
-  📅 Fri, 31 Jul 2026 13:35:29 +0000
+- **[How I Put My Agent in CI to Automate Release Notes](https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h)**
+  *<p>When I joined Entire, I noticed my boss spending a chunk of time every week writing detailed release notes, called Dispatches at Entire. It looked like a painful process. Each Dispatch had to cover...*
+  📅 Fri, 31 Jul 2026 19:00:39 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
 
 ### 📈 Daily Trending
+
+- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 530
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
+
+- **[Packets/tew](https://github.com/Packets/tew)** ⭐ 215
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer)** ⭐ 180
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 - **[kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster](https://github.com/kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster)** ⭐ 116
   ![None](https://img.shields.io/badge/-None-lightgrey)
@@ -133,53 +135,41 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Boost Palworld 2026 performance with PalBoost. Optimize Windows, monitor FPS, reduce lag, improve frame stability and enhance your gaming experience on Windows 10 & 11
 
-- **[deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer)** ⭐ 94
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[cyberxiaowan/xiaowan-wechat-layout-skill](https://github.com/cyberxiaowan/xiaowan-wechat-layout-skill)** ⭐ 44
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  @小晚不在的微信公众号移动端排版与发布工作流，基于 gzh-design 的公开增强层。
+
+- **[colekevingdbv9729/king-legacy-script-hub](https://github.com/colekevingdbv9729/king-legacy-script-hub)** ⭐ 37
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  PC-focused Roblox script utility for a popular pirate adventure, featuring custom skin loading, aimbot-assisted targeting, live toggles, adjustable settings, and persistent preferences through a Windows executor.
 
 - **[liangnjupt/VisTouch](https://github.com/liangnjupt/VisTouch)** ⭐ 36
   ![Python](https://img.shields.io/badge/-Python-blue)
   A large-scale synchronized vision–touch–audio dataset of robotic sliding contact
 
-- **[cyberxiaowan/xiaowan-wechat-layout-skill](https://github.com/cyberxiaowan/xiaowan-wechat-layout-skill)** ⭐ 34
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  @小晚不在的微信公众号移动端排版与发布工作流，基于 gzh-design 的公开增强层。
-
-- **[yhlyhl666/yanshi-focus](https://github.com/yhlyhl666/yanshi-focus)** ⭐ 34
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  研时 - 为考研复习设计的专注计时与学习统计桌面应用(番茄todo）
-
-- **[Indhu27-pixel/Labour-Law-Violation-System](https://github.com/Indhu27-pixel/Labour-Law-Violation-System)** ⭐ 33
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.
-
-- **[yuanshuacpu/robot_futuring_rl](https://github.com/yuanshuacpu/robot_futuring_rl)** ⭐ 32
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,658
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,690
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,464
+- **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** ⭐ 2,493
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
-- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 984
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
-
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 933
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 1,576
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 699
+- **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** ⭐ 1,009
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
+
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 708
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bringing real-time voice to life.
 
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 573
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 598
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
@@ -193,35 +183,35 @@
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,650
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,686
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,874
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,890
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,229
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,293
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,723
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,763
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,545
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,565
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 7,683
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 7,769
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,658
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,690
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,155
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,174
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -490,59 +480,59 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
