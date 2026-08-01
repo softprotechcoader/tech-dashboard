@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,85 +46,183 @@
 
 ### 📑 Hacker News
 
-- **[RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)**
-  *<p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=491...*
-  📅 Sat, 01 Aug 2026 12:34:25 +0000
+- **[Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)**
+  *<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</...*
+  📅 Sat, 01 Aug 2026 18:25:00 +0000
 
-- **[Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool](https://freeaipromptgen.com/)**
-  *<p>Article URL: <a href="https://freeaipromptgen.com/">https://freeaipromptgen.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133672">https://news.ycombinator.com/item?i...*
-  📅 Sat, 01 Aug 2026 12:03:25 +0000
+- **[NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)**
+  *<p>Article URL: <a href="https://blog.netbsd.org/tnf/entry/netbsd_11_0_released">https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sat, 01 Aug 2026 17:56:41 +0000
 
-- **[Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>
-<p>Comments ...*
-  📅 Sat, 01 Aug 2026 12:00:25 +0000
+- **[A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)**
+  *<p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136...*
+  📅 Sat, 01 Aug 2026 16:52:41 +0000
 
-- **[RamenHaus](https://ramen.haus/)**
-  *<p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>...*
-  📅 Sat, 01 Aug 2026 08:48:58 +0000
+- **[Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)**
+  *<p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>...*
+  📅 Sat, 01 Aug 2026 16:45:40 +0000
 
-- **[How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)**
-  *<p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycom...*
-  📅 Sat, 01 Aug 2026 08:19:44 +0000
+- **[Franken.domains: Stitched-Together Domains, Because Every .com Is Taken](https://franken.domains/)**
+  *<p>Article URL: <a href="https://franken.domains/">https://franken.domains/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135975">https://news.ycombinator.com/item?id=491359...*
+  📅 Sat, 01 Aug 2026 16:44:49 +0000
 
-- **[AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)**
-  *<p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 01 Aug 2026 07:52:10 +0000
+- **[Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)**
+  *<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135546">https://news.yc...*
+  📅 Sat, 01 Aug 2026 16:01:22 +0000
 
 ### 📑 TechCrunch
 
-- **[OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)**
-  *OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face....*
-  📅 Fri, 31 Jul 2026 22:47:26 +0000
+- **[Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/)**
+  *Apple's new Upgrade program is the latest sign that smartphone ownership is changing....*
+  📅 Sat, 01 Aug 2026 18:47:27 +0000
 
-- **[Rivian spinoff Also to start delivering e-bikes after months of delays](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)**
-  *Also has big plans beyond the TM-B. The startup mostly refers to itself as a "vehicle" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon....*
-  📅 Fri, 31 Jul 2026 22:00:08 +0000
+- **[Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)**
+  *OpenAI's CEO seemed excited to share a "cool use case" for parents....*
+  📅 Sat, 01 Aug 2026 17:07:34 +0000
 
-- **[Silicon Valley loves young founders. Until it doesn’t.](https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/)**
-  *AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company....*
-  📅 Fri, 31 Jul 2026 22:00:00 +0000
+- **[This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/)**
+  *This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....*
+  📅 Sat, 01 Aug 2026 15:58:17 +0000
 
-- **[India is starting to pay for apps, not just download them](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/)**
-  *India's app market generated a record $345 million in Q2....*
-  📅 Fri, 31 Jul 2026 21:07:45 +0000
+- **[Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/)**
+  *Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships....*
+  📅 Sat, 01 Aug 2026 15:05:00 +0000
 
-- **[Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/)**
-  *A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash....*
-  📅 Fri, 31 Jul 2026 19:47:28 +0000
+- **[Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/)**
+  *If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help....*
+  📅 Sat, 01 Aug 2026 14:00:00 +0000
 
-- **[Fresh off its Wiz payout, Index Ventures raises $2B across three funds](https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/)**
-  *The new funding brings Index's total available investing capital to $3.5 billion....*
-  📅 Fri, 31 Jul 2026 19:39:51 +0000
+- **[What’s the best handheld mini fan?](https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/)**
+  *From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable....*
+  📅 Sat, 01 Aug 2026 13:36:54 +0000
 
 ### 📑 Dev.to
 
-- **[jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e)**
-  *<p>After setting up Jenkins and creating my first Declarative Pipeline, the next step was preparing my machine to build Docker images.</p>
+- **[React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42)**
+  *<p>Welcome back to the <strong>React Mastery Series</strong>!</p>
 
-<p>Since my pipeline will eventually clone code from GitHub,...*
-  📅 Sat, 01 Aug 2026 12:44:06 +0000
+<p>In the previous article, we explored <strong>useEffect Hook</strong> and learned how React handles side effects such as:</p>
 
-- **[Can AI Handle KYC? Grounding LLMs For Due Diligence Tools](https://dev.to/onizuka/can-ai-handle-kyc-grounding-llms-for-due-diligence-tools-4i7f)**
-  *<p><code>#ai</code> <code>#kyc</code> <code>#compliance</code> <code>#duediligence</code> <code>#api</code> <code>#llm</code> <code>#fintech</code> <code>#rapidapi</code></p>
+<ul>...*
+  📅 Sat, 01 Aug 2026 18:49:01 +0000
 
+- **[Your DEX tool is probably overstating Uniswap v3 TVL by 25x](https://dev.to/donnyautomation/your-dex-tool-is-probably-overstating-uniswap-v3-tvl-by-25x-og6)**
+  *<p>I shipped a bug into a paid API and it took me a while to see it, because nothing<br />
+errored. Every response was a clean HTTP 200 with a confident number in it.</p>
 
-
-
-<h2>
-  
-  
-  AI Write...*
-  📅 Sat, 01 Aug 2026 12:36:48 +0000
+<p>The number was wrong by <...*
+  📅 Sat, 01 Aug 2026 18:44:16 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[openai/ten-proofs](https://github.com/openai/ten-proofs)** ⭐ 157
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  Lean certificates accompanying proofs in mathematics and theoretical computer science
+
+- **[asdafgs419/Extreme-FPS-Boost](https://github.com/asdafgs419/Extreme-FPS-Boost)** ⭐ 117
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Extreme FPS Boost is a lightweight Windows 10/11 gaming optimizer designed to improve FPS stability, reduce input lag, and enhance overall system performance.
+
+- **[luckyzyx/LuckyTool](https://github.com/luckyzyx/LuckyTool)** ⭐ 113
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  对ColorOS进行扩展优化的Xposed模块，永久免费
+
+- **[x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi)** ⭐ 103
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[Anionex/codex-deepseek-vision](https://github.com/Anionex/codex-deepseek-vision)** ⭐ 101
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  一个可以让像deepseek-v4这样的纯文本模型, 在codex中无障碍调用内置看图工具(view_image)的方案，附为纯文本llm设计的视力工具包。
+
+- **[gabefishercb508/abay-bot-workflow-tools](https://github.com/gabefishercb508/abay-bot-workflow-tools)** ⭐ 52
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Telegram automation project for coordinating workflow tasks in the currently available 2026 build, with a compact HTML-oriented source structure, configurable settings, startup guidance, and an outlined update process.
+
+- **[danielmillersr2593/3d-print-tools-editor](https://github.com/danielmillersr2593/3d-print-tools-editor)** ⭐ 51
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Client-side browser toolkit for viewing, editing, inspecting, and preparing common 3D-printing files, with support generation and toolpath visualization. Use the hosted version or serve a local checkout.
+
+- **[lij768423-svg/grok2api-egress-enhancements](https://github.com/lij768423-svg/grok2api-egress-enhancements)** ⭐ 49
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Unofficial grok2api egress recovery and quality-guard patch kit
+
+### 📈 Weekly Trending
+
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,803
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 4,523
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multiplayer agent harness for work
+
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 2,963
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,062
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
+
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 882
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
+
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 758
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bringing real-time voice to life.
+
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 611
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
+
+- **[DramaticShape/DramaticShapeVoxelMod](https://github.com/DramaticShape/DramaticShapeVoxelMod)** ⭐ 605
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  None
+
+### 📈 Monthly Trending
+
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,782
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,940
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Codex Dream Skin
+
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,550
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,915
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
+
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,577
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  AOS Community Edition: the open agent operating system.
+
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 7,963
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,803
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
+
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,244
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -392,58 +490,58 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟢 Proficient |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
