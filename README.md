@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,35 @@
 
 ### 📑 Hacker News
 
-- **[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)**
-  *<p>Article URL: <a href="https://openai.com/index/ten-advances-in-mathematics/">https://openai.com/index/ten-advances-in-mathematics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 01 Aug 2026 07:37:44 +0000
-
-- **[Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)**
-  *<p>Article URL: <a href="https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>
-<p>Comments URL:...*
-  📅 Sat, 01 Aug 2026 05:38:16 +0000
-
-- **[What liberal arts education is for (2024)](https://innig.net/teaching/liberal-arts-manifesto)**
-  *<p>Article URL: <a href="https://innig.net/teaching/liberal-arts-manifesto">https://innig.net/teaching/liberal-arts-manifesto</a></p>
+- **[RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)**
+  *<p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=491...*
-  📅 Sat, 01 Aug 2026 04:28:13 +0000
+  📅 Sat, 01 Aug 2026 12:34:25 +0000
 
-- **[The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)**
-  *<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
-...*
-  📅 Sat, 01 Aug 2026 03:16:09 +0000
+- **[Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool](https://freeaipromptgen.com/)**
+  *<p>Article URL: <a href="https://freeaipromptgen.com/">https://freeaipromptgen.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133672">https://news.ycombinator.com/item?i...*
+  📅 Sat, 01 Aug 2026 12:03:25 +0000
 
-- **[Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)**
-  *<p>Article URL: <a href="https://microsoft.github.io/flint-chart/">https://microsoft.github.io/flint-chart/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130604">https://new...*
-  📅 Sat, 01 Aug 2026 02:45:09 +0000
+- **[Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>
+<p>Comments ...*
+  📅 Sat, 01 Aug 2026 12:00:25 +0000
 
-- **[A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)**
-  *<p>Article URL: <a href="https://piegames.de/dumps/a-week-in-matrix/">https://piegames.de/dumps/a-week-in-matrix/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130295">https...*
-  📅 Sat, 01 Aug 2026 01:35:53 +0000
+- **[RamenHaus](https://ramen.haus/)**
+  *<p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>...*
+  📅 Sat, 01 Aug 2026 08:48:58 +0000
+
+- **[How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)**
+  *<p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycom...*
+  📅 Sat, 01 Aug 2026 08:19:44 +0000
+
+- **[AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)**
+  *<p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sat, 01 Aug 2026 07:52:10 +0000
 
 ### 📑 TechCrunch
 
@@ -104,123 +104,27 @@
 
 ### 📑 Dev.to
 
-- **[Offline Table Builder: Build Tables Without an Internet Connection](https://dev.to/olayiwola_akinnagbe/offline-table-builder-build-tables-without-an-internet-connection-4igg)**
-  *<p>Most web tools stop working the moment you lose your internet<br />
-connection. For a table builder used on a train, in a conference<br />
-room with spotty wifi, or on a flight, this is a real prob...*
-  📅 Sat, 01 Aug 2026 08:00:00 +0000
+- **[jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e)**
+  *<p>After setting up Jenkins and creating my first Declarative Pipeline, the next step was preparing my machine to build Docker images.</p>
 
-- **[Complex Requirements Are Not the Biggest Problem Anymore: Why Workflow Quality Matters More in the AI Era](https://dev.to/ahikmah/complex-requirements-are-not-the-biggest-problem-anymore-why-workflow-quality-matters-more-in-the-33oi)**
-  *<p><em>How we used AI to make CI stricter, more observable, and easier to improve across repositories.</em></p>
+<p>Since my pipeline will eventually clone code from GitHub,...*
+  📅 Sat, 01 Aug 2026 12:44:06 +0000
 
-<p>Having worked across both implementation and delivery, I’ve learned that complex req...*
-  📅 Sat, 01 Aug 2026 07:50:01 +0000
+- **[Can AI Handle KYC? Grounding LLMs For Due Diligence Tools](https://dev.to/onizuka/can-ai-handle-kyc-grounding-llms-for-due-diligence-tools-4i7f)**
+  *<p><code>#ai</code> <code>#kyc</code> <code>#compliance</code> <code>#duediligence</code> <code>#api</code> <code>#llm</code> <code>#fintech</code> <code>#rapidapi</code></p>
+
+
+
+
+<h2>
+  
+  
+  AI Write...*
+  📅 Sat, 01 Aug 2026 12:36:48 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[gabefishercb508/abay-bot-workflow-tools](https://github.com/gabefishercb508/abay-bot-workflow-tools)** ⭐ 52
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Telegram automation project for coordinating workflow tasks in the currently available 2026 build, with a compact HTML-oriented source structure, configurable settings, startup guidance, and an outlined update process.
-
-- **[danielmillersr2593/3d-print-tools-editor](https://github.com/danielmillersr2593/3d-print-tools-editor)** ⭐ 51
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Client-side browser toolkit for viewing, editing, inspecting, and preparing common 3D-printing files, with support generation and toolpath visualization. Use the hosted version or serve a local checkout.
-
-- **[ryanphqross9118/seliware-executor-script-update](https://github.com/ryanphqross9118/seliware-executor-script-update)** ⭐ 47
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Free Windows utility for running Lua scripts in Roblox with one-click injection, a 500+ script hub, saved execution queues, automatic updates, multilingual UI, and no key required. Supports Windows 10/11 64-bit.
-
-- **[noah-scottqkh6962/addon-ez-bedrock-loader](https://github.com/noah-scottqkh6962/addon-ez-bedrock-loader)** ⭐ 44
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Browser-based utility for discovering, preparing, and installing Bedrock sandbox-game add-ons through a simple web workflow, with an online version, local serving support, deployment guidance, update paths, and troubleshooting resources.
-
-- **[cooperchrispeo7238/delta-windows-script-executor](https://github.com/cooperchrispeo7238/delta-windows-script-executor)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Windows 10/11 desktop tool for running Lua scripts in Roblox, browsing a 500+ script hub, and using a compact interface. Free, 64-bit, and no key required for the 2026 workflow.
-
-- **[dylanreedtgqd6652/roblox-executor-script-hub](https://github.com/dylanreedtgqd6652/roblox-executor-script-hub)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Free Roblox script executor for Windows 10/11 64-bit, built for fast Lua and Luau execution, simple setup, no key required, low resource usage, and compatibility support through 2026.
-
-- **[hughesdylanbfz4294/ronix-script-hub-update](https://github.com/hughesdylanbfz4294/ronix-script-hub-update)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A compact Windows utility for running Lua scripts in Roblox, with one-click injection, a 500+ community script hub, batch queues, debugging tools, low resource use, and no key requirement for Windows 10 and 11 in 2026.
-
-- **[will-woodvyzr9966/azhai-seo-utility-hub](https://github.com/will-woodvyzr9966/azhai-seo-utility-hub)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Azhai is a browser-based toolkit with 31+ free AI, text, and SEO utilities for word counting, JSON cleanup, metadata generation, keyword evaluation, and related content workflows.
-
-### 📈 Weekly Trending
-
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,753
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open Frontier Intelligence
-
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 3,022
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Multiplayer agent harness for work
-
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 2,430
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 732
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Bringing real-time voice to life.
-
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 632
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
-
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 621
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
-
-- **[0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** ⭐ 572
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-- **[gavamedia/deltafin](https://github.com/gavamedia/deltafin)** ⭐ 570
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.
-
-### 📈 Monthly Trending
-
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,736
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,912
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Codex Dream Skin
-
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,413
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,837
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
-
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,575
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  AOS Community Edition: the open agent operating system.
-
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 7,872
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
-
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,753
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open Frontier Intelligence
-
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,194
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
 
 ## 🚀 Latest Releases
 
@@ -487,21 +391,21 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | ⚪ Planned |
 | Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
@@ -509,7 +413,7 @@ This is a security release.
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
@@ -517,29 +421,29 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
 | CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
