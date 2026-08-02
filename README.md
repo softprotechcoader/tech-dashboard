@@ -46,34 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html)**
-  *<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc10015.html">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139711">htt...*
-  📅 Sat, 01 Aug 2026 23:44:55 +0000
+- **[Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)**
+  *<p>Article URL: <a href="https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/">https://www.reuters.com/legal/litigation/aust...*
+  📅 Sun, 02 Aug 2026 07:06:18 +0000
 
-- **[A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)**
-  *<p>Article URL: <a href="https://www.droppedasbaby.com/posts/db-commits/">https://www.droppedasbaby.com/posts/db-commits/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4913956...*
-  📅 Sat, 01 Aug 2026 23:19:23 +0000
+- **[Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)**
+  *<p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://new...*
+  📅 Sun, 02 Aug 2026 04:21:14 +0000
 
-- **[Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)**
-  *<p>Article URL: <a href="https://www.kyoto-u.ac.jp/en/research-news/2026-07-28">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 01 Aug 2026 22:55:52 +0000
+- **[MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)**
+  *<p>Article URL: <a href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>
+<p>Comme...*
+  📅 Sun, 02 Aug 2026 03:12:52 +0000
 
-- **[Morph (YC S23) Is Hiring Member of Technical Staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>
-...*
-  📅 Sat, 01 Aug 2026 22:52:44 +0000
+- **[Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific)**
+  *<p>Article URL: <a href="https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific">https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sh...*
+  📅 Sun, 02 Aug 2026 02:51:15 +0000
 
-- **[Anime User Interfaces](https://animeuserinterface.tumblr.com)**
-  *<p>Article URL: <a href="https://animeuserinterface.tumblr.com">https://animeuserinterface.tumblr.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139304">https://news.ycom...*
-  📅 Sat, 01 Aug 2026 22:47:24 +0000
+- **[Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)**
+  *<p>Article URL: <a href="https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/">https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</a><...*
+  📅 Sun, 02 Aug 2026 02:26:52 +0000
 
-- **[AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)**
-  *<p>Article URL: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions">https://mitsloan.mit.edu/ideas-made-to-matter/ai-fin...*
-  📅 Sat, 01 Aug 2026 22:25:12 +0000
+- **[When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)**
+  *<p>Article URL: <a href="https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt">https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Sun, 02 Aug 2026 02:08:26 +0000
 
 ### 📑 TechCrunch
 
@@ -103,23 +101,18 @@
 
 ### 📑 Dev.to
 
-- **[I built a Skill and checker for MCP's breaking change 2026-08-26. Then the checker was wrong about it.](https://dev.to/vertigo91/i-built-a-skill-and-checker-for-mcps-breaking-change-2026-08-26-then-the-checker-was-wrong-about-1kb4)**
-  *<p>If you are migrating an MCP server right now, here is the thing that will cost you<br />
-an afternoon, before anything else in this post:</p>
+- **[Five things I noticed this week: GPT-5.6, Gemini Robotics 2, and GitHub stacked PRs](https://dev.to/morinaga/five-things-i-noticed-this-week-gpt-56-gemini-robotics-2-and-github-stacked-prs-4jdp)**
+  *<p>Another week of things to track. Five observations from July 28–31, roughly in order of what I think will still matter six months from now.</p>
 
-<p><strong><code>@modelcontextprotocol/sdk</code> has ...*
-  📅 Sun, 02 Aug 2026 01:41:26 +0000
-
-- **[Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474)**
-  *<h2>
+<h2>
   
   
-  Eliminating Stale Data Silos &amp; Complex Invalidation Loops in Flutter Apps
-</h2>
+  1. GPT-5.6 ships with a "price-performa...*
+  📅 Sun, 02 Aug 2026 08:01:35 +0000
 
-<blockquote>
-<p><strong>Key Takeaway</strong>: When separate <code>family</code> providers store param...*
-  📅 Sun, 02 Aug 2026 01:34:18 +0000
+- **[Make agent-callable writes idempotent, or lose data](https://dev.to/frihet/make-agent-callable-writes-idempotent-or-lose-data-2n5m)**
+  *<p>An agent-native product isn't a chatbot bolted onto a CRUD app — it's an MCP server that lets an agent <em>do</em> things. Read invoices, create expenses, mark a client overdue. The demo is easy. T...*
+  📅 Sun, 02 Aug 2026 08:00:11 +0000
 
 </details>
 
@@ -127,103 +120,103 @@ an afternoon, before anything else in this post:</p>
 
 ### 📈 Daily Trending
 
-- **[ThrushAdvance/telegram-fix-1.8.0](https://github.com/ThrushAdvance/telegram-fix-1.8.0)** ⭐ 4
+- **[kvvipa0028/NBShell_For_Ipad](https://github.com/kvvipa0028/NBShell_For_Ipad)** ⭐ 44
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Shell for ipad
+
+- **[xyaz1313/phoenix](https://github.com/xyaz1313/phoenix)** ⭐ 18
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  不死鸟 Phoenix — Hermes Agent 插件：路由分档/风险防线/记忆/自愈，官方钩子接入，不改 Hermes 核心代码
+
+- **[Unkn0wn-dx/RE-HARMONY](https://github.com/Unkn0wn-dx/RE-HARMONY)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Configure a Logitech Harmony One again
+
+- **[BottomKomodoCorridor/telegram-fix-2.0.0](https://github.com/BottomKomodoCorridor/telegram-fix-2.0.0)** ⭐ 11
   ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  Discord Fix 1.9.9 — connecting · голос RTC · обход DPI Windows · ⬇ Скачать (02.08.2026) · ⬇ telegram-fix-1.8.0.rar в Releases
+  YouTube Unban 1.9.9 — обход DPI · 4K · буферизация · без VPN · ⬇ Releases (02.08.2026) · ⬇ telegram-fix-2.0.0.rar в Releases
 
-- **[vxssroott/Ruskey-1](https://github.com/vxssroott/Ruskey-1)** ⭐ 4
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A rust interpreter implementation of custom programming language Monkey
-
-- **[krssroot/Metamask-core](https://github.com/krssroot/Metamask-core)** ⭐ 4
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  This monorepo is a collection of packages used across multiple MetaMask clients
-
-- **[ThrushAdvance/youtube-unban-2.0.0](https://github.com/ThrushAdvance/youtube-unban-2.0.0)** ⭐ 4
+- **[BottomKomodoCorridor/youtube-unban](https://github.com/BottomKomodoCorridor/youtube-unban)** ⭐ 8
   ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  YouTube Unban 1.9.9 — обход DPI · 4K · буферизация · без VPN · ⬇ Releases (02.08.2026) · ⬇ youtube-unban-2.0.0.rar в Releases
+  GoodbyeDPI — обход DPI Windows 10/11 · Discord/YouTube · ⬇ Releases (02.08.2026) · ⬇ youtube-unban.rar в Releases
 
-- **[ThrushAdvance/discord-fix](https://github.com/ThrushAdvance/discord-fix)** ⭐ 4
+- **[Sliverkiss/traework2api](https://github.com/Sliverkiss/traework2api)** ⭐ 8
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  None
+
+- **[ScoutProvost/zapret-discord-youtube-19.9](https://github.com/ScoutProvost/zapret-discord-youtube-19.9)** ⭐ 8
   ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  Discord + YouTube Fix — DPI bypass · RTC + 4K · без VPN · ⬇ Releases (02.08.2026) · ⬇ discord-fix.rar в Releases
+  Telegram Fix — подключение · медиа · обход DPI · без VPN · ⬇ Releases (02.08.2026) · ⬇ zapret-discord-youtube-19.9.rar в Releases
 
-- **[ThrushAdvance/youtube-fix-19.9.0](https://github.com/ThrushAdvance/youtube-fix-19.9.0)** ⭐ 4
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  YouTube Shorts Fix — буферизация · Unban · обход DPI Windows · ⬇ Releases (02.08.2026) · ⬇ youtube-fix-19.9.0.rar в Releases
-
-- **[JaramiyoSM/jrmy_tags](https://github.com/JaramiyoSM/jrmy_tags)** ⭐ 3
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
-  Persistent player tags for FiveM with custom styles, local animated backgrounds and Qbox, QBCore and ESX support.
-
-- **[ThrushAdvance/discord-youtube-fix-1.9.9](https://github.com/ThrushAdvance/discord-youtube-fix-1.9.9)** ⭐ 2
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  YouTube Fix 19.9 — буферизация · Shorts · 4K · обход DPI · ⬇ Скачать (02.08.2026) · ⬇ discord-youtube-fix-1.9.9.rar в Releases
+- **[liangdabiao/story-handdrawn-remotion](https://github.com/liangdabiao/story-handdrawn-remotion)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  视频SKILL: 把一段中文故事文本变成  「手绘日记漫画风」竖屏视频。  核心方法论：**不是把一张漂亮图配文字朗读，而是把每句故事拆成「文字 → 黑白画稿 → 彩色插画」三阶段横向擦除揭示，让一句话被画出三次。
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,826
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,846
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 5,043
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 5,513
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,091
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,196
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,301
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,555
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,028
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,256
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 765
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 1,027
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 774
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bringing real-time voice to life.
 
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 688
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 741
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 660
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,800
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,821
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,946
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,954
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,602
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,713
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,944
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,987
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,576
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,575
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,001
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,033
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,826
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,846
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,262
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,273
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -493,10 +486,10 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
@@ -505,46 +498,46 @@ This is a security release.
 | React | 🔴 Beginner |
 | Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
