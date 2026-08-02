@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)**
-  *<p>Article URL: <a href="https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/">https://www.reuters.com/legal/litigation/aust...*
-  📅 Sun, 02 Aug 2026 07:06:18 +0000
+- **[Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)**
+  *<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
+<p>C...*
+  📅 Sun, 02 Aug 2026 12:36:07 +0000
 
-- **[Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)**
-  *<p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://new...*
-  📅 Sun, 02 Aug 2026 04:21:14 +0000
+- **[An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)**
+  *<p>Article URL: <a href="https://twitter.com/polynoamial/status/2083467194663571701">https://twitter.com/polynoamial/status/2083467194663571701</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sun, 02 Aug 2026 12:01:37 +0000
 
-- **[MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)**
-  *<p>Article URL: <a href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>
-<p>Comme...*
-  📅 Sun, 02 Aug 2026 03:12:52 +0000
+- **[Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-de...*
+  📅 Sun, 02 Aug 2026 12:01:00 +0000
 
-- **[Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific)**
-  *<p>Article URL: <a href="https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific">https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sh...*
-  📅 Sun, 02 Aug 2026 02:51:15 +0000
+- **[Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)**
+  *<p>Article URL: <a href="https://website-auditor.io/ai-visibility-index">https://website-auditor.io/ai-visibility-index</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143630"...*
+  📅 Sun, 02 Aug 2026 11:53:52 +0000
 
-- **[Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)**
-  *<p>Article URL: <a href="https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/">https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/</a><...*
-  📅 Sun, 02 Aug 2026 02:26:52 +0000
+- **[Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)**
+  *<p>Article URL: <a href="https://meshdiff.com/">https://meshdiff.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143479">https://news.ycombinator.com/item?id=49143479</a>...*
+  📅 Sun, 02 Aug 2026 11:34:41 +0000
 
-- **[When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)**
-  *<p>Article URL: <a href="https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt">https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Sun, 02 Aug 2026 02:08:26 +0000
+- **[Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)**
+  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes">https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes</a><...*
+  📅 Sun, 02 Aug 2026 11:24:20 +0000
 
 ### 📑 TechCrunch
 
@@ -101,18 +102,17 @@
 
 ### 📑 Dev.to
 
-- **[Five things I noticed this week: GPT-5.6, Gemini Robotics 2, and GitHub stacked PRs](https://dev.to/morinaga/five-things-i-noticed-this-week-gpt-56-gemini-robotics-2-and-github-stacked-prs-4jdp)**
-  *<p>Another week of things to track. Five observations from July 28–31, roughly in order of what I think will still matter six months from now.</p>
+- **[Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi)**
+  *<p>Static site generation has a branding problem. Say "static site" and people picture a blog with twelve posts and a contact form. So how far can you actually push it before you need a backend?</p>
 
-<h2>
-  
-  
-  1. GPT-5.6 ships with a "price-performa...*
-  📅 Sun, 02 Aug 2026 08:01:35 +0000
+...*
+  📅 Sun, 02 Aug 2026 12:51:08 +0000
 
-- **[Make agent-callable writes idempotent, or lose data](https://dev.to/frihet/make-agent-callable-writes-idempotent-or-lose-data-2n5m)**
-  *<p>An agent-native product isn't a chatbot bolted onto a CRUD app — it's an MCP server that lets an agent <em>do</em> things. Read invoices, create expenses, mark a client overdue. The demo is easy. T...*
-  📅 Sun, 02 Aug 2026 08:00:11 +0000
+- **[Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)**
+  *<blockquote>
+<p><em>Keep the shell. Preserve the presence. The ally doesn't suspect; the enemy doesn't move.</em><br />
+— The 36 Stratagems, <a href="https://en.wikipedia.org/wiki/Thirty-Six_Stratagem...*
+  📅 Sun, 02 Aug 2026 12:49:29 +0000
 
 </details>
 
@@ -120,87 +120,87 @@
 
 ### 📈 Daily Trending
 
-- **[kvvipa0028/NBShell_For_Ipad](https://github.com/kvvipa0028/NBShell_For_Ipad)** ⭐ 44
+- **[WilonityBooster/Wilonity-GameFPS-Booster](https://github.com/WilonityBooster/Wilonity-GameFPS-Booster)** ⭐ 153
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  GameFPS Booster – ultimate FPS optimizer for gamers. Boost FPS, reduce input lag, eliminate stutter in CS2, Valorant, Rust, Apex, Fortnite, Warzone, R6S, Tarkov, and more. Advanced CPU/GPU tweaks, process priority, registry optimization, power plan, and real-time performance tuning. Windows 10/11 x64.
+
+- **[kvvipa0028/NBShell_For_Ipad](https://github.com/kvvipa0028/NBShell_For_Ipad)** ⭐ 111
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Shell for ipad
 
-- **[xyaz1313/phoenix](https://github.com/xyaz1313/phoenix)** ⭐ 18
+- **[talivia-group/agent](https://github.com/talivia-group/agent)** ⭐ 71
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Revenue-first website analytics installed and verified by AI agents through MCP
+
+- **[xyaz1313/phoenix](https://github.com/xyaz1313/phoenix)** ⭐ 34
   ![Python](https://img.shields.io/badge/-Python-blue)
   不死鸟 Phoenix — Hermes Agent 插件：路由分档/风险防线/记忆/自愈，官方钩子接入，不改 Hermes 核心代码
 
-- **[Unkn0wn-dx/RE-HARMONY](https://github.com/Unkn0wn-dx/RE-HARMONY)** ⭐ 12
+- **[Unkn0wn-dx/RE-HARMONY](https://github.com/Unkn0wn-dx/RE-HARMONY)** ⭐ 25
   ![Python](https://img.shields.io/badge/-Python-blue)
   Configure a Logitech Harmony One again
 
-- **[BottomKomodoCorridor/telegram-fix-2.0.0](https://github.com/BottomKomodoCorridor/telegram-fix-2.0.0)** ⭐ 11
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  YouTube Unban 1.9.9 — обход DPI · 4K · буферизация · без VPN · ⬇ Releases (02.08.2026) · ⬇ telegram-fix-2.0.0.rar в Releases
+- **[chenziren912/JavaChatServer](https://github.com/chenziren912/JavaChatServer)** ⭐ 21
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Lightweight Java 17 social platform built with the native HttpServer, featuring chat, moments, groups, cloud drive, music, video, mini-games, and AI assistance.
 
-- **[BottomKomodoCorridor/youtube-unban](https://github.com/BottomKomodoCorridor/youtube-unban)** ⭐ 8
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  GoodbyeDPI — обход DPI Windows 10/11 · Discord/YouTube · ⬇ Releases (02.08.2026) · ⬇ youtube-unban.rar в Releases
+- **[BruceLanLan/sol-luna-engineering-workflow](https://github.com/BruceLanLan/sol-luna-engineering-workflow)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Luna-first Codex workflow: Luna Max by default, parallel Luna workers, and Sol Advisor only for genuinely difficult decisions.
 
-- **[Sliverkiss/traework2api](https://github.com/Sliverkiss/traework2api)** ⭐ 8
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  None
-
-- **[ScoutProvost/zapret-discord-youtube-19.9](https://github.com/ScoutProvost/zapret-discord-youtube-19.9)** ⭐ 8
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  Telegram Fix — подключение · медиа · обход DPI · без VPN · ⬇ Releases (02.08.2026) · ⬇ zapret-discord-youtube-19.9.rar в Releases
-
-- **[liangdabiao/story-handdrawn-remotion](https://github.com/liangdabiao/story-handdrawn-remotion)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  视频SKILL: 把一段中文故事文本变成  「手绘日记漫画风」竖屏视频。  核心方法论：**不是把一张漂亮图配文字朗读，而是把每句故事拆成「文字 → 黑白画稿 → 彩色插画」三阶段横向擦除揭示，让一句话被画出三次。
+- **[beibei030/classic-grid](https://github.com/beibei030/classic-grid)** ⭐ 15
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Classic grid bot: Extended / RISEx / Decibel / N1 / Phoenix
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,846
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,869
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 5,513
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 6,009
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,196
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,328
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,555
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,697
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,256
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,368
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 1,027
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 1,306
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 774
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 776
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bringing real-time voice to life.
 
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 741
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 774
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,821
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,846
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,954
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,962
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,713
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,787
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,987
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,029
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
@@ -208,15 +208,15 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,033
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,081
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,846
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,869
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,273
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,303
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -486,39 +486,39 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
 | Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
@@ -526,17 +526,17 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
