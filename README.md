@@ -46,35 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)**
-  *<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
-<p>C...*
-  📅 Sun, 02 Aug 2026 12:36:07 +0000
+- **[Harvesting SSH Credentials: Insights from My Honeypot Network](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)**
+  *<p>Article URL: <a href="https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from...*
+  📅 Sun, 02 Aug 2026 17:45:51 +0000
 
-- **[An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)**
-  *<p>Article URL: <a href="https://twitter.com/polynoamial/status/2083467194663571701">https://twitter.com/polynoamial/status/2083467194663571701</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sun, 02 Aug 2026 12:01:37 +0000
+- **[Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)**
+  *<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark system...*
+  📅 Sun, 02 Aug 2026 17:05:54 +0000
 
-- **[Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-de...*
-  📅 Sun, 02 Aug 2026 12:01:00 +0000
+- **[Pushes to arch AUR are suspendended right now.](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)**
+  *<p>Article URL: <a href="https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/">https://lists.archlinux.org/archives/list/aur-general@list...*
+  📅 Sun, 02 Aug 2026 17:03:02 +0000
 
-- **[Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)**
-  *<p>Article URL: <a href="https://website-auditor.io/ai-visibility-index">https://website-auditor.io/ai-visibility-index</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143630"...*
-  📅 Sun, 02 Aug 2026 11:53:52 +0000
+- **[Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)**
+  *<p>Article URL: <a href="https://github.com/wie-project/kakehashi">https://github.com/wie-project/kakehashi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145937">https://new...*
+  📅 Sun, 02 Aug 2026 16:26:40 +0000
 
-- **[Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)**
-  *<p>Article URL: <a href="https://meshdiff.com/">https://meshdiff.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143479">https://news.ycombinator.com/item?id=49143479</a>...*
-  📅 Sun, 02 Aug 2026 11:34:41 +0000
+- **[Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)**
+  *<p>Article URL: <a href="https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/">https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sun, 02 Aug 2026 16:19:17 +0000
 
-- **[Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)**
-  *<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes">https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes</a><...*
-  📅 Sun, 02 Aug 2026 11:24:20 +0000
+- **[How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)**
+  *<p>Article URL: <a href="https://pudding.cool/2026/07/essential-words/">https://pudding.cool/2026/07/essential-words/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145590">h...*
+  📅 Sun, 02 Aug 2026 15:41:08 +0000
 
 ### 📑 TechCrunch
+
+- **[Malaysia is reportedly shutting down Balaji Srinivasan’s Network School](https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/)**
+  *Let's see how this "frontier community for techno-optimists" is doing ......*
+  📅 Sun, 02 Aug 2026 17:05:07 +0000
+
+- **[TechCrunch Mobility: Two roads diverged — for robotaxis](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
+  📅 Sun, 02 Aug 2026 16:05:00 +0000
+
+- **[These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/)**
+  *Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ...*
+  📅 Sun, 02 Aug 2026 15:23:19 +0000
 
 - **[Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)**
   *How one founder house is betting work-life balance can beat burnout ....*
@@ -88,31 +99,25 @@
   *Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."...*
   📅 Sat, 01 Aug 2026 19:45:45 +0000
 
-- **[Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/)**
-  *Apple's new Upgrade program is the latest sign that smartphone ownership is changing....*
-  📅 Sat, 01 Aug 2026 18:47:27 +0000
-
-- **[Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)**
-  *OpenAI's CEO seemed excited to share a "cool use case" for parents....*
-  📅 Sat, 01 Aug 2026 17:07:34 +0000
-
-- **[This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/)**
-  *This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....*
-  📅 Sat, 01 Aug 2026 15:58:17 +0000
-
 ### 📑 Dev.to
 
-- **[Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi)**
-  *<p>Static site generation has a branding problem. Say "static site" and people picture a blog with twelve posts and a contact form. So how far can you actually push it before you need a backend?</p>
-
-...*
-  📅 Sun, 02 Aug 2026 12:51:08 +0000
-
-- **[Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)**
+- **[Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)**
   *<blockquote>
-<p><em>Keep the shell. Preserve the presence. The ally doesn't suspect; the enemy doesn't move.</em><br />
-— The 36 Stratagems, <a href="https://en.wikipedia.org/wiki/Thirty-Six_Stratagem...*
-  📅 Sun, 02 Aug 2026 12:49:29 +0000
+<p>Your API works perfectly today.</p>
+
+<p>Then six months later, your transaction table grows from 10,000 records to 10million records.</p>
+
+<p>Suddenly, requests that once took 80ms now...*
+  📅 Sun, 02 Aug 2026 18:44:46 +0000
+
+- **[[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18)**
+  *<p><strong>Full title:</strong> [Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why Copy Is Not Recommended</p>
+
+<h2>
+  
+  
+ ...*
+  📅 Sun, 02 Aug 2026 18:42:24 +0000
 
 </details>
 
@@ -120,9 +125,13 @@
 
 ### 📈 Daily Trending
 
-- **[WilonityBooster/Wilonity-GameFPS-Booster](https://github.com/WilonityBooster/Wilonity-GameFPS-Booster)** ⭐ 153
+- **[WilonityBooster/Wilonity-GameFPS-Booster](https://github.com/WilonityBooster/Wilonity-GameFPS-Booster)** ⭐ 253
   ![None](https://img.shields.io/badge/-None-lightgrey)
   GameFPS Booster – ultimate FPS optimizer for gamers. Boost FPS, reduce input lag, eliminate stutter in CS2, Valorant, Rust, Apex, Fortnite, Warzone, R6S, Tarkov, and more. Advanced CPU/GPU tweaks, process priority, registry optimization, power plan, and real-time performance tuning. Windows 10/11 x64.
+
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 193
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
 - **[kvvipa0028/NBShell_For_Ipad](https://github.com/kvvipa0028/NBShell_For_Ipad)** ⭐ 111
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
@@ -132,75 +141,71 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Revenue-first website analytics installed and verified by AI agents through MCP
 
-- **[xyaz1313/phoenix](https://github.com/xyaz1313/phoenix)** ⭐ 34
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  不死鸟 Phoenix — Hermes Agent 插件：路由分档/风险防线/记忆/自愈，官方钩子接入，不改 Hermes 核心代码
-
-- **[Unkn0wn-dx/RE-HARMONY](https://github.com/Unkn0wn-dx/RE-HARMONY)** ⭐ 25
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Configure a Logitech Harmony One again
-
-- **[chenziren912/JavaChatServer](https://github.com/chenziren912/JavaChatServer)** ⭐ 21
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Lightweight Java 17 social platform built with the native HttpServer, featuring chat, moments, groups, cloud drive, music, video, mini-games, and AI assistance.
-
-- **[BruceLanLan/sol-luna-engineering-workflow](https://github.com/BruceLanLan/sol-luna-engineering-workflow)** ⭐ 16
+- **[BruceLanLan/sol-luna-engineering-workflow](https://github.com/BruceLanLan/sol-luna-engineering-workflow)** ⭐ 48
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Luna-first Codex workflow: Luna Max by default, parallel Luna workers, and Sol Advisor only for genuinely difficult decisions.
 
-- **[beibei030/classic-grid](https://github.com/beibei030/classic-grid)** ⭐ 15
+- **[bennjordan/Wavest](https://github.com/bennjordan/Wavest)** ⭐ 48
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption. 
+
+- **[beibei030/classic-grid](https://github.com/beibei030/classic-grid)** ⭐ 39
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Classic grid bot: Extended / RISEx / Decibel / N1 / Phoenix
 
+- **[xyaz1313/phoenix](https://github.com/xyaz1313/phoenix)** ⭐ 39
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  不死鸟 Phoenix — Hermes Agent 插件：路由分档/风险防线/记忆/自愈，官方钩子接入，不改 Hermes 核心代码
+
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,869
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,889
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 6,009
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 6,719
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,328
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,535
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,697
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,721
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,368
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 1,615
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An open-source, agentic-first CRM.
+
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,521
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 1,306
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 1,213
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 776
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Bringing real-time voice to life.
-
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 774
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 915
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,846
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,888
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,962
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,980
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,787
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,924
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,029
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,074
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
@@ -208,15 +213,15 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,081
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,142
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,869
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,889
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,303
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,337
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -485,20 +490,20 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟢 Proficient |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | ⚪ Planned |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
@@ -506,27 +511,27 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
 | NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
 | AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
@@ -536,8 +541,8 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
