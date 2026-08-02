@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 01, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 02, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,36 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)**
-  *<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</...*
-  📅 Sat, 01 Aug 2026 18:25:00 +0000
+- **[RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html)**
+  *<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc10015.html">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139711">htt...*
+  📅 Sat, 01 Aug 2026 23:44:55 +0000
 
-- **[NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)**
-  *<p>Article URL: <a href="https://blog.netbsd.org/tnf/entry/netbsd_11_0_released">https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sat, 01 Aug 2026 17:56:41 +0000
+- **[A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)**
+  *<p>Article URL: <a href="https://www.droppedasbaby.com/posts/db-commits/">https://www.droppedasbaby.com/posts/db-commits/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4913956...*
+  📅 Sat, 01 Aug 2026 23:19:23 +0000
 
-- **[A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)**
-  *<p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136...*
-  📅 Sat, 01 Aug 2026 16:52:41 +0000
+- **[Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)**
+  *<p>Article URL: <a href="https://www.kyoto-u.ac.jp/en/research-news/2026-07-28">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sat, 01 Aug 2026 22:55:52 +0000
 
-- **[Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)**
-  *<p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>...*
-  📅 Sat, 01 Aug 2026 16:45:40 +0000
+- **[Morph (YC S23) Is Hiring Member of Technical Staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>
+...*
+  📅 Sat, 01 Aug 2026 22:52:44 +0000
 
-- **[Franken.domains: Stitched-Together Domains, Because Every .com Is Taken](https://franken.domains/)**
-  *<p>Article URL: <a href="https://franken.domains/">https://franken.domains/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135975">https://news.ycombinator.com/item?id=491359...*
-  📅 Sat, 01 Aug 2026 16:44:49 +0000
+- **[Anime User Interfaces](https://animeuserinterface.tumblr.com)**
+  *<p>Article URL: <a href="https://animeuserinterface.tumblr.com">https://animeuserinterface.tumblr.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139304">https://news.ycom...*
+  📅 Sat, 01 Aug 2026 22:47:24 +0000
 
-- **[Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)**
-  *<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135546">https://news.yc...*
-  📅 Sat, 01 Aug 2026 16:01:22 +0000
+- **[AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)**
+  *<p>Article URL: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions">https://mitsloan.mit.edu/ideas-made-to-matter/ai-fin...*
+  📅 Sat, 01 Aug 2026 22:25:12 +0000
 
 ### 📑 TechCrunch
+
+- **[Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)**
+  *How one founder house is betting work-life balance can beat burnout ....*
+  📅 Sat, 01 Aug 2026 21:14:48 +0000
+
+- **[Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)**
+  *Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward....*
+  📅 Sat, 01 Aug 2026 20:26:04 +0000
+
+- **[YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)**
+  *Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."...*
+  📅 Sat, 01 Aug 2026 19:45:45 +0000
 
 - **[Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/)**
   *Apple's new Upgrade program is the latest sign that smartphone ownership is changing....*
@@ -89,34 +101,25 @@
   *This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....*
   📅 Sat, 01 Aug 2026 15:58:17 +0000
 
-- **[Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/)**
-  *Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships....*
-  📅 Sat, 01 Aug 2026 15:05:00 +0000
-
-- **[Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/)**
-  *If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help....*
-  📅 Sat, 01 Aug 2026 14:00:00 +0000
-
-- **[What’s the best handheld mini fan?](https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/)**
-  *From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable....*
-  📅 Sat, 01 Aug 2026 13:36:54 +0000
-
 ### 📑 Dev.to
 
-- **[React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42)**
-  *<p>Welcome back to the <strong>React Mastery Series</strong>!</p>
+- **[I built a Skill and checker for MCP's breaking change 2026-08-26. Then the checker was wrong about it.](https://dev.to/vertigo91/i-built-a-skill-and-checker-for-mcps-breaking-change-2026-08-26-then-the-checker-was-wrong-about-1kb4)**
+  *<p>If you are migrating an MCP server right now, here is the thing that will cost you<br />
+an afternoon, before anything else in this post:</p>
 
-<p>In the previous article, we explored <strong>useEffect Hook</strong> and learned how React handles side effects such as:</p>
+<p><strong><code>@modelcontextprotocol/sdk</code> has ...*
+  📅 Sun, 02 Aug 2026 01:41:26 +0000
 
-<ul>...*
-  📅 Sat, 01 Aug 2026 18:49:01 +0000
+- **[Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474)**
+  *<h2>
+  
+  
+  Eliminating Stale Data Silos &amp; Complex Invalidation Loops in Flutter Apps
+</h2>
 
-- **[Your DEX tool is probably overstating Uniswap v3 TVL by 25x](https://dev.to/donnyautomation/your-dex-tool-is-probably-overstating-uniswap-v3-tvl-by-25x-og6)**
-  *<p>I shipped a bug into a paid API and it took me a while to see it, because nothing<br />
-errored. Every response was a clean HTTP 200 with a confident number in it.</p>
-
-<p>The number was wrong by <...*
-  📅 Sat, 01 Aug 2026 18:44:16 +0000
+<blockquote>
+<p><strong>Key Takeaway</strong>: When separate <code>family</code> providers store param...*
+  📅 Sun, 02 Aug 2026 01:34:18 +0000
 
 </details>
 
@@ -124,103 +127,103 @@ errored. Every response was a clean HTTP 200 with a confident number in it.</p>
 
 ### 📈 Daily Trending
 
-- **[openai/ten-proofs](https://github.com/openai/ten-proofs)** ⭐ 157
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  Lean certificates accompanying proofs in mathematics and theoretical computer science
+- **[ThrushAdvance/telegram-fix-1.8.0](https://github.com/ThrushAdvance/telegram-fix-1.8.0)** ⭐ 4
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  Discord Fix 1.9.9 — connecting · голос RTC · обход DPI Windows · ⬇ Скачать (02.08.2026) · ⬇ telegram-fix-1.8.0.rar в Releases
 
-- **[asdafgs419/Extreme-FPS-Boost](https://github.com/asdafgs419/Extreme-FPS-Boost)** ⭐ 117
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Extreme FPS Boost is a lightweight Windows 10/11 gaming optimizer designed to improve FPS stability, reduce input lag, and enhance overall system performance.
+- **[vxssroott/Ruskey-1](https://github.com/vxssroott/Ruskey-1)** ⭐ 4
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A rust interpreter implementation of custom programming language Monkey
 
-- **[luckyzyx/LuckyTool](https://github.com/luckyzyx/LuckyTool)** ⭐ 113
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  对ColorOS进行扩展优化的Xposed模块，永久免费
+- **[krssroot/Metamask-core](https://github.com/krssroot/Metamask-core)** ⭐ 4
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  This monorepo is a collection of packages used across multiple MetaMask clients
 
-- **[x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi)** ⭐ 103
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+- **[ThrushAdvance/youtube-unban-2.0.0](https://github.com/ThrushAdvance/youtube-unban-2.0.0)** ⭐ 4
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  YouTube Unban 1.9.9 — обход DPI · 4K · буферизация · без VPN · ⬇ Releases (02.08.2026) · ⬇ youtube-unban-2.0.0.rar в Releases
 
-- **[Anionex/codex-deepseek-vision](https://github.com/Anionex/codex-deepseek-vision)** ⭐ 101
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个可以让像deepseek-v4这样的纯文本模型, 在codex中无障碍调用内置看图工具(view_image)的方案，附为纯文本llm设计的视力工具包。
+- **[ThrushAdvance/discord-fix](https://github.com/ThrushAdvance/discord-fix)** ⭐ 4
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  Discord + YouTube Fix — DPI bypass · RTC + 4K · без VPN · ⬇ Releases (02.08.2026) · ⬇ discord-fix.rar в Releases
 
-- **[gabefishercb508/abay-bot-workflow-tools](https://github.com/gabefishercb508/abay-bot-workflow-tools)** ⭐ 52
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Telegram automation project for coordinating workflow tasks in the currently available 2026 build, with a compact HTML-oriented source structure, configurable settings, startup guidance, and an outlined update process.
+- **[ThrushAdvance/youtube-fix-19.9.0](https://github.com/ThrushAdvance/youtube-fix-19.9.0)** ⭐ 4
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  YouTube Shorts Fix — буферизация · Unban · обход DPI Windows · ⬇ Releases (02.08.2026) · ⬇ youtube-fix-19.9.0.rar в Releases
 
-- **[danielmillersr2593/3d-print-tools-editor](https://github.com/danielmillersr2593/3d-print-tools-editor)** ⭐ 51
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Client-side browser toolkit for viewing, editing, inspecting, and preparing common 3D-printing files, with support generation and toolpath visualization. Use the hosted version or serve a local checkout.
+- **[JaramiyoSM/jrmy_tags](https://github.com/JaramiyoSM/jrmy_tags)** ⭐ 3
+  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+  Persistent player tags for FiveM with custom styles, local animated backgrounds and Qbox, QBCore and ESX support.
 
-- **[lij768423-svg/grok2api-egress-enhancements](https://github.com/lij768423-svg/grok2api-egress-enhancements)** ⭐ 49
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Unofficial grok2api egress recovery and quality-guard patch kit
+- **[ThrushAdvance/discord-youtube-fix-1.9.9](https://github.com/ThrushAdvance/discord-youtube-fix-1.9.9)** ⭐ 2
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  YouTube Fix 19.9 — буферизация · Shorts · 4K · обход DPI · ⬇ Скачать (02.08.2026) · ⬇ discord-youtube-fix-1.9.9.rar в Releases
 
 ### 📈 Weekly Trending
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,803
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,826
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 4,523
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 5,043
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 2,963
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,091
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,062
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** ⭐ 1,301
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 882
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,028
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 758
+- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 765
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Bringing real-time voice to life.
 
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 611
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 688
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 
-- **[DramaticShape/DramaticShapeVoxelMod](https://github.com/DramaticShape/DramaticShapeVoxelMod)** ⭐ 605
-  ![Lua](https://img.shields.io/badge/-Lua-lightgrey)
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 660
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,782
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,800
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,940
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,946
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,550
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 11,602
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,915
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 8,944
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,577
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,576
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 7,963
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,001
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,803
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,826
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,244
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** ⭐ 7,262
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -489,28 +492,28 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
@@ -518,30 +521,30 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
@@ -559,7 +562,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** August 01, 2026
+**Last Updated:** August 02, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
