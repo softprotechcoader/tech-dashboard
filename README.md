@@ -46,70 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)**
-  *<p>Article URL: <a href="https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui">https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Mon, 03 Aug 2026 13:34:43 +0000
+- **[The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)**
+  *<p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4915871...*
+  📅 Mon, 03 Aug 2026 17:18:06 +0000
 
-- **[SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)**
-  *<p>Article URL: <a href="https://dmarcguard.io/blog/spf-record-syntax/">https://dmarcguard.io/blog/spf-record-syntax/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49155626">h...*
-  📅 Mon, 03 Aug 2026 13:34:25 +0000
+- **[Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)**
+  *<p>Article URL: <a href="https://blog.cloudflare.com/smaller-faster-safer-models/">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Mon, 03 Aug 2026 17:08:46 +0000
 
-- **[30 years of CPUs at Tom's Hardware – looking back on three decades of processors](https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2)**
-  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2">https://...*
-  📅 Mon, 03 Aug 2026 13:26:06 +0000
+- **[Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)**
+  *<p>Article URL: <a href="https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase">https:/...*
+  📅 Mon, 03 Aug 2026 17:02:10 +0000
 
-- **[Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)**
-  *<p>Article URL: <a href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Mon, 03 Aug 2026 11:28:54 +0000
+- **[Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/)**
+  *<p>Article URL: <a href="https://hamvocke.com/blog/task-runners/">https://hamvocke.com/blog/task-runners/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158287">https://news....*
+  📅 Mon, 03 Aug 2026 16:51:51 +0000
 
-- **[9front "This Was Supposed to Be Fun" Released](https://9front.org/releases/2026/08/02/0/)**
-  *<p>Article URL: <a href="https://9front.org/releases/2026/08/02/0/">https://9front.org/releases/2026/08/02/0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154249">https://n...*
-  📅 Mon, 03 Aug 2026 11:17:56 +0000
+- **[SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust)**
+  *<p>Article URL: <a href="https://github.com/MikeLuu99/searxng-rust">https://github.com/MikeLuu99/searxng-rust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158141">https://n...*
+  📅 Mon, 03 Aug 2026 16:41:40 +0000
 
-- **[ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/ice-dna-collection-fbi-codis/">https://www.wired.com/story/ice-dna-collection-fbi-codis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Mon, 03 Aug 2026 11:16:33 +0000
+- **[Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)**
+  *<p>Hi HN, we’re Bence and Ryan, founders of Hoplite (<a href="https://hoplite.sh">https://hoplite.sh</a>). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incre...*
+  📅 Mon, 03 Aug 2026 16:32:06 +0000
 
 ### 📑 TechCrunch
 
-- **[Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/)**
-  *Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting....*
-  📅 Mon, 03 Aug 2026 12:50:46 +0000
+- **[Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)**
+  *OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue....*
+  📅 Mon, 03 Aug 2026 19:09:56 +0000
 
-- **[Samsung bans smart TV apps that share users’ internet connections with strangers](https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/)**
-  *New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else....*
-  📅 Mon, 03 Aug 2026 12:10:41 +0000
+- **[Apple challenges UK government’s latest demand for iCloud backdoor: report](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/)**
+  *Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world....*
+  📅 Mon, 03 Aug 2026 18:54:09 +0000
 
-- **[A Marc Benioff-backed startup thinks AI can solve the AI deployment problem](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)**
-  *June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler....*
-  📅 Mon, 03 Aug 2026 10:00:00 +0000
+- **[Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/)**
+  *Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents t...*
+  📅 Mon, 03 Aug 2026 18:43:43 +0000
 
-- **[The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/)**
-  *The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac....*
-  📅 Sun, 02 Aug 2026 21:33:59 +0000
+- **[Outernet turns your saved posts into real-world adventures](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/)**
+  *Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actual...*
+  📅 Mon, 03 Aug 2026 18:00:24 +0000
 
-- **[Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)**
-  *On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."...*
-  📅 Sun, 02 Aug 2026 20:54:22 +0000
+- **[WhatsApp says it is is fixing an issue that disabled several accounts](https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/)**
+  *Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app....*
+  📅 Mon, 03 Aug 2026 17:46:01 +0000
 
-- **[Malaysia is reportedly shutting down Balaji Srinivasan’s Network School](https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/)**
-  *Let's see how this "frontier community for techno-optimists" is doing ......*
-  📅 Sun, 02 Aug 2026 17:05:07 +0000
+- **[Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics](https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/)**
+  *Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June....*
+  📅 Mon, 03 Aug 2026 17:16:43 +0000
 
 ### 📑 Dev.to
 
-- **[How to Process a Large CSV in Node Without Running Out of Memory](https://dev.to/mwiginton/how-to-process-a-large-csv-in-node-without-running-out-of-memory-46dn)**
-  *<p>The code that processes a CSV in your tests looks reasonable. Read the file, parse the rows, aggregate the numbers. It passes review, it ships, and it runs fine for months. Then someone hands it a ...*
-  📅 Mon, 03 Aug 2026 14:16:32 +0000
+- **[Your Secrets Need a VDP, Not Just a Bug Bounty](https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei)**
+  *<h1>
+  
+  
+  Your Secrets Need a VDP, Not Just a Bug Bounty
+</h1>
 
-- **[Why My Cache Has No TTL](https://dev.to/shunya_shida/why-my-cache-has-no-ttl-oo7)**
-  *<p>Last time, I wrote about the dilemma of feeding specs scattered across multiple repositories to AI (<a href="https://dev.to/shunya_shida/index-everything-or-read-everything-the-dilemma-of-feeding-s...*
-  📅 Mon, 03 Aug 2026 14:14:35 +0000
+<p>Bug bounty programs are valuable -- until they replace disclosure policies. Learn how unreasonable PoC demands or scope exclusions...*
+  📅 Mon, 03 Aug 2026 18:57:04 +0000
+
+- **[How I built a 2-agent code review loop for local Ollama workflows](https://dev.to/haichi_ops_861a9ec315b1e7/how-i-built-a-2-agent-code-review-loop-for-local-ollama-workflows-le2)**
+  *<p>When running code reviews with local LLMs, a single model can either hallucinate non-existent bugs or generate generic advice you end up ignoring.</p>
+
+<p>To make local AI code review more useful, ...*
+  📅 Mon, 03 Aug 2026 18:54:15 +0000
 
 </details>
 
@@ -117,11 +124,23 @@
 
 ### 📈 Daily Trending
 
+- **[MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes)** ⭐ 128
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.
+
+- **[kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)** ⭐ 107
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.
+
+- **[joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo)** ⭐ 101
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, 
+
 - **[eveningregentawning/rust-external](https://github.com/eveningregentawning/rust-external)** ⭐ 87
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Memory analysis and process interaction tool for game data visualization and research. Educational purposes only.
 
-- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 76
+- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 77
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   灵犀跨境-开源共建版
 
@@ -129,49 +148,37 @@
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   None
 
-- **[joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo)** ⭐ 58
+- **[alexan0618/zkky](https://github.com/alexan0618/zkky)** ⭐ 64
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, 
+  直卡开源
 
-- **[JunzFundz/ITS300_WEBDEV](https://github.com/JunzFundz/ITS300_WEBDEV)** ⭐ 54
+- **[JunzFundz/ITS300_WEBDEV](https://github.com/JunzFundz/ITS300_WEBDEV)** ⭐ 56
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)** ⭐ 45
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.
-
-- **[lowiqentity/APEX](https://github.com/lowiqentity/APEX)** ⭐ 39
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes)** ⭐ 31
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.
-
 ### 📈 Weekly Trending
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,652
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 9,258
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 4,116
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 4,198
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 2,467
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 2,962
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source, agentic-first CRM.
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,944
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 2,015
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 1,410
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 1,489
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 
-- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 1,265
+- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 1,338
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.
 
@@ -179,29 +186,29 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
 
-- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 873
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
+- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 1,049
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,991
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,013
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,057
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,070
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,352
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,424
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,321
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,357
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,652
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 9,258
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
@@ -209,11 +216,11 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,321
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,354
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,961
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,974
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -318,15 +325,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 docker/compose
 
-**[v5.3.1](https://github.com/docker/compose/releases/tag/v5.3.1)** `v5.3.1`
+**[v5.4.0](https://github.com/docker/compose/releases/tag/v5.4.0)** `v5.4.0`
 
-📅 Released: July 07, 2026
+📅 Released: August 03, 2026
 
 ## What's Changed
 
-### 🔧  Internal
-* Ci: add concurrency group to pr-review-trigger to prevent duplicate reviews by @derekmisler in https://github.com/docker/compose/pull/13890
-* Fix grammar in At...
+> ℹ️ This release introduces a new way to reconcile resources such as volumes and networks
+
+### ✨ Improvements
+* Feat(reconcile): model volume recreation in the plan by @ndeloo...
 
 ---
 
@@ -483,28 +491,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🔴 Beginner |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
 | OWASP | 🔴 Beginner |
 
 ### Ai Ml
@@ -512,29 +520,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
