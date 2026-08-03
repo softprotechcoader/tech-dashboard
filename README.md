@@ -46,38 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)**
-  *<p>Article URL: <a href="https://github.com/janestreet/bonsai">https://github.com/janestreet/bonsai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152842">https://news.ycombi...*
-  📅 Mon, 03 Aug 2026 08:29:57 +0000
-
-- **[Octane – React's programming model, compiled](https://octanejs.dev)**
-  *<p>Article URL: <a href="https://octanejs.dev">https://octanejs.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152640">https://news.ycombinator.com/item?id=49152640</a></...*
-  📅 Mon, 03 Aug 2026 08:04:04 +0000
-
-- **[The Shape of Things to Come](https://yegge.ai/essays/the-shape-of-things-to-come/)**
-  *<p>Article URL: <a href="https://yegge.ai/essays/the-shape-of-things-to-come/">https://yegge.ai/essays/the-shape-of-things-to-come/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Mon, 03 Aug 2026 07:22:27 +0000
-
-- **[The AI Productivity Gap](https://bjorg.bjornroche.com/management/ai-productivity-gap/)**
-  *<p>Article URL: <a href="https://bjorg.bjornroche.com/management/ai-productivity-gap/">https://bjorg.bjornroche.com/management/ai-productivity-gap/</a></p>
+- **[MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)**
+  *<p>Article URL: <a href="https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui">https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui</a></p>
 <p>Comments URL: <a href="https://news.ycomb...*
-  📅 Mon, 03 Aug 2026 07:07:20 +0000
+  📅 Mon, 03 Aug 2026 13:34:43 +0000
 
-- **[Show HN: I created a project management system](https://is.team)**
-  *<p>Article URL: <a href="https://is.team">https://is.team</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152054">https://news.ycombinator.com/item?id=49152054</a></p>
-<p>Poin...*
-  📅 Mon, 03 Aug 2026 06:47:36 +0000
+- **[SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)**
+  *<p>Article URL: <a href="https://dmarcguard.io/blog/spf-record-syntax/">https://dmarcguard.io/blog/spf-record-syntax/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49155626">h...*
+  📅 Mon, 03 Aug 2026 13:34:25 +0000
 
-- **[Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)**
-  *<p>Article URL: <a href="https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md">https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</a></p>
-<p>C...*
-  📅 Mon, 03 Aug 2026 06:42:00 +0000
+- **[30 years of CPUs at Tom's Hardware – looking back on three decades of processors](https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2)**
+  *<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2">https://...*
+  📅 Mon, 03 Aug 2026 13:26:06 +0000
+
+- **[Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)**
+  *<p>Article URL: <a href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Mon, 03 Aug 2026 11:28:54 +0000
+
+- **[9front "This Was Supposed to Be Fun" Released](https://9front.org/releases/2026/08/02/0/)**
+  *<p>Article URL: <a href="https://9front.org/releases/2026/08/02/0/">https://9front.org/releases/2026/08/02/0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154249">https://n...*
+  📅 Mon, 03 Aug 2026 11:17:56 +0000
+
+- **[ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)**
+  *<p>Article URL: <a href="https://www.wired.com/story/ice-dna-collection-fbi-codis/">https://www.wired.com/story/ice-dna-collection-fbi-codis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Mon, 03 Aug 2026 11:16:33 +0000
 
 ### 📑 TechCrunch
+
+- **[Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/)**
+  *Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting....*
+  📅 Mon, 03 Aug 2026 12:50:46 +0000
+
+- **[Samsung bans smart TV apps that share users’ internet connections with strangers](https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/)**
+  *New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else....*
+  📅 Mon, 03 Aug 2026 12:10:41 +0000
+
+- **[A Marc Benioff-backed startup thinks AI can solve the AI deployment problem](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)**
+  *June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler....*
+  📅 Mon, 03 Aug 2026 10:00:00 +0000
 
 - **[The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/)**
   *The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac....*
@@ -91,33 +101,15 @@
   *Let's see how this "frontier community for techno-optimists" is doing ......*
   📅 Sun, 02 Aug 2026 17:05:07 +0000
 
-- **[TechCrunch Mobility: Two roads diverged — for robotaxis](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 02 Aug 2026 16:05:00 +0000
-
-- **[These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/)**
-  *Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ...*
-  📅 Sun, 02 Aug 2026 15:23:19 +0000
-
-- **[Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)**
-  *How one founder house is betting work-life balance can beat burnout ....*
-  📅 Sat, 01 Aug 2026 21:14:48 +0000
-
 ### 📑 Dev.to
 
-- **[Magento 2 Page Builder Performance Optimization](https://dev.to/magevanta/magento-2-page-builder-performance-optimization-13k2)**
-  *<p>Magento Page Builder is één van de krachtigste tools voor contentbeheer in Adobe Commerce. Het stelt merchants in staat om rijke, visuele landingspagina's, productpagina's en CMS content te bouwen ...*
-  📅 Mon, 03 Aug 2026 09:12:20 +0000
+- **[How to Process a Large CSV in Node Without Running Out of Memory](https://dev.to/mwiginton/how-to-process-a-large-csv-in-node-without-running-out-of-memory-46dn)**
+  *<p>The code that processes a CSV in your tests looks reasonable. Read the file, parse the rows, aggregate the numbers. It passes review, it ships, and it runs fine for months. Then someone hands it a ...*
+  📅 Mon, 03 Aug 2026 14:16:32 +0000
 
-- **[5 Most Important Programming Languages to Learn in 2026 (Based on Real Industry Demand)](https://dev.to/hadil/5-most-important-programming-languages-to-learn-in-2026-based-on-real-industry-demand-3dc7)**
-  *<p>Every year, developers ask the same question:</p>
-
-<p><em>"Which programming language should I learn next?"</em></p>
-
-<p>And every year, the internet gives us a hundred different answers.</p>
-
-<p>O...*
-  📅 Mon, 03 Aug 2026 09:05:57 +0000
+- **[Why My Cache Has No TTL](https://dev.to/shunya_shida/why-my-cache-has-no-ttl-oo7)**
+  *<p>Last time, I wrote about the dilemma of feeding specs scattered across multiple repositories to AI (<a href="https://dev.to/shunya_shida/index-everything-or-read-everything-the-dilemma-of-feeding-s...*
+  📅 Mon, 03 Aug 2026 14:14:35 +0000
 
 </details>
 
@@ -125,103 +117,103 @@
 
 ### 📈 Daily Trending
 
-- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 75
+- **[eveningregentawning/rust-external](https://github.com/eveningregentawning/rust-external)** ⭐ 87
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Memory analysis and process interaction tool for game data visualization and research. Educational purposes only.
+
+- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 76
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   灵犀跨境-开源共建版
 
-- **[JunzFundz/ITS300_WEBDEV](https://github.com/JunzFundz/ITS300_WEBDEV)** ⭐ 44
+- **[yuhuangerdi/InduSecAgent](https://github.com/yuhuangerdi/InduSecAgent)** ⭐ 72
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+  None
+
+- **[joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo)** ⭐ 58
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, 
+
+- **[JunzFundz/ITS300_WEBDEV](https://github.com/JunzFundz/ITS300_WEBDEV)** ⭐ 54
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   None
 
-- **[lowiqentity/APEX](https://github.com/lowiqentity/APEX)** ⭐ 16
+- **[kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)** ⭐ 45
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.
+
+- **[lowiqentity/APEX](https://github.com/lowiqentity/APEX)** ⭐ 39
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[YuKongA/twrp_device_xiaomi_sm8850](https://github.com/YuKongA/twrp_device_xiaomi_sm8850)** ⭐ 16
-  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
-  TWRP device tree for Xiaomi SM8850
-
-- **[MasterLocksmithTrim/BoosterX-PRO-Crack](https://github.com/MasterLocksmithTrim/BoosterX-PRO-Crack)** ⭐ 15
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Windows optimization utility featuring gaming tweaks, FPS improvements, latency reduction, startup management, privacy controls, backup & restore, and advanced performance optimization tools.
-
-- **[Shieldaelight82/language-tool-2026](https://github.com/Shieldaelight82/language-tool-2026)** ⭐ 13
+- **[MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes)** ⭐ 31
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  LanguageTool Desktop — LanguageTool Desktop Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
-
-- **[HGaurnaan/Nutricoach-AI](https://github.com/HGaurnaan/Nutricoach-AI)** ⭐ 13
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[galleryfollowerchant/litmos](https://github.com/galleryfollowerchant/litmos)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Litmos — Litmos Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
+  A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.
 
 ### 📈 Weekly Trending
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,134
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,652
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,978
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 4,116
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 2,086
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 2,467
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source, agentic-first CRM.
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,868
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,944
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 1,315
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 1,410
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 
-- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 1,219
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
-
-- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 1,125
+- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 1,265
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.
 
-- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 822
+- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 1,220
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
+
+- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 873
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,972
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,991
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,034
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,057
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,256
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,352
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,257
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,321
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,652
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multiplayer agent harness for work
 
 - **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,574
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,291
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,321
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,134
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Multiplayer agent harness for work
-
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,949
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,961
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -340,16 +332,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-07-29, Version 26.5.1 (Current), @RafaelGSS](https://github.com/nodejs/node/releases/tag/v26.5.1)** `v26.5.1`
+**[2026-08-03, Version 26.6.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.6.0)** `v26.6.0`
 
-📅 Released: July 29, 2026
+📅 Released: August 03, 2026
 
-This is a security release.
+
+
 
 ### Notable Changes
 
-* (CVE-2026-56848) http2: defer rst stream while in scope (Matteo Collina) – High
-* (CVE-2026-58043) permission: avoid granting radix split nodes...
+* \[[`5a36018abc`](https://github.com/nodejs/node/commit/5a36018abc)] - **doc**: add MikeMcC399 as collaborator (Mike McCready) [#64656](https://github.com/nodejs/node/pull/646...
 
 ---
 
@@ -492,17 +484,17 @@ This is a security release.
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
+| Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
 | Next.js | 🟡 Learning |
 
@@ -510,19 +502,19 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
 | PyTorch | 🔴 Beginner |
 
@@ -530,19 +522,19 @@ This is a security release.
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
