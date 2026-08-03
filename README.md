@@ -46,35 +46,36 @@
 
 ### 📑 Hacker News
 
-- **[RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)**
-  *<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc9851.html">https://www.rfc-editor.org/rfc/rfc9851.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150181">https...*
-  📅 Mon, 03 Aug 2026 01:23:26 +0000
+- **[Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)**
+  *<p>Article URL: <a href="https://github.com/janestreet/bonsai">https://github.com/janestreet/bonsai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152842">https://news.ycombi...*
+  📅 Mon, 03 Aug 2026 08:29:57 +0000
 
-- **[Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/)**
-  *<p>Article URL: <a href="https://sf.isopolis.city/">https://sf.isopolis.city/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149966">https://news.ycombinator.com/item?id=4914...*
-  📅 Mon, 03 Aug 2026 00:46:38 +0000
+- **[Octane – React's programming model, compiled](https://octanejs.dev)**
+  *<p>Article URL: <a href="https://octanejs.dev">https://octanejs.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152640">https://news.ycombinator.com/item?id=49152640</a></...*
+  📅 Mon, 03 Aug 2026 08:04:04 +0000
 
-- **[CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)**
-  *<p>Article URL: <a href="https://github.com/johnsonjh/cpm386">https://github.com/johnsonjh/cpm386</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149898">https://news.ycombina...*
-  📅 Mon, 03 Aug 2026 00:38:10 +0000
+- **[The Shape of Things to Come](https://yegge.ai/essays/the-shape-of-things-to-come/)**
+  *<p>Article URL: <a href="https://yegge.ai/essays/the-shape-of-things-to-come/">https://yegge.ai/essays/the-shape-of-things-to-come/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Mon, 03 Aug 2026 07:22:27 +0000
 
-- **[Show HN: ssh ssh.place](https://ssh.place)**
-  *<p>Article URL: <a href="https://ssh.place">https://ssh.place</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149805">https://news.ycombinator.com/item?id=49149805</a></p>
-<p>...*
-  📅 Mon, 03 Aug 2026 00:23:21 +0000
+- **[The AI Productivity Gap](https://bjorg.bjornroche.com/management/ai-productivity-gap/)**
+  *<p>Article URL: <a href="https://bjorg.bjornroche.com/management/ai-productivity-gap/">https://bjorg.bjornroche.com/management/ai-productivity-gap/</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Mon, 03 Aug 2026 07:07:20 +0000
 
-- **[Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)**
-  *<p>Article URL: <a href="https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-b...*
-  📅 Mon, 03 Aug 2026 00:12:16 +0000
+- **[Show HN: I created a project management system](https://is.team)**
+  *<p>Article URL: <a href="https://is.team">https://is.team</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152054">https://news.ycombinator.com/item?id=49152054</a></p>
+<p>Poin...*
+  📅 Mon, 03 Aug 2026 06:47:36 +0000
 
-- **[Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)**
-  *<p>Article URL: <a href="https://github.com/pg83/shitty">https://github.com/pg83/shitty</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149326">https://news.ycombinator.com/it...*
-  📅 Sun, 02 Aug 2026 23:05:41 +0000
+- **[Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)**
+  *<p>Article URL: <a href="https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md">https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</a></p>
+<p>C...*
+  📅 Mon, 03 Aug 2026 06:42:00 +0000
 
 ### 📑 TechCrunch
 
@@ -104,13 +105,19 @@
 
 ### 📑 Dev.to
 
-- **[React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)](https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4)**
-  *<p>Every feed, every chat log, every search result page eventually asks the same question: <em>how do I load more when the user reaches the bottom?</em> The naive answer — a scroll listener, some arit...*
-  📅 Mon, 03 Aug 2026 01:25:59 +0000
+- **[Magento 2 Page Builder Performance Optimization](https://dev.to/magevanta/magento-2-page-builder-performance-optimization-13k2)**
+  *<p>Magento Page Builder is één van de krachtigste tools voor contentbeheer in Adobe Commerce. Het stelt merchants in staat om rijke, visuele landingspagina's, productpagina's en CMS content te bouwen ...*
+  📅 Mon, 03 Aug 2026 09:12:20 +0000
 
-- **[You don't have to choose between Shopify updates and accessibility fixes](https://dev.to/praiztech/you-dont-have-to-choose-between-shopify-updates-and-accessibility-fixes-fm8)**
-  *<p>A while back, a developer told me something that stuck with me. He said fixing Shopify Liquid files is a hassle, because customizations don't scale with theme updates. The moment you start editing ...*
-  📅 Mon, 03 Aug 2026 01:23:41 +0000
+- **[5 Most Important Programming Languages to Learn in 2026 (Based on Real Industry Demand)](https://dev.to/hadil/5-most-important-programming-languages-to-learn-in-2026-based-on-real-industry-demand-3dc7)**
+  *<p>Every year, developers ask the same question:</p>
+
+<p><em>"Which programming language should I learn next?"</em></p>
+
+<p>And every year, the internet gives us a hundred different answers.</p>
+
+<p>O...*
+  📅 Mon, 03 Aug 2026 09:05:57 +0000
 
 </details>
 
@@ -118,105 +125,105 @@
 
 ### 📈 Daily Trending
 
-- **[MasterLocksmithTrim/BoosterX-PRO-Crack](https://github.com/MasterLocksmithTrim/BoosterX-PRO-Crack)** ⭐ 14
+- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 75
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  灵犀跨境-开源共建版
+
+- **[JunzFundz/ITS300_WEBDEV](https://github.com/JunzFundz/ITS300_WEBDEV)** ⭐ 44
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  None
+
+- **[lowiqentity/APEX](https://github.com/lowiqentity/APEX)** ⭐ 16
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[YuKongA/twrp_device_xiaomi_sm8850](https://github.com/YuKongA/twrp_device_xiaomi_sm8850)** ⭐ 16
+  ![Makefile](https://img.shields.io/badge/-Makefile-lightgrey)
+  TWRP device tree for Xiaomi SM8850
+
+- **[MasterLocksmithTrim/BoosterX-PRO-Crack](https://github.com/MasterLocksmithTrim/BoosterX-PRO-Crack)** ⭐ 15
   ![C++](https://img.shields.io/badge/-C++-pink)
   Windows optimization utility featuring gaming tweaks, FPS improvements, latency reduction, startup management, privacy controls, backup & restore, and advanced performance optimization tools.
 
-- **[Crownphofall/calibre](https://github.com/Crownphofall/calibre)** ⭐ 5
+- **[Shieldaelight82/language-tool-2026](https://github.com/Shieldaelight82/language-tool-2026)** ⭐ 13
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Calibre — Calibre Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
+  LanguageTool Desktop — LanguageTool Desktop Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
 
-- **[TropicalWind/ardour-2026](https://github.com/TropicalWind/ardour-2026)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Ardour — Ardour Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
+- **[HGaurnaan/Nutricoach-AI](https://github.com/HGaurnaan/Nutricoach-AI)** ⭐ 13
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[rockbrokerreproduce/civil3d-setup](https://github.com/rockbrokerreproduce/civil3d-setup)** ⭐ 3
+- **[galleryfollowerchant/litmos](https://github.com/galleryfollowerchant/litmos)** ⭐ 12
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Autodesk Civil 3D — Autodesk Civil 3D Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
-
-- **[PurplePotterBrace/alltube-setup](https://github.com/PurplePotterBrace/alltube-setup)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  AllTube Downloader — AllTube Downloader Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
-
-- **[Driveshitrolley/api-ms-win-crt-dll-missing-fix](https://github.com/Driveshitrolley/api-ms-win-crt-dll-missing-fix)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  API MS WIN CRT DLL Fix — API MS WIN CRT DLL Fix Windows setup — game fix landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
-
-- **[BottomSparkAbyss/binkw32-dll-missing-fix](https://github.com/BottomSparkAbyss/binkw32-dll-missing-fix)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  BINKW32 DLL Fix — BINKW32 DLL Fix Windows setup — game fix landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
-
-- **[MarbleCourier/cloudflare-warp](https://github.com/MarbleCourier/cloudflare-warp)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Cloudflare WARP — Cloudflare WARP Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
+  Litmos — Litmos Windows setup — software landing repository with install notes, workflow checklists, and session logs. Unofficial Windows setup notes and session logs.
 
 ### 📈 Weekly Trending
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 7,331
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,134
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,702
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 3,978
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 1,857
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 2,086
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source, agentic-first CRM.
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,598
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 1,868
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 1,215
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
-
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 1,087
+- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 1,315
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
 
-- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 830
+- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 1,219
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
+
+- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 1,125
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.
 
-- **[xikhar/persona](https://github.com/xikhar/persona)** ⭐ 794
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Bringing real-time voice to life.
+- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 822
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,917
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 23,972
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 12,985
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,034
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,033
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,256
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,123
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,257
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,576
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,574
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,210
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,291
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,906
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open Frontier Intelligence
-
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 7,331
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 8,134
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
+
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,949
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
 
 ## 🚀 Latest Releases
 
@@ -484,58 +491,58 @@ This is a security release.
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
+| AWS | 🔴 Beginner |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
