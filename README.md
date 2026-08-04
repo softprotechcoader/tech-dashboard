@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 03, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 04, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,77 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)**
-  *<p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4915871...*
-  📅 Mon, 03 Aug 2026 17:18:06 +0000
+- **[There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)**
+  *<p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Mon, 03 Aug 2026 23:24:53 +0000
 
-- **[Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)**
-  *<p>Article URL: <a href="https://blog.cloudflare.com/smaller-faster-safer-models/">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Mon, 03 Aug 2026 17:08:46 +0000
+- **[Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)**
+  *<p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p...*
+  📅 Mon, 03 Aug 2026 22:04:49 +0000
 
-- **[Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)**
-  *<p>Article URL: <a href="https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase">https:/...*
-  📅 Mon, 03 Aug 2026 17:02:10 +0000
+- **[ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)**
+  *<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p...*
+  📅 Mon, 03 Aug 2026 21:39:12 +0000
 
-- **[Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/)**
-  *<p>Article URL: <a href="https://hamvocke.com/blog/task-runners/">https://hamvocke.com/blog/task-runners/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158287">https://news....*
-  📅 Mon, 03 Aug 2026 16:51:51 +0000
+- **[LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)**
+  *<p>Article URL: <a href="https://www.seangoedecke.com/llms-reward-expertise/">https://www.seangoedecke.com/llms-reward-expertise/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Mon, 03 Aug 2026 21:13:53 +0000
 
-- **[SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust)**
-  *<p>Article URL: <a href="https://github.com/MikeLuu99/searxng-rust">https://github.com/MikeLuu99/searxng-rust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158141">https://n...*
-  📅 Mon, 03 Aug 2026 16:41:40 +0000
+- **[The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)**
+  *<p>Article URL: <a href="https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real">https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably...*
+  📅 Mon, 03 Aug 2026 19:39:34 +0000
 
-- **[Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)**
-  *<p>Hi HN, we’re Bence and Ryan, founders of Hoplite (<a href="https://hoplite.sh">https://hoplite.sh</a>). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incre...*
-  📅 Mon, 03 Aug 2026 16:32:06 +0000
+- **[KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)**
+  *<p>Article URL: <a href="https://github.com/SwagSoftware/KisakCOD">https://github.com/SwagSoftware/KisakCOD</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49159970">https://new...*
+  📅 Mon, 03 Aug 2026 18:58:00 +0000
 
 ### 📑 TechCrunch
+
+- **[After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)**
+  *After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises....*
+  📅 Mon, 03 Aug 2026 23:19:50 +0000
+
+- **[Snap CEO sidesteps Specs preorder questions on Q2 earnings call](https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/)**
+  *When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade....*
+  📅 Mon, 03 Aug 2026 22:10:58 +0000
+
+- **[AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)**
+  *AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models....*
+  📅 Mon, 03 Aug 2026 20:00:00 +0000
+
+- **[Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/)**
+  *OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the...*
+  📅 Mon, 03 Aug 2026 19:45:35 +0000
+
+- **[Design Arena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)**
+  *Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs....*
+  📅 Mon, 03 Aug 2026 19:28:57 +0000
 
 - **[Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)**
   *OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue....*
   📅 Mon, 03 Aug 2026 19:09:56 +0000
 
-- **[Apple challenges UK government’s latest demand for iCloud backdoor: report](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/)**
-  *Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world....*
-  📅 Mon, 03 Aug 2026 18:54:09 +0000
-
-- **[Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/)**
-  *Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents t...*
-  📅 Mon, 03 Aug 2026 18:43:43 +0000
-
-- **[Outernet turns your saved posts into real-world adventures](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/)**
-  *Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actual...*
-  📅 Mon, 03 Aug 2026 18:00:24 +0000
-
-- **[WhatsApp says it is is fixing an issue that disabled several accounts](https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/)**
-  *Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app....*
-  📅 Mon, 03 Aug 2026 17:46:01 +0000
-
-- **[Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics](https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/)**
-  *Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June....*
-  📅 Mon, 03 Aug 2026 17:16:43 +0000
-
 ### 📑 Dev.to
 
-- **[Your Secrets Need a VDP, Not Just a Bug Bounty](https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei)**
-  *<h1>
-  
-  
-  Your Secrets Need a VDP, Not Just a Bug Bounty
-</h1>
+- **[Secure Your Health Data: Mastering Privacy-Preserving Inference with Intel SGX and Gramine 🛡️💊](https://dev.to/wellallytech/secure-your-health-data-mastering-privacy-preserving-inference-with-intel-sgx-and-gramine-ep4)**
+  *<p>Let’s be honest: the cloud is just "someone else’s computer." When it comes to sensitive health data—think genomic sequences, heart rate patterns, or medical imaging—handing that data over to a clo...*
+  📅 Tue, 04 Aug 2026 01:32:00 +0000
 
-<p>Bug bounty programs are valuable -- until they replace disclosure policies. Learn how unreasonable PoC demands or scope exclusions...*
-  📅 Mon, 03 Aug 2026 18:57:04 +0000
-
-- **[How I built a 2-agent code review loop for local Ollama workflows](https://dev.to/haichi_ops_861a9ec315b1e7/how-i-built-a-2-agent-code-review-loop-for-local-ollama-workflows-le2)**
-  *<p>When running code reviews with local LLMs, a single model can either hallucinate non-existent bugs or generate generic advice you end up ignoring.</p>
-
-<p>To make local AI code review more useful, ...*
-  📅 Mon, 03 Aug 2026 18:54:15 +0000
+- **[Tips for Running Stable Background ML Inference on macOS](https://dev.to/orca_forge/tips-for-running-stable-background-ml-inference-on-macos-26dc)**
+  *<blockquote>
+<p>📝 Originally published (in Japanese) at <a href="https://forge.workstyle.tech/blog/macos-background-ml-inference-ops-tips/?utm_source=devto&amp;utm_medium=crosspost&amp;utm_campaign=ma...*
+  📅 Tue, 04 Aug 2026 01:08:21 +0000
 
 </details>
 
@@ -124,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes)** ⭐ 128
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.
+- **[livid/exe](https://github.com/livid/exe)** ⭐ 9
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  A personal VM cloud for macOS: Virtualization.framework VMs, Ollama vibecoding agent, Cloudflare Tunnel publishing — one Go binary
 
-- **[kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)** ⭐ 107
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.
+- **[SorcererLocate/Beast-Of-Reincarnation-Trainer](https://github.com/SorcererLocate/Beast-Of-Reincarnation-Trainer)** ⭐ 5
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Beast of Reincarnation trainer and mod menu for PC — god mode, infinite stamina, infinite FP, one-hit kill, noclip, free camera, SP and resource multipliers. 45+ cheats across 7 tabs, rebindable hotkeys. Steam and Xbox Game Pass supported. Single-player only.
 
-- **[joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo)** ⭐ 101
+- **[Sectionnajinx/Beast-Of-Reincarnation-Mod](https://github.com/Sectionnajinx/Beast-Of-Reincarnation-Mod)** ⭐ 5
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Beast of Reincarnation trainer and mod menu for PC — god mode, infinite stamina, infinite FP, one-hit kill, noclip, free camera, SP and resource multipliers. 45+ cheats across 7 tabs, rebindable hotkeys. Steam and Xbox Game Pass supported. Single-player only.
+
+- **[gokern/null](https://github.com/gokern/null)** ⭐ 2
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Codec-free nullable values for Go: two states, value semantics, no serialization by design
+
+- **[UmapyoiLabs/Nowa-integration](https://github.com/UmapyoiLabs/Nowa-integration)** ⭐ 2
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, 
-
-- **[eveningregentawning/rust-external](https://github.com/eveningregentawning/rust-external)** ⭐ 87
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Memory analysis and process interaction tool for game data visualization and research. Educational purposes only.
-
-- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 77
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  灵犀跨境-开源共建版
-
-- **[yuhuangerdi/InduSecAgent](https://github.com/yuhuangerdi/InduSecAgent)** ⭐ 72
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
   None
 
-- **[alexan0618/zkky](https://github.com/alexan0618/zkky)** ⭐ 64
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  直卡开源
+- **[ronut01/erdos1002-lean](https://github.com/ronut01/erdos1002-lean)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Lean 4 formalization project for Erdős Problem 1002.
 
-- **[JunzFundz/ITS300_WEBDEV](https://github.com/JunzFundz/ITS300_WEBDEV)** ⭐ 56
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+- **[beichu100/RootKitMake](https://github.com/beichu100/RootKitMake)** ⭐ 2
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Linux Signature-based Rootkit Make
+
+- **[jiaren0620-prog/jiaren-ai-releases](https://github.com/jiaren0620-prog/jiaren-ai-releases)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Official Jiaren AI desktop releases and update metadata
 
 ### 📈 Weekly Trending
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 9,258
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 9,767
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 4,198
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 4,260
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 2,962
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 3,309
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source, agentic-first CRM.
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 2,015
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 2,093
   ![None](https://img.shields.io/badge/-None-lightgrey)
   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-- **[sqliteai/waste](https://github.com/sqliteai/waste)** ⭐ 1,489
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.
-
-- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 1,338
+- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** ⭐ 1,428
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.
 
-- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 1,220
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
-
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 1,049
+- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 1,258
   ![C](https://img.shields.io/badge/-C-lightgrey)
   A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
+- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,000
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
+
+- **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** ⭐ 898
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
+
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,013
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,030
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,070
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,075
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,424
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 12,478
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,357
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
-
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 9,258
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 9,767
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
+
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,400
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
 - **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,574
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,354
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,385
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,974
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 7,985
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -491,9 +483,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
 ### Frameworks
@@ -502,46 +494,46 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🔴 Beginner |
 | Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟡 Learning |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
 | AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
@@ -560,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** August 03, 2026
+**Last Updated:** August 04, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
