@@ -46,73 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[Iowa et al asks OpenAI to keep their bots sandboxed](https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and)**
-  *<p>Article URL: <a href="https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and">https://www.iowaattorneygener...*
-  📅 Wed, 05 Aug 2026 12:42:50 +0000
+- **[Zed DeltaDB](https://zed.dev/deltadb)**
+  *<p>Article URL: <a href="https://zed.dev/deltadb">https://zed.dev/deltadb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187256">https://news.ycombinator.com/item?id=49187256...*
+  📅 Wed, 05 Aug 2026 18:52:54 +0000
 
-- **[TIME Is Serving AI Bots a Different Website, with Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)**
-  *<p>Article URL: <a href="https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/">https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/</a></p>
-<p>Comments URL:...*
-  📅 Wed, 05 Aug 2026 12:41:47 +0000
+- **[Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)**
+  *<p>Article URL: <a href="https://blog.fogus.me/llm/born-against.html">https://blog.fogus.me/llm/born-against.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187061">https...*
+  📅 Wed, 05 Aug 2026 18:37:49 +0000
 
-- **[Three Six Mafia – Data about "6/6/6 dating" (2024)](https://divingintheshallowend.com/three-six-mafia/)**
-  *<p>Article URL: <a href="https://divingintheshallowend.com/three-six-mafia/">https://divingintheshallowend.com/three-six-mafia/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Wed, 05 Aug 2026 12:06:14 +0000
+- **[Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show](https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show)**
+  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show">https://www.bloomberg.com/news/articles/2026-08-05/microsoft-...*
+  📅 Wed, 05 Aug 2026 18:19:10 +0000
 
-- **[Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/">https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-...*
-  📅 Wed, 05 Aug 2026 11:49:34 +0000
+- **[Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)**
+  *<p>Article URL: <a href="https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency">https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency</a...*
+  📅 Wed, 05 Aug 2026 18:18:56 +0000
 
-- **[Could psilocybin be the key to treating anorexia?](https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/)**
-  *<p>Article URL: <a href="https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/">https://www.scientificamerican.com/article/psilocybin-could-ki...*
-  📅 Wed, 05 Aug 2026 11:39:09 +0000
+- **[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence](https://arxiv.org/abs/2510.01395)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2510.01395">https://arxiv.org/abs/2510.01395</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49186720">https://news.ycombinator.co...*
+  📅 Wed, 05 Aug 2026 18:17:03 +0000
 
-- **[Civilian plane crash in New Mexico tied to military GPS blocking](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)**
-  *<p>Article URL: <a href="https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/">https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the...*
-  📅 Wed, 05 Aug 2026 11:03:13 +0000
+- **[Antigravity 2.0](https://antigravity.google/product/antigravity-2)**
+  *<p>Article URL: <a href="https://antigravity.google/product/antigravity-2">https://antigravity.google/product/antigravity-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49186...*
+  📅 Wed, 05 Aug 2026 18:10:02 +0000
 
 ### 📑 TechCrunch
 
-- **[Disney+ looks to TikTok creators to bring fan content to its short-form video feed](https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/)**
-  *As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app....*
-  📅 Wed, 05 Aug 2026 13:21:43 +0000
+- **[Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/)**
+  *Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easi...*
+  📅 Wed, 05 Aug 2026 18:00:40 +0000
 
-- **[MacPaw taps Liquid AI to offer on-device inference to devs building for its app store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/)**
-  *MacPaw is building a local version of its AI assistant Eney using Liquid AI's models....*
-  📅 Wed, 05 Aug 2026 12:28:38 +0000
+- **[Lucid Motors just delayed its affordable EV. Now what?](https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/)**
+  *The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro....*
+  📅 Wed, 05 Aug 2026 17:57:45 +0000
 
-- **[Robinhood to list a fund that lets anyone back Y Combinator startups](https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/)**
-  *Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups....*
-  📅 Wed, 05 Aug 2026 12:23:52 +0000
+- **[Meet the eight startups pitching at Startup Battlefield Australia](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/)**
+  *The applications are in, and the TechCrunch Startup Battlefield team made their decisions!...*
+  📅 Wed, 05 Aug 2026 17:02:00 +0000
 
-- **[Indian EV startup River raises $120M Series C to scale production, launch more models](https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/)**
-  *River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production....*
-  📅 Wed, 05 Aug 2026 11:26:00 +0000
+- **[PSA: Apple’s Private Relay can leak your real IP address](https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/)**
+  *A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses....*
+  📅 Wed, 05 Aug 2026 16:52:29 +0000
 
-- **[Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient](https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/)**
-  *Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business....*
-  📅 Wed, 05 Aug 2026 11:00:00 +0000
+- **[Shopify says AI search is driving more traffic and sales, not replacing Google](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/)**
+  *Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2....*
+  📅 Wed, 05 Aug 2026 15:56:14 +0000
 
-- **[AI makes weather prediction better. Can WindBorne make it lucrative?](https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/)**
-  *WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts....*
-  📅 Wed, 05 Aug 2026 11:00:00 +0000
+- **[Hark previews its browser use agent for completing tasks](https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/)**
+  *Hark claims that its browser use agent is faster and cheaper than competition....*
+  📅 Wed, 05 Aug 2026 15:46:27 +0000
 
 ### 📑 Dev.to
 
-- **[How to Track Claude Code Usage in 2026: Built-in Commands, ccusage, and Desktop Dashboards Compared](https://dev.to/pederaa/how-to-track-claude-code-usage-in-2026-built-in-commands-ccusage-and-desktop-dashboards-compared-1kk1)**
-  *<p>If you use Claude Code on a Pro or Max plan, you have probably hit the wall mid-session: the 5-hour window runs out, or the weekly cap kicks in, usually right when the agent was in the middle of so...*
-  📅 Wed, 05 Aug 2026 13:42:37 +0000
+- **[Good QA Systems Reduce Ambiguity](https://dev.to/sleepyfalcon247/good-qa-systems-reduce-ambiguity-1dci)**
+  *<p>A lot of QA work is not really test execution.</p>
 
-- **[LeetCode #345 in Go: reverse vowels of a string, and how strings, bytes, and runes work in Go](https://dev.to/ferztyle/leetcode-345-in-go-reverse-vowels-of-a-string-and-how-strings-bytes-and-runes-work-in-go-5dng)**
-  *<h2>
-  
-  
-  Why I started this series
-</h2>
+<p>It is ambiguity management.</p>
 
-<p>A while back, I went through a job interview that included a coding challenge. It looked pretty easy, so I finished in like 90 seconds, and all tests p...*
-  📅 Wed, 05 Aug 2026 13:33:25 +0000
+<p>What does this requirement mean?</p>
+
+<p>Is this visual difference intentional?</p>
+
+<p>Did the test fail ...*
+  📅 Wed, 05 Aug 2026 19:12:01 +0000
+
+- **[My smart-contract scanner reports almost nothing — and that's the whole point](https://dev.to/juan23z/my-smart-contract-scanner-reports-almost-nothing-and-thats-the-whole-point-1gkk)**
+  *<p>Most Solidity security tools have the same failure mode: they cry wolf. You run them on an audited protocol and get 600 "findings," 98% of which are noise. The signal drowns. Worse — send a client ...*
+  📅 Wed, 05 Aug 2026 19:09:48 +0000
 
 </details>
 
@@ -120,95 +124,95 @@
 
 ### 📈 Daily Trending
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 842
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 996
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
-- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 165
+- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 490
   ![Python](https://img.shields.io/badge/-Python-blue)
   非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
-- **[mika50000/gpt-link](https://github.com/mika50000/gpt-link)** ⭐ 72
+- **[0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red)** ⭐ 98
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+
+- **[mika50000/gpt-link](https://github.com/mika50000/gpt-link)** ⭐ 95
   ![Python](https://img.shields.io/badge/-Python-blue)
   Standalone ChatGPT Session/accessToken link extractor
 
-- **[432539/gpt](https://github.com/432539/gpt)** ⭐ 61
+- **[432539/gpt](https://github.com/432539/gpt)** ⭐ 72
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   GPT 账号注册机 / 管理  协议  无头 有头 多种模式 , 交流QQ群 19302577
 
-- **[fberrez/towncenter](https://github.com/fberrez/towncenter)** ⭐ 49
+- **[fberrez/towncenter](https://github.com/fberrez/towncenter)** ⭐ 60
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Neighbourhood-business prospecting, played as territory conquest. Draw a sector on a map, the French company register fills it with targets, each carrying a loot and a resistance backed by measured facts.
 
-- **[Zirakin/airport-recommendation](https://github.com/Zirakin/airport-recommendation)** ⭐ 47
+- **[Figureryoway/musescore-fx-premium](https://github.com/Figureryoway/musescore-fx-premium)** ⭐ 60
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  2026年最新高性价比机场推荐 | 科学上网 | 梯子推荐 | VPN推荐 | 支持 Clash | V2Ray | Sing-box | Shadowrocket 节点，附带详细的配置教程，包你满意
+  Musescore Fx Premium
 
-- **[Sparkfetch/sparkfetch](https://github.com/Sparkfetch/sparkfetch)** ⭐ 37
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.
-
-- **[Sentry-LLM/SentryLLM](https://github.com/Sentry-LLM/SentryLLM)** ⭐ 34
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI Security Monitor — Real-time threat detection, prompt injection defense, and behavioral analysis for LLM-powered systems
+- **[Plankerescalator/mobiletrans-plus-core](https://github.com/Plankerescalator/mobiletrans-plus-core)** ⭐ 58
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Mobiletrans Plus Core
 
 ### 📈 Weekly Trending
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 5,616
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 6,028
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source, agentic-first CRM.
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 4,634
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 4,670
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 3,283
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
-
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 3,232
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 4,381
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 2,380
+- **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** ⭐ 3,373
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
+
+- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 2,506
   ![C](https://img.shields.io/badge/-C-lightgrey)
   A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
-- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 1,947
+- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,010
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
 
-- **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)** ⭐ 1,626
+- **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)** ⭐ 1,733
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.
 
-- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,435
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,547
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,184
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,211
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,244
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,259
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,020
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,088
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 11,493
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 11,627
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,834
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,872
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,577
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,602
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
@@ -216,7 +220,7 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,086
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,096
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -336,16 +340,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 nodejs/node
 
-**[2026-08-03, Version 26.6.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.6.0)** `v26.6.0`
+**[2026-08-05, Version 26.7.0 (Current), @aduh95](https://github.com/nodejs/node/releases/tag/v26.7.0)** `v26.7.0`
 
-📅 Released: August 03, 2026
+📅 Released: August 05, 2026
 
 
 
 
 ### Notable Changes
 
-* \[[`5a36018abc`](https://github.com/nodejs/node/commit/5a36018abc)] - **doc**: add MikeMcC399 as collaborator (Mike McCready) [#64656](https://github.com/nodejs/node/pull/646...
+* \[[`58717685a1`](https://github.com/nodejs/node/commit/58717685a1)] - **(SEMVER-MINOR)** **crypto**: support loading private keys through STORE loaders (Filip Skokan) [#63949...
 
 ---
 
@@ -488,38 +492,38 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🟡 Learning |
 | Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | ⚪ Planned |
 | Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -527,18 +531,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
