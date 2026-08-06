@@ -46,36 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)**
-  *<p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Wed, 05 Aug 2026 21:29:23 +0000
+- **[What I love about Django](https://buttondown.com/blog/what-i-love-about-django)**
+  *<p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Thu, 06 Aug 2026 07:34:06 +0000
 
-- **[NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)**
-  *<p>Article URL: <a href="https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Wed, 05 Aug 2026 21:24:45 +0000
+- **[Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)**
+  *<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Thu, 06 Aug 2026 06:43:38 +0000
 
-- **[I'll be stepping back from leading product for X](https://twitter.com/nikitabier/status/2085105586966827343/)**
-  *<p><a href="https://xcancel.com/nikitabier/status/2085105586966827343/" rel="nofollow">https://xcancel.com/nikitabier/status/2085105586966827343/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news....*
-  📅 Wed, 05 Aug 2026 21:15:40 +0000
+- **[Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)**
+  *<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Thu, 06 Aug 2026 04:46:35 +0000
 
-- **[Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)**
-  *<p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent">https://www.primeintellect.ai/blog/prime-agent</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189075"...*
-  📅 Wed, 05 Aug 2026 21:11:57 +0000
+- **[Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)**
+  *<p>Article URL: <a href="https://github.com/pradipta/wallfacer">https://github.com/pradipta/wallfacer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192219">https://news.ycom...*
+  📅 Thu, 06 Aug 2026 03:52:56 +0000
 
-- **[I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)**
-  *<p>Article URL: <a href="https://runarcn.no/android-to-linux/">https://runarcn.no/android-to-linux/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49188022">https://news.ycombi...*
-  📅 Wed, 05 Aug 2026 19:50:13 +0000
+- **[Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)**
+  *<p>Article URL: <a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project">https://www.costar.com/article/970809918/nashville-counc...*
+  📅 Thu, 06 Aug 2026 02:15:14 +0000
 
-- **[Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)**
-  *<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>
-<p>Comments URL: <a href...*
-  📅 Wed, 05 Aug 2026 19:15:52 +0000
+- **[Virginia Orders Data Centers to Pay for Dedicated New Electric Infrastructure](https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/)**
+  *<p>Article URL: <a href="https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/">https://www.realtor.com/news/real-estate-news/virginia-data-center-elec...*
+  📅 Thu, 06 Aug 2026 01:50:18 +0000
 
 ### 📑 TechCrunch
 
@@ -105,15 +102,14 @@
 
 ### 📑 Dev.to
 
-- **[Sidewalk to Summit: reviving my founder-year idea by building it in public](https://dev.to/ohkpond/sidewalk-to-summit-reviving-my-founder-year-idea-by-building-it-in-public-1i0d)**
-  *<p>When I booked my 2025 hut-to-hut hike in the Austrian Alps, I looked at the daily distances, then at the elevation gain, and my honest first reaction was: oh dear God.</p>
+- **[The End of the Testing Pyramid: What Replaces It in the AI Era](https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46)**
+  *<p>We have discussed the cost of no automation and reasoned "when to test". <br />
+This doesn't automatically solve the test coverage question - the QA teams are swamped enough, and if you ask them to...*
+  📅 Thu, 06 Aug 2026 08:01:20 +0000
 
-<p>Here's the problem. I...*
-  📅 Thu, 06 Aug 2026 01:33:30 +0000
-
-- **[Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026)](https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm)**
-  *<p>A barrel file is an <code>index.ts</code> whose only job is to re-export other modules, so consumers can write one tidy import instead of five. Almost every TypeScript codebase has them; almost eve...*
-  📅 Thu, 06 Aug 2026 01:30:20 +0000
+- **[Restate or Diagrid Catalyst for Durable Tool Calls?](https://dev.to/diagrid/restate-or-diagrid-catalyst-for-durable-tool-calls-36b8)**
+  *<p>"Retry the tool call" sounds harmless until the tool issues a refund. Then durability, identity, and evidence stop being three concerns owned by three different teams and turn into one incident.</p...*
+  📅 Thu, 06 Aug 2026 08:00:00 +0000
 
 </details>
 
@@ -121,95 +117,95 @@
 
 ### 📈 Daily Trending
 
-- **[renatogroffe/dockercompose-grafana-prometheus-alloy-loki-tempo-rabbitmq](https://github.com/renatogroffe/dockercompose-grafana-prometheus-alloy-loki-tempo-rabbitmq)** ⭐ 5
+- **[Larryvrh/ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo)** ⭐ 19
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[songjhPKU/Lab-Print-Service-MacOS](https://github.com/songjhPKU/Lab-Print-Service-MacOS)** ⭐ 10
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  MacOS打印不求人
+
+- **[Ki4nb/VSphereRansomwareRecovery](https://github.com/Ki4nb/VSphereRansomwareRecovery)** ⭐ 7
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Recover VMware ESXi VMs after Babuk/.babyk ransomware. The encryptor only destroys the first 512 MiB per file, so 99%+ of each VMDK survives as plaintext. Analysis, IOCs, tools, runbook.
+
+- **[lzj960515/codex-workbench](https://github.com/lzj960515/codex-workbench)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[shuaixn/ComfyUI-MiniMaxH3DualClockSampler](https://github.com/shuaixn/ComfyUI-MiniMaxH3DualClockSampler)** ⭐ 7
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Dual-clock Euler sampler for MiniMax-H3 Turbo LoRA audio-video generation in ComfyUI.
+
+- **[erikfiala/google-maps-scraper](https://github.com/erikfiala/google-maps-scraper)** ⭐ 6
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Self-hosted Google Maps multi-category scraper with configurable fields and website email enrichment
+
+- **[renatogroffe/dockercompose-grafana-prometheus-alloy-loki-tempo-rabbitmq](https://github.com/renatogroffe/dockercompose-grafana-prometheus-alloy-loki-tempo-rabbitmq)** ⭐ 6
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Scripts do Docker Compose para subida de ambiente baseado na stack Grafana (dashboards + Prometheus + Allow/OpenTelemetry + Loki + Tempo) e para testes com mensageria utilizando RabbitMQ. Inclui dashboard de monitoramento da instância do RabbitMQ.
 
-- **[joshhhhhan/VISTA](https://github.com/joshhhhhan/VISTA)** ⭐ 3
+- **[0x1e93d/WeType-Tool-Releases](https://github.com/0x1e93d/WeType-Tool-Releases)** ⭐ 6
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[StarWhiteIsBusy/nyx-scanner](https://github.com/StarWhiteIsBusy/nyx-scanner)** ⭐ 2
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  一个支持调用摄像头，本地选择图片或是截图识别的二维码扫描软件 |  A QR code scanning app that supports using the camera, selecting local images, or recognizing screenshots.
-
-- **[Ki4nb/VSphereRansomwareRecovery](https://github.com/Ki4nb/VSphereRansomwareRecovery)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Recover VMware ESXi VMs after Babuk/.babyk ransomware. The encryptor only destroys the first 512 MiB per file, so 99%+ of each VMDK survives as plaintext. Analysis, IOCs, tools, runbook.
-
-- **[snailer-team/JeffDean-Mind](https://github.com/snailer-team/JeffDean-Mind)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  JeffDean engineering mind- claude skills 
-
-- **[lionli2004/openarm_ros2_ws](https://github.com/lionli2004/openarm_ros2_ws)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[wayne-232/CMCE30005--YourGroupName-](https://github.com/wayne-232/CMCE30005--YourGroupName-)** ⭐ 2
-  ![R](https://img.shields.io/badge/-R-lightgrey)
-  None
-
-- **[fdmpszg/dmit-promo-vps](https://github.com/fdmpszg/dmit-promo-vps)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DMIT 促銷：CN2 GIA 高速 VPS 低至 $36.9/年起，最高 30% 循環折扣 + 10% 賬戶金返還
+  WeType Tool 模块发布仓库
 
 ### 📈 Weekly Trending
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 6,303
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 6,721
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An open-source, agentic-first CRM.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 5,174
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 5,906
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 2,583
+- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 2,661
   ![C](https://img.shields.io/badge/-C-lightgrey)
   A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
-- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,042
+- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,186
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
 
-- **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)** ⭐ 1,785
+- **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)** ⭐ 1,897
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.
 
-- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,618
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,703
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
-- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,469
+- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,542
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,093
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,362
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,226
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,256
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,264
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,297
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,130
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,209
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 11,711
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 11,844
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,905
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 9,975
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,690
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 8,928
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
@@ -217,7 +213,7 @@
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,103
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,119
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -487,30 +483,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -519,27 +515,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| CI/CD | ⚪ Planned |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
