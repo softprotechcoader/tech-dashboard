@@ -46,18 +46,18 @@
 
 ### 📑 Hacker News
 
-- **[Obviously, DOGE Did Not Save Money](https://www.nationalreview.com/corner/obviously-doge-did-not-save-money/)**
-  *<p>Article URL: <a href="https://www.nationalreview.com/corner/obviously-doge-did-not-save-money/">https://www.nationalreview.com/corner/obviously-doge-did-not-save-money/</a></p>
-<p>Comments URL: <a ...*
-  📅 Fri, 07 Aug 2026 00:31:10 +0000
+- **[Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)**
+  *<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
+<p>Comments URL: <a href="...*
+  📅 Fri, 07 Aug 2026 05:17:57 +0000
+
+- **[New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)**
+  *<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/910650...*
+  📅 Fri, 07 Aug 2026 00:37:30 +0000
 
 - **[Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)**
   *<p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-addres...*
   📅 Fri, 07 Aug 2026 00:06:28 +0000
-
-- **[Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)**
-  *<p>Author here.<p>Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship "quantum computers are useful for chemistry now" claims,...*
-  📅 Thu, 06 Aug 2026 22:50:09 +0000
 
 - **[Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)**
   *<p>Article URL: <a href="https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>
@@ -102,15 +102,30 @@
 
 ### 📑 Dev.to
 
-- **[We Turned Down Google's AI Weather Model](https://dev.to/predictandprofit/we-turned-down-googles-ai-weather-model-1blc)**
-  *<p>Google released a weather model earlier this year that beats the best forecast in the world 97% of the time. Free. Clean API. Drop-in compatible with what we already run.</p>
+- **[Using JooqTemplate implement UserService Demo](https://dev.to/javaer/using-jooqtemplate-implement-userservice-demo-3p8a)**
+  *<p>No need annotation,No need check null, No need inherit,No need scan,Based on JOOQ</p>
 
-<p>Every data enginee...*
-  📅 Fri, 07 Aug 2026 02:01:44 +0000
+<h2>
+  
+  
+  1.Quer User Paramater
+</h2>
 
-- **[Store and search chunks in Laravel with Meilisearch and Larameili](https://dev.to/edulazaro/store-and-search-chunks-in-laravel-with-meilisearch-and-larameili-1e3m)**
-  *<p>Many times, you have to split documents into chunks, embed them, and push them into Meilisearch. Now the chunks live in the index and only in the index. There is no reason to keep a copy in your da...*
-  📅 Fri, 07 Aug 2026 01:52:49 +0000
+
+
+<div class="highlight js-code-highlight">
+<pre class="highlight ja...*
+  📅 Fri, 07 Aug 2026 06:44:57 +0000
+
+- **[Why Plumeria?](https://dev.to/refirst11/my-article-40o4)**
+  *<h2>
+  
+  
+  "CSS Modules are fine after all."
+</h2>
+
+<p>If you build web interfaces for a living, you have probably said this. After wrestling with runtime CSS-in-JS configuration, chasing specificit...*
+  📅 Fri, 07 Aug 2026 06:33:20 +0000
 
 </details>
 
@@ -118,101 +133,101 @@
 
 ### 📈 Daily Trending
 
-- **[wjx0808/pet-companionship-be](https://github.com/wjx0808/pet-companionship-be)** ⭐ 5
+- **[jnchen/code_dejavu](https://github.com/jnchen/code_dejavu)** ⭐ 10
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Code Déjà Vu 是一个基于 Tauri、SvelteKit 与 Rust 的本地桌面工具，用于统一浏览和管理 Claude Code、Codex CLI 与 OpenCode 留在本机的会话、指令和配置资料。
+
+- **[poxiao33/toSub2](https://github.com/poxiao33/toSub2)** ⭐ 9
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件
+
+- **[tonyd2wild/ds4-h3-video-gen-factory](https://github.com/tonyd2wild/ds4-h3-video-gen-factory)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Run DeepSeek-V4-Flash at full 1M context AND two MiniMax H3 video instances on the same two DGX Sparks. Benchmarked C1-C6.
+
+- **[maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  setup guide for deepseek-flash-0731 on two dgx-spark from scratch
+
+- **[WoodpeckerEmpty/beast-of-reincarnation-mod-menu](https://github.com/WoodpeckerEmpty/beast-of-reincarnation-mod-menu)** ⭐ 8
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Beast of Reincarnation Mod Menu featuring gameplay hacks, such as god mode, movement speed changes, one-hit kill (huge damage), etc.
+
+- **[flowing-water1/codex-watchdog](https://github.com/flowing-water1/codex-watchdog)** ⭐ 8
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  为 Codex CLI 的瞬时故障、重试耗尽和上下文耗尽提供自动恢复
+
+- **[SmartCarePet/pet-companionship-be](https://github.com/SmartCarePet/pet-companionship-be)** ⭐ 7
   ![None](https://img.shields.io/badge/-None-lightgrey)
   pet-companionship
 
-- **[FormidableCare/OpenMed](https://github.com/FormidableCare/OpenMed)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Formidable OpenMed AI is a medication terminology interoperability service, mapping medication between hospital systems, pharmacy catalogs, and standardized clinical terminologies such as SNOMED CT and ATC.
-
-- **[msmorgan/deckmaste.rs](https://github.com/msmorgan/deckmaste.rs)** ⭐ 3
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A Magic: The Gathering rules engine in Rust
-
-- **[pato-byepaper/build-your-first-production-app](https://github.com/pato-byepaper/build-your-first-production-app)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Learn how to build and deploy production-ready full-stack applications from scratch using Python, FastAPI, PostgreSQL, Docker, modern frontend frameworks, CI/CD, observability, and cloud-native best practices.
-
-- **[saeedvir/simple-modules](https://github.com/saeedvir/simple-modules)** ⭐ 2
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  A simple structure for modularizing a Laravel project.
-
-- **[johncoffee715/arquitetura_de_harness_e_orquestrador_pro](https://github.com/johncoffee715/arquitetura_de_harness_e_orquestrador_pro)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-   desenho de 6 fases é o loop externo que orquestra os plugins, subagentes, hooks, skills, mcps, tool callings, lsps de forma autonoma aprendendo sozinho conforme orquestrador vai se aperfeiçoando, aprendendo e otimizando a si mesmo como fine tuning, scarfold e self learning
-
-- **[bitezhang330/aprx-3857-converter](https://github.com/bitezhang330/aprx-3857-converter)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ArcGIS Pro 3.4.3 project and data conversion to EPSG:3857 with publication QC, Tauri 2 desktop UI, and offline dependency patch
-
-- **[pato-byepaper/engineering-playbook](https://github.com/pato-byepaper/engineering-playbook)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A comprehensive playbook covering software engineering best practices, backend architecture, system design, DevOps, security, data engineering, and AI-driven development.
-
-### 📈 Weekly Trending
-
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 8,597
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 2,840
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-
-- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,302
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
-
-- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,870
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
-
-- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,708
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
-
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,612
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
-
-- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,390
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
-
-- **[Accio-org/RealReplicaBench](https://github.com/Accio-org/RealReplicaBench)** ⭐ 1,036
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services
-
-### 📈 Monthly Trending
-
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,306
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,337
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Codex Dream Skin
-
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,322
+- **[roman-moore-1990w7/trading-bot-2026-free](https://github.com/roman-moore-1990w7/trading-bot-2026-free)** ⭐ 6
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,063
+### 📈 Weekly Trending
+
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 9,293
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 2,936
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+
+- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,353
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
+
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,900
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
+
+- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,734
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
+
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,722
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+
+- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,564
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
+
+- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,219
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+### 📈 Monthly Trending
+
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,330
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,355
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Codex Dream Skin
+
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,351
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,113
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,066
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,100
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,087
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
-
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 8,597
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 9,293
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,171
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
 - **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,574
   ![Rust](https://img.shields.io/badge/-Rust-brown)
@@ -484,40 +499,40 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟡 Learning |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
 | PyTorch | 🔴 Beginner |
 
 ### Devops
@@ -525,7 +540,7 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
 | Azure | ⚪ Planned |
@@ -534,9 +549,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
