@@ -46,35 +46,40 @@
 
 ### 📑 Hacker News
 
-- **[Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)**
-  *<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
-<p>Comments URL: <a href="...*
-  📅 Fri, 07 Aug 2026 05:17:57 +0000
+- **[The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)**
+  *<p>Article URL: <a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy...*
+  📅 Fri, 07 Aug 2026 11:19:15 +0000
+
+- **[US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314"...*
+  📅 Fri, 07 Aug 2026 10:28:55 +0000
+
+- **[Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)**
+  *<p>Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.<p>It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open sta...*
+  📅 Fri, 07 Aug 2026 09:10:30 +0000
+
+- **[Generative "AI": The Guitar Hero of Creativity](https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/)**
+  *<p>Article URL: <a href="https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/">https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/</a></p...*
+  📅 Fri, 07 Aug 2026 09:07:36 +0000
 
 - **[New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)**
   *<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/910650...*
   📅 Fri, 07 Aug 2026 00:37:30 +0000
 
-- **[Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)**
-  *<p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-addres...*
+- **[New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)**
+  *<p><a href="https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/" rel="nofollow">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</...*
   📅 Fri, 07 Aug 2026 00:06:28 +0000
 
-- **[Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)**
-  *<p>Article URL: <a href="https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>
-<p>C...*
-  📅 Thu, 06 Aug 2026 21:52:16 +0000
-
-- **[Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)**
-  *<p>Article URL: <a href="https://www.aleksagordic.com/blog/vllm">https://www.aleksagordic.com/blog/vllm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49202852">https://news.yc...*
-  📅 Thu, 06 Aug 2026 21:30:21 +0000
-
-- **[Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)**
-  *<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/08/260803080917.htm">https://www.sciencedaily.com/releases/2026/08/260803080917.htm</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Thu, 06 Aug 2026 21:18:32 +0000
-
 ### 📑 TechCrunch
+
+- **[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)**
+  *TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that....*
+  📅 Fri, 07 Aug 2026 12:30:00 +0000
+
+- **[New Mexico court orders Meta to pay additional $567M in child safety case](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/)**
+  *Meta's total fine has raked up to $942 million in this case...*
+  📅 Fri, 07 Aug 2026 11:40:37 +0000
 
 - **[OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/)**
   *Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker....*
@@ -92,40 +97,21 @@
   *Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing....*
   📅 Thu, 06 Aug 2026 21:20:00 +0000
 
-- **[Google says hackers are calling financial firm employees to hack and extort victims](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/)**
-  *Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report....*
-  📅 Thu, 06 Aug 2026 19:40:46 +0000
-
-- **[China-linked LightSpy spyware caught targeting victims in 13 countries, including the US](https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/)**
-  *Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address....*
-  📅 Thu, 06 Aug 2026 19:22:30 +0000
-
 ### 📑 Dev.to
 
-- **[Using JooqTemplate implement UserService Demo](https://dev.to/javaer/using-jooqtemplate-implement-userservice-demo-3p8a)**
-  *<p>No need annotation,No need check null, No need inherit,No need scan,Based on JOOQ</p>
+- **[I Kept Retrying a Local Model Into the Right Shape. Turns Out I Didn't Have To Retry At All.](https://dev.to/naitik_kapatel_f96f1fb424/i-kept-retrying-a-local-model-into-the-right-shape-turns-out-i-didnt-have-to-retry-at-all-44d9)**
+  *<p>The constraint on this one wasn't the AI part, it was the client: nothing leaves the device. No API calls, no cloud model, full stop, because the documents being classified weren't allowed off the ...*
+  📅 Fri, 07 Aug 2026 12:28:55 +0000
 
-<h2>
+- **[I Queried 50 Company Profiles — Here's What I Learned About AMD](https://dev.to/onizuka/i-queried-50-company-profiles-heres-what-i-learned-about-amd-21oe)**
+  *<h1>
   
   
-  1.Quer User Paramater
-</h2>
+  webdev, #ai, #api, #discuss
+</h1>
 
-
-
-<div class="highlight js-code-highlight">
-<pre class="highlight ja...*
-  📅 Fri, 07 Aug 2026 06:44:57 +0000
-
-- **[Why Plumeria?](https://dev.to/refirst11/my-article-40o4)**
-  *<h2>
-  
-  
-  "CSS Modules are fine after all."
-</h2>
-
-<p>If you build web interfaces for a living, you have probably said this. After wrestling with runtime CSS-in-JS configuration, chasing specificit...*
-  📅 Fri, 07 Aug 2026 06:33:20 +0000
+<p>AMD just spent $390 million in stock to buy Taalas, a 35-person startup that etches AI models directly into silicon. The press release called it a "s...*
+  📅 Fri, 07 Aug 2026 12:27:57 +0000
 
 </details>
 
@@ -133,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[jnchen/code_dejavu](https://github.com/jnchen/code_dejavu)** ⭐ 10
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Code Déjà Vu 是一个基于 Tauri、SvelteKit 与 Rust 的本地桌面工具，用于统一浏览和管理 Claude Code、Codex CLI 与 OpenCode 留在本机的会话、指令和配置资料。
-
-- **[poxiao33/toSub2](https://github.com/poxiao33/toSub2)** ⭐ 9
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件
-
-- **[tonyd2wild/ds4-h3-video-gen-factory](https://github.com/tonyd2wild/ds4-h3-video-gen-factory)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Run DeepSeek-V4-Flash at full 1M context AND two MiniMax H3 video instances on the same two DGX Sparks. Benchmarked C1-C6.
-
-- **[maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)** ⭐ 83
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
-- **[WoodpeckerEmpty/beast-of-reincarnation-mod-menu](https://github.com/WoodpeckerEmpty/beast-of-reincarnation-mod-menu)** ⭐ 8
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Beast of Reincarnation Mod Menu featuring gameplay hacks, such as god mode, movement speed changes, one-hit kill (huge damage), etc.
+- **[brandont78/combat-master-menu-loader](https://github.com/brandont78/combat-master-menu-loader)** ⭐ 49
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  An integrated Windows modding toolkit and enhancement suite for a popular tactical FPS. Features customizable positional ESP, aim assistance options, mobility modifiers, and reward progression toggles for 2026.
 
-- **[flowing-water1/codex-watchdog](https://github.com/flowing-water1/codex-watchdog)** ⭐ 8
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  为 Codex CLI 的瞬时故障、重试耗尽和上下文耗尽提供自动恢复
+- **[stonefelix88/deltarune-chapter5-script-hub](https://github.com/stonefelix88/deltarune-chapter5-script-hub)** ⭐ 48
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Web-based Deltarune Chapter 5 mod menu and game script utility providing an HTML control panel to adjust stats, toggle gameplay assistance features, and configure live parameters.
 
-- **[SmartCarePet/pet-companionship-be](https://github.com/SmartCarePet/pet-companionship-be)** ⭐ 7
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  pet-companionship
+- **[clarabennett34/golden-executor-windows-loader](https://github.com/clarabennett34/golden-executor-windows-loader)** ⭐ 47
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Native 64-bit Windows script runtime for Roblox with keyless access, built-in library of 500+ Lua scripts, minimal resource usage, single-click injection, auto-updates, and script bookmarking.
 
-- **[roman-moore-1990w7/trading-bot-2026-free](https://github.com/roman-moore-1990w7/trading-bot-2026-free)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[marcoberger37/deadlock-game-script-hub](https://github.com/marcoberger37/deadlock-game-script-hub)** ⭐ 45
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  An internal script utility for a popular hero shooter featuring aim assistance, ESP overlay features, and a browser-delivered modular Lua scripting environment for Windows PC in 2026.
+
+- **[andre-james21/aimbot-android-script-hub](https://github.com/andre-james21/aimbot-android-script-hub)** ⭐ 37
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Android mobile game script utility offering configurable target tracking and aiming assistance. Features custom parameter setup and regular 2026 updates.
+
+- **[cadams227/arcadia-executor-windows-hub](https://github.com/cadams227/arcadia-executor-windows-hub)** ⭐ 36
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Streamlined 2026 desktop script runtime for Windows 10 and 11. Run custom Lua scripts, access a pre-loaded script repository, and organize execution queues with no key required.
+
+- **[gustavkeller99/arcadia-executor-script-hub](https://github.com/gustavkeller99/arcadia-executor-script-hub)** ⭐ 36
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A lightweight Lua script runtime for Roblox on Windows featuring keyless startup, an embedded library of 500+ scripts, automatic updates, and an SQLite execution queue engine for automated workflows.
 
 ### 📈 Weekly Trending
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 9,293
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 10,087
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 2,936
+- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 3,017
   ![C](https://img.shields.io/badge/-C-lightgrey)
   A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
-- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,353
+- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,399
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
 
-- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,900
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,937
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
-- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,734
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
-
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,722
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,818
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
-- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,564
-  ![Python](https://img.shields.io/badge/-Python-blue)
+- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,749
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
+
+- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,582
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
-- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,219
+- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,396
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,330
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,352
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,355
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Codex Dream Skin
-
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,351
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,408
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,113
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,377
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Codex Dream Skin
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,177
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,100
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,138
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 9,293
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 10,088
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,171
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,223
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,574
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,575
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
@@ -503,55 +489,55 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Python | 🔴 Beginner |
 | JavaScript | 🔴 Beginner |
 | TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
 | Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | 🔴 Beginner |
-| Computer Vision | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
