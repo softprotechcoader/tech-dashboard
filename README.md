@@ -46,35 +46,48 @@
 
 ### 📑 Hacker News
 
-- **[The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)**
-  *<p>Article URL: <a href="https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html">https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Sat, 08 Aug 2026 12:07:25 +0000
+- **[LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)**
+  *<p>Article URL: <a href="https://github.com/andrewpollack/linkedin-feed-blocker">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sat, 08 Aug 2026 16:49:07 +0000
 
-- **[Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Sat, 08 Aug 2026 10:57:44 +0000
+- **[Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html)**
+  *<p>Article URL: <a href="https://toonk.io/index.html">https://toonk.io/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223105">https://news.ycombinator.com/item?id=...*
+  📅 Sat, 08 Aug 2026 16:07:00 +0000
 
-- **[Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
-<p>Comments URL: <a ...*
-  📅 Sat, 08 Aug 2026 10:16:01 +0000
+- **[Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)**
+  *<p>Article URL: <a href="https://www.fastmail.com/blog/fastmail-offers-eu-data-region/">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>
+<p>Comments URL: <a href="https://news.yco...*
+  📅 Sat, 08 Aug 2026 16:04:51 +0000
 
-- **[New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)**
-  *<p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
-...*
-  📅 Sat, 08 Aug 2026 10:07:06 +0000
+- **[Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/)**
+  *<p>Article URL: <a href="https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/">https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/</a></p>
+<p...*
+  📅 Sat, 08 Aug 2026 16:04:36 +0000
 
-- **[US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)**
-  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08...*
-  📅 Sat, 08 Aug 2026 10:04:25 +0000
+- **["Code was never the hard part" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)**
+  *<p>Article URL: <a href="https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers">https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers</a></p...*
+  📅 Sat, 08 Aug 2026 14:32:33 +0000
 
-- **[Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/)**
-  *<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/">https://arstechnica.com/gadgets/2026/08/europes-free-satellite-...*
-  📅 Sat, 08 Aug 2026 09:58:41 +0000
+- **[Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)**
+  *<p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sat, 08 Aug 2026 13:55:42 +0000
 
 ### 📑 TechCrunch
+
+- **[X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)**
+  *X is winding down its existing Revenue Sharing program....*
+  📅 Sat, 08 Aug 2026 16:34:22 +0000
+
+- **[The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)**
+  *While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size....*
+  📅 Sat, 08 Aug 2026 16:00:00 +0000
+
+- **[Google’s top hacker hunter explains why hacking groups get codenames](https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/)**
+  *Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codena...*
+  📅 Sat, 08 Aug 2026 15:00:00 +0000
 
 - **[OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)**
   *OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-pro...*
@@ -88,30 +101,24 @@
   *The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....*
   📅 Fri, 07 Aug 2026 21:20:00 +0000
 
-- **[Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks](https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/)**
-  *Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites....*
-  📅 Fri, 07 Aug 2026 21:00:08 +0000
-
-- **[Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)**
-  *Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo...*
-  📅 Fri, 07 Aug 2026 16:16:09 +0000
-
-- **[Computer maker Framework notifies ‘all customers’ of a data breach](https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/)**
-  *Framework told "all" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach....*
-  📅 Fri, 07 Aug 2026 16:09:04 +0000
-
 ### 📑 Dev.to
 
-- **[Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)**
-  *<p>Half your code is now written by an AI that hallucinates the other half's package names.</p>
+- **[Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p)**
+  *<p><em>This is a submission for <a href="https://dev.to/challenges/frontend-2026-07-29">Frontend Challenge - Comfort Food Edition, CSS Art</a>.</em></p>
 
-<p>That's not a joke. Across 576,000 samples, 19.7% of the packages AI coding models suggested didn't e...*
-  📅 Sat, 08 Aug 2026 12:19:33 +0000
+<h2>
+  
+  
+  Inspiration
+</h2>
 
-- **[AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers](https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727)**
-  *<blockquote>
-<p>Part of my AWS learning journey — transitioning from Systems Engineer to Cloud/DevOps. Route 53 is where networking meets the internet — how domain names reach your applications, how t...*
-  📅 Sat, 08 Aug 2026 12:15:57 +0000
+<p>Bánh mì is ...*
+  📅 Sat, 08 Aug 2026 18:06:09 +0000
+
+- **[Understanding the CSS Box Model, Cascade & Specificity](https://dev.to/deepika_pusala/understanding-the-css-box-model-cascade-specificity-1l92)**
+  *<p>Understanding the CSS Box Model, Cascade &amp; Specificity<br />
+A simple guide to understanding how CSS decides size, spacing, and which style wins when multiple rules target the same element.</p>...*
+  📅 Sat, 08 Aug 2026 18:02:11 +0000
 
 </details>
 
@@ -119,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[GOROman/vibewatch](https://github.com/GOROman/vibewatch)** ⭐ 72
+- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 159
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
+
+- **[GOROman/vibewatch](https://github.com/GOROman/vibewatch)** ⭐ 93
   ![C++](https://img.shields.io/badge/-C++-pink)
   A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding
 
-- **[chriss571/impact-minecraft-script-mod](https://github.com/chriss571/impact-minecraft-script-mod)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Advanced Minecraft utility mod for Windows 10/11 built on Fabric Loader. Features AutoMine, Aimbot, X-Ray, Wallhack, GhostHand, JS custom script modules, and ready-to-use minigame presets for versions 1.16.5 through 1.20.1.
+- **[i3T4AN/KADATH](https://github.com/i3T4AN/KADATH)** ⭐ 77
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.
 
-- **[rothcarter13/humen-visual-script-loader](https://github.com/rothcarter13/humen-visual-script-loader)** ⭐ 40
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A 2026 PC game visualization script and graphics overlay utility designed to outline entities and key assets through geometry on Windows. Compatible with standard DirectX and OpenGL titles.
+- **[liyue-aigc/xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director)** ⭐ 66
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megastructures.
 
-- **[richtercarlo86/humen-script-executor-pc](https://github.com/richtercarlo86/humen-script-executor-pc)** ⭐ 40
+- **[owenn1994/aimbot-panel-script-loader](https://github.com/owenn1994/aimbot-panel-script-loader)** ⭐ 50
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A real-time wall-detection overlay tool for Windows 10/11 shooters and battle royale titles. Features customizable keybindings, automated window attachment, high-resolution support, and a keyless setup workflow for enhanced visual clarity.
+  A browser-native game script controller and web dashboard for 2026 featuring an integrated aimbot module managed entirely through an accessible web user interface.
 
-- **[hanness03/foxy-lua-executor-script-hub](https://github.com/hanness03/foxy-lua-executor-script-hub)** ⭐ 40
+- **[ethanc696/nights-in-the-forest-utility](https://github.com/ethanc696/nights-in-the-forest-utility)** ⭐ 50
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A keyless Lua script runtime for Roblox on 64-bit Windows systems. Features an integrated script hub, modern interface, and free instant access without keys for 2026.
+  A lightweight Windows PC enhancement script for a popular forest survival game. Features automated aim lock, fast action execution, independent hotkey toggles, and zero-setup execution for 2026 releases.
 
-- **[finn-lewis61/king-legacy-desktop-script-hub](https://github.com/finn-lewis61/king-legacy-desktop-script-hub)** ⭐ 40
+- **[felixr1984/irl-vision-script-executor](https://github.com/felixr1984/irl-vision-script-executor)** ⭐ 50
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A fast and resource-friendly Windows desktop utility for running Lua scripts in an anime-inspired Roblox RPG. Features a script library, keyless setup, and 64-bit Windows support for 2026.
+  An efficient vision overlay system for PC gaming environments designed to enhance spatial perception and situational clarity. Offers dependable execution, streamlined configuration, and support for 2026 PC gaming setups.
 
-- **[calebw87/irl-overlay-script-hub](https://github.com/calebw87/irl-overlay-script-hub)** ⭐ 40
+- **[isaac-fournier2004/xios-aim-script-utility-2026](https://github.com/isaac-fournier2004/xios-aim-script-utility-2026)** ⭐ 50
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Streamlined PC overlay utility and visual display layer built for DirectX 11 games on Windows. Features customizable settings, quick keyboard shortcuts, and simple setup for enhanced in-game visual configuration.
-
-- **[gmoore80/hypershot-game-script-hub](https://github.com/gmoore80/hypershot-game-script-hub)** ⭐ 39
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A 2026 automation toolkit and targeting framework designed as an HTML-centric game script utility for custom gameplay routines and control flows.
+  A PC game script tool for 2026 providing targeted crosshair alignment, custom tracking, and localized aim calibration with fully customizable parameters.
 
 ### 📈 Weekly Trending
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,792
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,974
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 2,011
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 2,024
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,951
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,981
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
-- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,604
+- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,701
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,589
+- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,588
   ![None](https://img.shields.io/badge/-None-lightgrey)
   非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
-- **[Accio-org/RealReplicaBench](https://github.com/Accio-org/RealReplicaBench)** ⭐ 1,040
+- **[Accio-org/RealReplicaBench](https://github.com/Accio-org/RealReplicaBench)** ⭐ 1,041
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services
 
-- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 743
+- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 759
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot
 
-- **[magicrew/doc7](https://github.com/magicrew/doc7)** ⭐ 720
+- **[magicrew/doc7](https://github.com/magicrew/doc7)** ⭐ 723
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Turn documents into AI-ready Markdown with visual understanding
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,445
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,467
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,722
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,782
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,416
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,428
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,434
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,494
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,792
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,974
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,221
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,237
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,311
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,331
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,575
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,574
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
@@ -486,58 +493,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | 🟡 Learning |
+| Python | ⚪ Planned |
 | JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | ⚪ Planned |
-| Next.js | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
