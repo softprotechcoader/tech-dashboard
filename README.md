@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 07, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 08, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,73 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[ICE will release body cam video only when seen in the agency's 'best interests'](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)**
-  *<p>Article URL: <a href="https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57">https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412...*
-  📅 Fri, 07 Aug 2026 18:15:33 +0000
+- **[Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)**
+  *<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals">https://www.economist.com/science-and-technology/20...*
+  📅 Sat, 08 Aug 2026 00:03:31 +0000
 
-- **[Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)**
-  *<p>Article URL: <a href="https://github.com/xoreaxeaxeax/asm-hall-of-shame">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=492...*
-  📅 Fri, 07 Aug 2026 18:01:30 +0000
+- **[U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)**
+  *<p>Article URL: <a href="https://genesisopenmodels.anl.gov/">https://genesisopenmodels.anl.gov/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216946">https://news.ycombinato...*
+  📅 Fri, 07 Aug 2026 22:24:27 +0000
 
-- **[The End of No Code](https://blog.exe.dev/the-end-of-no-code)**
-  *<p>Article URL: <a href="https://blog.exe.dev/the-end-of-no-code">https://blog.exe.dev/the-end-of-no-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214065">https://news....*
-  📅 Fri, 07 Aug 2026 17:59:19 +0000
+- **[Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)**
+  *<p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.thereg...*
+  📅 Fri, 07 Aug 2026 21:19:57 +0000
 
-- **[DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)**
-  *<p>Article URL: <a href="https://arcprize.org/results/deepseek-v4-flash-0731">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Fri, 07 Aug 2026 17:56:20 +0000
+- **[Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)**
+  *<p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news....*
+  📅 Fri, 07 Aug 2026 18:51:45 +0000
 
-- **[Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)**
-  *<p>Article URL: <a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code">https://app.dealroom.co/news/feed/oracl...*
-  📅 Fri, 07 Aug 2026 17:36:30 +0000
+- **[Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)**
+  *<p>Article URL: <a href="https://ancientlibrary.net/">https://ancientlibrary.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214770">https://news.ycombinator.com/item?id=...*
+  📅 Fri, 07 Aug 2026 18:51:14 +0000
 
-- **[Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)**
-  *<p>Article URL: <a href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>
-<p>Comme...*
-  📅 Fri, 07 Aug 2026 16:39:36 +0000
+- **[Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)**
+  *<p>Article URL: <a href="https://www.databricks.com/blog/managing-ai-coding-costs-scale">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>
+<p>Comments URL: <a href="https://news.y...*
+  📅 Fri, 07 Aug 2026 18:25:17 +0000
 
 ### 📑 TechCrunch
 
+- **[OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)**
+  *OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-pro...*
+  📅 Fri, 07 Aug 2026 22:48:24 +0000
+
+- **[After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)**
+  *After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....*
+  📅 Fri, 07 Aug 2026 21:30:11 +0000
+
+- **[Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists](https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/)**
+  *The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....*
+  📅 Fri, 07 Aug 2026 21:20:00 +0000
+
+- **[Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks](https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/)**
+  *Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites....*
+  📅 Fri, 07 Aug 2026 21:00:08 +0000
+
 - **[Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)**
-  *Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h...*
+  *Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo...*
   📅 Fri, 07 Aug 2026 16:16:09 +0000
 
 - **[Computer maker Framework notifies ‘all customers’ of a data breach](https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/)**
   *Framework told "all" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach....*
   📅 Fri, 07 Aug 2026 16:09:04 +0000
 
-- **[Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/)**
-  *Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing....*
-  📅 Fri, 07 Aug 2026 15:52:33 +0000
-
-- **[Trump administration has spent nearly $4B to cancel offshore wind farms](https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/)**
-  *The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion....*
-  📅 Fri, 07 Aug 2026 15:11:03 +0000
-
-- **[Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/)**
-  *You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees alrea...*
-  📅 Fri, 07 Aug 2026 14:30:00 +0000
-
-- **[Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say](https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/)**
-  *In the Kimi test, the sandbox designed to contain the experiment was not properly configured....*
-  📅 Fri, 07 Aug 2026 14:28:31 +0000
-
 ### 📑 Dev.to
 
-- **[I stopped letting GPT-5 babysit my inbox and the whole workflow got cheaper and better](https://dev.to/lars_winstand/i-stopped-letting-gpt-5-babysit-my-inbox-and-the-whole-workflow-got-cheaper-and-better-2bi5)**
-  *<p>I used to think email was a terrible place for AI.</p>
+- **[A Field Guide to LLM API Error Messages](https://dev.to/multigrid/a-field-guide-to-llm-api-error-messages-4gi6)**
+  *<p>Inference APIs return a small, stable set of failures, and most integrations handle them with a blanket retry that makes two of them worse and hides a third. Knowing which is which takes about ten ...*
+  📅 Sat, 08 Aug 2026 00:47:54 +0000
 
-<p>Too messy. Too human. Too full of forwarded chains from 2017 and HTML generated by software nobody at the company can name.</p>
-
-<p>Then I...*
-  📅 Fri, 07 Aug 2026 18:35:36 +0000
-
-- **[Dos formas en que un backtest te miente (y cómo evitarlas)](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63)**
-  *<p>Pruebas una estrategia, o un modelo, sobre datos históricos. El backtest da un número bonito. Y luego, en real, no aparece. Casi siempre es una de estas dos ilusiones — y las dos se descartan con m...*
-  📅 Fri, 07 Aug 2026 18:23:26 +0000
+- **[Date and Time Reasoning Bugs](https://dev.to/multigrid/date-and-time-reasoning-bugs-1ek2)**
+  *<p>“Schedule it for the Friday after next” is one of the most dangerous strings you can hand a language model, because it will confidently return a date, that date will be well formatted, and there is...*
+  📅 Sat, 08 Aug 2026 00:47:50 +0000
 
 </details>
 
@@ -120,99 +116,99 @@
 
 ### 📈 Daily Trending
 
-- **[maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)** ⭐ 117
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  setup guide for deepseek-flash-0731 on two dgx-spark from scratch
-
-- **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** ⭐ 69
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.
-
-- **[daved-lab2001o0/adopt-me-roblox-script](https://github.com/daved-lab2001o0/adopt-me-roblox-script)** ⭐ 66
+- **[ZiYu-Huang/the-2nd-GISA_Elite_Award.](https://github.com/ZiYu-Huang/the-2nd-GISA_Elite_Award.)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Auto-farm Adopt Me pets & bucks in Roblox with a lightweight script – boost your game instantly.
+  第二屆菁英選拔會計分網站
 
-- **[retrovaliks/polymarket-btc-5min-trading-bot](https://github.com/retrovaliks/polymarket-btc-5min-trading-bot)** ⭐ 33
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  polymarket ml trading bot using nautileus
+- **[EmilioM092611/machine-learning-for-customer-churn-prediction](https://github.com/EmilioM092611/machine-learning-for-customer-churn-prediction)** ⭐ 1
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  End-to-end machine learning project for predicting customer churn using Python and Scikit-Learn.
 
-- **[xinwithyu/dwell-on-something](https://github.com/xinwithyu/dwell-on-something)** ⭐ 30
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
-
-- **[miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)** ⭐ 30
+- **[rqo222/sharktech-bare-metal-pricing](https://github.com/rqo222/sharktech-bare-metal-pricing)** ⭐ 1
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Design rules to stop AI coding agents from generating generic "AI slop" UI.
+  Affordable Bare Metal Servers: Real Dedicated Hardware From $99/mo With Free DDoS Protection
 
-- **[ChaosDeputy72/Windows11ProActivate](https://github.com/ChaosDeputy72/Windows11ProActivate)** ⭐ 25
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  None
+- **[orozcoadrian-dev/BroTrack](https://github.com/orozcoadrian-dev/BroTrack)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Sistema de gestión web para BroTrack que permite registrar, organizar y monitorear el historial de carreras e ingresos mediante una plataforma clara, rápida y orientada a optimizar el servicio.
 
-- **[andrew-stone1995/apkpremium-store-hub](https://github.com/andrew-stone1995/apkpremium-store-hub)** ⭐ 19
+- **[AZADAYAZ/borc-ve-alacak-takip-temiz](https://github.com/AZADAYAZ/borc-ve-alacak-takip-temiz)** ⭐ 1
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Borç ve Alacak Takip uygulaması - temiz ve kullanıcıya ait kaynak deposu
+
+- **[Trishit1234/Student-Result-Management-System](https://github.com/Trishit1234/Student-Result-Management-System)** ⭐ 1
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A Telegram bot script for creating a custom storefront to showcase and navigate software and APK catalogs. Features easy catalog customization, fast deployment, and straightforward configuration.
+  Web based Student Result Management System built with Python Flask and SQLite.
+
+- **[nuytpvi/remote-anti-ddos-pricing](https://github.com/nuytpvi/remote-anti-ddos-pricing)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Remote Anti DDoS Service: Flat Monthly Pricing, No Migration Required
+
+- **[Kensi247-Dev-vibecode/Licnesskey.py](https://github.com/Kensi247-Dev-vibecode/Licnesskey.py)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Tool247 - Kensi Licnesskey
 
 ### 📈 Weekly Trending
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 10,647
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,033
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 3,177
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-
-- **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** ⭐ 2,425
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
-
-- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,959
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,982
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,861
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,874
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
-- **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** ⭐ 1,764
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
-
-- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,587
+- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,588
   ![None](https://img.shields.io/badge/-None-lightgrey)
   非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
-- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,473
+- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,492
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
+- **[Accio-org/RealReplicaBench](https://github.com/Accio-org/RealReplicaBench)** ⭐ 1,040
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services
+
+- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 725
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot
+
+- **[magicrew/doc7](https://github.com/magicrew/doc7)** ⭐ 611
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Turn documents into AI-ready Markdown with visual understanding
+
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,384
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,398
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,517
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,588
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,392
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,394
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,247
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,289
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 10,647
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,033
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,161
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,172
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,249
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,268
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
@@ -486,30 +482,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
 | Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | 🔴 Beginner |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
@@ -517,9 +513,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟢 Proficient |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟡 Learning |
 
 ### Devops
@@ -528,15 +524,15 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🟡 Learning |
 | Cloud Computing | 🟢 Proficient |
 
@@ -556,7 +552,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** August 07, 2026
+**Last Updated:** August 08, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
