@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)**
-  *<p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/...*
-  📅 Sat, 08 Aug 2026 03:41:56 +0000
+- **[The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)**
+  *<p>Article URL: <a href="https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html">https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sat, 08 Aug 2026 12:07:25 +0000
 
-- **[NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)**
-  *<p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-explorat...*
-  📅 Sat, 08 Aug 2026 01:49:11 +0000
+- **[Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)**
+  *<p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Sat, 08 Aug 2026 10:57:44 +0000
 
-- **[The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)**
-  *<p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sat, 08 Aug 2026 01:12:45 +0000
+- **[Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
+<p>Comments URL: <a ...*
+  📅 Sat, 08 Aug 2026 10:16:01 +0000
 
-- **[U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)**
-  *<p>Article URL: <a href="https://genesisopenmodels.anl.gov/">https://genesisopenmodels.anl.gov/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216946">https://news.ycombinato...*
-  📅 Fri, 07 Aug 2026 22:24:27 +0000
+- **[New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)**
+  *<p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
+...*
+  📅 Sat, 08 Aug 2026 10:07:06 +0000
 
-- **[Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)**
-  *<p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.thereg...*
-  📅 Fri, 07 Aug 2026 21:19:57 +0000
+- **[US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)**
+  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08...*
+  📅 Sat, 08 Aug 2026 10:04:25 +0000
 
-- **[Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)**
-  *<p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news....*
-  📅 Fri, 07 Aug 2026 18:51:45 +0000
+- **[Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/)**
+  *<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/">https://arstechnica.com/gadgets/2026/08/europes-free-satellite-...*
+  📅 Sat, 08 Aug 2026 09:58:41 +0000
 
 ### 📑 TechCrunch
 
@@ -101,13 +102,16 @@
 
 ### 📑 Dev.to
 
-- **[Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7)**
-  *<p>This is the second article in my <a href="https://github.com/qianwj/grpc-reactor" rel="noopener noreferrer">grpc-reactor</a> series. The <a href="https://qianwj.github.io/en/2026/06/01/grpc-reactor...*
-  📅 Sat, 08 Aug 2026 06:09:36 +0000
+- **[Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)**
+  *<p>Half your code is now written by an AI that hallucinates the other half's package names.</p>
 
-- **[I built a pricing API for LLMs — then realized the real users might not be human](https://dev.to/adrasmussen/i-built-a-pricing-api-for-llms-then-realized-the-real-users-might-not-be-human-4b8j)**
-  *<p><a href="https://llmpricewatch.com" rel="noopener noreferrer">Klikk her: LLM Price Watch</a> started as a simple problem: comparing per-token pricing across Claude, GPT, Gemini, DeepSeek, and Grok ...*
-  📅 Sat, 08 Aug 2026 06:02:20 +0000
+<p>That's not a joke. Across 576,000 samples, 19.7% of the packages AI coding models suggested didn't e...*
+  📅 Sat, 08 Aug 2026 12:19:33 +0000
+
+- **[AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers](https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727)**
+  *<blockquote>
+<p>Part of my AWS learning journey — transitioning from Systems Engineer to Cloud/DevOps. Route 53 is where networking meets the internet — how domain names reach your applications, how t...*
+  📅 Sat, 08 Aug 2026 12:15:57 +0000
 
 </details>
 
@@ -115,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[GOROman/vibewatch](https://github.com/GOROman/vibewatch)** ⭐ 32
+- **[GOROman/vibewatch](https://github.com/GOROman/vibewatch)** ⭐ 72
   ![C++](https://img.shields.io/badge/-C++-pink)
   A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding
 
-- **[DuckWithKnife404/FunPayPlus](https://github.com/DuckWithKnife404/FunPayPlus)** ⭐ 13
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[chriss571/impact-minecraft-script-mod](https://github.com/chriss571/impact-minecraft-script-mod)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Advanced Minecraft utility mod for Windows 10/11 built on Fabric Loader. Features AutoMine, Aimbot, X-Ray, Wallhack, GhostHand, JS custom script modules, and ready-to-use minigame presets for versions 1.16.5 through 1.20.1.
 
-- **[ZiggyMar/unreal-mcp](https://github.com/ZiggyMar/unreal-mcp)** ⭐ 11
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  MCP server for Unreal Engine 5.6/5.8 — token-efficient Blueprint reading, editing, and a persistent project index for AI coding agents
+- **[rothcarter13/humen-visual-script-loader](https://github.com/rothcarter13/humen-visual-script-loader)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A 2026 PC game visualization script and graphics overlay utility designed to outline entities and key assets through geometry on Windows. Compatible with standard DirectX and OpenGL titles.
 
-- **[alphaparkinc/genpark-declarative-workflow-dag-code-generator-skill](https://github.com/alphaparkinc/genpark-declarative-workflow-dag-code-generator-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Visual flow node-graph to executable Python DAG workflow generator
+- **[richtercarlo86/humen-script-executor-pc](https://github.com/richtercarlo86/humen-script-executor-pc)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A real-time wall-detection overlay tool for Windows 10/11 shooters and battle royale titles. Features customizable keybindings, automated window attachment, high-resolution support, and a keyless setup workflow for enhanced visual clarity.
 
-- **[alphaparkinc/genpark-realtime-voice-cloning-emotion-expressive-tts-skill](https://github.com/alphaparkinc/genpark-realtime-voice-cloning-emotion-expressive-tts-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Real-time zero-shot voice cloning & emotional neural TTS generator
+- **[hanness03/foxy-lua-executor-script-hub](https://github.com/hanness03/foxy-lua-executor-script-hub)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A keyless Lua script runtime for Roblox on 64-bit Windows systems. Features an integrated script hub, modern interface, and free instant access without keys for 2026.
 
-- **[alphaparkinc/genpark-multimodal-document-ocr-structure-extractor-skill](https://github.com/alphaparkinc/genpark-multimodal-document-ocr-structure-extractor-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Complex PDF/Image OCR, table layout parser & structured JSON extractor
+- **[finn-lewis61/king-legacy-desktop-script-hub](https://github.com/finn-lewis61/king-legacy-desktop-script-hub)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A fast and resource-friendly Windows desktop utility for running Lua scripts in an anime-inspired Roblox RPG. Features a script library, keyless setup, and 64-bit Windows support for 2026.
 
-- **[alphaparkinc/genpark-ai-video-multimodal-motion-brush-animator-skill](https://github.com/alphaparkinc/genpark-ai-video-multimodal-motion-brush-animator-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Multimodal image-to-video motion control & camera trajectory animator
+- **[calebw87/irl-overlay-script-hub](https://github.com/calebw87/irl-overlay-script-hub)** ⭐ 40
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Streamlined PC overlay utility and visual display layer built for DirectX 11 games on Windows. Features customizable settings, quick keyboard shortcuts, and simple setup for enhanced in-game visual configuration.
 
-- **[alphaparkinc/genpark-codebase-semantic-rag-ast-indexer-skill](https://github.com/alphaparkinc/genpark-codebase-semantic-rag-ast-indexer-skill)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Enterprise codebase AST parsing, semantic vector indexing & symbol graph
+- **[gmoore80/hypershot-game-script-hub](https://github.com/gmoore80/hypershot-game-script-hub)** ⭐ 39
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  A 2026 automation toolkit and targeting framework designed as an HTML-centric game script utility for custom gameplay routines and control flows.
 
 ### 📈 Weekly Trending
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,358
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,792
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 1,997
+- **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** ⭐ 2,011
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,916
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,951
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+
+- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,604
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
 
 - **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,589
   ![None](https://img.shields.io/badge/-None-lightgrey)
   非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
-- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,532
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
 - **[Accio-org/RealReplicaBench](https://github.com/Accio-org/RealReplicaBench)** ⭐ 1,040
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services
 
-- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 731
+- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 743
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot
 
-- **[magicrew/doc7](https://github.com/magicrew/doc7)** ⭐ 716
+- **[magicrew/doc7](https://github.com/magicrew/doc7)** ⭐ 720
   ![Go](https://img.shields.io/badge/-Go-cyan)
   Turn documents into AI-ready Markdown with visual understanding
 
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,415
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,445
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,655
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,722
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,404
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,416
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,366
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,434
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,358
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 11,792
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,206
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,221
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,288
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,311
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,576
+- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,575
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   AOS Community Edition: the open agent operating system.
 
@@ -481,30 +485,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🟢 Proficient |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
@@ -512,28 +516,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Machine Learning | ⚪ Planned |
 | Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | ⚪ Planned |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
