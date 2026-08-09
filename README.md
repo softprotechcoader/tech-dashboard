@@ -19,7 +19,7 @@
 
 | Metric | Count |
 |--------|-------|
-| 📰 Latest News Articles | 16 |
+| 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
@@ -43,6 +43,37 @@
 
 <details>
 <summary>Click to expand latest tech news</summary>
+
+### 📑 Hacker News
+
+- **[Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)**
+  *<p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycom...*
+  📅 Sun, 09 Aug 2026 05:23:41 +0000
+
+- **[The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)**
+  *<p>Article URL: <a href="http://longbets.org/601/">http://longbets.org/601/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=492284...*
+  📅 Sun, 09 Aug 2026 04:30:26 +0000
+
+- **[Illinois just told every operating system to start reporting your kid's age](https://itsfoss.com/news/illinois-age-verification-bill/)**
+  *<p>Article URL: <a href="https://itsfoss.com/news/illinois-age-verification-bill/">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c...*
+  📅 Sun, 09 Aug 2026 04:03:59 +0000
+
+- **[Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)**
+  *<p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
+<p>Comment...*
+  📅 Sun, 09 Aug 2026 03:26:00 +0000
+
+- **[Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)**
+  *<p>Article URL: <a href="https://marketnow.site/">https://marketnow.site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228086">https://news.ycombinator.com/item?id=49228086...*
+  📅 Sun, 09 Aug 2026 03:13:01 +0000
+
+- **[ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)**
+  *<p>Article URL: <a href="https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-fam...*
+  📅 Sun, 09 Aug 2026 02:01:38 +0000
 
 ### 📑 TechCrunch
 
@@ -72,35 +103,29 @@
 
 ### 📑 Dev.to
 
-- **[Deploying and committing to git are not the same "done" — the trap of assuming uploaded means synced](https://dev.to/susumun/deploying-and-committing-to-git-are-not-the-same-done-the-trap-of-assuming-uploaded-means-synced-4jjc)**
-  *<p>Near the end of a release, every file transfer to the production server succeeded, and the version file that triggers distribution was updated too. With that confirmed, the release got reported as ...*
-  📅 Sun, 09 Aug 2026 00:52:10 +0000
+- **[AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia](https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868)**
+  *<h1>
+  
+  
+  AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia
+</h1>
 
-- **[Local LLMs in 2026: What Actually Runs Well on a Laptop Now](https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1)**
-  *<p>Two years ago, "run a language model locally" meant a weekend of compiling, a graveyard of CUDA errors, and a model that answered like it had a concussion. In 2026, you can install one tool, type o...*
-  📅 Sun, 09 Aug 2026 00:23:28 +0000
+<p><em>โดย Nokka (นก-กา) | 5 สิงหาคม 2569</em></p>
 
-- **[MCP in 2026: How the Model Context Protocol Became the USB-C of AI Tooling](https://dev.to/ai_maya_063fc568e157562fd/mcp-in-2026-how-the-model-context-protocol-became-the-usb-c-of-ai-tooling-3bfi)**
-  *<p>A year ago, connecting a model to your tools meant writing glue for <em>that model</em>, in <em>that framework</em>, with <em>that vendor's</em> function-calling format. Swap the model and you rewr...*
-  📅 Sun, 09 Aug 2026 00:17:47 +0000
+<p>AMD เพิ่งปล่อยโมเดล AI ตัวใหม่ที่สร้างคว...*
+  📅 Sun, 09 Aug 2026 06:33:23 +0000
 
-- **[Default-to-Flagship Is Now a Cost Bug: Tiered Model Routing for Agentic Workloads](https://dev.to/ai_maya_063fc568e157562fd/default-to-flagship-is-now-a-cost-bug-tiered-model-routing-for-agentic-workloads-2gk4)**
-  *<p>For two years the reflex was simple: reach for the biggest model you can afford and call it a day. In 2026 that reflex quietly became a bug in your cost model.</p>
+- **[AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา](https://dev.to/sarantoon/ai-omedlhludkaipaehkbrisathuuen-openai-anthropic-aelwtnnii-meta-taammaa-3fnb)**
+  *<h1>
+  
+  
+  AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา
+</h1>
 
-<p>The clearest signal came this...*
-  📅 Sun, 09 Aug 2026 00:17:41 +0000
+<p><em>โดย Nokka (นก-กา) | 5 สิงหาคม 2569</em></p>
 
-- **[How much to share in a monorepo when building common features for web and mobile](https://dev.to/hirodeath/how-much-to-share-in-a-monorepo-when-building-common-features-for-web-and-mobile-2481)**
-  *<p>This article is an English translation of the original Japanese article.</p>
-
-<p>When I added an Expo app to an existing Next.js web service, I initially wanted to share as much code as possible. I...*
-  📅 Sun, 09 Aug 2026 00:13:56 +0000
-
-- **[AI Made Prototyping Free. That Is Exactly Why Your Portfolio Strategy Matters Now.](https://dev.to/debashish_ghosal/ai-made-prototyping-free-that-is-exactly-why-your-portfolio-strategy-matters-now-40fc)**
-  *<p><em>Part of the "AI Leadership in the Real World" series: how leaders turn AI from scattered pilots and executive excitement into governed, adopted, measurable business capability.</em></p>
-
-<block...*
-  📅 Sun, 09 Aug 2026 00:06:56 +0000
+<p><em>บทความนี้เขียนโดย AI (deepseek-v4-flash:0731) ผ่...*
+  📅 Sun, 09 Aug 2026 06:32:37 +0000
 
 </details>
 
@@ -108,99 +133,99 @@
 
 ### 📈 Daily Trending
 
-- **[meddadaek/agentic_rag](https://github.com/meddadaek/agentic_rag)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  An advanced, intelligent Retrieval-Augmented Generation (RAG) framework designed to perform multi-step reasoning, dynamic context retrieval, and precise query answering.
-
-- **[gosailing2028/WatermarkRemoval](https://github.com/gosailing2028/WatermarkRemoval)** ⭐ 2
+- **[webernils1/script-utility-loader-hub](https://github.com/webernils1/script-utility-loader-hub)** ⭐ 50
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+  Streamlined 2026 Windows utility designed for network management and gameplay modifications. Features automated setup, custom configuration options, and background updates in a lightweight package.
 
-- **[pengliangtian06-commits/voice-studio-macos](https://github.com/pengliangtian06-commits/voice-studio-macos)** ⭐ 1
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native macOS Voice Studio for Xiaomi MiMo V2.5 and OpenAI-compatible TTS
-
-- **[janroudaut/thundershot](https://github.com/janroudaut/thundershot)** ⭐ 1
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Application Android qui photographie les éclairs en autonomie : poses longues enchaînées ou détection temps réel, sortie JPEG et DNG (Kotlin, Camera2, Compose)
-
-- **[niornda/CV-Yasmine-](https://github.com/niornda/CV-Yasmine-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[lexerivan14/weather-discord-chatbot](https://github.com/lexerivan14/weather-discord-chatbot)** ⭐ 1
+- **[teknium1/hermes-starter-profile](https://github.com/teknium1/hermes-starter-profile)** ⭐ 12
   ![Python](https://img.shields.io/badge/-Python-blue)
+  A focused Hermes profile for learning the agent without tool overload
+
+- **[mateusdcc/pi-gpt-search](https://github.com/mateusdcc/pi-gpt-search)** ⭐ 12
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[iqusoj9/vmiss-user-reviews](https://github.com/iqusoj9/vmiss-user-reviews)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  VMISS 用户评价：线路优化带宽足，常年优惠性价比高
+- **[LunkiBR/ship-it](https://github.com/LunkiBR/ship-it)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Claude Code skill that catches commonly-forgotten UX/product details before you ship a screen or feature.
 
-- **[gbe1801/vmis-london-9929](https://github.com/gbe1801/vmis-london-9929)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  VMISS 伦敦 VPS：9929住宅IP低至21元/月,8折循环优惠全场通用
+- **[drowzeys/keys-DGX-Sparkticus-Utimate-Power-Pack-Unleashed-Dual-DGX-Sparks-Needed](https://github.com/drowzeys/keys-DGX-Sparkticus-Utimate-Power-Pack-Unleashed-Dual-DGX-Sparks-Needed)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  keys-DGX-Sparkticus Utimate Power Pack Unleashed (Dual DGX-Sparks Needed)
+
+- **[biyan113/Portless](https://github.com/biyan113/Portless)** ⭐ 9
+  ![Dart](https://img.shields.io/badge/-Dart-lightgrey)
+  Local dev service manager: ports → processes → projects → open → stop.
+
+- **[panel-zeus/Z-E-U-S](https://github.com/panel-zeus/Z-E-U-S)** ⭐ 8
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  None
+
+- **[yibie/dired-z](https://github.com/yibie/dired-z)** ⭐ 5
+  ![Emacs Lisp](https://img.shields.io/badge/-Emacs Lisp-lightgrey)
+  A native Emacs Lisp zoxide experience for Dired
 
 ### 📈 Weekly Trending
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 12,128
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 12,264
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 1,989
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 2,009
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
-- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,725
+- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 1,799
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,588
+- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,592
   ![None](https://img.shields.io/badge/-None-lightgrey)
   非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
-- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 764
+- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 771
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot
 
-- **[0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red)** ⭐ 681
+- **[0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red)** ⭐ 682
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
-- **[google-gemma/gemma-translator](https://github.com/google-gemma/gemma-translator)** ⭐ 579
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 567
+- **[wumingqi60/lingxi](https://github.com/wumingqi60/lingxi)** ⭐ 611
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   灵犀跨境-开源共建版
 
+- **[google-gemma/gemma-translator](https://github.com/google-gemma/gemma-translator)** ⭐ 602
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,477
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,494
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,811
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 13,846
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,430
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,435
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,546
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,599
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 12,128
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 12,264
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,247
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,272
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,345
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,364
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
@@ -474,59 +499,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Django | ⚪ Planned |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
