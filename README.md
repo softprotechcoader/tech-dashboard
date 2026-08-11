@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 10, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 11, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,78 +46,77 @@
 
 ### 📑 Hacker News
 
-- **[Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)**
-  *<p>Article URL: <a href="https://www.anthropic.com/research/riemann-zeta">https://www.anthropic.com/research/riemann-zeta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4924707...*
-  📅 Mon, 10 Aug 2026 17:41:13 +0000
+- **[The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)**
+  *<p>Article URL: <a href="https://www.effort.news/uk-lobby">https://www.effort.news/uk-lobby</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251411">https://news.ycombinator.co...*
+  📅 Mon, 10 Aug 2026 23:45:50 +0000
 
-- **[Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)**
-  *<p>Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (<a href="https://www.stoaexchange.com">https://www.stoaexchange.com</a>), a marketplace for new and used GPUs and AI servers.<p>GPUs are the ...*
-  📅 Mon, 10 Aug 2026 16:35:27 +0000
+- **[Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)**
+  *<p>Article URL: <a href="https://everycube.alen.is/">https://everycube.alen.is/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251179">https://news.ycombinator.com/item?id=49...*
+  📅 Mon, 10 Aug 2026 23:16:25 +0000
 
-- **[Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)**
-  *<p>Article URL: <a href="https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html">https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html</a></p>
-<p>Comments URL:...*
-  📅 Mon, 10 Aug 2026 16:12:54 +0000
+- **[World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)**
+  *<p>Article URL: <a href="https://worldtrainmap.com/">https://worldtrainmap.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250894">https://news.ycombinator.com/item?id=49...*
+  📅 Mon, 10 Aug 2026 22:42:14 +0000
 
-- **[Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)**
-  *<p>Article URL: <a href="https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii">https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Mon, 10 Aug 2026 16:03:14 +0000
+- **[Google Search Is Dying. What Comes Next Is Worse](https://thewalrus.ca/google-search-is-dying/)**
+  *<p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">htt...*
+  📅 Mon, 10 Aug 2026 22:36:30 +0000
 
-- **[Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)**
-  *<p>Article URL: <a href="https://github.com/AntigmaLabs/ante">https://github.com/AntigmaLabs/ante</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245437">https://news.ycombina...*
-  📅 Mon, 10 Aug 2026 15:59:23 +0000
+- **[Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)**
+  *<p>Article URL: <a href="https://arachnoid.com/lutusp/sailbook.html">https://arachnoid.com/lutusp/sailbook.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249555">https:/...*
+  📅 Mon, 10 Aug 2026 20:52:55 +0000
 
-- **[Back to the Future of Handwriting Recognition (2016)](https://jackschaedler.github.io/handwriting-recognition/)**
-  *<p>Article URL: <a href="https://jackschaedler.github.io/handwriting-recognition/">https://jackschaedler.github.io/handwriting-recognition/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Mon, 10 Aug 2026 15:58:32 +0000
+- **[Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)**
+  *<p>Article URL: <a href="https://www.massaschadeconsument.nl/collectieve-acties/playstation/">https://www.massaschadeconsument.nl/collectieve-acties/playstation/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Mon, 10 Aug 2026 20:47:13 +0000
 
 ### 📑 TechCrunch
 
-- **[Aptoide becomes the first rival app store to return to Google Play in the US](https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/)**
-  *Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores....*
-  📅 Mon, 10 Aug 2026 18:31:54 +0000
+- **[OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)**
+  *San Francisco's housing market is in trouble again....*
+  📅 Tue, 11 Aug 2026 00:03:18 +0000
 
-- **[Social media platforms still facing thousands of user addiction lawsuits after failed appeals](https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/)**
-  *Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation....*
-  📅 Mon, 10 Aug 2026 18:30:33 +0000
+- **[As AI-led attacks multiply, OpenAI launches a new cyber model](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)**
+  *OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it....*
+  📅 Mon, 10 Aug 2026 23:56:15 +0000
 
-- **[YouTube now requires creators to have twice as many watch hours to start earning money](https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/)**
-  *Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days....*
-  📅 Mon, 10 Aug 2026 18:27:44 +0000
+- **[Jeff Bezos might finally get his hands on a sports team](https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/)**
+  *Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club....*
+  📅 Mon, 10 Aug 2026 23:16:44 +0000
 
-- **[Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises](https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/)**
-  *Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use...*
-  📅 Mon, 10 Aug 2026 18:00:39 +0000
+- **[Now Rippling is counter-suing tiny startup Runlayer](https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/)**
+  *This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning....*
+  📅 Mon, 10 Aug 2026 22:26:54 +0000
 
-- **[Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision](https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/)**
-  *Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access....*
-  📅 Mon, 10 Aug 2026 16:20:13 +0000
+- **[Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax](https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/)**
+  *California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires....*
+  📅 Mon, 10 Aug 2026 21:20:04 +0000
 
-- **[Sila lands $1.4B Pentagon loan as militaries demand more batteries](https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/)**
-  *Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state....*
-  📅 Mon, 10 Aug 2026 15:22:42 +0000
+- **[Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/)**
+  *On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the "personal superintelligence" systems Meta AI is building....*
+  📅 Mon, 10 Aug 2026 20:53:02 +0000
 
 ### 📑 Dev.to
 
-- **[The Agent Who Won't Say Its Name](https://dev.to/avaverify/the-agent-who-wont-say-its-name-3o4n)**
-  *<p><em>Originally published at <a href="https://avalayer.com/writing/the-agent-who-wont-say-its-name" rel="noopener noreferrer">avalayer.com/writing</a>, Field Notes 003.</em></p>
+- **[The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j)**
+  *<p>Almost every cost discussion about AI agents opens with a model price per million tokens, which is the one number that tells you the least. The bill you actually receive is a stack of four things: ...*
+  📅 Tue, 11 Aug 2026 00:52:24 +0000
 
-<p>Last Sunday a pi...*
-  📅 Mon, 10 Aug 2026 18:37:14 +0000
-
-- **[The Matrix: Why Merge Sort Beats the Brute Force](https://dev.to/timevolt/the-matrix-why-merge-sort-beats-the-brute-force-o29)**
+- **[Secure Boot's October 2026 Deadline: Two Years' Notice Wasn't Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)**
   *<h2>
   
   
-  The Quest Begins (The "Why")
+  The deadline nobody missed
 </h2>
 
-<p>I still remember the first time I got hit with a sorting question in an interview. The interviewer slid a whiteboard marker across the table and sai...*
-  📅 Mon, 10 Aug 2026 18:35:33 +0000
+<p>Every expiry story we've written here has the same shape. A certificate lapses, nobody was watching, something breaks, and everyone is surprised. <a h...*
+  📅 Tue, 11 Aug 2026 00:51:36 +0000
 
 </details>
 
@@ -125,105 +124,105 @@
 
 ### 📈 Daily Trending
 
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 638
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)** ⭐ 7
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Sandbox escape PoC for iOS 26 and 27
+
+- **[Mortalaphelix/Pax-Autocratica-Trainer](https://github.com/Mortalaphelix/Pax-Autocratica-Trainer)** ⭐ 7
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Pax Autocratica trainer and mod menu for PC — god mode, infinite resources, instant build and research, infinite ammo, one-hit kill, max citizen loyalty, unlimited Cores. 50+ cheats across 8 tabs, rebindable hotkeys, read-only mode for Early Access patches. Steam and Epic.
+
+- **[IFBITCODE/HACKATHON-IFTECH](https://github.com/IFBITCODE/HACKATHON-IFTECH)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[wild-canyonhoxo3344/AI-Trading-Bot-Codepen](https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen)** ⭐ 83
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  I’ve just created my own bot and I’m excited to share my work with you!
-
-- **[eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT](https://github.com/eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT)** ⭐ 82
-  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
-  The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.
-
-- **[iktok90-design/ai-smart-contract-auditor](https://github.com/iktok90-design/ai-smart-contract-auditor)** ⭐ 75
+- **[onchainjomo/linkprobe](https://github.com/onchainjomo/linkprobe)** ⭐ 3
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork simulation, and professional audit reports for Solidity & Vyper across all EVM chains.
+  None
 
-- **[dan-techdev1998j3/BinanceTrandingbog](https://github.com/dan-techdev1998j3/BinanceTrandingbog)** ⭐ 59
+- **[HotCode2025/BugsBasters-CuartoTrimestre](https://github.com/HotCode2025/BugsBasters-CuartoTrimestre)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  A simple tranding bot for binance working 2026 100%
+  Cuarto trimestre 
 
-- **[hcollet99/delta-script-executor-win](https://github.com/hcollet99/delta-script-executor-win)** ⭐ 50
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A Lua script engine for Roblox on Windows providing a streamlined environment to run scripts. Features a responsive desktop interface, built-in script library with 500+ options, keyless access, and support for 64-bit Windows 10 and 11.
+- **[0xgetz/CodeBuddy-Session-Extractor](https://github.com/0xgetz/CodeBuddy-Session-Extractor)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
-- **[mweiss935/electron-script-executor](https://github.com/mweiss935/electron-script-executor)** ⭐ 50
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A free keyless Lua script runtime for Roblox on Windows 10 and 11. Features a fast injection engine, an integrated hub with over 500 scripts, background updating capabilities, and a simple user interface built for PC in 2026.
+- **[AliKaramii786/X4G](https://github.com/AliKaramii786/X4G)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[milanlefebvre1994/cryptic-lua-script-executor](https://github.com/milanlefebvre1994/cryptic-lua-script-executor)** ⭐ 50
+- **[acerachel13-sudo/hehehe](https://github.com/acerachel13-sudo/hehehe)** ⭐ 1
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  A streamlined Windows desktop utility for executing Roblox Lua scripts. Features an integrated script hub, fast execution, and keyless access for 64-bit Windows 10 and 11 systems in 2026.
+  ada deehhhh
 
 ### 📈 Weekly Trending
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 2,257
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 2,275
   ![Python](https://img.shields.io/badge/-Python-blue)
   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
-
-- **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** ⭐ 2,234
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
 
 - **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,607
   ![None](https://img.shields.io/badge/-None-lightgrey)
   非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 
-- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,261
+- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,316
   ![Python](https://img.shields.io/badge/-Python-blue)
   let your agent control your phone
 
-- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,078
+- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,199
   ![Python](https://img.shields.io/badge/-Python-blue)
   Create smooth, responsive interactive web animations.
 
-- **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** ⭐ 815
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot
-
-- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 755
+- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 774
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
 
-- **[xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)** ⭐ 722
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 738
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)** ⭐ 730
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Racing to the bottom of CPU performance
 
+- **[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)** ⭐ 648
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.
+
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,593
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,613
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,072
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,088
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,510
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,514
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 13,346
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 13,494
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,929
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,962
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,529
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,580
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,502
+- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,518
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-- **[unicity-aos/aos-ce](https://github.com/unicity-aos/aos-ce)** ⭐ 8,575
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  AOS Community Edition: the open agent operating system.
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,334
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
 
 ## 🚀 Latest Releases
 
@@ -491,41 +490,41 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | ⚪ Planned |
-| Go | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| React | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -534,15 +533,15 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -561,7 +560,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** August 10, 2026
+**Last Updated:** August 11, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
