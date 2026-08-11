@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,35 +46,32 @@
 
 ### 📑 Hacker News
 
-- **[The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)**
-  *<p>Article URL: <a href="https://www.effort.news/uk-lobby">https://www.effort.news/uk-lobby</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251411">https://news.ycombinator.co...*
-  📅 Mon, 10 Aug 2026 23:45:50 +0000
+- **[Half of Europe's towns and villages have fewer residents than 60 years ago](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)**
+  *<p>Article URL: <a href="https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/">https://correctiv.org/en/europe/2026/04/21/half-of-europ...*
+  📅 Tue, 11 Aug 2026 05:46:16 +0000
 
-- **[Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)**
-  *<p>Article URL: <a href="https://everycube.alen.is/">https://everycube.alen.is/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251179">https://news.ycombinator.com/item?id=49...*
-  📅 Mon, 10 Aug 2026 23:16:25 +0000
+- **[DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)**
+  *<p>Article URL: <a href="https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself">https://manish.sh/writings/models/inside-deepseek-reverse-enginee...*
+  📅 Tue, 11 Aug 2026 05:30:24 +0000
 
-- **[World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)**
-  *<p>Article URL: <a href="https://worldtrainmap.com/">https://worldtrainmap.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250894">https://news.ycombinator.com/item?id=49...*
-  📅 Mon, 10 Aug 2026 22:42:14 +0000
+- **[Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)**
+  *<p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news....*
+  📅 Tue, 11 Aug 2026 05:26:58 +0000
 
-- **[Google Search Is Dying. What Comes Next Is Worse](https://thewalrus.ca/google-search-is-dying/)**
-  *<p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">htt...*
-  📅 Mon, 10 Aug 2026 22:36:30 +0000
+- **[Updated GPG Key for Signing Firefox and Thunderbird Releases](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)**
+  *<p>Article URL: <a href="https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/">https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-si...*
+  📅 Tue, 11 Aug 2026 04:04:36 +0000
 
-- **[Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)**
-  *<p>Article URL: <a href="https://arachnoid.com/lutusp/sailbook.html">https://arachnoid.com/lutusp/sailbook.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249555">https:/...*
-  📅 Mon, 10 Aug 2026 20:52:55 +0000
+- **[Hyperspace](https://hypercritical.co/hyperspace/)**
+  *<p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombi...*
+  📅 Tue, 11 Aug 2026 02:04:35 +0000
 
-- **[Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)**
-  *<p>Article URL: <a href="https://www.massaschadeconsument.nl/collectieve-acties/playstation/">https://www.massaschadeconsument.nl/collectieve-acties/playstation/</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Mon, 10 Aug 2026 20:47:13 +0000
+- **[Recycle – Floppydisks](https://www.floppydisk.com/recycle)**
+  *<p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinato...*
+  📅 Tue, 11 Aug 2026 02:01:01 +0000
 
 ### 📑 TechCrunch
 
@@ -104,125 +101,28 @@
 
 ### 📑 Dev.to
 
-- **[The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j)**
-  *<p>Almost every cost discussion about AI agents opens with a model price per million tokens, which is the one number that tells you the least. The bill you actually receive is a stack of four things: ...*
-  📅 Tue, 11 Aug 2026 00:52:24 +0000
+- **[Deploy ReplicaSet in Kubernetes Cluster](https://dev.to/janak0ff/deploy-replicaset-in-kubernetes-cluster-2n07)**
+  *<p>The Nautilus DevOps team is gearing up to deploy applications on a Kubernetes cluster for migration purposes. A team member has been tasked with creating a ReplicaSet outlined below:  </p>
 
-- **[Secure Boot's October 2026 Deadline: Two Years' Notice Wasn't Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)**
-  *<h2>
+<ol>
+<l...*
+  📅 Tue, 11 Aug 2026 06:42:41 +0000
+
+- **[Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)**
+  *<p><em>This is a submission for <a href="https://dev.to/challenges/frontend-2026-07-29">Frontend Challenge - Comfort Food Edition, CSS Art</a>.</em></p>
+
+<h2>
   
   
-  The deadline nobody missed
+  Inspiration
 </h2>
 
-<p>Every expiry story we've written here has the same shape. A certificate lapses, nobody was watching, something breaks, and everyone is surprised. <a h...*
-  📅 Tue, 11 Aug 2026 00:51:36 +0000
+<p>In an India...*
+  📅 Tue, 11 Aug 2026 06:39:57 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)** ⭐ 7
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Sandbox escape PoC for iOS 26 and 27
-
-- **[Mortalaphelix/Pax-Autocratica-Trainer](https://github.com/Mortalaphelix/Pax-Autocratica-Trainer)** ⭐ 7
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Pax Autocratica trainer and mod menu for PC — god mode, infinite resources, instant build and research, infinite ammo, one-hit kill, max citizen loyalty, unlimited Cores. 50+ cheats across 8 tabs, rebindable hotkeys, read-only mode for Early Access patches. Steam and Epic.
-
-- **[IFBITCODE/HACKATHON-IFTECH](https://github.com/IFBITCODE/HACKATHON-IFTECH)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[onchainjomo/linkprobe](https://github.com/onchainjomo/linkprobe)** ⭐ 3
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[HotCode2025/BugsBasters-CuartoTrimestre](https://github.com/HotCode2025/BugsBasters-CuartoTrimestre)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Cuarto trimestre 
-
-- **[0xgetz/CodeBuddy-Session-Extractor](https://github.com/0xgetz/CodeBuddy-Session-Extractor)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
-
-- **[AliKaramii786/X4G](https://github.com/AliKaramii786/X4G)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[acerachel13-sudo/hehehe](https://github.com/acerachel13-sudo/hehehe)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  ada deehhhh
-
-### 📈 Weekly Trending
-
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** ⭐ 2,275
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
-
-- **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** ⭐ 1,607
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
-
-- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,316
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  let your agent control your phone
-
-- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,199
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Create smooth, responsive interactive web animations.
-
-- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 774
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
-
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 738
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)** ⭐ 730
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Racing to the bottom of CPU performance
-
-- **[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)** ⭐ 648
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.
-
-### 📈 Monthly Trending
-
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,613
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,088
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,514
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Codex Dream Skin
-
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 13,494
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 12,962
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Multiplayer agent harness for work
-
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 10,580
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
-
-- **[openai/codex-security](https://github.com/openai/codex-security)** ⭐ 9,518
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
-
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,334
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open Frontier Intelligence
 
 ## 🚀 Latest Releases
 
@@ -490,59 +390,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
-| Go | 🔴 Beginner |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | ⚪ Planned |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | 🔴 Beginner |
 | Kubernetes | ⚪ Planned |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
