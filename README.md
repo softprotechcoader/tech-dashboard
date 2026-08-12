@@ -46,36 +46,43 @@
 
 ### 📑 Hacker News
 
-- **[llama.cpp](https://llama.app)**
-  *<p>Article URL: <a href="https://llama.app">https://llama.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267928">https://news.ycombinator.com/item?id=49267928</a></p>
-<p>...*
-  📅 Wed, 12 Aug 2026 04:51:59 +0000
+- **[Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)**
+  *<p>Article URL: <a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ub...*
+  📅 Wed, 12 Aug 2026 12:07:16 +0000
 
-- **[CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage)**
-  *<p>Article URL: <a href="https://github.com/sgkdev/bad_garbage">https://github.com/sgkdev/bad_garbage</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267550">https://news.ycom...*
-  📅 Wed, 12 Aug 2026 03:31:42 +0000
+- **[2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)**
+  *<p>Article URL: <a href="https://jonty.github.io/2026_eclipse_webcams/">https://jonty.github.io/2026_eclipse_webcams/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270953">h...*
+  📅 Wed, 12 Aug 2026 11:53:01 +0000
 
-- **[DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)**
-  *<p>Article URL: <a href="https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/">https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/</a></p>
-<p>Comments URL: <a href="ht...*
-  📅 Wed, 12 Aug 2026 03:27:31 +0000
+- **[I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)**
+  *<p>Article URL: <a href="https://getfresh.dev/docs/blog/packaging-for-linux/">https://getfresh.dev/docs/blog/packaging-for-linux/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Wed, 12 Aug 2026 11:33:48 +0000
 
-- **[The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)**
-  *<p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Wed, 12 Aug 2026 02:15:01 +0000
+- **[Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)**
+  *<p>Article URL: <a href="https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>
+<p>Comments UR...*
+  📅 Wed, 12 Aug 2026 11:13:36 +0000
 
-- **[Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)**
-  *<p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-revie...*
-  📅 Wed, 12 Aug 2026 02:05:42 +0000
+- **[Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)**
+  *<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python...*
+  📅 Wed, 12 Aug 2026 10:06:29 +0000
 
-- **[The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)**
-  *<p>Article URL: <a href="https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/">https://whdh.com/news/the-lifesaving-secret-hidden...*
-  📅 Wed, 12 Aug 2026 01:45:51 +0000
+- **[What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)**
+  *<p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
+<p>Comments ...*
+  📅 Wed, 12 Aug 2026 10:04:25 +0000
 
 ### 📑 TechCrunch
+
+- **[AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)**
+  *Blacksmith says revenue has grown more than tenfold over the past year....*
+  📅 Wed, 12 Aug 2026 11:00:00 +0000
+
+- **[Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/)**
+  *Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home....*
+  📅 Wed, 12 Aug 2026 10:00:00 +0000
 
 - **[India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)**
   *Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases....*
@@ -93,23 +100,21 @@
   *The divestiture comes as the two once-tight companies have started to diverge on the business side....*
   📅 Tue, 11 Aug 2026 20:02:02 +0000
 
-- **[FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/)**
-  *In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns....*
-  📅 Tue, 11 Aug 2026 19:38:23 +0000
-
-- **[OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)**
-  *OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems....*
-  📅 Tue, 11 Aug 2026 19:15:35 +0000
-
 ### 📑 Dev.to
 
-- **[React useEventSource Hook: Server-Sent Events with Auto-Reconnect (2026)](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm)**
-  *<p>Live notifications, deployment logs, stock tickers, AI responses streaming in token by token — none of these need a WebSocket. They're all one-directional: the server talks, the client listens. The...*
-  📅 Wed, 12 Aug 2026 07:06:05 +0000
+- **[A Prometheus exporter for Dagster that polls GraphQL instead of pushing to Pushgateway](https://dev.to/hirofumi_tsuda/a-prometheus-exporter-for-dagster-that-polls-graphql-instead-of-pushing-to-pushgateway-39pg)**
+  *<p>Dagster doesn't expose a <code>/metrics</code> endpoint out of the box. The officially documented way to get Dagster metrics into Prometheus is the <a href="https://docs.dagster.io/integrations/lib...*
+  📅 Wed, 12 Aug 2026 12:39:22 +0000
 
-- **[Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp)**
-  *<p>After <a href="https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc">11 uploaded videos disappeared from YouTube overnight</a>, I wanted to stop the automa...*
-  📅 Wed, 12 Aug 2026 07:05:36 +0000
+- **[13 AI Coding Models Tested: Safety Benchmark Results KDS](https://dev.to/ratingtesting/13-ai-coding-models-tested-safety-benchmark-results-kds-353o)**
+  *<h1>
+  
+  
+  13 AI Coding Models Tested: KDS Safety Benchmark Results
+</h1>
+
+<p>Every AI coding agent is benchmarked on how well it writes code. Nobody benchmarks what happens when it writes <strong>b...*
+  📅 Wed, 12 Aug 2026 12:38:23 +0000
 
 </details>
 
@@ -117,103 +122,103 @@
 
 ### 📈 Daily Trending
 
-- **[sgnihttcejbo/chainlink-example](https://github.com/sgnihttcejbo/chainlink-example)** ⭐ 69
+- **[sgnihttcejbo/chainlink-example](https://github.com/sgnihttcejbo/chainlink-example)** ⭐ 138
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   None
 
-- **[LOGO-CUHKSZ/Ex-Omni-2D-Code](https://github.com/LOGO-CUHKSZ/Ex-Omni-2D-Code)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[jsrjfya/adaptive-learning-obsidian](https://github.com/jsrjfya/adaptive-learning-obsidian)** ⭐ 10
+- **[Yixuan-Wu39/bandminton](https://github.com/Yixuan-Wu39/bandminton)** ⭐ 103
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A local-first family learning tracker that turns study records, mistakes, and knowledge points into explainable review plans and Obsidian notes.
+  Open-source wearable badminton motion analysis with lightweight on-device machine learning.
 
-- **[zqlrts60/mCodex](https://github.com/zqlrts60/mCodex)** ⭐ 10
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A Windows-first mobile companion for Codex Desktop.
+- **[wbh604/fund-guy-skill](https://github.com/wbh604/fund-guy-skill)** ⭐ 77
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  糟糕，我被基佬包围了！那么这个时候就有人要问了，主播主播，有没有什么简单好用的基佬筛选办法？有的兄弟，有的，快来看看jilaoskill吧！
 
-- **[banmu123/LoomFlow](https://github.com/banmu123/LoomFlow)** ⭐ 9
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)** ⭐ 60
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  简历包装
 
-- **[JustReverser/TdataChecker](https://github.com/JustReverser/TdataChecker)** ⭐ 9
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  TDATA Checker PRO is a tool for verifying Telegram account data directly from ZIP, 7Z, and RAR archives.
+- **[axiom-trade-tool/axiom-trade-tool](https://github.com/axiom-trade-tool/axiom-trade-tool)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Axiom Trade Panel — trading tools for Axiom Trade, Solana (SOL) and ETH traders.
 
-- **[serein-nyx/codex-proof](https://github.com/serein-nyx/codex-proof)** ⭐ 9
+- **[RadishXN/run-abroad](https://github.com/RadishXN/run-abroad)** ⭐ 28
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。
+
+- **[zongqing0068/awesome-co-evolution](https://github.com/zongqing0068/awesome-co-evolution)** ⭐ 24
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A curated paper list for co-evolution in agentic systems
+
+- **[eatWhitePorridge/link-pp](https://github.com/eatWhitePorridge/link-pp)** ⭐ 21
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Evidence-backed task contracts, verification, and handoffs for Codex.
-
-- **[GrandEnchanter/Crimson-Desert-Mod-Menu](https://github.com/GrandEnchanter/Crimson-Desert-Mod-Menu)** ⭐ 9
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A bit too much fresh cheat for Crimson Desert, including features such as God Mode, Super Damage (One-Hit Kill), Unlimited Stamina and more...
+  None
 
 ### 📈 Weekly Trending
 
-- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,552
+- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,578
   ![Python](https://img.shields.io/badge/-Python-blue)
   let your agent control your phone
 
-- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,499
+- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,555
   ![Python](https://img.shields.io/badge/-Python-blue)
   Create smooth, responsive interactive web animations.
 
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,482
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,506
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,396
+- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,494
   ![C](https://img.shields.io/badge/-C-lightgrey)
   MiniMax H3 inference engine for Mac computers
 
-- **[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)** ⭐ 1,000
+- **[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)** ⭐ 1,080
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.
 
-- **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** ⭐ 836
+- **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** ⭐ 842
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.
+
+- **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** ⭐ 841
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.
 
-- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 827
+- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 834
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
 
-- **[xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)** ⭐ 776
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Racing to the bottom of CPU performance
-
 ### 📈 Monthly Trending
 
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,724
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** ⭐ 24,743
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 14,683
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 14,861
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,247
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,271
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,595
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,605
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,152
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,184
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 11,164
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 11,283
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,370
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,381
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,255
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,278
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
@@ -224,11 +229,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.132.1](https://github.com/microsoft/vscode/releases/tag/1.132.1)** `1.132.1`
+**[1.133.0](https://github.com/microsoft/vscode/releases/tag/1.133.0)** `1.133.0`
 
-📅 Released: August 11, 2026
+📅 Released: August 12, 2026
 
-https://code.visualstudio.com/updates/v1_132...
+https://code.visualstudio.com/updates/v1_133...
 
 ---
 
@@ -483,38 +488,38 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🟡 Learning |
+| React | 🟢 Proficient |
+| Spring Boot | ⚪ Planned |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🔴 Beginner |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
 | TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
@@ -523,9 +528,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
 | AWS | 🟡 Learning |
 | Azure | ⚪ Planned |
 
@@ -533,9 +538,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
