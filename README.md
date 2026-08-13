@@ -46,6 +46,17 @@
 
 ### 📑 Hacker News
 
+- **[ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)**
+  *<p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=4928...*
+  📅 Thu, 13 Aug 2026 04:53:41 +0000
+
+- **[Celld: Self-hosted, distributed Durable Objects](https://celld.dev/)**
+  *<p>Article URL: <a href="https://celld.dev/">https://celld.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281839">https://news.ycombinator.com/item?id=49281839</a></p>
+<...*
+  📅 Thu, 13 Aug 2026 04:37:31 +0000
+
 - **[Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)**
   *<p>Article URL: <a href="https://www.ballet.dev/">https://www.ballet.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280184">https://news.ycombinator.com/item?id=49280184...*
@@ -56,7 +67,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">h...*
   📅 Wed, 12 Aug 2026 23:50:33 +0000
 
-- **[What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)**
+- **[Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)**
   *<p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
   📅 Wed, 12 Aug 2026 23:46:00 +0000
@@ -65,16 +76,6 @@
   *<p>Article URL: <a href="https://adapt.com/blog/build-wide-ship-narrow">https://adapt.com/blog/build-wide-ship-narrow</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280047">h...*
   📅 Wed, 12 Aug 2026 23:43:48 +0000
-
-- **[Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)**
-  *<p>Article URL: <a href="https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html">https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html</a></p>
-<p>Comments URL: <a hr...*
-  📅 Wed, 12 Aug 2026 23:26:21 +0000
-
-- **[I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)**
-  *<p>Article URL: <a href="https://bipluk.com/">https://bipluk.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279628">https://news.ycombinator.com/item?id=49279628</a></p>...*
-  📅 Wed, 12 Aug 2026 22:47:20 +0000
 
 ### 📑 TechCrunch
 
@@ -104,19 +105,18 @@
 
 ### 📑 Dev.to
 
-- **[Direct Providers vs Portable Contracts — Ask-Your-Docs Semantic Search for SaaS RAG](https://dev.to/irvincole5861/direct-providers-vs-portable-contracts-ask-your-docs-semantic-search-for-saas-rag-1n3d)**
-  *<p>Short answer: for a property-management SaaS that must turn support tickets into structured, cited answers, use a portable model contract for embeddings and chat completions, keep retrieval in the ...*
-  📅 Thu, 13 Aug 2026 01:03:42 +0000
+- **[Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan)**
+  *<p><em>Originally published on <a href="https://kuryzhev.cloud/2026/08/13/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl" rel="noopener noreferrer">kuryzhev.cloud</a></em></p>
 
-- **[Path Traversal](https://dev.to/hoax3/path-traversal-388p)**
-  *<h3>
-  
-  
-  What is path traversal?
-</h3>
 
-<p>Path traversal is also know as directory traversal. These vulnerabilities enable an attacker to read arbitrary files on the server that is running an app...*
-  📅 Thu, 13 Aug 2026 00:53:21 +0000
+
+
+<h2>...*
+  📅 Thu, 13 Aug 2026 07:02:06 +0000
+
+- **[An AI agent read 13 invoices and blocked $1,411.25 in bad payments](https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi)**
+  *<p>I handed an AI agent 13 invoices and a list of what we had actually ordered. It approved 10 of them, $9,049.05, and refused 3. The 3 it refused were the exact 3 I had rigged to be wrong: a padded t...*
+  📅 Thu, 13 Aug 2026 07:02:01 +0000
 
 </details>
 
@@ -124,103 +124,103 @@
 
 ### 📈 Daily Trending
 
-- **[RamsesCamas/Mi-Primer-RAG](https://github.com/RamsesCamas/Mi-Primer-RAG)** ⭐ 21
+- **[thangnqdev/codex-oss-agent-kit](https://github.com/thangnqdev/codex-oss-agent-kit)** ⭐ 59
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[duy90utc528/repo-publication-audit](https://github.com/duy90utc528/repo-publication-audit)** ⭐ 58
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Dependency-free preflight checks for repositories before making them public
+
+- **[vuphongle/oss-pr-reviewer](https://github.com/vuphongle/oss-pr-reviewer)** ⭐ 56
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.
+
+- **[loveisbl1nd/linksift](https://github.com/loveisbl1nd/linksift)** ⭐ 54
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg.
+
+- **[dukz2003/lum_codex](https://github.com/dukz2003/lum_codex)** ⭐ 54
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[leon-wright1900v2/adoptme-script-free-2026](https://github.com/leon-wright1900v2/adoptme-script-free-2026)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[manhvann/codexkit](https://github.com/manhvann/codexkit)** ⭐ 52
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Project-local Codex workspace kit with reusable skills, agents, hooks, plans, docs, and helper scripts for multi-repository development.
 
-- **[marcus-millerx95r1/adopt-me-script-free-2026](https://github.com/marcus-millerx95r1/adopt-me-script-free-2026)** ⭐ 12
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[HotCode2025/Print-Estoy-Cansado-Jefe-CuartoSemestre](https://github.com/HotCode2025/Print-Estoy-Cansado-Jefe-CuartoSemestre)** ⭐ 4
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
-
-- **[devlesss/WorkCanvas_Studio](https://github.com/devlesss/WorkCanvas_Studio)** ⭐ 2
+- **[hhh0710/autopentest](https://github.com/hhh0710/autopentest)** ⭐ 51
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Framework-neutral workflow samples for browser automation and AI agents.
-
-- **[Bren0Groba/StreetHoops](https://github.com/Bren0Groba/StreetHoops)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[tlochsta/halo-extension-marketplace](https://github.com/tlochsta/halo-extension-marketplace)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Hosts the extension files, meta data, and list of the marketplace for the open-source game launcher, HALO.
-
-- **[djtr62myz8-droid/-M4T1.lua](https://github.com/djtr62myz8-droid/-M4T1.lua)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[khanhcamap2020-sudo/formkind](https://github.com/khanhcamap2020-sudo/formkind)** ⭐ 49
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Global-readiness toolkit for international forms across HTML, JSX, Vue, Svelte, and CI.
 
 ### 📈 Weekly Trending
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 2,383
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 3,181
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,638
+- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,674
   ![Python](https://img.shields.io/badge/-Python-blue)
   let your agent control your phone
 
-- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,614
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Create smooth, responsive interactive web animations.
-
-- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,596
+- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,661
   ![C](https://img.shields.io/badge/-C-lightgrey)
   MiniMax H3 inference engine for Mac computers
 
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,520
+- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,646
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Create smooth, responsive interactive web animations.
+
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,632
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** ⭐ 887
+- **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** ⭐ 915
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.
 
-- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 860
+- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 866
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
 
-- **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** ⭐ 850
+- **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** ⭐ 851
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.
 
 ### 📈 Monthly Trending
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 15,097
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 15,258
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,322
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,348
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,615
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,632
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,237
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,301
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work. https://qm.ycombinator.com
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 11,408
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 11,488
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,395
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,402
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,324
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,348
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 5,888
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 5,911
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -490,59 +490,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
+| Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🔴 Beginner |
-| Go | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟡 Learning |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
 | Computer Vision | ⚪ Planned |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
