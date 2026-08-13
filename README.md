@@ -46,21 +46,20 @@
 
 ### 📑 Hacker News
 
+- **[Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)**
+  *<p>Article URL: <a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/">https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/</a></p>
+<p>Com...*
+  📅 Thu, 13 Aug 2026 12:09:50 +0000
+
+- **[ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)**
+  *<p>Article URL: <a href="https://atg.science/careers">https://atg.science/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284697">https://news.ycombinator.com/item?id=...*
+  📅 Thu, 13 Aug 2026 12:01:02 +0000
+
 - **[ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)**
   *<p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=4928...*
   📅 Thu, 13 Aug 2026 04:53:41 +0000
-
-- **[Celld: Self-hosted, distributed Durable Objects](https://celld.dev/)**
-  *<p>Article URL: <a href="https://celld.dev/">https://celld.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281839">https://news.ycombinator.com/item?id=49281839</a></p>
-<...*
-  📅 Thu, 13 Aug 2026 04:37:31 +0000
-
-- **[Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)**
-  *<p>Article URL: <a href="https://www.ballet.dev/">https://www.ballet.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280184">https://news.ycombinator.com/item?id=49280184...*
-  📅 Thu, 13 Aug 2026 00:01:43 +0000
 
 - **[Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)**
   *<p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
@@ -72,10 +71,10 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
   📅 Wed, 12 Aug 2026 23:46:00 +0000
 
-- **[Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)**
-  *<p>Article URL: <a href="https://adapt.com/blog/build-wide-ship-narrow">https://adapt.com/blog/build-wide-ship-narrow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280047">h...*
-  📅 Wed, 12 Aug 2026 23:43:48 +0000
+- **[Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)**
+  *<p>Article URL: <a href="https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html">https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html</a></p>
+<p>Comments URL: <a hr...*
+  📅 Wed, 12 Aug 2026 23:26:21 +0000
 
 ### 📑 TechCrunch
 
@@ -105,18 +104,21 @@
 
 ### 📑 Dev.to
 
-- **[Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan)**
-  *<p><em>Originally published on <a href="https://kuryzhev.cloud/2026/08/13/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl" rel="noopener noreferrer">kuryzhev.cloud</a></em></p>
+- **[Persisting Claude CLI Login Between Container Builds](https://dev.to/sukkergris/persisting-claude-cli-login-between-container-builds-55cl)**
+  *<h2>
+  
+  
+  Goal
+</h2>
 
+<p>Keep Claude Code's account/session login (<code>~/.claude.json</code>) alive across<br />
+devcontainer rebuilds, instead of having to re-authenticate every time the<br />
+i...*
+  📅 Thu, 13 Aug 2026 12:42:38 +0000
 
-
-
-<h2>...*
-  📅 Thu, 13 Aug 2026 07:02:06 +0000
-
-- **[An AI agent read 13 invoices and blocked $1,411.25 in bad payments](https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi)**
-  *<p>I handed an AI agent 13 invoices and a list of what we had actually ordered. It approved 10 of them, $9,049.05, and refused 3. The 3 it refused were the exact 3 I had rigged to be wrong: a padded t...*
-  📅 Thu, 13 Aug 2026 07:02:01 +0000
+- **[I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)**
+  *<p>Someone in every company eventually says this out loud. Usually it's the CFO. Sometimes it's a VP of engineering, or the unlucky engineer who got handed "own our cloud costs" on top of their actual...*
+  📅 Thu, 13 Aug 2026 12:40:46 +0000
 
 </details>
 
@@ -124,103 +126,103 @@
 
 ### 📈 Daily Trending
 
-- **[thangnqdev/codex-oss-agent-kit](https://github.com/thangnqdev/codex-oss-agent-kit)** ⭐ 59
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[duy90utc528/repo-publication-audit](https://github.com/duy90utc528/repo-publication-audit)** ⭐ 58
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Dependency-free preflight checks for repositories before making them public
-
-- **[vuphongle/oss-pr-reviewer](https://github.com/vuphongle/oss-pr-reviewer)** ⭐ 56
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.
-
-- **[loveisbl1nd/linksift](https://github.com/loveisbl1nd/linksift)** ⭐ 54
+- **[loveisbl1nd/linksift](https://github.com/loveisbl1nd/linksift)** ⭐ 77
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg.
 
-- **[dukz2003/lum_codex](https://github.com/dukz2003/lum_codex)** ⭐ 54
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[manhvann/codexkit](https://github.com/manhvann/codexkit)** ⭐ 52
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Project-local Codex workspace kit with reusable skills, agents, hooks, plans, docs, and helper scripts for multi-repository development.
-
-- **[hhh0710/autopentest](https://github.com/hhh0710/autopentest)** ⭐ 51
+- **[thangnqdev/codex-oss-agent-kit](https://github.com/thangnqdev/codex-oss-agent-kit)** ⭐ 77
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[khanhcamap2020-sudo/formkind](https://github.com/khanhcamap2020-sudo/formkind)** ⭐ 49
+- **[duy90utc528/repo-publication-audit](https://github.com/duy90utc528/repo-publication-audit)** ⭐ 75
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Dependency-free preflight checks for repositories before making them public
+
+- **[vuphongle/oss-pr-reviewer](https://github.com/vuphongle/oss-pr-reviewer)** ⭐ 74
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.
+
+- **[dukz2003/lum_codex](https://github.com/dukz2003/lum_codex)** ⭐ 73
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[manhvann/codexkit](https://github.com/manhvann/codexkit)** ⭐ 72
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Project-local Codex workspace kit with reusable skills, agents, hooks, plans, docs, and helper scripts for multi-repository development.
+
+- **[hhh0710/autopentest](https://github.com/hhh0710/autopentest)** ⭐ 70
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[khanhcamap2020-sudo/formkind](https://github.com/khanhcamap2020-sudo/formkind)** ⭐ 67
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Global-readiness toolkit for international forms across HTML, JSX, Vue, Svelte, and CI.
 
 ### 📈 Weekly Trending
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 3,181
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 3,988
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,674
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  let your agent control your phone
-
-- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,661
+- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,724
   ![C](https://img.shields.io/badge/-C-lightgrey)
   MiniMax H3 inference engine for Mac computers
 
-- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,646
+- **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** ⭐ 1,698
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  let your agent control your phone
+
+- **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** ⭐ 1,665
   ![Python](https://img.shields.io/badge/-Python-blue)
   Create smooth, responsive interactive web animations.
 
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,632
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,660
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** ⭐ 915
+- **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** ⭐ 925
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.
 
-- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 866
+- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 877
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
 
-- **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** ⭐ 851
+- **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** ⭐ 854
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.
 
 ### 📈 Monthly Trending
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 15,258
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 15,490
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,348
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,373
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,632
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** ⭐ 13,652
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Codex Dream Skin
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,301
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,369
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work. https://qm.ycombinator.com
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 11,488
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** ⭐ 11,547
   ![Python](https://img.shields.io/badge/-Python-blue)
   Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,402
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,409
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,348
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,363
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 5,911
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 5,937
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
@@ -490,59 +492,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🟡 Learning |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
 | Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
+| Penetration Testing | ⚪ Planned |
 | Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🔴 Beginner |
-| AWS | 🟡 Learning |
+| AWS | 🟢 Proficient |
 | Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
