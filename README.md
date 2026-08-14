@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,77 +46,181 @@
 
 ### 📑 Hacker News
 
-- **[Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)**
-  *<p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Fri, 14 Aug 2026 10:12:48 +0000
+- **[A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)**
+  *<p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.co...*
+  📅 Fri, 14 Aug 2026 16:57:14 +0000
 
-- **[DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)**
-  *<p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627"...*
-  📅 Fri, 14 Aug 2026 09:55:33 +0000
+- **[Discrete Fourier Transform by Hand](https://www.byhand.ai/p/28-discrete-fourier-transform)**
+  *<p>Article URL: <a href="https://www.byhand.ai/p/28-discrete-fourier-transform">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Fri, 14 Aug 2026 16:52:46 +0000
 
-- **[Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)**
-  *<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
-<p>Com...*
-  📅 Fri, 14 Aug 2026 06:09:04 +0000
+- **[Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/ce97mm3vvemo">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301260"...*
+  📅 Fri, 14 Aug 2026 16:45:49 +0000
 
-- **[GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)**
-  *<p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=4929...*
-  📅 Fri, 14 Aug 2026 05:19:59 +0000
+- **[Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)**
+  *<p>LuaCAD models solids in Lua rather than the OpenSCAD language, with operator
+overloading for CSG (`a + b`, `a - b`, `a * b`).<p>It ships with a CLI and a desktop app, including a preview area and a...*
+  📅 Fri, 14 Aug 2026 16:43:22 +0000
 
-- **[Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)**
-  *<p>Article URL: <a href="https://github.com/JustVugg/lumabri">https://github.com/JustVugg/lumabri</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293523">https://news.ycombina...*
-  📅 Fri, 14 Aug 2026 00:47:04 +0000
+- **[Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)**
+  *<p>Article URL: <a href="https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</a></p>
+<p>Comments URL: <...*
+  📅 Fri, 14 Aug 2026 16:15:21 +0000
 
-- **[Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)**
-  *<p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Fri, 14 Aug 2026 00:14:28 +0000
+- **[RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)**
+  *<p>Article URL: <a href="https://rustdesk.com/blog/unattended-remote-access-wayland/">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Fri, 14 Aug 2026 16:12:52 +0000
 
 ### 📑 TechCrunch
 
-- **[Uber and Pony.ai plan to bring 2,000 robotaxis to Europe](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/)**
-  *The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities....*
-  📅 Fri, 14 Aug 2026 10:44:30 +0000
+- **[Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)**
+  *Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss....*
+  📅 Fri, 14 Aug 2026 16:21:04 +0000
 
-- **[Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/)**
-  *The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup....*
-  📅 Thu, 13 Aug 2026 22:12:40 +0000
+- **[Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)**
+  *Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....*
+  📅 Fri, 14 Aug 2026 16:13:40 +0000
 
-- **[Flock says its new tool will help identify police abuse, but hasn’t explained how it works](https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/)**
-  *The surveillance company announced it's making a tool called "Audit Assistance" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool w...*
-  📅 Thu, 13 Aug 2026 22:02:04 +0000
+- **[Does Mark Zuckerberg really believe AI is ‘for everyone’?](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/)**
+  *Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s...*
+  📅 Fri, 14 Aug 2026 15:43:28 +0000
 
-- **[If Apple sends you a push notification alerting you to a spyware attack, take it seriously](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/)**
-  *Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices....*
-  📅 Thu, 13 Aug 2026 21:50:11 +0000
+- **[Apple proposes to take a 15% cut of purchases made outside the App Store](https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/)**
+  *Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps....*
+  📅 Fri, 14 Aug 2026 14:54:48 +0000
 
-- **[Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/)**
-  *Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price....*
-  📅 Thu, 13 Aug 2026 21:13:24 +0000
+- **[Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/)**
+  *The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog....*
+  📅 Fri, 14 Aug 2026 14:50:11 +0000
 
-- **[Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/)**
-  *AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned....*
-  📅 Thu, 13 Aug 2026 20:14:39 +0000
+- **[Hyperscalers might regret embracing natural gas if new forecast proves correct](https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/)**
+  *Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers....*
+  📅 Fri, 14 Aug 2026 14:05:00 +0000
 
 ### 📑 Dev.to
 
-- **[Notes to Self: The Interview Between an Issue and a Spec](https://dev.to/virorum/notes-to-self-the-interview-between-an-issue-and-a-spec-4phc)**
-  *<p>On 1 August I opened an issue that was three sentences long. A hundred and one minutes later<br />
-the feature was merged, and the document that got it there ran to<br />
-<a href="https://glitchedp...*
-  📅 Fri, 14 Aug 2026 12:25:24 +0000
+- **[Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen](https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47)**
+  *<p>  
+  
+</p>
 
-- **[My Job Hasn't Changed. My Day Has.](https://dev.to/jensreynderstech/my-job-hasnt-changed-my-day-has-1ci3)**
-  *<p>Times are changing, my role is changing, my focus is changing, my impact is changing. But in essence – I'm still doing the same. I still build products that drive impact. Only my day-to-day looks c...*
-  📅 Fri, 14 Aug 2026 12:25:08 +0000
+<p>I kept paying a monthly subscription for a cloud coding assistant while a 16GB M4 Mac mini sat on my desk idling most of the day. So I ran the obvious experiment: <strong>can a 16GB ...*
+  📅 Fri, 14 Aug 2026 18:35:16 +0000
+
+- **[Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare](https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o)**
+  *<p>You own a domain. Your website lives on it. With Cloudflare's free plan you can make <code>anything@yourdomain.com</code> - any address, invented on the spot - land in your regular Gmail inbox. No ...*
+  📅 Fri, 14 Aug 2026 18:29:26 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)** ⭐ 552
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
+
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 226
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
+
+- **[N-allpass/modex-mh-agent](https://github.com/N-allpass/modex-mh-agent)** ⭐ 179
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Modex · MH Agent — AI 全自动数学建模智能体,兼顾科研全流程:从赛题到竞赛级论文一夜跑完,国赛/美赛/华为杯全覆盖(架构展示)
+
+- **[turtle2209/Bigfish](https://github.com/turtle2209/Bigfish)** ⭐ 171
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。
+
+- **[soloists25wipe/Roblox-Pack-Executor-2026](https://github.com/soloists25wipe/Roblox-Pack-Executor-2026)** ⭐ 125
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  XCutors – A comprehensive Roblox executor and script loader collection for Windows desktops.
+
+- **[ryan-santos-dev95z9/EscapeFromTarkov-Trainer-2026](https://github.com/ryan-santos-dev95z9/EscapeFromTarkov-Trainer-2026)** ⭐ 101
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  EscapeFromTarkov-Trainer with support for many cfg files. Auto-updates, no key system. Works in 2026.
+
+- **[nick-kumar-ops1992p6/Warhounds-Trainer-2026](https://github.com/nick-kumar-ops1992p6/Warhounds-Trainer-2026)** ⭐ 101
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Free Warhounds Trainer with support for many cfg files. Auto-updates, no key system. Works in 2026.
+
+- **[parching780883macadam/Roblox-Script-Executor-2026](https://github.com/parching780883macadam/Roblox-Script-Executor-2026)** ⭐ 100
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  XCutors – A complete Windows desktop collection for running custom Roblox scripts with our universal loader.
+
+### 📈 Weekly Trending
+
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 93,986
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  DeepSeek Harness: Everything is a Plugin.
+
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 7,605
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 1,896
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
+
+- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,835
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  MiniMax H3 inference engine for Mac computers
+
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,709
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 1,642
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验
+
+- **[xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)** ⭐ 1,510
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Unlocking _everything_ on the CPU with DRAM scrambling
+
+- **[cordiverse/paper](https://github.com/cordiverse/paper)** ⭐ 1,266
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A Programming Paradigm for Spatiotemporal Composability
+
+### 📈 Monthly Trending
+
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 93,986
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  DeepSeek Harness: Everything is a Plugin.
+
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,058
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,497
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,541
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multiplayer agent harness for work.
+
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,440
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
+
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,433
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 7,605
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 6,019
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -385,58 +489,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Python | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | 🟢 Proficient |
-| Django | 🔴 Beginner |
+| Django | ⚪ Planned |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
