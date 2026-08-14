@@ -46,22 +46,22 @@
 
 ### 📑 Hacker News
 
+- **[GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)**
+  *<p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=4929...*
+  📅 Fri, 14 Aug 2026 05:19:59 +0000
+
 - **[Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)**
   *<p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.y...*
   📅 Fri, 14 Aug 2026 00:14:28 +0000
 
-- **[SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)**
-  *<p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294...*
-  📅 Fri, 14 Aug 2026 00:10:04 +0000
+- **[Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)**
+  *<p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
+<p>Comments URL: <a hr...*
+  📅 Thu, 13 Aug 2026 23:39:33 +0000
 
-- **[How AI text watermarking works](https://declaude.org/watermarking/)**
-  *<p>Article URL: <a href="https://declaude.org/watermarking/">https://declaude.org/watermarking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292932">https://news.ycombinato...*
-  📅 Thu, 13 Aug 2026 23:16:55 +0000
-
-- **[NP-Overrated](https://gruhn.me/blog/2026-08-13/)**
+- **[NP-overrated](https://gruhn.me/blog/2026-08-13/)**
   *<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator....*
   📅 Thu, 13 Aug 2026 20:14:17 +0000
@@ -104,17 +104,13 @@
 
 ### 📑 Dev.to
 
-- **[I filled my agent's wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple)**
-  *<p>There's a comfortable assumption behind a lot of "agent + knowledge base" work: garbage in, garbage out. Feed an agent a messy, stale, duplicate-ridden wiki and it'll confidently tell users the wro...*
-  📅 Fri, 14 Aug 2026 00:46:04 +0000
+- **[Three ETL failure patterns I now write into the output file, not just the logs](https://dev.to/morinaga/three-etl-failure-patterns-i-now-write-into-the-output-file-not-just-the-logs-4in0)**
+  *<p>My Reddit scraper returned empty arrays for 71 days. Nothing broke visibly. The market-listening output file kept being written, kept being committed to git, kept looking like a healthy daily snaps...*
+  📅 Fri, 14 Aug 2026 07:05:44 +0000
 
-- **[loveyourclanker.org](https://dev.to/javascriptmick/loveyourclankerorg-4ap4)**
-  *<p>I created an open web resource for Software Engineers.  </p>
-
-<p><a href="https://loveyourclanker.org/" rel="noopener noreferrer">https://loveyourclanker.org/</a></p>
-
-<p>It highlights different pa...*
-  📅 Fri, 14 Aug 2026 00:27:17 +0000
+- **[What I learned about repeat-and-vote sampling for non-deterministic search results](https://dev.to/morinaga/what-i-learned-about-repeat-and-vote-sampling-for-non-deterministic-search-results-18d7)**
+  *<p>Repeating a YouTube search query three times and keeping only results that appear in two or more of those fetches is more reliable than treating any single fetch as ground truth. The Jaccard simila...*
+  📅 Fri, 14 Aug 2026 07:05:39 +0000
 
 </details>
 
@@ -122,105 +118,105 @@
 
 ### 📈 Daily Trending
 
-- **[voanhhao3830/SemLT3D](https://github.com/voanhhao3830/SemLT3D)** ⭐ 3
+- **[alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)** ⭐ 280
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
+
+- **[N-allpass/modex-mh-agent](https://github.com/N-allpass/modex-mh-agent)** ⭐ 111
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Modex · MH Agent — AI 全自动数学建模智能体,兼顾科研全流程:从赛题到竞赛级论文一夜跑完,国赛/美赛/华为杯全覆盖(架构展示)
+
+- **[flickzoz/mcp-guard](https://github.com/flickzoz/mcp-guard)** ⭐ 83
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[Menger-8/dsh-gateway-presets](https://github.com/Menger-8/dsh-gateway-presets)** ⭐ 2
+- **[emailhayday10-coder/agent-doctor](https://github.com/emailhayday10-coder/agent-doctor)** ⭐ 81
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Gateway compat presets for DeepSeek Harness: any third-party OpenAI-compatible gateway gets its dialect facts pinned out of the box
-
-- **[renatogroffe/dotnet10-agentframework-foundry-otel-langfuse-mcp-mslearn_chat](https://github.com/renatogroffe/dotnet10-agentframework-foundry-otel-langfuse-mcp-mslearn_chat)** ⭐ 2
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  Exemplo em .NET 10 de Console Application que faz uso do Microsoft Agent Framework, com integração com Microsoft Foundry, interação com um servidor MCP - utilizei o Microsoft Learn Docs MCP Server para testes - e monitoramento via OpenTelemetry + Langfuse. Inclui Docker Compose para criação do ambiente de testes.
-
-- **[Larissaglima12/Projetos-Acad-micos](https://github.com/Larissaglima12/Projetos-Acad-micos)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[mtha8224-svg/taha-movie](https://github.com/mtha8224-svg/taha-movie)** ⭐ 1
+- **[turtle2209/Bigfish](https://github.com/turtle2209/Bigfish)** ⭐ 30
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+  Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。
 
-- **[Wy-Wmhz/xhs-jimeng-tuwen](https://github.com/Wy-Wmhz/xhs-jimeng-tuwen)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Codex skill: 小红书图文视觉导演（即梦 CLI 版）
-
-- **[kimhuxnsr-oss/-hyunsseo-letter1](https://github.com/kimhuxnsr-oss/-hyunsseo-letter1)** ⭐ 1
+- **[chang416/im-human](https://github.com/chang416/im-human)** ⭐ 25
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  讓 AI 用台灣人的繁體中文講話，並把已寫好的文字清掉 AI 味。Claude Code、claude.ai、ChatGPT Codex 與一般聊天都能用。
 
-- **[benja2998/gen-c](https://github.com/benja2998/gen-c)** ⭐ 1
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Gen C is the greatest header-only library in existence.
+- **[YangJiiii/3105](https://github.com/YangJiiii/3105)** ⭐ 19
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
+
+- **[Yaxin9Luo/AutoDesign](https://github.com/Yaxin9Luo/AutoDesign)** ⭐ 17
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  The open-source design agent and harness, better than Claude Design on academic communication artifacts production. This DesignHarness can also be used with any coding harness you like ( Codex/Claude Code/Kimi Code/Pi/OpenCode etc..) and any agentic model you want.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 46,847
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 75,903
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 5,436
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 5,981
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,778
+- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,808
   ![C](https://img.shields.io/badge/-C-lightgrey)
   MiniMax H3 inference engine for Mac computers
 
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,683
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,697
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill)** ⭐ 1,027
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-
-- **[xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)** ⭐ 975
+- **[xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)** ⭐ 1,187
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Unlocking _everything_ on the CPU with DRAM scrambling
 
-- **[gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)** ⭐ 925
+- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 1,175
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
+
+- **[Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill)** ⭐ 1,044
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+
+- **[gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)** ⭐ 964
   ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
   None
 
-- **[MengTo/kage](https://github.com/MengTo/kage)** ⭐ 891
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
-
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 46,849
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 75,904
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 15,704
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 15,860
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,415
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,456
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,423
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,492
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multiplayer agent harness for work.
+
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,432
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,394
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,412
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 5,969
+- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 5,987
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)** ⭐ 5,933
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
-
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 5,469
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 5,981
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
 ## 🚀 Latest Releases
 
@@ -488,58 +484,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | ⚪ Planned |
-| AWS | 🟡 Learning |
-| Azure | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
