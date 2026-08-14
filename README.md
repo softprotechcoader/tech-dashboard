@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,37 +46,41 @@
 
 ### 📑 Hacker News
 
-- **[GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)**
+- **[Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)**
+  *<p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator...*
+  📅 Fri, 14 Aug 2026 10:12:48 +0000
+
+- **[DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)**
+  *<p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627"...*
+  📅 Fri, 14 Aug 2026 09:55:33 +0000
+
+- **[Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)**
+  *<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
+<p>Com...*
+  📅 Fri, 14 Aug 2026 06:09:04 +0000
+
+- **[GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)**
   *<p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=4929...*
   📅 Fri, 14 Aug 2026 05:19:59 +0000
+
+- **[Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)**
+  *<p>Article URL: <a href="https://github.com/JustVugg/lumabri">https://github.com/JustVugg/lumabri</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293523">https://news.ycombina...*
+  📅 Fri, 14 Aug 2026 00:47:04 +0000
 
 - **[Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)**
   *<p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.y...*
   📅 Fri, 14 Aug 2026 00:14:28 +0000
 
-- **[Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)**
-  *<p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Thu, 13 Aug 2026 23:39:33 +0000
-
-- **[NP-overrated](https://gruhn.me/blog/2026-08-13/)**
-  *<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator....*
-  📅 Thu, 13 Aug 2026 20:14:17 +0000
-
-- **[How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)**
-  *<p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Thu, 13 Aug 2026 19:44:46 +0000
-
-- **[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)**
-  *<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Thu, 13 Aug 2026 19:25:38 +0000
-
 ### 📑 TechCrunch
+
+- **[Uber and Pony.ai plan to bring 2,000 robotaxis to Europe](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/)**
+  *The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities....*
+  📅 Fri, 14 Aug 2026 10:44:30 +0000
 
 - **[Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/)**
   *The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup....*
@@ -98,125 +102,21 @@
   *AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned....*
   📅 Thu, 13 Aug 2026 20:14:39 +0000
 
-- **[OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)**
-  *OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users....*
-  📅 Thu, 13 Aug 2026 19:22:40 +0000
-
 ### 📑 Dev.to
 
-- **[Three ETL failure patterns I now write into the output file, not just the logs](https://dev.to/morinaga/three-etl-failure-patterns-i-now-write-into-the-output-file-not-just-the-logs-4in0)**
-  *<p>My Reddit scraper returned empty arrays for 71 days. Nothing broke visibly. The market-listening output file kept being written, kept being committed to git, kept looking like a healthy daily snaps...*
-  📅 Fri, 14 Aug 2026 07:05:44 +0000
+- **[Notes to Self: The Interview Between an Issue and a Spec](https://dev.to/virorum/notes-to-self-the-interview-between-an-issue-and-a-spec-4phc)**
+  *<p>On 1 August I opened an issue that was three sentences long. A hundred and one minutes later<br />
+the feature was merged, and the document that got it there ran to<br />
+<a href="https://glitchedp...*
+  📅 Fri, 14 Aug 2026 12:25:24 +0000
 
-- **[What I learned about repeat-and-vote sampling for non-deterministic search results](https://dev.to/morinaga/what-i-learned-about-repeat-and-vote-sampling-for-non-deterministic-search-results-18d7)**
-  *<p>Repeating a YouTube search query three times and keeping only results that appear in two or more of those fetches is more reliable than treating any single fetch as ground truth. The Jaccard simila...*
-  📅 Fri, 14 Aug 2026 07:05:39 +0000
+- **[My Job Hasn't Changed. My Day Has.](https://dev.to/jensreynderstech/my-job-hasnt-changed-my-day-has-1ci3)**
+  *<p>Times are changing, my role is changing, my focus is changing, my impact is changing. But in essence – I'm still doing the same. I still build products that drive impact. Only my day-to-day looks c...*
+  📅 Fri, 14 Aug 2026 12:25:08 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)** ⭐ 280
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
-
-- **[N-allpass/modex-mh-agent](https://github.com/N-allpass/modex-mh-agent)** ⭐ 111
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Modex · MH Agent — AI 全自动数学建模智能体,兼顾科研全流程:从赛题到竞赛级论文一夜跑完,国赛/美赛/华为杯全覆盖(架构展示)
-
-- **[flickzoz/mcp-guard](https://github.com/flickzoz/mcp-guard)** ⭐ 83
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[emailhayday10-coder/agent-doctor](https://github.com/emailhayday10-coder/agent-doctor)** ⭐ 81
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[turtle2209/Bigfish](https://github.com/turtle2209/Bigfish)** ⭐ 30
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。
-
-- **[chang416/im-human](https://github.com/chang416/im-human)** ⭐ 25
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  讓 AI 用台灣人的繁體中文講話，並把已寫好的文字清掉 AI 味。Claude Code、claude.ai、ChatGPT Codex 與一般聊天都能用。
-
-- **[YangJiiii/3105](https://github.com/YangJiiii/3105)** ⭐ 19
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
-
-- **[Yaxin9Luo/AutoDesign](https://github.com/Yaxin9Luo/AutoDesign)** ⭐ 17
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  The open-source design agent and harness, better than Claude Design on academic communication artifacts production. This DesignHarness can also be used with any coding harness you like ( Codex/Claude Code/Kimi Code/Pi/OpenCode etc..) and any agentic model you want.
-
-### 📈 Weekly Trending
-
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 75,903
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSeek Harness: Everything is a Plugin.
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 5,981
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
-
-- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,808
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  MiniMax H3 inference engine for Mac computers
-
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,697
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)** ⭐ 1,187
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Unlocking _everything_ on the CPU with DRAM scrambling
-
-- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 1,175
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
-
-- **[Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill)** ⭐ 1,044
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-
-- **[gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)** ⭐ 964
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  None
-
-### 📈 Monthly Trending
-
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 75,904
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSeek Harness: Everything is a Plugin.
-
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 15,860
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,456
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,492
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Multiplayer agent harness for work.
-
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,432
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open Frontier Intelligence
-
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,412
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
-
-- **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** ⭐ 5,987
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 5,981
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
 ## 🚀 Latest Releases
 
@@ -484,9 +384,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🟢 Proficient |
 | Go | 🟡 Learning |
 
@@ -494,31 +394,31 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
+| React | 🟢 Proficient |
 | Spring Boot | 🟢 Proficient |
-| Django | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -526,17 +426,17 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
