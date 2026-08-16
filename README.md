@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)**
-  *<p>Article URL: <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Sat, 15 Aug 2026 23:54:35 +0000
+- **[The Iran War Is a Whole New Level of Quagmire for the US](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)**
+  *<p>Article URL: <a href="https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217">https://www.politico.com/news/magazine/2026/0...*
+  📅 Sun, 16 Aug 2026 05:45:32 +0000
 
-- **[Credit card debt rises to $1.26T, nearing all-time record](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)**
-  *<p>Article URL: <a href="https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/">https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/196672...*
-  📅 Sat, 15 Aug 2026 23:22:59 +0000
+- **[The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)**
+  *<p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/...*
+  📅 Sun, 16 Aug 2026 04:24:00 +0000
 
-- **[SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/)**
-  *<p>Article URL: <a href="https://sugartrack-beta.vercel.app/">https://sugartrack-beta.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314884">https://news.ycombina...*
-  📅 Sat, 15 Aug 2026 22:28:14 +0000
+- **[21,000 MCP servers exposed: the protocol reaches a security inflection point](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)**
+  *<p>Article URL: <a href="https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a><...*
+  📅 Sun, 16 Aug 2026 04:07:18 +0000
 
-- **[Oracle – a photorealistic browser for every Magic card ever printed](https://magic-oracle.com/)**
-  *<p>Article URL: <a href="https://magic-oracle.com/">https://magic-oracle.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314869">https://news.ycombinator.com/item?id=4931...*
-  📅 Sat, 15 Aug 2026 22:27:03 +0000
+- **[Targeted marine cloud brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012)**
+  *<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Sun, 16 Aug 2026 03:40:05 +0000
 
-- **[Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)**
-  *<p>Article URL: <a href="https://xescu.re/keeta-consensus.pdf">https://xescu.re/keeta-consensus.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314642">https://news.ycombi...*
-  📅 Sat, 15 Aug 2026 21:49:45 +0000
+- **[ProofRun – a local verification receipt for AI coding agents](https://github.com/yebiguo/ProofRun)**
+  *<p>Article URL: <a href="https://github.com/yebiguo/ProofRun">https://github.com/yebiguo/ProofRun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316605">https://news.ycombina...*
+  📅 Sun, 16 Aug 2026 03:22:15 +0000
 
-- **[Bede Liu, a digital signal processing pioneer, has died](https://spectrum.ieee.org/digital-signal-processing)**
-  *<p>Article URL: <a href="https://spectrum.ieee.org/digital-signal-processing">https://spectrum.ieee.org/digital-signal-processing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
-  📅 Sat, 15 Aug 2026 21:45:54 +0000
+- **[Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 16 Aug 2026 02:36:10 +0000
 
 ### 📑 TechCrunch
 
@@ -103,19 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2)**
-  *<p>Eighty minutes into building with three people I had met that morning, I renamed the idea I brought with me.<br />
-</p>
+- **[Four patterns that keep my YouTube longform JSON queue from going stale](https://dev.to/morinaga/four-patterns-that-keep-my-youtube-longform-json-queue-from-going-stale-2750)**
+  *<p>I manage the YouTube longform queue for my BuilderStack channel as JSON files in <code>content/yt-longform-queue/</code>. A spec file lands there when a generator script commits a new dialogue; the...*
+  📅 Sun, 16 Aug 2026 06:20:40 +0000
 
-<div class="highlight js-code-highlight">
-<pre class="highlight plaintext"><...*
-  📅 Sun, 16 Aug 2026 00:32:10 +0000
+- **[Why your App Tracking Transparency prompt doesn't show up (and how it got my app rejected)](https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob)**
+  *<p>App Review rejected my iOS app under Guideline 2.1. The note said reviewers were unable to locate the App Tracking Transparency permission request when they tested the build.</p>
 
-- **[Before you pay anyone to migrate your Shopify catalog, make them promise these 17 things — in writing](https://dev.to/junlong_zhu_d300164b0535f/before-you-pay-anyone-to-migrate-your-shopify-catalog-make-them-promise-these-17-things-in-5amj)**
-  *<p>I audit catalog migrations for a living. Every disaster I've seen was preventable — not by hiring better, but by <strong>agreeing in writing what "done" means before work starts.</strong></p>
-
-<p>C...*
-  📅 Sun, 16 Aug 2026 00:21:22 +0000
+<p>The prompt wor...*
+  📅 Sun, 16 Aug 2026 06:12:52 +0000
 
 </details>
 
@@ -123,105 +118,105 @@
 
 ### 📈 Daily Trending
 
-- **[SamG-Coder/FableCSharp](https://github.com/SamG-Coder/FableCSharp)** ⭐ 1
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  C# / Vulkan client that plays Fable: The Lost Chapters from the original game files
+- **[alphaparkinc/genpark-llm-inference-throughput-hardware-benchmark-skill](https://github.com/alphaparkinc/genpark-llm-inference-throughput-hardware-benchmark-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Real-time LLM inference throughput profiler & benchmark (Inferock Bench style)
 
-- **[leopod170-design/Neon-hunt](https://github.com/leopod170-design/Neon-hunt)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+- **[alphaparkinc/genpark-proactive-founder-calendar-negotiation-copilot-skill](https://github.com/alphaparkinc/genpark-proactive-founder-calendar-negotiation-copilot-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Proactive founder calendar negotiation copilot & meeting triage (Hey Noah style)
 
-- **[Ramesh-com/qa-dce8c1ef](https://github.com/Ramesh-com/qa-dce8c1ef)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  created by the automated round-trip suite
+- **[alphaparkinc/genpark-enterprise-agent-permission-boundary-governor-skill](https://github.com/alphaparkinc/genpark-enterprise-agent-permission-boundary-governor-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Enterprise agent execution environment & permission boundary governor (Tines style)
 
-- **[Ramesh-com/qa-100ab999](https://github.com/Ramesh-com/qa-100ab999)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  created by the automated round-trip suite
+- **[alphaparkinc/genpark-ai-native-devops-iac-synthesizer-skill](https://github.com/alphaparkinc/genpark-ai-native-devops-iac-synthesizer-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  AI-native DevOps workspace, Terraform IaC synthesizer & drift detector (Nuphos style)
 
-- **[thaivanthi2005/ITJobs](https://github.com/thaivanthi2005/ITJobs)** ⭐ 1
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[alphaparkinc/genpark-viral-social-ad-variant-generator-skill](https://github.com/alphaparkinc/genpark-viral-social-ad-variant-generator-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Viral social ad variant generator & hook resonance predictor (AdAnt style)
 
-- **[SikeFix/deepseek-cute-desktop](https://github.com/SikeFix/deepseek-cute-desktop)** ⭐ 1
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  Download-ready local DeepSeek desktop client for macOS and Windows, with a cute theme and interactive desktop pet.
+- **[alphaparkinc/genpark-edge-worker-ai-operating-system-scheduler-skill](https://github.com/alphaparkinc/genpark-edge-worker-ai-operating-system-scheduler-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Distributed edge AI operating system scheduler & worker router (Cloudflare OS style)
 
-- **[totalnightmare/TCGC-Evaluation-System](https://github.com/totalnightmare/TCGC-Evaluation-System)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  A simple web-based evaluation system built with HTML, PHP, and MySQL for academic institutions. This system supports semester-based grading with midterm and final examinations.
+- **[alphaparkinc/genpark-intelligent-file-routing-content-sync-skill](https://github.com/alphaparkinc/genpark-intelligent-file-routing-content-sync-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Intelligent file routing, dynamic categorizer & cloud sync (FileRouter style)
 
-- **[moneycaringcoder/herdr-shear](https://github.com/moneycaringcoder/herdr-shear)** ⭐ 1
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Find the git worktrees that are safe to delete, and delete those. A worktree janitor for herdr.
+- **[alphaparkinc/genpark-voice-call-realtime-sentiment-interceptor-skill](https://github.com/alphaparkinc/genpark-voice-call-realtime-sentiment-interceptor-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Real-time duplex voice call sentiment interceptor & script adapter (Dograh style)
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 115,390
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 120,034
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 9,745
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 10,018
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 5,892
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 6,934
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验
+  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 3,001
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 3,414
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 2,710
+- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 2,899
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
 
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 2,192
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 2,477
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,737
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 1,705
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 2,105
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,753
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 115,391
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 120,034
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,276
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,306
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,557
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,574
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,629
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,646
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 9,745
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 10,018
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,482
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,487
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,462
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,468
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)** ⭐ 6,069
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 6,934
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
 
 ## 🚀 Latest Releases
 
@@ -490,28 +485,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🟢 Proficient |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | ⚪ Planned |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟢 Proficient |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
-| Node.js | 🔴 Beginner |
-| Next.js | ⚪ Planned |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | ⚪ Planned |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
@@ -519,29 +514,29 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
+| NLP | ⚪ Planned |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | ⚪ Planned |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
