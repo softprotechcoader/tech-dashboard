@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 15, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 16, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,37 +46,44 @@
 
 ### 📑 Hacker News
 
-- **[TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)**
-  *<p>Article URL: <a href="https://www.treasurydirect.gov/savings-bonds/idme-one-month/">https://www.treasurydirect.gov/savings-bonds/idme-one-month/</a></p>
-<p>Comments URL: <a href="https://news.ycomb...*
-  📅 Sat, 15 Aug 2026 17:30:02 +0000
+- **[Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)**
+  *<p>Article URL: <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 15 Aug 2026 23:54:35 +0000
 
-- **[Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)**
-  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gxy0wqqd9o">https://www.bbc.com/news/articles/c4gxy0wqqd9o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312413"...*
-  📅 Sat, 15 Aug 2026 17:21:26 +0000
+- **[Credit card debt rises to $1.26T, nearing all-time record](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)**
+  *<p>Article URL: <a href="https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/">https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/196672...*
+  📅 Sat, 15 Aug 2026 23:22:59 +0000
 
-- **[The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)**
-  *<p>Article URL: <a href="https://www.core77.com/posts/144869">https://www.core77.com/posts/144869</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312165">https://news.ycombina...*
-  📅 Sat, 15 Aug 2026 16:53:47 +0000
+- **[SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/)**
+  *<p>Article URL: <a href="https://sugartrack-beta.vercel.app/">https://sugartrack-beta.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314884">https://news.ycombina...*
+  📅 Sat, 15 Aug 2026 22:28:14 +0000
 
-- **[A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x)**
-  *<p>Article URL: <a href="https://www.nature.com/articles/d41586-026-02448-x">https://www.nature.com/articles/d41586-026-02448-x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Sat, 15 Aug 2026 16:38:34 +0000
+- **[Oracle – a photorealistic browser for every Magic card ever printed](https://magic-oracle.com/)**
+  *<p>Article URL: <a href="https://magic-oracle.com/">https://magic-oracle.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314869">https://news.ycombinator.com/item?id=4931...*
+  📅 Sat, 15 Aug 2026 22:27:03 +0000
 
-- **[Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)**
-  *<p>Article URL: <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Sat, 15 Aug 2026 15:58:53 +0000
+- **[Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)**
+  *<p>Article URL: <a href="https://xescu.re/keeta-consensus.pdf">https://xescu.re/keeta-consensus.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314642">https://news.ycombi...*
+  📅 Sat, 15 Aug 2026 21:49:45 +0000
 
-- **[A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)**
-  *<p>Article URL: <a href="https://www.dampfkraft.com/ghost-characters.html">https://www.dampfkraft.com/ghost-characters.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310...*
-  📅 Sat, 15 Aug 2026 14:34:04 +0000
+- **[Bede Liu, a digital signal processing pioneer, has died](https://spectrum.ieee.org/digital-signal-processing)**
+  *<p>Article URL: <a href="https://spectrum.ieee.org/digital-signal-processing">https://spectrum.ieee.org/digital-signal-processing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id...*
+  📅 Sat, 15 Aug 2026 21:45:54 +0000
 
 ### 📑 TechCrunch
+
+- **[Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)**
+  *The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."...*
+  📅 Sat, 15 Aug 2026 21:29:19 +0000
+
+- **[Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)**
+  *How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?...*
+  📅 Sat, 15 Aug 2026 18:58:39 +0000
 
 - **[SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/)**
   *AI coding startup Cursor is now officially a part of SpaceX....*
@@ -94,48 +101,21 @@
   *PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around....*
   📅 Fri, 14 Aug 2026 22:43:24 +0000
 
-- **[Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)**
-  *Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles....*
-  📅 Fri, 14 Aug 2026 20:37:49 +0000
-
-- **[Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)**
-  *The AI opportunity is huge, but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter....*
-  📅 Fri, 14 Aug 2026 19:33:00 +0000
-
 ### 📑 Dev.to
 
-- **[astral.ai.studio](https://dev.to/jan-klein/astralaistudio-419f)**
-  *<h2>
-  
-  
-  astral.ai.studio
-</h2>
+- **[Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2)**
+  *<p>Eighty minutes into building with three people I had met that morning, I renamed the idea I brought with me.<br />
+</p>
 
-<h3>
-  
-  
-  We build Artificial &amp; Real World intelligence.
-</h3>
+<div class="highlight js-code-highlight">
+<pre class="highlight plaintext"><...*
+  📅 Sun, 16 Aug 2026 00:32:10 +0000
 
-<h3>
-  
-  
-  Creators of Understandable Ai | UAI
-</h3>
+- **[Before you pay anyone to migrate your Shopify catalog, make them promise these 17 things — in writing](https://dev.to/junlong_zhu_d300164b0535f/before-you-pay-anyone-to-migrate-your-shopify-catalog-make-them-promise-these-17-things-in-5amj)**
+  *<p>I audit catalog migrations for a living. Every disaster I've seen was preventable — not by hiring better, but by <strong>agreeing in writing what "done" means before work starts.</strong></p>
 
-<h3>
-  
-  
-  The Next Ai Revolution
-...*
-  📅 Sat, 15 Aug 2026 18:07:08 +0000
-
-- **[🍲 Annapurna's Kitchen — Every tiffin has Home's Flavour (Perfect Landing)](https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6)**
-  *<p><em>This is a submission for <a href="https://dev.to/challenges/frontend-2026-07-29">Frontend Challenge - Comfort Food Edition, Perfect Landing</a></em></p>
-
-<blockquote>
-<p><strong>Tagline:</stron...*
-  📅 Sat, 15 Aug 2026 18:03:17 +0000
+<p>C...*
+  📅 Sun, 16 Aug 2026 00:21:22 +0000
 
 </details>
 
@@ -143,103 +123,103 @@
 
 ### 📈 Daily Trending
 
-- **[SheberDavid/v4-flash-godmode-opencode-go](https://github.com/SheberDavid/v4-flash-godmode-opencode-go)** ⭐ 207
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset
+- **[SamG-Coder/FableCSharp](https://github.com/SamG-Coder/FableCSharp)** ⭐ 1
+  ![C#](https://img.shields.io/badge/-C#-lightgrey)
+  C# / Vulkan client that plays Fable: The Lost Chapters from the original game files
 
-- **[morsyxbt/nft-public-mint](https://github.com/morsyxbt/nft-public-mint)** ⭐ 120
+- **[leopod170-design/Neon-hunt](https://github.com/leopod170-design/Neon-hunt)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[Ramesh-com/qa-dce8c1ef](https://github.com/Ramesh-com/qa-dce8c1ef)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  created by the automated round-trip suite
+
+- **[Ramesh-com/qa-100ab999](https://github.com/Ramesh-com/qa-100ab999)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  created by the automated round-trip suite
+
+- **[thaivanthi2005/ITJobs](https://github.com/thaivanthi2005/ITJobs)** ⭐ 1
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  CLI sniper for public SeaDrop NFT mints - builds calldata on-chain, no OpenSea token required
-
-- **[liceses/dsh-gitbash-preset](https://github.com/liceses/dsh-gitbash-preset)** ⭐ 95
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。
-
-- **[bimbimkkay-crypto/my-food](https://github.com/bimbimkkay-crypto/my-food)** ⭐ 59
-  ![Java](https://img.shields.io/badge/-Java-orange)
   None
 
-- **[neilthomas89440-crypto/inferna-next](https://github.com/neilthomas89440-crypto/inferna-next)** ⭐ 50
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Self-hosted GPU cluster orchestration: deploy and serve AI models on your own hardware
+- **[SikeFix/deepseek-cute-desktop](https://github.com/SikeFix/deepseek-cute-desktop)** ⭐ 1
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Download-ready local DeepSeek desktop client for macOS and Windows, with a cute theme and interactive desktop pet.
 
-- **[NetroIndonesia/freebuff2api](https://github.com/NetroIndonesia/freebuff2api)** ⭐ 50
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  None
+- **[totalnightmare/TCGC-Evaluation-System](https://github.com/totalnightmare/TCGC-Evaluation-System)** ⭐ 1
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
+  A simple web-based evaluation system built with HTML, PHP, and MySQL for academic institutions. This system supports semester-based grading with midterm and final examinations.
 
-- **[antinomie-lab/dsh-explore](https://github.com/antinomie-lab/dsh-explore)** ⭐ 49
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
-  Into the Unknown. —— 探索未至之境。
-
-- **[0liveiraaa/myDshPresets](https://github.com/0liveiraaa/myDshPresets)** ⭐ 35
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  用以解决DEEPSEEK思维链混乱,提高性能的插件
+- **[moneycaringcoder/herdr-shear](https://github.com/moneycaringcoder/herdr-shear)** ⭐ 1
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Find the git worktrees that are safe to delete, and delete those. A worktree janitor for herdr.
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 113,367
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 115,390
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 9,491
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 9,745
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 5,588
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 5,892
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 2,880
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 3,001
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 2,653
+- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 2,710
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
 
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 2,097
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 2,192
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-- **[antirez/h3.c](https://github.com/antirez/h3.c)** ⭐ 1,904
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  MiniMax H3 inference engine for Mac computers
-
-- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,730
+- **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** ⭐ 1,737
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
+
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 1,705
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
+  dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 113,368
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 115,391
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,251
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,276
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,546
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,557
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,612
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,629
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 9,491
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 9,745
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,477
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,482
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,456
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,462
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
-- **[MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)** ⭐ 6,056
+- **[MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)** ⭐ 6,069
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
@@ -509,59 +489,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | ⚪ Planned |
 | Python | 🟡 Learning |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
 | Node.js | 🔴 Beginner |
-| Next.js | 🟡 Learning |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
+| Docker | ⚪ Planned |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -579,7 +559,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** August 15, 2026
+**Last Updated:** August 16, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
