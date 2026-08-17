@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Webmaster a Manifesto for Everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)**
-  *<p>Article URL: <a href="https://brennan.day/webmaster-a-manifesto-for-everyone/">https://brennan.day/webmaster-a-manifesto-for-everyone/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Mon, 17 Aug 2026 00:04:14 +0000
+- **[$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)**
+  *<p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
+<p>Comments URL: <a hr...*
+  📅 Mon, 17 Aug 2026 05:22:49 +0000
 
-- **[Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)**
-  *<p>Article URL: <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">https://daringfireball.net/2026/08/anthropics_watermark_text_ad...*
-  📅 Sun, 16 Aug 2026 21:53:43 +0000
+- **[Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)**
+  *<p>Article URL: <a href="https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a...*
+  📅 Mon, 17 Aug 2026 02:55:20 +0000
 
-- **[Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)**
-  *<p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-b...*
-  📅 Sun, 16 Aug 2026 21:07:10 +0000
+- **[AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)**
+  *<p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
+<p>C...*
+  📅 Mon, 17 Aug 2026 01:45:36 +0000
 
-- **[The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)**
-  *<p>Article URL: <a href="https://ivan-gavran.github.io/0-social-processes-paper">https://ivan-gavran.github.io/0-social-processes-paper</a></p>
+- **[Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly)**
+  *<p>Article URL: <a href="https://github.com/crabbuild/prolly">https://github.com/crabbuild/prolly</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325458">https://news.ycombina...*
+  📅 Mon, 17 Aug 2026 01:00:45 +0000
+
+- **[Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)**
+  *<p>Article URL: <a href="https://blog.racket-lang.org/2026/08/rhombus-v1.1.html">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 16 Aug 2026 20:38:58 +0000
+  📅 Mon, 17 Aug 2026 00:48:21 +0000
 
-- **[Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
-  *<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion">https://www.bloomberg.com/news/articles/2026-08-16/stripe-ne...*
-  📅 Sun, 16 Aug 2026 20:31:16 +0000
-
-- **[An open-source, candle-only crypto pump detector–looking for ML contributors](https://github.com/aleks-ent/pump-dump-crypto-screener)**
-  *<p>Article URL: <a href="https://github.com/aleks-ent/pump-dump-crypto-screener">https://github.com/aleks-ent/pump-dump-crypto-screener</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Sun, 16 Aug 2026 20:16:30 +0000
+- **[Applying a photosynthetic process to treat “dry eye”](https://www.science.org/content/blog-post/taking-tip-plants-eyes)**
+  *<p>Article URL: <a href="https://www.science.org/content/blog-post/taking-tip-plants-eyes">https://www.science.org/content/blog-post/taking-tip-plants-eyes</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Mon, 17 Aug 2026 00:35:29 +0000
 
 ### 📑 TechCrunch
 
@@ -101,15 +103,17 @@
 
 ### 📑 Dev.to
 
-- **[When Everyone Has AI Agents, Who Knows What They’re Doing?](https://dev.to/zhan1234/when-everyone-has-ai-agents-who-knows-what-theyre-doing-33mj)**
-  *<p>We started building OliverGraph to give teams and their AI agents shared context across GitHub, Slack, docs, and the other places where work happens.</p>
+- **[I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28)**
+  *<p><em>This is a submission for <a href="https://dev.to/bugsmash">DEV's Summer Bug Smash: Smash Stories</a> powered by <a href="https://sentry.io/" rel="noopener noreferrer">Sentry</a>.</em></p>
 
-<p>At first, we thought the main problem w...*
-  📅 Mon, 17 Aug 2026 00:26:28 +0000
+<h2>...*
+  📅 Mon, 17 Aug 2026 06:16:22 +0000
 
-- **[How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09)**
-  *<p>Here's the full flow the way I've built it, using <a href="https://notify.cx/" rel="noopener noreferrer">Notify</a> as the email API. The shape of this is the same regardless of which provider you ...*
-  📅 Mon, 17 Aug 2026 00:20:45 +0000
+- **[My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8)**
+  *<p><em>This is a submission for <a href="https://dev.to/bugsmash">DEV's Summer Bug Smash: Clear the Lineup</a> powered by <a href="https://sentry.io/" rel="noopener noreferrer">Sentry</a>.</em></p>
+
+<...*
+  📅 Mon, 17 Aug 2026 06:15:30 +0000
 
 </details>
 
@@ -117,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[Nour-yahyaoui/rust-demo](https://github.com/Nour-yahyaoui/rust-demo)** ⭐ 2
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.
+- **[0xblewalker/memory-recall-rerank](https://github.com/0xblewalker/memory-recall-rerank)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reproducible benchmark and reference pipeline for reranked long-term memory retrieval
 
-- **[uvrwec804/accountboy-purchase](https://github.com/uvrwec804/accountboy-purchase)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  账号星球账号购买全攻略：苹果ID、Telegram、TikTok、ChatGPT Plus怎么买最划算？新手注册下单流程与避坑指南一篇讲透（附全套餐价格对比表）
-
-- **[tylerdevops/Documentation-Prompt-for-AI](https://github.com/tylerdevops/Documentation-Prompt-for-AI)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Documentation Prompt for AI
-
-- **[mohammedaltala5-dot/raf-al-mushahadat](https://github.com/mohammedaltala5-dot/raf-al-mushahadat)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+- **[bbemby/bb_javdb](https://github.com/bbemby/bb_javdb)** ⭐ 7
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   None
 
-- **[isadev0/AioAuth-Ready-Auth-System](https://github.com/isadev0/AioAuth-Ready-Auth-System)** ⭐ 1
+- **[maile456/codex-auto-register](https://github.com/maile456/codex-auto-register)** ⭐ 6
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Ready auth system for sites
+  codex注册，提炼，接码，协议支付流水线
 
-- **[tim-stubbe/homelab-hub](https://github.com/tim-stubbe/homelab-hub)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Self-hosted homelab dashboard for TrueNAS
+- **[qiwanqingyise/xuan-assistant](https://github.com/qiwanqingyise/xuan-assistant)** ⭐ 6
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  轩助手 - 个人 AI 助手：NestJS 后端 + Vue3 前端 + Electron 浏览器自动化
 
-- **[Velocity07/OniraRAG](https://github.com/Velocity07/OniraRAG)** ⭐ 1
+- **[weidutech/pi-recon](https://github.com/weidutech/pi-recon)** ⭐ 5
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Fully local, air-gapped Agentic RAG engine with LangGraph cyclic orchestration, hybrid ChromaDB/BM25 retrieval, FlashRank neural re-ranking, Moondream multimodal PDF vision, and live web fallback.
+  Automated reconnaissance and result validation for authorized security challenge environments.
 
-- **[TheGrandEndeavor/Image-AI](https://github.com/TheGrandEndeavor/Image-AI)** ⭐ 1
+- **[noaa-apt/kiwi-reload](https://github.com/noaa-apt/kiwi-reload)** ⭐ 5
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Kiwi-Reload is a closed-source application. Kiwi-Reload was built for the purpose of streaming UVB-76, Where it moves receivers around at a certain time window, avoiding idle timeouts.
+
+- **[yappologistic/e-gurl-community-cpp-qt-qml-roadmap](https://github.com/yappologistic/e-gurl-community-cpp-qt-qml-roadmap)** ⭐ 5
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Understand how images correlate with numerical data, and manipulate them to progress into image recognition.
+  A free zero-to-capstone roadmap for modern C++23, Qt 6, QML, and Qt Quick.
+
+- **[balcoz/dsh-ocr-local](https://github.com/balcoz/dsh-ocr-local)** ⭐ 4
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Local OCR plugin for DeepSeek Harness — paste an image, get its text via PP-OCRv5 + ONNX Runtime, fully offline.   Supports TUI (cc-tui) and Web. ｜ DeepSeek Harness 本地 OCR 插件：粘贴图片，PP-OCRv5 + ONNX Runtime   识别文字，完全离线，支持 TUI 与 Web
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 131,586
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 140,023
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 11,465
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 12,203
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 8,925
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 10,247
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
+  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 5,133
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 6,343
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 3,426
+- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 3,729
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
 
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,028
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,245
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 2,819
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 3,093
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[cordiverse/paper](https://github.com/cordiverse/paper)** ⭐ 1,875
+- **[cordiverse/paper](https://github.com/cordiverse/paper)** ⭐ 1,981
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Programming Paradigm for Spatiotemporal Composability
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 131,586
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 140,024
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,454
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,517
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,658
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,676
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,704
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,728
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 11,465
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 12,203
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 8,925
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 10,247
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
+  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,517
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,525
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,476
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,481
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -484,26 +488,26 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
 | Node.js | ⚪ Planned |
-| Next.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | 🟡 Learning |
 | Web Security | 🟡 Learning |
 | Network Security | ⚪ Planned |
 | OWASP | 🔴 Beginner |
@@ -512,30 +516,30 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
 | Deep Learning | 🟡 Learning |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
