@@ -46,37 +46,49 @@
 
 ### 📑 Hacker News
 
-- **[The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)**
-  *<p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinato...*
-  📅 Tue, 18 Aug 2026 02:11:02 +0000
+- **[As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)**
+  *<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cit...*
+  📅 Tue, 18 Aug 2026 11:27:03 +0000
 
-- **[Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)**
-  *<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=...*
-  📅 Mon, 17 Aug 2026 23:28:28 +0000
+- **[Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)**
+  *<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/googl...*
+  📅 Tue, 18 Aug 2026 10:13:28 +0000
 
-- **[How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)**
-  *<p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338...*
-  📅 Mon, 17 Aug 2026 22:20:40 +0000
+- **[Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)**
+  *<p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://n...*
+  📅 Tue, 18 Aug 2026 07:51:50 +0000
 
-- **[scScript for Linux](https://scapplications.com/)**
-  *<p>Article URL: <a href="https://scapplications.com/">https://scapplications.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338428">https://news.ycombinator.com/item?id=...*
-  📅 Mon, 17 Aug 2026 22:18:05 +0000
+- **[Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)**
+  *<p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Tue, 18 Aug 2026 07:28:27 +0000
 
-- **[Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)**
-  *<p>Article URL: <a href="https://fabiensanglard.net/quake_shareware_cd/index.html">https://fabiensanglard.net/quake_shareware_cd/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Mon, 17 Aug 2026 22:06:14 +0000
+- **[Finger: Social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)**
+  *<p>Article URL: <a href="https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/">https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/</a></p...*
+  📅 Tue, 18 Aug 2026 07:21:35 +0000
 
-- **[Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)**
-  *<p>Article URL: <a href="https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera">https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera</a></p>
-<p>Comments URL: <a ...*
-  📅 Mon, 17 Aug 2026 22:01:17 +0000
+- **[Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)**
+  *<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3...*
+  📅 Tue, 18 Aug 2026 04:51:33 +0000
 
 ### 📑 TechCrunch
+
+- **[Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’](https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/)**
+  *Reach Capital announced Tuesday an oversubscribed $265M Fund V....*
+  📅 Tue, 18 Aug 2026 11:00:00 +0000
+
+- **[Fairphone is launching its latest repairable phone in the US too](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/)**
+  *The Fairphone 6+ is priced at $649 and will be available on Amazon....*
+  📅 Tue, 18 Aug 2026 11:00:00 +0000
+
+- **[Einride strikes deal to add 500 Tesla Semis to its fleet](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/)**
+  *Einride will buy the Tesla Semis, which will be made to Amazon and other customers....*
+  📅 Tue, 18 Aug 2026 10:30:00 +0000
+
+- **[Detroit startup Grounded raises $5M to customize electric and gas-powered vans](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/)**
+  *The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically....*
+  📅 Tue, 18 Aug 2026 10:00:00 +0000
 
 - **[Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)**
   *The model maker added $18 billion in annualized revenue in two months....*
@@ -86,38 +98,19 @@
   *"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said....*
   📅 Mon, 17 Aug 2026 21:27:05 +0000
 
-- **[‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/)**
-  *Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high....*
-  📅 Mon, 17 Aug 2026 20:18:35 +0000
-
-- **[Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)**
-  *If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at...*
-  📅 Mon, 17 Aug 2026 19:33:51 +0000
-
-- **[Spotify’s new Playlist Notes let users and editors explain their song picks](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/)**
-  *Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and o...*
-  📅 Mon, 17 Aug 2026 19:24:43 +0000
-
-- **[Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B](https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/)**
-  *Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos....*
-  📅 Mon, 17 Aug 2026 19:04:27 +0000
-
 ### 📑 Dev.to
 
-- **[TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)**
-  *<h1>
-  
-  
-  TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks
-</h1>
+- **[MAI-Thinking-1 Is Now in Foundry — Here's What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)**
+  *<p>Every time Microsoft ships a new model into Foundry, I ask myself the same boring-but-important question: <em>does this change anything for the way I actually write code?</em> Most of the time the ...*
+  📅 Tue, 18 Aug 2026 12:15:47 +0000
 
-<blockquote>
-<p><em>This article was written with the assistance of AI, under human supervis...*
-  📅 Tue, 18 Aug 2026 06:22:04 +0000
+- **[Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)**
+  *<p>In the previous article, we looked at <strong>user-scoped memory</strong>, where each user gets their own private long-term memory.</p>
 
-- **[The Matte Learns Only Inside the Band](https://dev.to/romiteld/the-matte-learns-only-inside-the-band-jn6)**
-  *<p>A bad cutout rarely announces itself as a bad cutout. The car lands on a new backdrop, the paint looks clean, then a thin piece is gone. An antenna. A tire lip. The dark seam under a rocker panel. ...*
-  📅 Tue, 18 Aug 2026 06:21:06 +0000
+<p>But there is another useful pattern:</p>
+
+<p><strong>Agen...*
+  📅 Tue, 18 Aug 2026 12:15:47 +0000
 
 </details>
 
@@ -125,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[air-embodied-brain/Zetta-Embodiment](https://github.com/air-embodied-brain/Zetta-Embodiment)** ⭐ 30
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[d4ncboz/qoder-workflow](https://github.com/d4ncboz/qoder-workflow)** ⭐ 28
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem.
-
-- **[chenweixin123/workbooklens](https://github.com/chenweixin123/workbooklens)** ⭐ 11
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Local-first linting, testing, semantic diffing, and safe repair for Excel workbooks
-
-- **[flatcentipedeturbine/claude-ai-unlimited](https://github.com/flatcentipedeturbine/claude-ai-unlimited)** ⭐ 11
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  Claude AI web interface. Self-hosted,100% free, no backend.
-
-- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 9
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 153
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
 
-- **[wolfiesch/omp-best-of](https://github.com/wolfiesch/omp-best-of)** ⭐ 9
+- **[MengTo/sylva](https://github.com/MengTo/sylva)** ⭐ 80
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  An interactive Three.js landscape study with a procedural, pointer-responsive moss world.
+
+- **[livetennisapi/polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis)** ⭐ 56
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Polymarket tennis trading toolkit — discover tennis event markets, match them to live tennis matches, and watch market prices against live scores. Observe-only, MIT.
+
+- **[d4ncboz/qoder-workflow](https://github.com/d4ncboz/qoder-workflow)** ⭐ 43
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem.
+
+- **[air-embodied-brain/Zetta-Embodiment](https://github.com/air-embodied-brain/Zetta-Embodiment)** ⭐ 43
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[xianxie6/stamp-edge-skill](https://github.com/xianxie6/stamp-edge-skill)** ⭐ 36
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Agent skill: turn any image into a postage-stamp style card with perforated edges and true transparent background
+
+- **[amitshekhariitbhu/llm-inference-engineering](https://github.com/amitshekhariitbhu/llm-inference-engineering)** ⭐ 36
+  ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey)
+  Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.
+
+- **[wolfiesch/omp-best-of](https://github.com/wolfiesch/omp-best-of)** ⭐ 29
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Best-of-N coding agents with LLM-as-a-Verifier selection for Oh My Pi: isolated git worktrees, verifier-ranked trajectories, winner-only patch application
 
-- **[Mehedi-dev26/Mehedi-dev](https://github.com/Mehedi-dev26/Mehedi-dev)** ⭐ 9
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
-
-- **[alphaparkinc/genpark-no-code-spatial-xr-3d-scene-simulator-skill](https://github.com/alphaparkinc/genpark-no-code-spatial-xr-3d-scene-simulator-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  No-code interactive 3D and XR spatial scene generator (Ctruh style)
-
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 154,087
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 157,721
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 12,442
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 13,139
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 7,947
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 8,364
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 5,627
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 5,868
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 4,287
+- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 4,471
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
 
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,471
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,521
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-- **[dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)** ⭐ 2,437
+- **[dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)** ⭐ 2,517
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
-- **[cordiverse/paper](https://github.com/cordiverse/paper)** ⭐ 2,175
+- **[cordiverse/paper](https://github.com/cordiverse/paper)** ⭐ 2,231
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Programming Paradigm for Spatiotemporal Composability
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 154,088
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 157,721
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,791
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,889
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,749
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,758
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,831
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Multiplayer agent harness for work.
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 13,753
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 14,069
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 12,442
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,852
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multiplayer agent harness for work.
+
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 13,139
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,575
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,586
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,497
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,503
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -488,10 +481,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -499,48 +492,48 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
 | Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| AWS | 🟢 Proficient |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
