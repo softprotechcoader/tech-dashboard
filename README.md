@@ -46,15 +46,15 @@
 
 ### 📑 Hacker News
 
-- **[Cursor Origin](https://cursor.com/docs/origin)**
-  *<p>Article URL: <a href="https://cursor.com/docs/origin">https://cursor.com/docs/origin</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339359">https://news.ycombinator.com/it...*
-  📅 Mon, 17 Aug 2026 23:58:19 +0000
+- **[The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)**
+  *<p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinato...*
+  📅 Tue, 18 Aug 2026 02:11:02 +0000
 
-- **[Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)**
-  *<p>Article URL: <a href="http://amosdudley.com/weblog/Designing-PPE-for-Hilde">http://amosdudley.com/weblog/Designing-PPE-for-Hilde</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Mon, 17 Aug 2026 23:10:06 +0000
+- **[Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)**
+  *<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=...*
+  📅 Mon, 17 Aug 2026 23:28:28 +0000
 
 - **[How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)**
   *<p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
@@ -104,21 +104,20 @@
 
 ### 📑 Dev.to
 
-- **[微软 Agent Governance Toolkit 详解：AI Agent 安全治理的操作系统级方案](https://dev.to/sanyaduan/wei-ruan-agent-governance-toolkit-xiang-jie-ai-agent-an-quan-zhi-li-de-cao-zuo-xi-tong-ji-fang-an-52c6)**
-  *<h2>
+- **[TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)**
+  *<h1>
   
   
-  前言
-</h2>
+  TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks
+</h1>
 
-<p>2026年4月2日，微软正式开源发布了 <strong>Agent Governance Toolkit</strong>（AGT），这是一套专为自主AI智能体打造的开源运行时安全治理框架。MIT许可证，支持Python/TypeScript/Rust/Go/.NET多语言，覆盖全部10项OWASP Agentic Top 10风险，策略执行延迟...*
-  📅 Tue, 18 Aug 2026 00:35:45 +0000
+<blockquote>
+<p><em>This article was written with the assistance of AI, under human supervis...*
+  📅 Tue, 18 Aug 2026 06:22:04 +0000
 
-- **[How to Improve Playwright Test Coverage Using Agent Context](https://dev.to/entire/how-to-improve-playwright-test-coverage-using-agent-context-14l9)**
-  *<p>I don’t know how to play an instrument, so obviously I built one as an app. Literally, everyone in my family can sign or play an instrument, and I’m the odd one out.</p>
-
-<p>And I know what you’re ...*
-  📅 Tue, 18 Aug 2026 00:23:30 +0000
+- **[The Matte Learns Only Inside the Band](https://dev.to/romiteld/the-matte-learns-only-inside-the-band-jn6)**
+  *<p>A bad cutout rarely announces itself as a bad cutout. The car lands on a new backdrop, the paint looks clean, then a thin piece is gone. An antenna. A tire lip. The dark seam under a rocker panel. ...*
+  📅 Tue, 18 Aug 2026 06:21:06 +0000
 
 </details>
 
@@ -126,103 +125,103 @@
 
 ### 📈 Daily Trending
 
-- **[RobHovhannesyan/RobHovhannesyan](https://github.com/RobHovhannesyan/RobHovhannesyan)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Github profile README
-
-- **[AlbertoEJ/llm-swarm-loadtest](https://github.com/AlbertoEJ/llm-swarm-loadtest)** ⭐ 2
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Mide la capacidad real de un endpoint OpenAI-compatible poniendo N agentes reales a trabajar en paralelo, con proxy de medicion (TTFT, tok/s, 429, cache) y dashboard en vivo
-
-- **[luanalfm/agendador-academico-bsi](https://github.com/luanalfm/agendador-academico-bsi)** ⭐ 2
+- **[air-embodied-brain/Zetta-Embodiment](https://github.com/air-embodied-brain/Zetta-Embodiment)** ⭐ 30
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Automação em Python para sincronização de avaliações acadêmicas com o Google Calendar a partir de uma planilha no Google Sheets.
-
-- **[Kifranei/VNDBforAndroid](https://github.com/Kifranei/VNDBforAndroid)** ⭐ 2
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
-  Unofficial VNDB Android client with Miuix UI
-
-- **[iel90305/membership-tiers-naming](https://github.com/iel90305/membership-tiers-naming)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Membership Tiers Names That Convert: How to Name Your Plans, Pick a Structure, and Build a Pricing Page That Sells (With Real Examples and a Tier Naming Framework)
-
-- **[Peeedry/LOHVC](https://github.com/Peeedry/LOHVC)** ⭐ 1
-  ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
-  Plataforma educacional desenvolvida com PHP, PostgreSQL, HTML, CSS e JavaScript, com foco em organização e gerenciamento de conteúdo educacional.
-
-- **[Moha5qmed/Bot-2](https://github.com/Moha5qmed/Bot-2)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[vvfq637/company-directories-platforms](https://github.com/vvfq637/company-directories-platforms)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Company Directories Explained: A Practical Guide to Building, Monetizing, and Choosing the Right Software — Setup, Member Management, Pricing Models, and Platform Comparison
+- **[d4ncboz/qoder-workflow](https://github.com/d4ncboz/qoder-workflow)** ⭐ 28
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem.
+
+- **[chenweixin123/workbooklens](https://github.com/chenweixin123/workbooklens)** ⭐ 11
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local-first linting, testing, semantic diffing, and safe repair for Excel workbooks
+
+- **[flatcentipedeturbine/claude-ai-unlimited](https://github.com/flatcentipedeturbine/claude-ai-unlimited)** ⭐ 11
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Claude AI web interface. Self-hosted,100% free, no backend.
+
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 9
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+
+- **[wolfiesch/omp-best-of](https://github.com/wolfiesch/omp-best-of)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Best-of-N coding agents with LLM-as-a-Verifier selection for Oh My Pi: isolated git worktrees, verifier-ranked trajectories, winner-only patch application
+
+- **[Mehedi-dev26/Mehedi-dev](https://github.com/Mehedi-dev26/Mehedi-dev)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[alphaparkinc/genpark-no-code-spatial-xr-3d-scene-simulator-skill](https://github.com/alphaparkinc/genpark-no-code-spatial-xr-3d-scene-simulator-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  No-code interactive 3D and XR spatial scene generator (Ctruh style)
 
 ### 📈 Weekly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 150,023
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 154,087
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 11,657
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 12,442
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 7,582
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 7,947
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 5,368
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 5,627
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 4,106
+- **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** ⭐ 4,287
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
 
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,424
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,471
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-- **[dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)** ⭐ 2,370
+- **[dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)** ⭐ 2,437
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
-- **[cordiverse/paper](https://github.com/cordiverse/paper)** ⭐ 2,114
+- **[cordiverse/paper](https://github.com/cordiverse/paper)** ⭐ 2,175
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A Programming Paradigm for Spatiotemporal Composability
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 150,023
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 154,088
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,716
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 16,791
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,733
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** ⭐ 14,749
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,804
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,831
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 13,475
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 13,753
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 11,657
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 12,442
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,568
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,575
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,494
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,497
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -489,11 +488,11 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🟢 Proficient |
 | JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
@@ -501,46 +500,46 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Network Security | ⚪ Planned |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟡 Learning |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
