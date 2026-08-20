@@ -46,23 +46,20 @@
 
 ### 📑 Hacker News
 
-- **[Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)**
-  *<p>Article URL: <a href="https://fetzu.ch/blog/20260819_claudevsdrobo/">https://fetzu.ch/blog/20260819_claudevsdrobo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368911">h...*
-  📅 Thu, 20 Aug 2026 00:18:16 +0000
+- **[Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana/)**
+  *<p>Article URL: <a href="https://openai.com/index/asana/">https://openai.com/index/asana/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370862">https://news.ycombinator.com/...*
+  📅 Thu, 20 Aug 2026 05:54:20 +0000
 
-- **[Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)**
-  *<p>Article URL: <a href="https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724">https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-reade...*
-  📅 Wed, 19 Aug 2026 23:38:22 +0000
+- **[Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)**
+  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
+<p>Comments URL: <a href="https://ne...*
+  📅 Thu, 20 Aug 2026 04:42:02 +0000
 
-- **[The Future of CSS: Target Multiple Classes with the Class Prefix Selector](https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/)**
-  *<p>Article URL: <a href="https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/">https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-clas...*
-  📅 Wed, 19 Aug 2026 22:51:17 +0000
-
-- **[Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)**
-  *<p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombi...*
-  📅 Wed, 19 Aug 2026 22:09:16 +0000
+- **[Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)**
+  *<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Thu, 20 Aug 2026 01:29:12 +0000
 
 - **[Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)**
   *<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
@@ -73,6 +70,11 @@
   *<p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item...*
   📅 Wed, 19 Aug 2026 21:11:31 +0000
+
+- **[DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)**
+  *<p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item...*
+  📅 Wed, 19 Aug 2026 20:28:43 +0000
 
 ### 📑 TechCrunch
 
@@ -102,17 +104,23 @@
 
 ### 📑 Dev.to
 
-- **[Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)**
-  *<p>Hi, I’m a Principal Architect with 15+ years of experience designing and delivering scalable, resilient, high-availability Java SaaS platforms.</p>
+- **[Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)**
+  *<h2>
+  
+  
+  When building an application, we usually focus on the frontend, backend, APIs, and database.
+</h2>
 
-<p>My work sits at the intersection of distribut...*
-  📅 Thu, 20 Aug 2026 00:21:05 +0000
+<p><strong>But there is another important question:</strong></p>
 
-- **[Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)**
-  *<div class="highlight js-code-highlight">
-<pre class="highlight java"><code><span class="nd">@Service</span>
-<span class="kd">public</span> <span class="kd">class</span> <span class="nc">SimpleUserSer...*
-  📅 Thu, 20 Aug 2026 00:18:43 +0000
+<p>Where should the a...*
+  📅 Thu, 20 Aug 2026 06:23:06 +0000
+
+- **[Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68)**
+  *<p>Modern web applications rarely need only arrows, menus, and generic interface icons.</p>
+
+<p>A fintech dashboard needs payment and banking icons. A logistics platform needs waybills, packages, ware...*
+  📅 Thu, 20 Aug 2026 06:21:20 +0000
 
 </details>
 
@@ -120,103 +128,103 @@
 
 ### 📈 Daily Trending
 
-- **[Dicklesworthstone/frankengit](https://github.com/Dicklesworthstone/frankengit)** ⭐ 2
-  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
-  Git-compatible, agent-native, repairable, self-hostable code forge and GitHub alternative.
+- **[d4ncboz/github-farm](https://github.com/d4ncboz/github-farm)** ⭐ 43
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Production-grade, AI-Agent-friendly multi-platform OAuth harvesting and session management framework for AI Gateways.
 
-- **[kkohedev/helpdesk-design-patterns](https://github.com/kkohedev/helpdesk-design-patterns)** ⭐ 2
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Projeto do Bootcamp do Santander 2026
+- **[starwingcc/linuxdo-lark-ui](https://github.com/starwingcc/linuxdo-lark-ui)** ⭐ 15
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  将 linux.do 站点伪装成飞书云文档的油猴脚本
 
-- **[Vishalkadam2003/Algorithms-using-Python](https://github.com/Vishalkadam2003/Algorithms-using-Python)** ⭐ 1
+- **[llm-infra-atlas/llm-infra-atlas.github.io](https://github.com/llm-infra-atlas/llm-infra-atlas.github.io)** ⭐ 9
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[jdhwz55/cstonecloud-plans-comparison](https://github.com/jdhwz55/cstonecloud-plans-comparison)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  国外云服务器怎么选不踩坑？香港CN2、美国9929住宅IP、英国双ISP到底哪个值——CstoneCloud 全套餐配置、价格、优惠码与适用场景一篇说清（附新手避坑清单）
-
-- **[yezhuoyang/QCCD](https://github.com/yezhuoyang/QCCD)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A Software to build/Evaluate all QCCD Architecture.
-
-- **[salvo1985/Salvo-Autoservice-](https://github.com/salvo1985/Salvo-Autoservice-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Autowerkstatt 
-
-- **[romeoseyram20-bot/super-](https://github.com/romeoseyram20-bot/super-)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  fhg
-
-- **[SrDelirios/whisperdesk-studio-pro](https://github.com/SrDelirios/whisperdesk-studio-pro)** ⭐ 1
+- **[0xgetz/freebuff-9router](https://github.com/0xgetz/freebuff-9router)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  🎙️ WhisperDesk Studio Pro — Transcripción por voz acelerada en GPU (CUDA) y Actas Oficiales con IA Local (Ollama)
+  Free OpenAI-compatible LLM access via Codebuff/Freebuff free tier, wired into a 9router gateway: device-code OAuth, local adapter, auto model registration
+
+- **[xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.
+
+- **[ssq123123/wx-basic-bridge](https://github.com/ssq123123/wx-basic-bridge)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  微信 PC 4.1.9.23 最小文本收发、消息归档与 DLL 注入桥接工程
+
+- **[ochyai/m5stack-stopwatch-simulator](https://github.com/ochyai/m5stack-stopwatch-simulator)** ⭐ 6
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A compiler-driven simulator for M5Stack StopWatch (C152) firmware: the production C++ runs on your Mac with the device's own font metrics, replayable sessions, and golden frames.
+
+- **[zhuxi99/dsh-model-controls](https://github.com/zhuxi99/dsh-model-controls)** ⭐ 6
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 ### 📈 Weekly Trending
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,298
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,364
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,638
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,649
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,683
+- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,729
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 2,080
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 2,419
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)** ⭐ 1,249
+- **[dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)** ⭐ 1,325
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 
-- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,193
+- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,195
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.
 
-- **[alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)** ⭐ 1,072
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
-
-- **[ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt)** ⭐ 1,067
+- **[ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt)** ⭐ 1,093
   ![Java](https://img.shields.io/badge/-Java-orange)
   Core IaaS engine and cloud infrastructure foundation of ZSvirt
 
+- **[alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)** ⭐ 1,089
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 167,255
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 169,599
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,240
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,329
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 15,318
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
-
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 15,167
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 15,685
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,946
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 15,474
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,965
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 10,043
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 10,241
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,679
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,689
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,533
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,537
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -485,27 +493,27 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 |-------|--------|
 | Java | 🔴 Beginner |
 | Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
 | Django | 🔴 Beginner |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Node.js | ⚪ Planned |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
@@ -513,28 +521,28 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
+| Docker | 🔴 Beginner |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
+| Blockchain | 🟡 Learning |
+| Web3 | ⚪ Planned |
 | Cloud Computing | ⚪ Planned |
 
 </details>
