@@ -46,82 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-techni...*
-  📅 Thu, 20 Aug 2026 12:00:23 +0000
+- **[I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)**
+  *<p>Article URL: <a href="https://jsomers.net/i-should-have-loved-biology/">https://jsomers.net/i-should-have-loved-biology/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377...*
+  📅 Thu, 20 Aug 2026 17:50:02 +0000
 
-- **[AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)**
-  *<p>Article URL: <a href="https://franciscotrindade.me/blog/the-kids-are-really-alright/">https://franciscotrindade.me/blog/the-kids-are-really-alright/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Thu, 20 Aug 2026 11:42:20 +0000
+- **[Project Cybersyn](https://bactra.org/notebooks/cybersyn.html)**
+  *<p>Article URL: <a href="https://bactra.org/notebooks/cybersyn.html">https://bactra.org/notebooks/cybersyn.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377739">https:/...*
+  📅 Thu, 20 Aug 2026 17:40:49 +0000
 
-- **[AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)**
-  *<p>Article URL: <a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</a></p>
-<p>Comme...*
-  📅 Thu, 20 Aug 2026 10:08:52 +0000
+- **[Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)**
+  *<p>Since April, I have been working with Sam Flynn (<a href="https://drook.dev" rel="nofollow">https://drook.dev</a>) to make this balloon payload, UpLink. We did a similar launch last year with Hack ...*
+  📅 Thu, 20 Aug 2026 17:33:32 +0000
 
-- **[Don't Paste the AI, please](https://dontpastetheai.com/)**
-  *<p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=...*
-  📅 Thu, 20 Aug 2026 08:20:44 +0000
+- **[URL shortener links stored in your ATProto PDS](https://atpr.to/)**
+  *<p>Article URL: <a href="https://atpr.to/">https://atpr.to/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377535">https://news.ycombinator.com/item?id=49377535</a></p>
+<p>Po...*
+  📅 Thu, 20 Aug 2026 17:23:22 +0000
 
-- **[Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)**
-  *<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Thu, 20 Aug 2026 06:16:40 +0000
+- **[The Defense-Tech Bubble Is Headed for Consolidation](https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation)**
+  *<p>Article URL: <a href="https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation">https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation</a></p...*
+  📅 Thu, 20 Aug 2026 17:01:09 +0000
 
-- **[Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)**
-  *<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
-<p>Comments URL: <a href="https://news...*
-  📅 Thu, 20 Aug 2026 01:29:12 +0000
+- **[Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern">https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-int...*
+  📅 Thu, 20 Aug 2026 17:01:05 +0000
 
 ### 📑 TechCrunch
 
-- **[Meta AI’s new Mac app wants you to talk to your apps](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/)**
-  *Meta said its Muse Spark model is powering the dictation feature....*
-  📅 Thu, 20 Aug 2026 12:11:57 +0000
+- **[Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)**
+  *Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool....*
+  📅 Thu, 20 Aug 2026 18:20:35 +0000
 
-- **[Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/)**
-  *Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor....*
-  📅 Thu, 20 Aug 2026 09:30:00 +0000
+- **[Grok keeps sending gibberish responses to users](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/)**
+  *Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning....*
+  📅 Thu, 20 Aug 2026 17:32:16 +0000
 
-- **[Stripe didn’t really buy OpenRouter because of the ‘singularity’](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/)**
-  *What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason....*
-  📅 Wed, 19 Aug 2026 23:32:00 +0000
+- **[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)**
+  *Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year....*
+  📅 Thu, 20 Aug 2026 17:27:47 +0000
 
-- **[Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/)**
-  *The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability....*
-  📅 Wed, 19 Aug 2026 22:25:01 +0000
+- **[A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)**
+  *ChatGPT and other AI models are now authoring and editing much of the new web....*
+  📅 Thu, 20 Aug 2026 17:18:58 +0000
 
-- **[OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)**
-  *A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data....*
-  📅 Wed, 19 Aug 2026 22:10:46 +0000
+- **[Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner](https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/)**
+  *At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments....*
+  📅 Thu, 20 Aug 2026 17:04:53 +0000
 
-- **[Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)**
-  *SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI....*
-  📅 Wed, 19 Aug 2026 21:51:23 +0000
+- **[Ramp launches its own AI model router, called Router](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/)**
+  *Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API....*
+  📅 Thu, 20 Aug 2026 16:46:00 +0000
 
 ### 📑 Dev.to
 
-- **[WebMCP Agentic Web: Debugging 2‑Second Latency Spikes](https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a)**
-  *<h2>
-  
-  
-  webmcp agentic web: Why Backend Engineers Must Rethink Their Architecture
-</h2>
+- **[¿Qué es la criptografía post-cuántica y por qué deberías migrar ya?](https://dev.to/isazajuancarlos/que-es-la-criptografia-post-cuantica-y-por-que-deberias-migrar-ya-1l45)**
+  *<p>La criptografía que protege hoy tus datos —claves, HTTPS, firmas— se apoya en problemas matemáticos que los ordenadores actuales no pueden resolver en un tiempo razonable. Un ordenador cuántico suf...*
+  📅 Thu, 20 Aug 2026 18:15:58 +0000
 
-<h2>
-  
-  
-  Quick Answer
-</h2>
-
-<p>webmcp agentic web: Agentic web workloads over MCP require stateless g...*
-  📅 Thu, 20 Aug 2026 12:18:54 +0000
-
-- **[How to Convert PDF to Word in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co)**
-  *<p>Converting PDF to Word seems straightforward, but the reality is more complex. PDF stores text as character coordinates, while Word uses structured paragraphs. Bridging this gap requires careful te...*
-  📅 Thu, 20 Aug 2026 12:15:44 +0000
+- **[Opinion: Repo Tests Are a Compromised Oracle for AI Patches — Probe the Contract the Model Never Saw](https://dev.to/github_7727/opinion-repo-tests-are-a-compromised-oracle-for-ai-patches-probe-the-contract-the-model-never-saw-5d5i)**
+  *<p>A green CI badge measures one thing only: the tests you already wrote still pass. It does not measure whether an AI-generated patch preserved the behaviors you never wrote down. When the model read...*
+  📅 Thu, 20 Aug 2026 18:15:03 +0000
 
 </details>
 
@@ -129,15 +116,15 @@
 
 ### 📈 Daily Trending
 
-- **[xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli)** ⭐ 132
+- **[xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli)** ⭐ 219
   ![Python](https://img.shields.io/badge/-Python-blue)
   GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.
 
-- **[jsongmax/oci-core](https://github.com/jsongmax/oci-core)** ⭐ 105
+- **[jsongmax/oci-core](https://github.com/jsongmax/oci-core)** ⭐ 104
   ![Go](https://img.shields.io/badge/-Go-cyan)
   自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud
 
-- **[d4ncboz/github-farm](https://github.com/d4ncboz/github-farm)** ⭐ 58
+- **[d4ncboz/github-farm](https://github.com/d4ncboz/github-farm)** ⭐ 87
   ![Python](https://img.shields.io/badge/-Python-blue)
   Production-grade, AI-Agent-friendly multi-platform OAuth harvesting and session management framework for AI Gateways.
 
@@ -145,87 +132,87 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[starwingcc/linuxdo-lark-ui](https://github.com/starwingcc/linuxdo-lark-ui)** ⭐ 38
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  将 linux.do 站点伪装成飞书云文档的油猴脚本
-
-- **[Neofollower/Neofollower-SMM-Panel-API](https://github.com/Neofollower/Neofollower-SMM-Panel-API)** ⭐ 33
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Official NeoFollower SMM Panel Reseller API documentation and code examples for PHP, Python, JavaScript, Go and cURL. Browse services, place orders, track status and check balance.
-
-- **[Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce](https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce)** ⭐ 33
+- **[Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce](https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce)** ⭐ 53
   ![PHP](https://img.shields.io/badge/-PHP-lightgrey)
   Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.
 
-- **[Adolanium/hermes-resetwatch](https://github.com/Adolanium/hermes-resetwatch)** ⭐ 28
+- **[Neofollower/Neofollower-SMM-Panel-API](https://github.com/Neofollower/Neofollower-SMM-Panel-API)** ⭐ 51
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Official NeoFollower SMM Panel Reseller API documentation and code examples for PHP, Python, JavaScript, Go and cURL. Browse services, place orders, track status and check balance.
+
+- **[cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** ⭐ 45
   ![Python](https://img.shields.io/badge/-Python-blue)
-  How much of each plan is left, and when it comes back. A Hermes Desktop plugin.
+  Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+
+- **[turkiyeyapayzekaakademisi/computer-vision-workshop](https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop)** ⭐ 44
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,415
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,445
   ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,666
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** ⭐ 3,678
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 2,815
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 2,999
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,755
+- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,769
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 
-- **[dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)** ⭐ 1,392
+- **[dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)** ⭐ 1,440
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 
-- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,197
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.
-
-- **[ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt)** ⭐ 1,106
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Core IaaS engine and cloud infrastructure foundation of ZSvirt
-
-- **[CopilotKit/openbot](https://github.com/CopilotKit/openbot)** ⭐ 1,104
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 1,400
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
+- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,198
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.
+
+- **[ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt)** ⭐ 1,131
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  Core IaaS engine and cloud infrastructure foundation of ZSvirt
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 171,672
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 173,064
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,425
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,488
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 16,162
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 16,391
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 15,715
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 15,929
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,984
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 13,998
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 10,474
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 10,604
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,700
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,714
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,543
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,546
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -357,13 +344,15 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 ### 📦 rust-lang/rust
 
-**[Rust 1.97.1](https://github.com/rust-lang/rust/releases/tag/1.97.1)** `1.97.1`
+**[Rust 1.98.0](https://github.com/rust-lang/rust/releases/tag/1.98.0)** `1.98.0`
 
-📅 Released: July 16, 2026
+📅 Released: August 20, 2026
 
-<a id="1.97.1"></a>
+<a id="1.98.0-Language"></a>
 
-- [rustc: Fix miscompilation in LLVM optimization](https://github.com/rust-lang/rust/issues/159035) This backports an LLVM submodule bump to include the LLVM-side fix and a revert...
+## Language
+
+- [Allow shortening lifetime of `&mut` when unsize-coercing, even in an invariant position.](https://github.com/rust-lang/rust/pull/149219) For example, you ...
 
 ---
 
@@ -492,59 +481,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟢 Proficient |
 | AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
