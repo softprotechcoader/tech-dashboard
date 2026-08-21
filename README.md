@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 0 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,32 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)**
-  *<p>Article URL: <a href="https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/">https://www.xda-developers.com/japan-tried-build-operating-system-ent...*
-  📅 Fri, 21 Aug 2026 05:31:34 +0000
+- **[TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)**
+  *<p>Article URL: <a href="https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p...*
+  📅 Fri, 21 Aug 2026 11:43:38 +0000
 
-- **[Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)**
-  *<p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">htt...*
-  📅 Fri, 21 Aug 2026 03:17:43 +0000
+- **[Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)**
+  *<p>Article URL: <a href="https://github.com/yaroslav/kino">https://github.com/yaroslav/kino</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386383">https://news.ycombinator.co...*
+  📅 Fri, 21 Aug 2026 11:06:25 +0000
 
-- **[AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)**
-  *<p>Article URL: <a href="https://annas-archive.gl/blog/physical-destruction.html">https://annas-archive.gl/blog/physical-destruction.html</a></p>
+- **[DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)**
+  *<p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">htt...*
+  📅 Fri, 21 Aug 2026 10:33:56 +0000
+
+- **[AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)**
+  *<p>Article URL: <a href="https://annas-archive.pk/blog/physical-destruction.html">https://annas-archive.pk/blog/physical-destruction.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Fri, 21 Aug 2026 02:37:47 +0000
+  📅 Fri, 21 Aug 2026 10:05:46 +0000
 
-- **[There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)**
-  *<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
-<p>Comments URL: <a hr...*
-  📅 Fri, 21 Aug 2026 00:28:37 +0000
+- **[Small, native web tricks worth remembering](https://htmlcat.net/)**
+  *<p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></...*
+  📅 Fri, 21 Aug 2026 09:45:14 +0000
 
-- **[Ox Alpha](https://openrouter.ai/stealth/ox-alpha)**
-  *<p><a href="https://twitter.com/OpenRouter/status/2090544970923184269" rel="nofollow">https://twitter.com/OpenRouter/status/2090544970923184269</a>, <a href="https://xcancel.com/OpenRouter/status/2090...*
-  📅 Thu, 20 Aug 2026 23:56:35 +0000
-
-- **[Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)**
-  *<p>Article URL: <a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">https://blog.curiousquail.com/im-...*
-  📅 Thu, 20 Aug 2026 20:07:26 +0000
+- **[Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)**
+  *<p>Article URL: <a href="https://matklad.github.io/2026/08/20/better-batteries.html">https://matklad.github.io/2026/08/20/better-batteries.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Fri, 21 Aug 2026 07:48:50 +0000
 
 ### 📑 TechCrunch
 
@@ -101,123 +103,19 @@
 
 ### 📑 Dev.to
 
-- **[How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob)**
-  *<p>I like working on aspect calculations because the astrology terminology disappears pretty quickly once you get into the code.</p>
+- **[Before You Sign: How to Audit an AI Vendor's Data Practices](https://dev.to/renolu/before-you-sign-how-to-audit-an-ai-vendors-data-practices-2gne)**
+  *<p>When an AI vendor hands you a trust page, you're looking at a statement of intent with no remedy attached. The questionnaire answers on their website and the data processing addendum you can negoti...*
+  📅 Fri, 21 Aug 2026 12:21:01 +0000
 
-<p>At the calculation level, an aspect is basically:</p>
+- **[We Shortened Every Path in Our Unreal Build. That Wasn’t the Real Fix.](https://dev.to/lewisywliu/we-shortened-every-path-in-our-unreal-build-that-wasnt-the-real-fix-kmc)**
+  *<p><em>This is a submission for <a href="https://dev.to/bugsmash">DEV's Summer Bug Smash: Smash Stories</a>, powered by <a href="https://sentry.io/" rel="noopener noreferrer">Sentry</a>.</em></p>
 
-<blockqu...*
-  📅 Fri, 21 Aug 2026 06:18:47 +0000
-
-- **[Claude Code Multi-Agent Review Workflow: Roles, Worktrees, and Manual Sign-off](https://dev.to/bettertoken_ai/claude-code-multi-agent-review-workflow-roles-worktrees-and-manual-sign-off-5aei)**
-  *<p>Building fully autonomous "AI agent teams" with automated code merging often introduces subtle architectural defects, circular refactoring loops, and codebase degradation. Two agents running in par...*
-  📅 Fri, 21 Aug 2026 06:18:10 +0000
+<p>...*
+  📅 Fri, 21 Aug 2026 12:20:33 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
-
-### 📈 Daily Trending
-
-- **[Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)** ⭐ 801
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).
-
-- **[isis89/Solana-Drainer-Tool](https://github.com/isis89/Solana-Drainer-Tool)** ⭐ 38
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing
-
-- **[HyperlouisehaKiml01947/Hyperliquid-Copy-Trades-Verifier](https://github.com/HyperlouisehaKiml01947/Hyperliquid-Copy-Trades-Verifier)** ⭐ 20
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Verify a Hyperliquid trader before copy trading — independent verification of ROI, win rate and PnL from the public Hyperliquid API, with martingale/grid recovery detection, max drawdown and risk-adjusted returns. Read-only terminal checker — no trading, no keys. Unofficial community project, not affiliated with Hyperliquid.
-
-- **[ChenShuo2004/cs-board](https://github.com/ChenShuo2004/cs-board)** ⭐ 13
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。
-
-- **[crunz-ai/nativePDF-structurer](https://github.com/crunz-ai/nativePDF-structurer)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。  项目主要服务于厂商发布的技术文档，例如设备操作手册、维修手册、安装说明、 产品选型手册、电气手册和技术目录。这类 PDF 往往包含数十至数百页内容，并 反复出现页眉页尾、参数表、步骤编号、设备插图、矢量标注和图文混排区域； NativePDF Structurer 的处理策略主要围绕这些结构设计。
-
-- **[inwpu/hxbai](https://github.com/inwpu/hxbai)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit)** ⭐ 6
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  12 个常用 Prompt 合集（数字生命卡兹克整理）· 多智能体分发版：WorkBuddy / Claude Code / Cursor / Trae / CodeBuddy / 通用 md。参考微信原文，CC BY-NC 4.0。
-
-- **[Silas1084/SilasGUI](https://github.com/Silas1084/SilasGUI)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  指纹驱动 · 精准狙击 POC 扫描工具
-
-### 📈 Weekly Trending
-
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 3,260
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
-
-- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,792
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 1,791
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-
-- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,200
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.
-
-- **[Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)** ⭐ 1,037
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).
-
-- **[Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover)** ⭐ 926
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files
-
-- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 904
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
-
-- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 857
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Install Command：npm install
-
-### 📈 Monthly Trending
-
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 176,622
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSeek Harness: Everything is a Plugin.
-
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,630
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 16,860
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 16,188
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
-
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,016
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Multiplayer agent harness for work.
-
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 10,823
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,739
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
-
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,556
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Open Frontier Intelligence
 
 ## 🚀 Latest Releases
 
@@ -484,10 +382,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🟡 Learning |
 | Python | 🔴 Beginner |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
@@ -495,48 +393,48 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
 | Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟡 Learning |
-| OWASP | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
+| NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
 | TensorFlow | ⚪ Planned |
-| PyTorch | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
+| Docker | 🟡 Learning |
+| Kubernetes | ⚪ Planned |
 | CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
