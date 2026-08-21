@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,76 +46,189 @@
 
 ### 📑 Hacker News
 
-- **[TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)**
-  *<p>Article URL: <a href="https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p...*
-  📅 Fri, 21 Aug 2026 11:43:38 +0000
+- **[Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)**
+  *<p>Article URL: <a href="https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>
+<p>C...*
+  📅 Fri, 21 Aug 2026 17:33:26 +0000
 
-- **[Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)**
-  *<p>Article URL: <a href="https://github.com/yaroslav/kino">https://github.com/yaroslav/kino</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386383">https://news.ycombinator.co...*
-  📅 Fri, 21 Aug 2026 11:06:25 +0000
+- **[When the shortage is the strategy](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/)**
+  *<p>Article URL: <a href="https://nooneshappy.com/article/when-the-shortage-is-the-strategy/">https://nooneshappy.com/article/when-the-shortage-is-the-strategy/</a></p>
+<p>Comments URL: <a href="https:...*
+  📅 Fri, 21 Aug 2026 17:31:15 +0000
 
-- **[DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)**
-  *<p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">htt...*
-  📅 Fri, 21 Aug 2026 10:33:56 +0000
+- **[LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)**
+  *<p>Article URL: <a href="https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6">https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6</a></p>
+<p>Comments URL: <a href="...*
+  📅 Fri, 21 Aug 2026 17:00:23 +0000
 
-- **[AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)**
-  *<p>Article URL: <a href="https://annas-archive.pk/blog/physical-destruction.html">https://annas-archive.pk/blog/physical-destruction.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Fri, 21 Aug 2026 10:05:46 +0000
+- **[Another better lower bound for n=17 square packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)**
+  *<p>Article URL: <a href="http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html">http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html</a></p>
+<p>Comment...*
+  📅 Fri, 21 Aug 2026 16:50:15 +0000
 
-- **[Small, native web tricks worth remembering](https://htmlcat.net/)**
-  *<p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></...*
-  📅 Fri, 21 Aug 2026 09:45:14 +0000
+- **[Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)**
+  *<p>Hi HN- I'm Pablo, the founder of Proliferate (YC S25)!<p>Proliferate (<a href="https://github.com/proliferate-ai/proliferate" rel="nofollow">https://github.com/proliferate-ai/proliferate</a>) is an...*
+  📅 Fri, 21 Aug 2026 16:47:15 +0000
 
-- **[Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)**
-  *<p>Article URL: <a href="https://matklad.github.io/2026/08/20/better-batteries.html">https://matklad.github.io/2026/08/20/better-batteries.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Fri, 21 Aug 2026 07:48:50 +0000
+- **[Building an (almost) fully self-hosted, sandboxed, agentic software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)**
+  *<p>Article URL: <a href="https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sand...*
+  📅 Fri, 21 Aug 2026 16:27:52 +0000
 
 ### 📑 TechCrunch
 
-- **[Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada](https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/)**
-  *Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months....*
-  📅 Fri, 21 Aug 2026 00:23:36 +0000
+- **[Tesla’s solar roof is dead. Here’s what went wrong](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/)**
+  *Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?...*
+  📅 Fri, 21 Aug 2026 18:09:53 +0000
 
-- **[AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)**
-  *Surging demand for AI training data is driving rapid growth for the startup and its rivals....*
-  📅 Fri, 21 Aug 2026 00:13:44 +0000
+- **[Waymo hands over documents in NHTSA’s child collision probe](https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/)**
+  *The responses to NHTSA's questions so far are redacted entirely, citing "confidential business information."...*
+  📅 Fri, 21 Aug 2026 17:49:58 +0000
 
-- **[Learn what VCs actually want, from a founder who’s raised $1B](https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/)**
-  *Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders lev...*
-  📅 Thu, 20 Aug 2026 23:32:27 +0000
+- **[Why is the DOJ investigating Andreessen Horowitz’s board seats?](https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/)**
+  *Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on ...*
+  📅 Fri, 21 Aug 2026 16:53:39 +0000
 
-- **[OpenAI is gaining on Anthropic with business users, new data indicates](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/)**
-  *Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how "sticky" enterprise AI spending really is....*
-  📅 Thu, 20 Aug 2026 22:36:37 +0000
+- **[US government lab is probing Chinese lidar for security vulnerabilities](https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/)**
+  *The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries....*
+  📅 Fri, 21 Aug 2026 16:01:54 +0000
 
-- **[ChatGPT can now send texts for you with new Apple Messages plug-in](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/)**
-  *Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration....*
-  📅 Thu, 20 Aug 2026 22:09:51 +0000
+- **[Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy](https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/)**
+  *The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages....*
+  📅 Fri, 21 Aug 2026 14:39:24 +0000
 
-- **[The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)**
-  *An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit....*
-  📅 Thu, 20 Aug 2026 21:08:34 +0000
+- **[Walmart to finally start accepting Apple Pay and Google Pay](https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/)**
+  *Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay....*
+  📅 Fri, 21 Aug 2026 14:30:23 +0000
 
 ### 📑 Dev.to
 
-- **[Before You Sign: How to Audit an AI Vendor's Data Practices](https://dev.to/renolu/before-you-sign-how-to-audit-an-ai-vendors-data-practices-2gne)**
-  *<p>When an AI vendor hands you a trust page, you're looking at a statement of intent with no remedy attached. The questionnaire answers on their website and the data processing addendum you can negoti...*
-  📅 Fri, 21 Aug 2026 12:21:01 +0000
+- **[Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
 
-- **[We Shortened Every Path in Our Unreal Build. That Wasn’t the Real Fix.](https://dev.to/lewisywliu/we-shortened-every-path-in-our-unreal-build-that-wasnt-the-real-fix-kmc)**
-  *<p><em>This is a submission for <a href="https://dev.to/bugsmash">DEV's Summer Bug Smash: Smash Stories</a>, powered by <a href="https://sentry.io/" rel="noopener noreferrer">Sentry</a>.</em></p>
+<p>I recently set up a three-node Vault Enterprise HA cluster on OpenShift, using<br />
+HCP Vault as the auto-unseal provider via the transit secrets engine. On paper<...*
+  📅 Fri, 21 Aug 2026 18:15:34 +0000
 
-<p>...*
-  📅 Fri, 21 Aug 2026 12:20:33 +0000
+- **[Running Terraform Enterprise Active-Active on OpenShift: Lessons Learned](https://dev.to/methridge/running-terraform-enterprise-active-active-on-openshift-lessons-learned-53o8)**
+  *<h2>
+  
+  
+  Introduction
+</h2>
+
+<p>In my <a href="https://www.404-code-not-found.com/posts/vault-on-openshift-hcp-autounseal" rel="noopener noreferrer">last post</a>, I covered the four<br />
+challen...*
+  📅 Fri, 21 Aug 2026 18:15:33 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)** ⭐ 803
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).
+
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 207
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+
+- **[GamePhanes/GamePhanes](https://github.com/GamePhanes/GamePhanes)** ⭐ 83
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  An open-source game coding agent environment and benchmark for Godot.
+
+- **[me-links-onion-for-tor/links-onion-for-tor](https://github.com/me-links-onion-for-tor/links-onion-for-tor)** ⭐ 66
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Links Onion for Tor
+
+- **[khydrogenous/lightspeed](https://github.com/khydrogenous/lightspeed)** ⭐ 59
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Light Speed is a cross-platform, peer-to-peer, end-to-end encrypted social app for text and media. Messages are encrypted on-device, relayed directly between peers, and deleted after a single view. No moderation, no accounts, no server-side content.
+
+- **[quick-10-dark-marketplaces-web-top/10-dark-marketplaces-web-top](https://github.com/quick-10-dark-marketplaces-web-top/10-dark-marketplaces-web-top)** ⭐ 55
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  10 Dark Marketplaces Web Top
+
+- **[NailSwimmerTreat/PUBG-cheat-WH](https://github.com/NailSwimmerTreat/PUBG-cheat-WH)** ⭐ 38
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Wallhack for PUBG Aim Fly SpeedHack for game PUBG undetected 2026 
+
+- **[rushiranpise/sorry-google](https://github.com/rushiranpise/sorry-google)** ⭐ 34
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Minimal stub APKs that block Google from automatically installing or updating unwanted system apps. Each stub declares the same package name as the target app but is signed with a different key, causing a signature mismatch that prevents the original from being pushed.
+
+### 📈 Weekly Trending
+
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 3,457
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,856
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 2,054
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,203
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.
+
+- **[Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)** ⭐ 1,035
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).
+
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 1,009
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+
+- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 974
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Install Command：npm install
+
+- **[Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover)** ⭐ 929
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files
+
+### 📈 Monthly Trending
+
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 180,588
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  DeepSeek Harness: Everything is a Plugin.
+
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,736
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 17,489
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 16,539
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,039
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multiplayer agent harness for work.
+
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 11,124
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,765
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,561
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
 
 ## 🚀 Latest Releases
 
@@ -382,19 +495,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟡 Learning |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🟡 Learning |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
 | Next.js | 🟡 Learning |
 
@@ -403,19 +516,19 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🟡 Learning |
+| NLP | 🟡 Learning |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | ⚪ Planned |
 
 ### Devops
@@ -423,18 +536,18 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| AWS | 🟡 Learning |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟡 Learning |
-| Cloud Computing | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
