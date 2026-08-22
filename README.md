@@ -46,35 +46,53 @@
 
 ### 📑 Hacker News
 
-- **[Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)**
-  *<p>Article URL: <a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-p...*
-  📅 Sat, 22 Aug 2026 10:26:09 +0000
+- **[Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)**
+  *<p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
+<p>Comments URL: <...*
+  📅 Sat, 22 Aug 2026 17:09:27 +0000
 
-- **[Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)**
-  *<p>Article URL: <a href="https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>
-<p>Comments URL: <a href...*
-  📅 Sat, 22 Aug 2026 09:49:57 +0000
+- **[Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729)**
+  *<p>Article URL: <a href="https://twitter.com/argofowl/status/2091150597374537729">https://twitter.com/argofowl/status/2091150597374537729</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 22 Aug 2026 16:58:49 +0000
 
-- **[Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)**
-  *<p>Article URL: <a href="https://munderdiffl.in/">https://munderdiffl.in/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398152">https://news.ycombinator.com/item?id=49398152...*
-  📅 Sat, 22 Aug 2026 09:49:14 +0000
+- **[Learning about "The Unix Time-Sharing System"](https://playtechnique.io/long/the-unix-time-sharing-system.html)**
+  *<p>Article URL: <a href="https://playtechnique.io/long/the-unix-time-sharing-system.html">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Sat, 22 Aug 2026 16:11:16 +0000
 
-- **[There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)**
-  *<p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?i...*
-  📅 Sat, 22 Aug 2026 01:06:17 +0000
+- **[ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)**
+  *<p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombi...*
+  📅 Sat, 22 Aug 2026 14:54:07 +0000
 
-- **[HN: The Good Parts (2016)](https://danluu.com/hn-comments/)**
-  *<p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/...*
-  📅 Fri, 21 Aug 2026 23:53:03 +0000
+- **[A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)**
+  *<p>Article URL: <a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Sat, 22 Aug 2026 14:08:19 +0000
 
-- **[Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)**
-  *<p>Article URL: <a href="https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-...*
-  📅 Fri, 21 Aug 2026 22:29:00 +0000
+- **[New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)**
+  *<p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com...*
+  📅 Sat, 22 Aug 2026 13:31:34 +0000
 
 ### 📑 TechCrunch
+
+- **[OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)**
+  *OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....*
+  📅 Sat, 22 Aug 2026 16:30:34 +0000
+
+- **[Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)**
+  *A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially...*
+  📅 Sat, 22 Aug 2026 16:00:00 +0000
+
+- **[US battery startups have found a lifeline in defense](https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/)**
+  *U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed....*
+  📅 Sat, 22 Aug 2026 15:20:00 +0000
+
+- **[Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/)**
+  *Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners....*
+  📅 Sat, 22 Aug 2026 14:00:00 +0000
 
 - **[Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)**
   *Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive...*
@@ -84,43 +102,25 @@
   *Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 m...*
   📅 Sat, 22 Aug 2026 01:03:06 +0000
 
-- **[Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)**
-  *Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction....*
-  📅 Fri, 21 Aug 2026 23:07:25 +0000
-
-- **[Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)**
-  *Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia....*
-  📅 Fri, 21 Aug 2026 22:37:38 +0000
-
-- **[How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/)**
-  *Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying....*
-  📅 Fri, 21 Aug 2026 22:10:01 +0000
-
-- **[Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)**
-  *Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives....*
-  📅 Fri, 21 Aug 2026 20:58:07 +0000
-
 ### 📑 Dev.to
 
-- **[My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/karianjahi/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-hlf)**
+- **[Enterprise vibe coding: the governance framework for shipping AI-generated apps to production](https://dev.to/sali_ac161a1b71406354896c/enterprise-vibe-coding-the-governance-framework-for-shipping-ai-generated-apps-to-production-32j1)**
   *<h1>
   
   
-  Introduction
+  Enterprise vibe coding: the governance framework for shipping AI-generated apps to production
 </h1>
 
-<p>This article is a walk through of my first project where I pushed a local folder containing health data to Github using Git and SSH.</p>
+<p><strong>Published:</strong> August 22, 2026<br />
+<strong>Category:</strong> Enterp...*
+  📅 Sat, 22 Aug 2026 18:09:02 +0000
 
-<h2>
-  
-  
-  Tools used
-</...*
-  📅 Sat, 22 Aug 2026 12:14:27 +0000
+- **[If your MCP server uses OAuth, every directory thinks it has zero tools](https://dev.to/leo_framethrower/if-your-mcp-server-uses-oauth-every-directory-thinks-it-has-zero-tools-3cco)**
+  *<p>We shipped a remote MCP server, registered it everywhere, and then noticed<br />
+something odd: every directory listed it as having <strong>no tools at all</strong>.</p>
 
-- **[The Ralph Loop: running coding agents for hours](https://dev.to/ghalex/the-ralph-loop-running-coding-agents-for-hours-3po2)**
-  *<p>Anyone who has run a coding agent on a real task — not a demo, a multi-hour grind through a milestone — has watched the same decay curve. The first hour is sharp. By the third, the agent is re-read...*
-  📅 Sat, 22 Aug 2026 12:05:35 +0000
+<p>Not the wrong tools. No...*
+  📅 Sat, 22 Aug 2026 18:07:33 +0000
 
 </details>
 
@@ -128,65 +128,65 @@
 
 ### 📈 Daily Trending
 
-- **[h9-tec/AI-Glossary-Handbook](https://github.com/h9-tec/AI-Glossary-Handbook)** ⭐ 31
+- **[h9-tec/AI-Glossary-Handbook](https://github.com/h9-tec/AI-Glossary-Handbook)** ⭐ 64
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[DefuzeX-AI/KUMA-DefuzeX](https://github.com/DefuzeX-AI/KUMA-DefuzeX)** ⭐ 20
+- **[roman-devlab03n2/Project-Zomboid-Lag-Crash-Fix-2026](https://github.com/roman-devlab03n2/Project-Zomboid-Lag-Crash-Fix-2026)** ⭐ 41
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.
+
+- **[zhaoxuya520/MeshLAN](https://github.com/zhaoxuya520/MeshLAN)** ⭐ 39
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.
+
+- **[ripmilla/netwalk](https://github.com/ripmilla/netwalk)** ⭐ 34
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Read-only network survey toolkit for AI coding agents: crawl a site from one device, diagnose it, draw it, and hand over a report — without ever changing a device or seeing a credential.
+
+- **[hxhou0207/chatgpt-markdown-latex-copier](https://github.com/hxhou0207/chatgpt-markdown-latex-copier)** ⭐ 33
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Copy ChatGPT web responses containing LaTeX formulas as well-formatted Markdown.
+
+- **[YAnaboGdanov76/Solana-Drainer-Tool](https://github.com/YAnaboGdanov76/Solana-Drainer-Tool)** ⭐ 29
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing
+
+- **[DefuzeX-AI/KUMA-DefuzeX](https://github.com/DefuzeX-AI/KUMA-DefuzeX)** ⭐ 24
   ![Python](https://img.shields.io/badge/-Python-blue)
   Python SDK for DefuzeX agent behavior testing.
 
-- **[liugg-blip/ai-quant-engine](https://github.com/liugg-blip/ai-quant-engine)** ⭐ 12
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  created by github-upload.ps1
-
-- **[linxk8/-1m-mail](https://github.com/linxk8/-1m-mail)** ⭐ 12
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  免费临时邮箱：1 秒生成、无需注册、阅后即焚，到期自动销毁。基于 Cloudflare Workers + D1 + Email Routing，可一键部署到自己的域名。Free temporary email — 1-second disposable inbox, no signup, auto-expiry & self-destruct, self-host on your own domain.
-
-- **[iamcheyan/omarchy-voxtype-enhance](https://github.com/iamcheyan/omarchy-voxtype-enhance)** ⭐ 10
+- **[feyzilim/clipfactory](https://github.com/feyzilim/clipfactory)** ⭐ 23
   ![Python](https://img.shields.io/badge/-Python-blue)
-  An Omarchy Voxtype enhancement plugin with automatic offline model downloads, multilingual voice-input settings, and terminal-aware universal paste.
-
-- **[rishabinduction-ctrl/SRMfullstack](https://github.com/rishabinduction-ctrl/SRMfullstack)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[HazeOscillate/counter-strike-2-aim-bot](https://github.com/HazeOscillate/counter-strike-2-aim-bot)** ⭐ 9
-  ![C#](https://img.shields.io/badge/-C#-lightgrey)
-  CS2 trainer with aimbot, ESP wallhack, triggerbot, no recoil, skin changer, and match automation. For educational use only.
-
-- **[sanqianzilanyue/ai-surf-when-bored](https://github.com/sanqianzilanyue/ai-surf-when-bored)** ⭐ 8
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  None
+  Topic + template → short vertical video from your own B-roll: AI script, voice, scene plan, captions, FFmpeg render. Multi-persona, AI shot lists, AI B-roll, batch generation. Source-available (Elastic 2.0).
 
 ### 📈 Weekly Trending
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 3,629
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 3,738
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,891
+- **[yetone/cumora](https://github.com/yetone/cumora)** ⭐ 2,895
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 2,233
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** ⭐ 2,289
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,203
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Open-source MCP server for comparing products and asking the buyer before purchase.
-
-- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 1,145
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
-
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 1,091
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 1,537
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 1,068
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 1,243
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+
+- **[cinderline/northcinder](https://github.com/cinderline/northcinder)** ⭐ 1,204
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Open-source MCP server for comparing products and asking the buyer before purchase.
+
+- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 1,108
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install Command：npm install
 
@@ -196,35 +196,35 @@
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 183,460
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 184,558
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 18,019
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 18,253
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,845
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 17,895
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 16,842
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 16,962
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,064
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,070
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 11,370
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 11,499
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,791
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,796
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,573
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,575
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -493,10 +493,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
+| Java | 🟢 Proficient |
+| Python | 🟡 Learning |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -504,48 +504,48 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | React | 🟡 Learning |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟢 Proficient |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | 🔴 Beginner |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
+| Computer Vision | ⚪ Planned |
 | TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
 | AWS | ⚪ Planned |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
