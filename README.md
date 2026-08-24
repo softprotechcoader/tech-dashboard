@@ -77,47 +77,41 @@
 
 ### 📑 TechCrunch
 
-- **[Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)**
-  *A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation....*
-  📅 Sun, 23 Aug 2026 20:01:36 +0000
+- **[Instinct’s powerful AI assistant is raising privacy and security concerns](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)**
+  *Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs...*
+  📅 Mon, 24 Aug 2026 18:03:55 +0000
 
-- **[Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)**
-  *The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR....*
-  📅 Sun, 23 Aug 2026 19:30:00 +0000
+- **[Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/)**
+  *General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves...*
+  📅 Mon, 24 Aug 2026 15:24:18 +0000
 
-- **[Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)**
-  *Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool....*
-  📅 Sun, 23 Aug 2026 19:14:08 +0000
+- **[OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)**
+  *Inside the frontier lab’s push to bring AI agents from software engineers to the masses....*
+  📅 Mon, 24 Aug 2026 15:00:00 +0000
 
-- **[TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)**
-  *Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....*
-  📅 Sun, 23 Aug 2026 16:03:00 +0000
+- **[Brake problems in GM EVs draw greater federal scrutiny](https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/)**
+  *In one crash, the driver of a 2024 Blazer EV said they had to "deliberately steer the vehicle into a concrete curb" to slow it down and avoid a "catastrophic intersection collision."...*
+  📅 Mon, 24 Aug 2026 14:18:47 +0000
 
-- **[Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/)**
-  *Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused....*
-  📅 Sun, 23 Aug 2026 15:30:00 +0000
+- **[Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)**
+  *Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa...*
+  📅 Mon, 24 Aug 2026 13:47:26 +0000
 
-- **[Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)**
-  *Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?...*
-  📅 Sun, 23 Aug 2026 15:00:00 +0000
+- **[US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards](https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/)**
+  *Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity....*
+  📅 Mon, 24 Aug 2026 13:45:15 +0000
 
 ### 📑 Dev.to
 
-- **[One View Per Layer: Four Sharp Edges I Found in My Own Code](https://dev.to/srdjan_poppovic/one-view-per-layer-four-sharp-edges-i-found-in-my-own-code-23e8)**
-  *<p>There is a layer in my database called <code>1</code>.</p>
+- **[Stop Adding console.log to Production Just to See What a Webhook Sent](https://dev.to/sarfaraznaushad/stop-adding-consolelog-to-production-just-to-see-what-a-webhook-sent-29jm)**
+  *<p>You've integrated a payment gateway, a CI provider, or a SaaS product that sends webhooks — and now something's not working. The payload isn't arriving the way the docs say it should, a header is m...*
+  📅 Mon, 24 Aug 2026 18:17:48 +0000
 
-<p>Somebody created it, presumably by accident, and it sat there for months looking harmless. It was the only layer in the system that ne...*
-  📅 Mon, 24 Aug 2026 12:21:48 +0000
+- **[Your retry logic is correct and does nothing](https://dev.to/siddharth_pandey_27/your-retry-logic-is-correct-and-does-nothing-9oc)**
+  *<p>A comment on one of my posts sat open as an issue for two weeks before I understood how bad the thing it described actually was.</p>
 
-- **[A Signed AI Agent Receipt Can Still Be Wrong](https://dev.to/dengyier/a-signed-ai-agent-receipt-can-still-be-wrong-4jd3)**
-  *<p>Your AI agent returns a signed receipt:</p>
-
-<blockquote>
-<p>0 defects found.</p>
-</blockquote>
-
-<p>The signature is valid. The receipt has not been altered. The agent was authorized to run the che...*
-  📅 Mon, 24 Aug 2026 12:19:10 +0000
+<p>The post was about an AI assistant missing the SQS trigger o...*
+  📅 Mon, 24 Aug 2026 18:12:14 +0000
 
 </details>
 
@@ -125,103 +119,103 @@
 
 ### 📈 Daily Trending
 
+- **[lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)** ⭐ 102
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
+
 - **[halarewich/slotstream](https://github.com/halarewich/slotstream)** ⭐ 39
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Polyglot real-time observability platform for the Solana blockchain
 
-- **[ns2250225/jiditie](https://github.com/ns2250225/jiditie)** ⭐ 35
+- **[zunmax/technocore-did-starter](https://github.com/zunmax/technocore-did-starter)** ⭐ 37
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Simple tutorial for creating an encrypted Ed25519 DID, publishing signed Technocore messages, and documenting useful contributions for potential $FLOP airdrop
+
+- **[ns2250225/jiditie](https://github.com/ns2250225/jiditie)** ⭐ 37
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   挤地铁小游戏，你能挤上广州地铁3号线吗
 
-- **[ShyamRV/demo-linkedin-agent](https://github.com/ShyamRV/demo-linkedin-agent)** ⭐ 28
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Fetch.ai LinkedIn poster agent for Agentverse using uAgents and ASI:One
+- **[ivan-lopez-lab03n5/How-To-Fish-X](https://github.com/ivan-lopez-lab03n5/How-To-Fish-X)** ⭐ 33
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  HowToFishX is a lightweight trainer for How to Fish on Windows. It is designed for players who want to reduce repetitive grinding, experiment with game mechanics, and customize their single-player or private-session experience.
 
-- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 20
-  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
-  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
-
-- **[haishishushu/auth-center](https://github.com/haishishushu/auth-center)** ⭐ 18
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  鉴权中台服务：面向多单体应用与微服务的统一认证授权平台（IAM/RBAC）。基于 Spring Boot 3、Spring Security、Vue 3、JWT、MySQL 与 Redis，集中管理用户、角色、权限、API Key、会话和审计日志，支持 Spring Boot Starter 与跨语言（如python、C++） HTTP API 快速接入。
-
-- **[DEVENDRA-5470/eks-cluster](https://github.com/DEVENDRA-5470/eks-cluster)** ⭐ 18
-  ![None](https://img.shields.io/badge/-None-lightgrey)
+- **[dnettoRaw/app-core-public](https://github.com/dnettoRaw/app-core-public)** ⭐ 31
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[kajalpandey0101/Webopsy](https://github.com/kajalpandey0101/Webopsy)** ⭐ 16
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[Karhu-Anticheat/KarhuAC](https://github.com/Karhu-Anticheat/KarhuAC)** ⭐ 13
+- **[Karhu-Anticheat/KarhuAC](https://github.com/Karhu-Anticheat/KarhuAC)** ⭐ 31
   ![Java](https://img.shields.io/badge/-Java-orange)
   Public source release
 
+- **[achrefelouafi/LinearAbilityExtThreeJS](https://github.com/achrefelouafi/LinearAbilityExtThreeJS)** ⭐ 31
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
 ### 📈 Weekly Trending
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 4,027
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 4,093
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 3,261
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 3,387
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 1,754
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 1,755
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
 
-- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 1,275
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Install Command：npm install
-
-- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 1,094
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
-
-- **[MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)** ⭐ 823
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-
-- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 806
+- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 1,427
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 
-- **[cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** ⭐ 778
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 1,294
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Install Command：npm install
+
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 1,173
+  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
+  x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+
+- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 919
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)** ⭐ 854
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 190,678
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 191,571
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 19,518
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 19,642
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,198
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,249
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 17,716
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 17,837
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,141
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,153
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 12,134
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 12,231
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,868
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,880
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,599
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,606
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -490,49 +484,49 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🔴 Beginner |
-| Node.js | ⚪ Planned |
-| Next.js | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | 🟢 Proficient |
-| OWASP | ⚪ Planned |
+| Web Security | 🔴 Beginner |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🟡 Learning |
 | Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟢 Proficient |
 | AWS | ⚪ Planned |
 | Azure | ⚪ Planned |
 
@@ -540,9 +534,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Blockchain | ⚪ Planned |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
