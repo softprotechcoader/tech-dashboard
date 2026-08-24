@@ -103,21 +103,29 @@
 
 ### 📑 Dev.to
 
-- **[Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)**
-  *<p>We run ~100 LLM agents unattended on local models. Last week we found one<br />
-document that had been rewritten <strong>245 times in 5 days</strong> — every attempt<br />
-rejected. A sibling docum...*
-  📅 Mon, 24 Aug 2026 00:31:03 +0000
+- **[How Particle Effects Improve Game Feel in HTML5 Games](https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n)**
+  *<p>A game can be mechanically correct and still feel flat.</p>
 
-- **[Architectural Breakdown: We fixed the eval platform we're competing on: a TypeError that crashed thr](https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg)**
-  *<h1>
+<p>The button works.</p>
+
+<p>The enemy loses health.</p>
+
+<p>The coin counter increases.</p>
+
+<p>The level completes.</p>
+
+<p>Everything...*
+  📅 Mon, 24 Aug 2026 06:32:10 +0000
+
+- **[Evolution of Web Forms Part-1](https://dev.to/karthikreddy/evolution-of-web-forms-part-1-13g)**
+  *<h2>
   
   
-  We Fixed the Eval Platform: The TypeError That Took Down Three Benchmark Pipelines
-</h1>
+  The Evolution of Web Forms Part-1 — From Plain HTML to AJAX
+</h2>
 
-<p>At 3 AM, Sentry lit up with <code>TypeError: Cannot read property 'map' of undefined</code>. T...*
-  📅 Mon, 24 Aug 2026 00:16:15 +0000
+<p>Modern React forms can feel unnecessarily complicated when you first encounter tools such as React Hook Form, Zod, re...*
+  📅 Mon, 24 Aug 2026 06:32:00 +0000
 
 </details>
 
@@ -125,103 +133,103 @@ rejected. A sibling docum...*
 
 ### 📈 Daily Trending
 
-- **[jiakanglee/OPCD-Weak_critiques_strong](https://github.com/jiakanglee/OPCD-Weak_critiques_strong)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Weak Critics Make Strong Learners: On-Policy Critique Distillation (OPCD) for scalable oversight
+- **[halarewich/slotstream](https://github.com/halarewich/slotstream)** ⭐ 39
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Polyglot real-time observability platform for the Solana blockchain
 
-- **[KasSahin/Diabetes-Model](https://github.com/KasSahin/Diabetes-Model)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 18
+  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
+  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
 
-- **[goodmeals/shrimpio](https://github.com/goodmeals/shrimpio)** ⭐ 1
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  webport of shrimpio
-
-- **[zsn5p2ft2b-hash/Revision-calendar](https://github.com/zsn5p2ft2b-hash/Revision-calendar)** ⭐ 1
+- **[DEVENDRA-5470/eks-cluster](https://github.com/DEVENDRA-5470/eks-cluster)** ⭐ 18
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[AnamolAdhikari/Ninety](https://github.com/AnamolAdhikari/Ninety)** ⭐ 1
+- **[ns2250225/jiditie](https://github.com/ns2250225/jiditie)** ⭐ 16
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+  挤地铁小游戏，你能挤上广州地铁3号线吗
 
-- **[SirMrGary/AutoClickflow](https://github.com/SirMrGary/AutoClickflow)** ⭐ 1
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-lightgrey)
-  Use this to record click flow and\or keyboard input  when needing to use data from a spreadsheet somewhere else. (example  needing to update addresses for all staff in AD or Entra  OR adding EmplyoeeIDs into CRM for each staff
-
-- **[RyckxDev/JAVA-ConsumoAPI-CEP_CRUD](https://github.com/RyckxDev/JAVA-ConsumoAPI-CEP_CRUD)** ⭐ 1
+- **[haishishushu/auth-center](https://github.com/haishishushu/auth-center)** ⭐ 13
   ![Java](https://img.shields.io/badge/-Java-orange)
-  Aplicação Java de console que consome a API ViaCEP para buscar endereços por CEP, com histórico de consultas em memória.
+  鉴权中台服务：面向多单体应用与微服务的统一认证授权平台（IAM/RBAC）。基于 Spring Boot 3、Spring Security、Vue 3、JWT、MySQL 与 Redis，集中管理用户、角色、权限、API Key、会话和审计日志，支持 Spring Boot Starter 与跨语言（如python、C++） HTTP API 快速接入。
 
-- **[psa-systems/.github](https://github.com/psa-systems/.github)** ⭐ 1
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Always free and open source under MIT license; no dual/EE licensing. Membership includes community access, compiled binaries and Docker images.
+- **[UsefulSoftwareCo/standardassistant](https://github.com/UsefulSoftwareCo/standardassistant)** ⭐ 9
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  macOS app giving each bot its own virtual display — mirrored live and driven by forwarded input
+
+- **[start-zane/RelayPilot](https://github.com/start-zane/RelayPilot)** ⭐ 8
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Desktop relay manager for Codex and Claude
+
+- **[HaizhuAI/HaizhuRemakefaceWebui](https://github.com/HaizhuAI/HaizhuRemakefaceWebui)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  remakeface WebUI — 人脸重绘 Web 工作台（Haizhu 系列）
 
 ### 📈 Weekly Trending
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 3,901
+- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** ⭐ 3,977
   ![None](https://img.shields.io/badge/-None-lightgrey)
   A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 2,892
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 3,112
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 1,412
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** ⭐ 1,608
   ![Python](https://img.shields.io/badge/-Python-blue)
   Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
 
-- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 1,213
+- **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** ⭐ 1,239
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Install Command：npm install
 
-- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 866
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 1,009
   ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
   x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+
+- **[MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)** ⭐ 764
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
 
 - **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** ⭐ 760
   ![Python](https://img.shields.io/badge/-Python-blue)
   Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
 
-- **[MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)** ⭐ 718
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-
-- **[DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)** ⭐ 704
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome
+- **[cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** ⭐ 718
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 188,008
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 189,379
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 18,936
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** ⭐ 19,247
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,077
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,139
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 17,439
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 17,572
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,108
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,124
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 11,875
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 12,004
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,847
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,857
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,591
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,594
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -490,9 +498,9 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | ⚪ Planned |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
 | TypeScript | 🟢 Proficient |
 | Go | ⚪ Planned |
 
@@ -500,10 +508,10 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
-| Node.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
@@ -511,20 +519,20 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟡 Learning |
-| Web Security | ⚪ Planned |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
 | Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | ⚪ Planned |
-| Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
@@ -533,16 +541,16 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 | Docker | 🟢 Proficient |
 | Kubernetes | 🟡 Learning |
 | CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟢 Proficient |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
