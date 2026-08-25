@@ -46,9 +46,23 @@
 
 ### 📑 Hacker News
 
-- **[Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)**
-  *<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, i...*
-  📅 Tue, 25 Aug 2026 04:33:24 +0000
+- **[HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)**
+  *<p>Article URL: <a href="https://github.com/PlummersSoftwareLLC/HelloAssembly">https://github.com/PlummersSoftwareLLC/HelloAssembly</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Tue, 25 Aug 2026 11:40:00 +0000
+
+- **[Credit Card Rewards Became a $9.2B Wealth Transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)**
+  *<p>Article URL: <a href="https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer">https://www.library.hbs.edu/working-knowledge/how-credit-card...*
+  📅 Tue, 25 Aug 2026 11:37:24 +0000
+
+- **[Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)**
+  *<p>Article URL: <a href="https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets">https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-fa...*
+  📅 Tue, 25 Aug 2026 10:34:12 +0000
+
+- **[Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)**
+  *<p>Article URL: <a href="https://www.bbc.com/news/articles/c4g36yze692o">https://www.bbc.com/news/articles/c4g36yze692o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431364"...*
+  📅 Tue, 25 Aug 2026 10:09:47 +0000
 
 - **[Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)**
   *<p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
@@ -60,21 +74,15 @@
 <p>Comments URL: <a href="https://news.ycombinat...*
   📅 Tue, 25 Aug 2026 03:06:26 +0000
 
-- **[Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)**
-  *<p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters...*
-  📅 Tue, 25 Aug 2026 02:11:39 +0000
-
-- **[How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)**
-  *<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombina...*
-  📅 Tue, 25 Aug 2026 01:40:39 +0000
-
-- **[Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)**
-  *<p>Article URL: <a href="https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Tue, 25 Aug 2026 01:35:00 +0000
-
 ### 📑 TechCrunch
+
+- **[Fitbit founders launch Luffu Link, an LTE health and safety band](https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/)**
+  *Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby....*
+  📅 Tue, 25 Aug 2026 12:00:00 +0000
+
+- **[‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/)**
+  *TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product....*
+  📅 Tue, 25 Aug 2026 12:00:00 +0000
 
 - **[India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/)**
   *Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom....*
@@ -92,29 +100,20 @@
   *The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135....*
   📅 Mon, 24 Aug 2026 21:24:17 +0000
 
-- **[Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)**
-  *Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business....*
-  📅 Mon, 24 Aug 2026 20:45:33 +0000
-
-- **[Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)**
-  *Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15....*
-  📅 Mon, 24 Aug 2026 20:16:34 +0000
-
 ### 📑 Dev.to
 
-- **[Reusing A Prompt System Across Clients Without Turning It Into A One Size Fits All Failure](https://dev.to/faraz_farhan_83ed23a154a2/reusing-a-prompt-system-across-clients-without-turning-it-into-a-one-size-fits-all-failure-1ml0)**
-  *<p>Building a custom GPT for one ministry client teaches you something specific about that ministry. Building the third or fourth one for a different government or enterprise client teaches you someth...*
-  📅 Tue, 25 Aug 2026 06:21:11 +0000
+- **[AI Coding Tip 033 - Protect Yourself Against AI Cheating](https://dev.to/mcsee/ai-coding-tip-033-protect-yourself-against-ai-cheating-1pn1)**
+  *<p><em>When <code>all tests pass</code> doesn't mean what you think it means.</em></p>
 
-- **[How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It](https://dev.to/respect17/how-to-write-a-developer-cv-that-survives-ats-and-still-reads-like-a-human-wrote-it-4ilb)**
-  *<h2>
-  
-  
-  How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It
-</h2>
+<blockquote>
+<p>TL;DR: Write the failing test first and ban deletions, or the AI deletes your test, reverts your...*
+  📅 Tue, 25 Aug 2026 12:14:44 +0000
 
-<p>Most developer CV advice picks a side: optimize hard for the applicant tracking system, or wr...*
-  📅 Tue, 25 Aug 2026 06:18:03 +0000
+- **[I removed the LLM call and replaced it with 200 lines of template code](https://dev.to/thedolceway/i-removed-the-llm-call-and-replaced-it-with-200-lines-of-template-code-2lh0)**
+  *<p>The feature was a letter generator. Somebody fills in a few fields and gets a finished<br />
+letter of recommendation, resignation letter or notice letter, in plain text, ready to<br />
+paste into ...*
+  📅 Tue, 25 Aug 2026 12:11:32 +0000
 
 </details>
 
@@ -122,103 +121,103 @@
 
 ### 📈 Daily Trending
 
-- **[MediatorAxle/How-To-Fish-Trainer](https://github.com/MediatorAxle/How-To-Fish-Trainer)** ⭐ 250
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  How to Fish trainer for PC — infinite money and ammo, never lose a fish, birds stop stealing your catch, unlock every weapon and island, guaranteed rare variants. 45+ options across 5 sections. Host-only guard on by default, fishing-minigame skips tagged and disabled. Steam, 1-4 player co-op.
-
-- **[dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)** ⭐ 20
+- **[dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)** ⭐ 90
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   A menu bar app that keeps a written record of what you worked on.
 
-- **[backtrue/budget-review-skill](https://github.com/backtrue/budget-review-skill)** ⭐ 10
+- **[Straniero44/wenai](https://github.com/Straniero44/wenai)** ⭐ 62
   ![None](https://img.shields.io/badge/-None-lightgrey)
+  An intimate AI companion skill for OpenClaw — fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.
+
+- **[jankeesvw/omarchy-time-machine](https://github.com/jankeesvw/omarchy-time-machine)** ⭐ 41
+  ![Shell](https://img.shields.io/badge/-Shell-lightgrey)
+  Scheduled restic backups for Omarchy, with a snapshot browser in the bar
+
+- **[oscar-brown-eng98x2/How-To-Fish-Trainer](https://github.com/oscar-brown-eng98x2/How-To-Fish-Trainer)** ⭐ 38
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  How To Fish Trainer is a lightweight game utility for How To Fish, featuring a convenient trainer menu and customizable gameplay options. Designed for Windows x64 and Unity Mono builds, with simple setup and easy configuration for a smoother gameplay experience.
+
+- **[d4ncboz/technocore](https://github.com/d4ncboz/technocore)** ⭐ 34
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Decentralized Ed25519 Cryptographic Identity, Signed Message Bus, and Proof-of-Contribution Framework for AI Agents on Technocore ( Ecosystem)
+
+- **[KDU0309/Ball_Quantum](https://github.com/KDU0309/Ball_Quantum)** ⭐ 33
+  ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
-- **[adnogpu/TXCaptcha](https://github.com/adnogpu/TXCaptcha)** ⭐ 10
+- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 26
   ![Python](https://img.shields.io/badge/-Python-blue)
-  tx防水墙验证码自动化求解器：滑块、图形点选、文字点选三种类型。Python + OpenCV + ONNX 实现，curl-cffi 模拟 Chrome TLS 指纹。仅供学习用途。
+  WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
 
-- **[pokemon225/ax-platform-mcp](https://github.com/pokemon225/ax-platform-mcp)** ⭐ 10
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  aX - agent-native collaboration network for long-running agents. Remote MCP server: messaging, tasks, shared context, search, MCP Apps.
-
-- **[prot0tw/Keycloak_CVE-2026-18963_PoC](https://github.com/prot0tw/Keycloak_CVE-2026-18963_PoC)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  This repo is poc of cve-2026-18963. Please use it on legal products (lab, local,...).
-
-- **[marcus-wilsonx2093r2/JAILBREAK-ULTIMATE](https://github.com/marcus-wilsonx2093r2/JAILBREAK-ULTIMATE)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  JAILBREAK ULTIMATE
-
-- **[marcus-wilsonx2093r2/OSINT-FRAMEWORK](https://github.com/marcus-wilsonx2093r2/OSINT-FRAMEWORK)** ⭐ 6
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  OSINT FRAMEWORK
+- **[KJGX66F/-wispbyte-vless](https://github.com/KJGX66F/-wispbyte-vless)** ⭐ 22
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
 
 ### 📈 Weekly Trending
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 3,654
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 3,773
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 2,083
+- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 2,321
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 
-- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 1,277
-  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
-  x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
-
-- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 1,194
+- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 1,351
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** ⭐ 854
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 1,322
+  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
+  x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+
+- **[cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** ⭐ 892
   ![Python](https://img.shields.io/badge/-Python-blue)
   Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
 
-- **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** ⭐ 779
+- **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** ⭐ 787
   ![Python](https://img.shields.io/badge/-Python-blue)
   Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
 
-- **[nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)** ⭐ 689
+- **[nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)** ⭐ 767
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.
 
-- **[missuo/herdrm](https://github.com/missuo/herdrm)** ⭐ 625
+- **[missuo/herdrm](https://github.com/missuo/herdrm)** ⭐ 629
   ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
   Native macOS console for herdr — all your coding agents and their live terminals, across devices
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 193,085
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 194,246
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 19,888
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 20,065
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,334
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,399
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 18,014
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 18,125
   ![Python](https://img.shields.io/badge/-Python-blue)
   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,165
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,177
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Multiplayer agent harness for work.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 12,388
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 12,531
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,895
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,914
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,610
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,618
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Open Frontier Intelligence
 
@@ -487,58 +486,58 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
+| Java | 🟡 Learning |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| JavaScript | 🔴 Beginner |
+| TypeScript | 🔴 Beginner |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🔴 Beginner |
+| React | 🔴 Beginner |
+| Spring Boot | 🟡 Learning |
 | Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | 🟡 Learning |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🔴 Beginner |
 | CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| AWS | 🟢 Proficient |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | ⚪ Planned |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
