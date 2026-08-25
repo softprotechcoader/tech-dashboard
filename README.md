@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Iran Is Using Foreign Criminals to Attack Its Critics Overseas](https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas)**
-  *<p>Article URL: <a href="https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas">https://www.newyorker.com/news/letter-from-the-uk/iran-is-usi...*
-  📅 Mon, 24 Aug 2026 23:06:37 +0000
+- **[Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)**
+  *<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, i...*
+  📅 Tue, 25 Aug 2026 04:33:24 +0000
 
-- **[Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)**
-  *<p>Article URL: <a href="https://github.com/murerkinn/bookshelf">https://github.com/murerkinn/bookshelf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427001">https://news.yc...*
-  📅 Mon, 24 Aug 2026 23:00:37 +0000
+- **[Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)**
+  *<p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
+<p>Comments UR...*
+  📅 Tue, 25 Aug 2026 03:54:19 +0000
 
-- **[iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)**
-  *<p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">h...*
-  📅 Mon, 24 Aug 2026 22:13:40 +0000
+- **[SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)**
+  *<p>Article URL: <a href="https://chipsandcheese.com/p/sifives-first-server-platform">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Tue, 25 Aug 2026 03:06:26 +0000
 
-- **[Moon (2024)](https://ciechanow.ski/moon/)**
-  *<p>Article URL: <a href="https://ciechanow.ski/moon/">https://ciechanow.ski/moon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426466">https://news.ycombinator.com/item?id=...*
-  📅 Mon, 24 Aug 2026 22:06:02 +0000
+- **[Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)**
+  *<p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters...*
+  📅 Tue, 25 Aug 2026 02:11:39 +0000
 
-- **[One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)**
-  *<p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p...*
-  📅 Mon, 24 Aug 2026 21:03:06 +0000
+- **[How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)**
+  *<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombina...*
+  📅 Tue, 25 Aug 2026 01:40:39 +0000
 
-- **[Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)**
-  *<p>Article URL: <a href="https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-a...*
-  📅 Mon, 24 Aug 2026 21:01:38 +0000
+- **[Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)**
+  *<p>Article URL: <a href="https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Tue, 25 Aug 2026 01:35:00 +0000
 
 ### 📑 TechCrunch
+
+- **[India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/)**
+  *Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom....*
+  📅 Tue, 25 Aug 2026 03:30:00 +0000
 
 - **[Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)**
   *The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."...*
@@ -95,26 +100,127 @@
   *Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15....*
   📅 Mon, 24 Aug 2026 20:16:34 +0000
 
-- **[Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)**
-  *Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident....*
-  📅 Mon, 24 Aug 2026 19:58:17 +0000
-
 ### 📑 Dev.to
 
-- **[I Scraped 20,000 YouTube Comments. The Videos and the Comments Were Having Two Different Conversations.](https://dev.to/ramses203/i-scraped-20000-youtube-comments-the-videos-and-the-comments-were-having-two-different-l30)**
-  *<p>I once collected about 22,000 comments from roughly 140 Korean YouTube videos about AI coding tools and classified them. (Quotes below are translated from Korean.)</p>
+- **[Reusing A Prompt System Across Clients Without Turning It Into A One Size Fits All Failure](https://dev.to/faraz_farhan_83ed23a154a2/reusing-a-prompt-system-across-clients-without-turning-it-into-a-one-size-fits-all-failure-1ml0)**
+  *<p>Building a custom GPT for one ministry client teaches you something specific about that ministry. Building the third or fourth one for a different government or enterprise client teaches you someth...*
+  📅 Tue, 25 Aug 2026 06:21:11 +0000
 
-<p>I wanted to see what peop...*
-  📅 Tue, 25 Aug 2026 00:25:03 +0000
+- **[How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It](https://dev.to/respect17/how-to-write-a-developer-cv-that-survives-ats-and-still-reads-like-a-human-wrote-it-4ilb)**
+  *<h2>
+  
+  
+  How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It
+</h2>
 
-- **[Architectural Breakdown: Can AI Remember What It Sees?](https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6)**
-  *<div class="highlight js-code-highlight">
-<pre class="highlight markdown"><code><span class="p">![</span><span class="nv">Architecture Diagram</span><span class="p">](</span><span class="sx">https://i...*
-  📅 Tue, 25 Aug 2026 00:23:26 +0000
+<p>Most developer CV advice picks a side: optimize hard for the applicant tracking system, or wr...*
+  📅 Tue, 25 Aug 2026 06:18:03 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[MediatorAxle/How-To-Fish-Trainer](https://github.com/MediatorAxle/How-To-Fish-Trainer)** ⭐ 250
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  How to Fish trainer for PC — infinite money and ammo, never lose a fish, birds stop stealing your catch, unlock every weapon and island, guaranteed rare variants. 45+ options across 5 sections. Host-only guard on by default, fishing-minigame skips tagged and disabled. Steam, 1-4 player co-op.
+
+- **[dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)** ⭐ 20
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  A menu bar app that keeps a written record of what you worked on.
+
+- **[backtrue/budget-review-skill](https://github.com/backtrue/budget-review-skill)** ⭐ 10
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  None
+
+- **[adnogpu/TXCaptcha](https://github.com/adnogpu/TXCaptcha)** ⭐ 10
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  tx防水墙验证码自动化求解器：滑块、图形点选、文字点选三种类型。Python + OpenCV + ONNX 实现，curl-cffi 模拟 Chrome TLS 指纹。仅供学习用途。
+
+- **[pokemon225/ax-platform-mcp](https://github.com/pokemon225/ax-platform-mcp)** ⭐ 10
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  aX - agent-native collaboration network for long-running agents. Remote MCP server: messaging, tasks, shared context, search, MCP Apps.
+
+- **[prot0tw/Keycloak_CVE-2026-18963_PoC](https://github.com/prot0tw/Keycloak_CVE-2026-18963_PoC)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  This repo is poc of cve-2026-18963. Please use it on legal products (lab, local,...).
+
+- **[marcus-wilsonx2093r2/JAILBREAK-ULTIMATE](https://github.com/marcus-wilsonx2093r2/JAILBREAK-ULTIMATE)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  JAILBREAK ULTIMATE
+
+- **[marcus-wilsonx2093r2/OSINT-FRAMEWORK](https://github.com/marcus-wilsonx2093r2/OSINT-FRAMEWORK)** ⭐ 6
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  OSINT FRAMEWORK
+
+### 📈 Weekly Trending
+
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 3,654
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+
+- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 2,083
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 1,277
+  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
+  x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+
+- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 1,194
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** ⭐ 854
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+
+- **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** ⭐ 779
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
+
+- **[nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)** ⭐ 689
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.
+
+- **[missuo/herdrm](https://github.com/missuo/herdrm)** ⭐ 625
+  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
+  Native macOS console for herdr — all your coding agents and their live terminals, across devices
+
+### 📈 Monthly Trending
+
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 193,085
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  DeepSeek Harness: Everything is a Plugin.
+
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 19,888
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,334
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 18,014
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+- **[yc-software/qm](https://github.com/yc-software/qm)** ⭐ 14,165
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Multiplayer agent harness for work.
+
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 12,388
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 8,895
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+
+- **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** ⭐ 8,610
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Open Frontier Intelligence
 
 ## 🚀 Latest Releases
 
@@ -381,59 +487,59 @@ See [kubernetes-announce@](https://groups.google.com/forum/#!forum/kubernetes-an
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
 | TypeScript | 🟢 Proficient |
-| Go | ⚪ Planned |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | ⚪ Planned |
 | Spring Boot | 🔴 Beginner |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
+| Penetration Testing | 🟢 Proficient |
 | Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| Machine Learning | 🟢 Proficient |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
+| Computer Vision | ⚪ Planned |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | 🟢 Proficient |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
-| AWS | 🟢 Proficient |
-| Azure | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
