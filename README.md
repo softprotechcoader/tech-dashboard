@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 27, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 28, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 0 |
+| 🔥 Trending Repositories | 45 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,82 +46,177 @@
 
 ### 📑 Hacker News
 
-- **[Grok Bot for Linux: Unofficial port of the official app (open source)](https://github.com/jakob-bu/grok-bot-linux-unofficial)**
-  *<p>Article URL: <a href="https://github.com/jakob-bu/grok-bot-linux-unofficial">https://github.com/jakob-bu/grok-bot-linux-unofficial</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Thu, 27 Aug 2026 16:49:47 +0000
+- **[Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)**
+  *<p>Article URL: <a href="https://www.terminal-bench-science.ai/announcement">https://www.terminal-bench-science.ai/announcement</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 28 Aug 2026 00:06:51 +0000
 
-- **[Numerical (In)Stability of Recurrence Relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/)**
-  *<p>Article URL: <a href="https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/">https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</a></p>
-<p>Comments URL:...*
-  📅 Thu, 27 Aug 2026 16:10:18 +0000
+- **[Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)**
+  *<p>Article URL: <a href="https://pfrazee.leaflet.pub/3mu3p2smmis22">https://pfrazee.leaflet.pub/3mu3p2smmis22</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472161">https://n...*
+  📅 Thu, 27 Aug 2026 22:34:32 +0000
 
-- **[Why HPSC Is a Big Deal for Space Exploration](https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration)**
-  *<p>Article URL: <a href="https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration">https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration</a></p>
-<p>Comments UR...*
-  📅 Thu, 27 Aug 2026 16:01:09 +0000
+- **[Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)**
+  *<p>Article URL: <a href="https://github.com/elyosh/OpenTIE/">https://github.com/elyosh/OpenTIE/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49471965">https://news.ycombinato...*
+  📅 Thu, 27 Aug 2026 22:10:47 +0000
 
-- **[Small Models Have Arrived](https://calv.info/small-models-have-arrived)**
-  *<p>Article URL: <a href="https://calv.info/small-models-have-arrived">https://calv.info/small-models-have-arrived</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49466917">https...*
-  📅 Thu, 27 Aug 2026 15:56:58 +0000
+- **[AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab](https://github.com/calmrocks/ai-engineer-notebooks)**
+  *<p>Article URL: <a href="https://github.com/calmrocks/ai-engineer-notebooks">https://github.com/calmrocks/ai-engineer-notebooks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Thu, 27 Aug 2026 21:46:39 +0000
 
-- **[The broadcast squeezeback, rebuilt with CSS Grid and WebVTT](https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt)**
-  *<p>Article URL: <a href="https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt">https://www.mux.com/blog/the-broadcast-squeezeback-rebuilt-with-css-grid-and-webvtt</a></p...*
-  📅 Thu, 27 Aug 2026 15:56:03 +0000
+- **[Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)**
+  *<p>Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place.<p>It’s is rust native, built for concurrency, and imp...*
+  📅 Thu, 27 Aug 2026 21:18:35 +0000
 
-- **[Suica, Japan's First IC Transit Card](https://www.tokyodev.com/articles/the-story-of-suica)**
-  *<p>Article URL: <a href="https://www.tokyodev.com/articles/the-story-of-suica">https://www.tokyodev.com/articles/the-story-of-suica</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Thu, 27 Aug 2026 15:55:12 +0000
+- **[Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)**
+  *<p>Article URL: <a href="https://www.anthropic.com/news/model-hardware-standard-research-preview">https://www.anthropic.com/news/model-hardware-standard-research-preview</a></p>
+<p>Comments URL: <a hr...*
+  📅 Thu, 27 Aug 2026 18:04:50 +0000
 
 ### 📑 TechCrunch
 
-- **[Google’s new Fitbit Air brings Pokémon Sleep to your wrist](https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/)**
-  *Google teamed up with the Pokemon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app....*
-  📅 Thu, 27 Aug 2026 17:05:45 +0000
+- **[Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)**
+  *At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups....*
+  📅 Thu, 27 Aug 2026 23:16:45 +0000
 
-- **[Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup](https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/)**
-  *Fashion startup Atoire announced Thursday a $9.5 million seed round....*
-  📅 Thu, 27 Aug 2026 17:00:00 +0000
+- **[Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/)**
+  *Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday....*
+  📅 Thu, 27 Aug 2026 20:23:10 +0000
 
-- **[Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick](https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/)**
-  *Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change....*
-  📅 Thu, 27 Aug 2026 16:53:50 +0000
+- **[Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/)**
+  *Sometimes people just want to post to their followers, Bluesky says....*
+  📅 Thu, 27 Aug 2026 20:15:26 +0000
 
-- **[Google’s AI Mode can now track flight prices, help book hotels, and more](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/)**
-  *The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann...*
-  📅 Thu, 27 Aug 2026 16:00:00 +0000
+- **[Buried in Meta’s $18B settlement is a legal pass on kids’ data](https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/)**
+  *Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal....*
+  📅 Thu, 27 Aug 2026 20:04:26 +0000
 
-- **[This former PG&E engineer is building a ‘Google Maps for the underground’](https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/)**
-  *The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work....*
-  📅 Thu, 27 Aug 2026 15:00:00 +0000
+- **[YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)**
+  *The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms....*
+  📅 Thu, 27 Aug 2026 19:54:28 +0000
 
-- **[Hugging Face is selling a cute $399 open source duck robot, Microduck](https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/)**
-  *Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”...*
-  📅 Thu, 27 Aug 2026 14:56:52 +0000
+- **[Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)**
+  *Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google....*
+  📅 Thu, 27 Aug 2026 19:52:52 +0000
 
 ### 📑 Dev.to
 
-- **[The Three Ways NetSuite to Azure Integrations Quietly Break](https://dev.to/evanlausier/the-three-ways-netsuite-to-azure-integrations-quietly-break-52if)**
-  *<h1>
-  
-  
-  The Three Ways NetSuite to Azure Integrations Quietly Break
-</h1>
+- **[Claude worked out who I work with, from my own blog](https://dev.to/jun_uen0/claude-worked-out-who-i-work-with-from-my-own-blog-2d2p)**
+  *<p>I publish this blog in two languages.<br />
+Write one piece, keep the canonical copy on my own site as the single source, then push it out to every channel at once. The English and the Japanese wer...*
+  📅 Fri, 28 Aug 2026 01:39:47 +0000
 
-<p>Every NetSuite to Azure integration looks clean in the design doc. A tidy little pipeline, NetSuite on one end, Data ...*
-  📅 Thu, 27 Aug 2026 17:04:23 +0000
-
-- **[AI agents in Laravel with Laragents](https://dev.to/edulazaro/ai-agents-in-laravel-with-laragents-20j4)**
-  *<p>Creating a call to an AI model is the easy part. A request, a JSON body, a <code>content</code> field on the way back. If that were the work, nobody would need a package.</p>
-
-<p>The work is everyt...*
-  📅 Thu, 27 Aug 2026 16:56:54 +0000
+- **[A Ilusão da Velocidade: Por que a IA está "Apodrecendo" o seu Código](https://dev.to/wandealves/a-ilusao-da-velocidade-por-que-a-ia-esta-apodrecendo-o-seu-codigo-4gc)**
+  *<p>De benchmarks acadêmicos de 2026 a estudos com centenas de milhares de <strong>commits</strong>, um padrão começa a aparecer: <strong>a IA pode aumentar significativamente a velocidade de geração d...*
+  📅 Fri, 28 Aug 2026 01:30:17 +0000
 
 </details>
 
 ## 🔥 Trending Repositories
+
+### 📈 Daily Trending
+
+- **[john-nlab1993p7/How-To-Fish-Trainer](https://github.com/john-nlab1993p7/How-To-Fish-Trainer)** ⭐ 30
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  How To Fish Trainer for Windows and PC. Trainer for How To Fish with gameplay features, trainer options, configuration settings, installation instructions, compatibility information, screenshots, releases, and updates.
+
+- **[Aleks-Levet/starfield-xp-screensaver](https://github.com/Aleks-Levet/starfield-xp-screensaver)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A Python/Pygame recreation of the classic Windows XP starfield screensaver, with a few enhancements.
+
+- **[The-Modern-Clown/ics372-group-5](https://github.com/The-Modern-Clown/ics372-group-5)** ⭐ 2
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  repo for Brew&Byte in oop-sie
+
+- **[ryangustavodesouza33-arch/FRONTEND](https://github.com/ryangustavodesouza33-arch/FRONTEND)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
+
+- **[Xiaoyuan-114/zafu-internship-diary](https://github.com/Xiaoyuan-114/zafu-internship-diary)** ⭐ 2
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ZAFU internship diary skill: fill the official Word template.
+
+- **[nepalsinghrajputh/ABAP-Learning](https://github.com/nepalsinghrajputh/ABAP-Learning)** ⭐ 1
+  ![ABAP](https://img.shields.io/badge/-ABAP-lightgrey)
+  None
+
+- **[q015r4obh2/SXJwnyWgDc](https://github.com/q015r4obh2/SXJwnyWgDc)** ⭐ 1
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  基于SpringBoot的纺织品财务管理系统
+
+- **[Innnoa/zazaki_fetch](https://github.com/Innnoa/zazaki_fetch)** ⭐ 1
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+### 📈 Weekly Trending
+
+- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 3,349
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+
+- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 2,248
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
+
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** ⭐ 1,551
+  ![Zig](https://img.shields.io/badge/-Zig-lightgrey)
+  x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+
+- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 1,445
+  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
+  None
+
+- **[ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent)** ⭐ 1,132
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
+
+- **[nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)** ⭐ 1,103
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.
+
+- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 931
+  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
+  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
+
+- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 828
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
+
+### 📈 Monthly Trending
+
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 200,336
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  DeepSeek Harness: Everything is a Plugin.
+
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 21,188
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 18,804
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 18,749
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,217
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 9,017
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+
+- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 7,740
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
+
+- **[MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)** ⭐ 7,260
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
 ## 🚀 Latest Releases
 
@@ -392,40 +487,40 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟡 Learning |
-| Go | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟡 Learning |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | 🟢 Proficient |
 | Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🔴 Beginner |
 | NLP | 🔴 Beginner |
 | Computer Vision | 🔴 Beginner |
-| TensorFlow | 🟢 Proficient |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
@@ -434,16 +529,16 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
+| CI/CD | 🟡 Learning |
 | AWS | 🟢 Proficient |
-| Azure | 🔴 Beginner |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🔴 Beginner |
 
 </details>
@@ -462,7 +557,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** August 27, 2026
+**Last Updated:** August 28, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
