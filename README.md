@@ -21,7 +21,7 @@
 |--------|-------|
 | 📰 Latest News Articles | 26 |
 | 🔥 Trending Repositories | 45 |
-| 🎯 Latest Releases | 9 |
+| 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
 ## 🎯 Current Focus
@@ -46,32 +46,33 @@
 
 ### 📑 Hacker News
 
+- **[Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)**
+  *<p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Sat, 29 Aug 2026 06:06:51 +0000
+
+- **[TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)**
+  *<p>Article URL: <a href="https://github.com/kingroryg/turbokv">https://github.com/kingroryg/turbokv</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486334">https://news.ycombi...*
+  📅 Sat, 29 Aug 2026 02:23:37 +0000
+
+- **[Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)**
+  *<p>Article URL: <a href="https://www.kumander.org/">https://www.kumander.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486176">https://news.ycombinator.com/item?id=4948...*
+  📅 Sat, 29 Aug 2026 01:48:15 +0000
+
+- **[Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)**
+  *<p>Article URL: <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a><...*
+  📅 Sat, 29 Aug 2026 01:47:53 +0000
+
+- **[StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)**
+  *<p>Article URL: <a href="https://github.com/stemdeckapp/stemdeck">https://github.com/stemdeckapp/stemdeck</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486081">https://news....*
+  📅 Sat, 29 Aug 2026 01:24:13 +0000
+
 - **[Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)**
   *<p>Article URL: <a href="https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-...*
   📅 Fri, 28 Aug 2026 23:46:10 +0000
-
-- **[PPWR lands another blow to an precarious tabletop industry](https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/)**
-  *<p>Article URL: <a href="https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/">https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-...*
-  📅 Fri, 28 Aug 2026 23:41:05 +0000
-
-- **[9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)**
-  *<p>Article URL: <a href="https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/">https://azmirror.com/2026/08/28/9th-circuit-...*
-  📅 Fri, 28 Aug 2026 23:32:22 +0000
-
-- **[I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)**
-  *<p>Article URL: <a href="https://pwning.systems/posts/llm-memory-program-analysis/">https://pwning.systems/posts/llm-memory-program-analysis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Fri, 28 Aug 2026 23:27:45 +0000
-
-- **[Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)**
-  *<p>Article URL: <a href="https://github.com/Lakr233/vphone-cli">https://github.com/Lakr233/vphone-cli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485267">https://news.ycom...*
-  📅 Fri, 28 Aug 2026 23:02:21 +0000
-
-- **[Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)**
-  *<p>Article URL: <a href="https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html">https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html</a></p>
-<p>Comments URL: <a href="...*
-  📅 Fri, 28 Aug 2026 22:18:27 +0000
 
 ### 📑 TechCrunch
 
@@ -101,15 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[Claude Can Accelerate SEO Research, but Automated Publishing Can Create Costly Clones](https://dev.to/alifar/claude-can-accelerate-seo-research-but-automated-publishing-can-create-costly-clones-2iaa)**
-  *<p>Claude can make SEO research, analysis and drafting faster. But a real-world test described by SEO consultant Will Scott shows why that assistance should not automatically extend to publishing chan...*
-  📅 Sat, 29 Aug 2026 01:15:30 +0000
+- **[A Simulation ID Is Not a Running Simulation](https://dev.to/kingsleyonoh/a-simulation-id-is-not-a-running-simulation-787)**
+  *<p><code>createSimulation()</code> returned an ID. <code>startSimulation()</code> still failed.</p>
 
-- **[用 Vercel AI SDK 玩轉 Chrome Built-in AI](https://dev.to/jh5_pulse/yong-vercel-ai-sdk-wan-zhuan-chrome-built-in-ai-58ln)**
-  *<p>Google 官方關於 Chrome Built-in AI 與 Vercel AI SDK 的文件寫了一大堆，但看完會發現官方範例只教你怎麼印出 Hello World，好多坑都沒有交代。</p>
+<p>That was the sixth version of the gateway's live MiroFish path. Five earlier runs had already fo...*
+  📅 Sat, 29 Aug 2026 11:35:23 +0000
 
-<p>如果模型還沒下載完該怎麼辦？瀏覽器不支援時怎麼辦？Tool Calling 的介面要怎麼安全的接上？ 附上在 Chrome上的一些踩坑小筆記，幫你想在前端加上本地 LLM 時少走彎路（雖...*
-  📅 Sat, 29 Aug 2026 01:02:59 +0000
+- **[Why I Put Swarm Memory in PostgreSQL Instead of Zep](https://dev.to/kingsleyonoh/why-i-put-swarm-memory-in-postgresql-instead-of-zep-e61)**
+  *<p>A completed simulation left me with a report and an ownership problem. MiroFish had built the graph, generated the agents, and run their interactions, but the useful memory still lived behind someb...*
+  📅 Sat, 29 Aug 2026 11:35:10 +0000
 
 </details>
 
@@ -117,103 +118,103 @@
 
 ### 📈 Daily Trending
 
-- **[Agenthon-2026/track2-forecasting-public](https://github.com/Agenthon-2026/track2-forecasting-public)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agenthon 2026 Track 2 — Forecasting
-
-- **[Agenthon-2026/Agenthon2026-public](https://github.com/Agenthon-2026/Agenthon2026-public)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agenthon 2026 — shared toolkit and starter packages
-
-- **[Agenthon-2026/track3-simulation-public](https://github.com/Agenthon-2026/track3-simulation-public)** ⭐ 3
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agenthon 2026 Track 3 — Simulation
-
-- **[Null-K/How-to-Fish--Aimbot](https://github.com/Null-K/How-to-Fish--Aimbot)** ⭐ 2
+- **[wavtechyukky/LeapSinger](https://github.com/wavtechyukky/LeapSinger)** ⭐ 16
   ![Python](https://img.shields.io/badge/-Python-blue)
-  游戏 How to Fish（渔力全开） 自瞄/子弹追踪作弊
+  Fast singing-voice acoustic model: harmonic + noise excitation refined into a mel by a 1-step rectified flow (bundled NHVSing vocoder). Multi-speaker + style control; ONNX/OpenUTAU export.
 
-- **[Ddm140207/OxAlphaTrace](https://github.com/Ddm140207/OxAlphaTrace)** ⭐ 2
+- **[felixmelanson/crono-vision](https://github.com/felixmelanson/crono-vision)** ⭐ 15
   ![Python](https://img.shields.io/badge/-Python-blue)
-  OxAlphaTrace: A Behavioral Fingerprinting Study of Model Provenance, Reasoning, and Performance
+  None
 
-- **[Agenthon-2026/track1-coding-public](https://github.com/Agenthon-2026/track1-coding-public)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agenthon 2026 Track 1 — Coding
+- **[artemtsitronov/glacex](https://github.com/artemtsitronov/glacex)** ⭐ 13
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  GPU-Rendered UI library built from scratch in Rust [WIP]
 
-- **[Agenthon-2026/track4-analysis-public](https://github.com/Agenthon-2026/track4-analysis-public)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Agenthon 2026 Track 4 — Explainability
+- **[chaos1358/z-pack-public](https://github.com/chaos1358/z-pack-public)** ⭐ 12
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
 
-- **[rajshah4/agent-canvas-conversation-search](https://github.com/rajshah4/agent-canvas-conversation-search)** ⭐ 1
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Full-text search and reverse-chronological browsing for local Agent Canvas conversation history.
+- **[FlagOpen/UniVR](https://github.com/FlagOpen/UniVR)** ⭐ 10
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[FlagOpen/InsertAny3D](https://github.com/FlagOpen/InsertAny3D)** ⭐ 10
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  None
+
+- **[honojs/hono-kun](https://github.com/honojs/hono-kun)** ⭐ 9
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  An AI maintainer for Hono
+
+- **[alphaparkinc/genpark-vision-language-action-robotic-trajectory-planner-skill](https://github.com/alphaparkinc/genpark-vision-language-action-robotic-trajectory-planner-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Vision-Language-Action robotic trajectory planner (OpenVLA / RT-2 style)
 
 ### 📈 Weekly Trending
 
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 3,692
+- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 3,825
   ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
   None
 
-- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 3,406
+- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 3,417
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 
-- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 2,296
+- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 2,311
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 1,458
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 2,078
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 979
-  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
-  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
-
-- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 970
+- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,024
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
 
-- **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** ⭐ 826
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
+- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 988
+  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
+  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
 
-- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 817
+- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 881
   ![Python](https://img.shields.io/badge/-Python-blue)
   WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
 
+- **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** ⭐ 830
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 202,064
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 202,780
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 21,554
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 21,745
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,074
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,051
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,157
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,397
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,138
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,487
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 9,065
+- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 9,073
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 8,544
+- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 8,670
   ![Python](https://img.shields.io/badge/-Python-blue)
   Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,929
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,940
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
@@ -347,6 +348,20 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 ---
 
+### 📦 rust-lang/rust
+
+**[Rust 1.98.0](https://github.com/rust-lang/rust/releases/tag/1.98.0)** `1.98.0`
+
+📅 Released: August 20, 2026
+
+<a id="1.98.0-Language"></a>
+
+## Language
+
+- [Allow shortening lifetime of `&mut` when unsize-coercing, even in an invariant position.](https://github.com/rust-lang/rust/pull/149219) For example, you ...
+
+---
+
 </details>
 
 ## 🗺️ Learning Roadmap
@@ -472,59 +487,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟡 Learning |
+| TypeScript | 🟢 Proficient |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🔴 Beginner |
 | Spring Boot | 🔴 Beginner |
-| Django | 🔴 Beginner |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | ⚪ Planned |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟡 Learning |
 | Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟡 Learning |
+| TensorFlow | 🔴 Beginner |
 | PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
+| AWS | 🔴 Beginner |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
