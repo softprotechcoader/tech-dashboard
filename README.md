@@ -46,34 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[My fat loss experiments with ChatGPT and water fasting](https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846)**
-  *<p>Article URL: <a href="https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846">https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-f...*
-  📅 Sun, 30 Aug 2026 10:21:14 +0000
+- **[European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement)**
+  *<p>Article URL: <a href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement">https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement</a></p...*
+  📅 Sun, 30 Aug 2026 15:12:40 +0000
 
-- **[Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)**
-  *<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-a...*
-  📅 Sun, 30 Aug 2026 10:20:11 +0000
+- **[Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)**
+  *<p>Article URL: <a href="https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/">https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fi...*
+  📅 Sun, 30 Aug 2026 14:29:25 +0000
 
-- **[Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)**
-  *<p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinato...*
-  📅 Sun, 30 Aug 2026 10:02:16 +0000
+- **[No AI Fridays](https://noaifridays.com/)**
+  *<p>Article URL: <a href="https://noaifridays.com/">https://noaifridays.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49498095">https://news.ycombinator.com/item?id=494980...*
+  📅 Sun, 30 Aug 2026 12:31:05 +0000
 
-- **[Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/)**
-  *<p>Article URL: <a href="https://blog.lyc8503.net/en/post/dn42-2-dnet/">https://blog.lyc8503.net/en/post/dn42-2-dnet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497200">h...*
-  📅 Sun, 30 Aug 2026 09:52:15 +0000
+- **[monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go)**
+  *<p>Article URL: <a href="https://github.com/fugue-labs/monty-go">https://github.com/fugue-labs/monty-go</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497928">https://news.yc...*
+  📅 Sun, 30 Aug 2026 12:02:09 +0000
 
-- **[Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)**
-  *<p>Article URL: <a href="https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994">https://www.theregister.com/security/2026/08/3...*
-  📅 Sun, 30 Aug 2026 09:26:08 +0000
+- **[Automating Immersive Reading](https://smoores.dev/post/automating_immersive_reading/)**
+  *<p>Article URL: <a href="https://smoores.dev/post/automating_immersive_reading/">https://smoores.dev/post/automating_immersive_reading/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Sun, 30 Aug 2026 11:46:23 +0000
 
-- **[Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)**
-  *<p>Article URL: <a href="https://www.qubes-os.org/news/2026/08/29/qsb-118/">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=494...*
-  📅 Sun, 30 Aug 2026 08:51:39 +0000
+- **[An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)**
+  *<p>Article URL: <a href="https://www.muppetlabs.com/~breadbox/software/windows.html">https://www.muppetlabs.com/~breadbox/software/windows.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinat...*
+  📅 Sun, 30 Aug 2026 11:41:40 +0000
 
 ### 📑 TechCrunch
+
+- **[Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)**
+  *Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment....*
+  📅 Sun, 30 Aug 2026 15:00:00 +0000
 
 - **[Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)**
   *This latest lawsuit is particularly broad and homes in on accusations of illegal piracy....*
@@ -95,23 +100,31 @@
   *As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always bee...*
   📅 Sat, 29 Aug 2026 14:00:00 +0000
 
-- **[Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)**
-  *The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....*
-  📅 Sat, 29 Aug 2026 13:00:00 +0000
-
 ### 📑 Dev.to
 
-- **[Building One Tap for PingFederate, Part 2: Docker, Terraform, and OIDC with PKCE](https://dev.to/darkedges/building-one-tap-for-pingfederate-part-2-docker-terraform-and-oidc-with-pkce-3neg)**
-  *<p>The account chooser needs more than a widget and a Java adapter. PingFederate<br />
-must have a complete authentication policy, a credential validator, a reusable<br />
-authentication session, and ...*
-  📅 Sun, 30 Aug 2026 10:54:04 +0000
+- **[Building My First RAG System: Deriving the Architecture from First Principles - Part One](https://dev.to/timilehin-olusegun/building-my-first-rag-system-deriving-the-architecture-from-first-principles-part-one-n43)**
+  *<h2>
+  
+  
+  Intro
+</h2>
 
-- **[Building One Tap for PingFederate, Part 1: Architecture and the Secure Account Bridge](https://dev.to/darkedges/building-one-tap-for-pingfederate-part-1-architecture-and-the-secure-account-bridge-3ed4)**
-  *<p>Modern sign-in experiences often remember accounts and let a returning user<br />
-continue with one click. Reproducing that pattern with PingFederate requires<br />
-more than drawing an account pic...*
-  📅 Sun, 30 Aug 2026 10:53:15 +0000
+<p>I recently read an <a href="https://africa.businessinsider.com/news/im-a-vc-who-finds-dollar120-worth-of-ai-subscriptions-more-productive-than-an-intern/t0963k1" rel="noop...*
+  📅 Sun, 30 Aug 2026 15:38:18 +0000
+
+- **[I Built a Free Tool That Turns Your GitHub Profile Into a Shareable Stat Card — Here's How](https://dev.to/itachi_f47864487ba59eff3e/i-built-a-free-tool-that-turns-your-github-profile-into-a-shareable-stat-card-heres-how-557m)**
+  *<ol>
+<li>
+<p>The Problem</p>
+
+<ul>
+<li>GitHub profiles are data-rich but visually boring</li>
+<li>Developers want to "flex" their stats but have no aesthetic way to do it</li>
+</ul>
+</li>
+<li>
+<p>The ...*
+  📅 Sun, 30 Aug 2026 15:38:00 +0000
 
 </details>
 
@@ -119,7 +132,31 @@ more than drawing an account pic...*
 
 ### 📈 Daily Trending
 
+- **[daffainfo/vol-rs](https://github.com/daffainfo/vol-rs)** ⭐ 38
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Volatility 3 ported to Rust. Same output, much faster.
+
 - **[tateori/facebook-reporting-bot](https://github.com/tateori/facebook-reporting-bot)** ⭐ 31
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot page group impersonation, fake profile account, or other policy violations. Depending on their functionality
+
+- **[aadithyanr/yname](https://github.com/aadithyanr/yname)** ⭐ 29
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Generate a YC startup name before someone else does.
+
+- **[onterao/Multichain-Drainer-Tool](https://github.com/onterao/Multichain-Drainer-Tool)** ⭐ 21
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC TRX... tokens Bot
+
+- **[AlexTam930/crossPlatformAi](https://github.com/AlexTam930/crossPlatformAi)** ⭐ 21
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  An extensible cross-industry data fusion AI platform based on user profile modeling. Built with Python and Flask, featuring multi-source data integration, custom fusion rules, and advanced non-linear analytical algorithms. 
+
+- **[breko861-hash/sol-luna-codex-orchestrator](https://github.com/breko861-hash/sol-luna-codex-orchestrator)** ⭐ 17
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Cost-efficient Codex multi-agent orchestration using Sol for planning and review, Luna for implementation, and Terra as a fallback.
+
+- **[tryoname/facebook-reporting-bot](https://github.com/tryoname/facebook-reporting-bot)** ⭐ 16
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot page group impersonation, fake profile account, or other policy violations. Depending on their functionality
 
@@ -127,95 +164,71 @@ more than drawing an account pic...*
   ![Python](https://img.shields.io/badge/-Python-blue)
   agentic-ai-data-pipeline-framework
 
-- **[kushvanthchowdarynagabhyru-byte/iot-enabled-digital-twin---smart-sensor-network](https://github.com/kushvanthchowdarynagabhyru-byte/iot-enabled-digital-twin---smart-sensor-network)** ⭐ 14
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  iot-enabled-digital-twin-&-smart-sensor-network
-
-- **[breko861-hash/sol-luna-codex-orchestrator](https://github.com/breko861-hash/sol-luna-codex-orchestrator)** ⭐ 11
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Cost-efficient Codex multi-agent orchestration using Sol for planning and review, Luna for implementation, and Terra as a fallback.
-
-- **[alphaparkinc/genpark-photorealistic-prompt-expansion-aesthetics-director-skill](https://github.com/alphaparkinc/genpark-photorealistic-prompt-expansion-aesthetics-director-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Photorealistic prompt expansion director & volumetric lighting enricher (Midjourney style)
-
-- **[alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill](https://github.com/alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Browser-native WebAssembly microcontainer node runtime (Bolt.new WebContainers style)
-
-- **[alphaparkinc/genpark-lightweight-agent-routine-handoff-orchestrator-skill](https://github.com/alphaparkinc/genpark-lightweight-agent-routine-handoff-orchestrator-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Lightweight multi-agent routine handoff orchestrator & tool swapper (Swarm style)
-
-- **[alphaparkinc/genpark-repository-scoped-agentic-rule-indexer-skill](https://github.com/alphaparkinc/genpark-repository-scoped-agentic-rule-indexer-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Repository scoped agentic rule indexer & architecture guideline injector (Cursor Rules)
-
 ### 📈 Weekly Trending
 
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,103
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  None
-
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 3,233
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 4,492
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 1,168
+- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,132
+  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
+  None
+
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 1,280
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,038
+- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,061
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
 
-- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 1,013
-  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
-  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
-
-- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 918
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
-
-- **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** ⭐ 913
+- **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** ⭐ 1,037
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
 
-- **[amosblomqvist/learn](https://github.com/amosblomqvist/learn)** ⭐ 825
+- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 1,018
+  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
+  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
+
+- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 926
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
+
+- **[amosblomqvist/learn](https://github.com/amosblomqvist/learn)** ⭐ 860
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   My AI learning system.
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 204,072
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 204,397
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 21,980
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,044
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,345
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,410
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,261
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,301
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,629
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,682
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 8,914
+- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 8,977
   ![Python](https://img.shields.io/badge/-Python-blue)
   Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,960
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,969
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 6,739
+- **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** ⭐ 6,756
   ![C](https://img.shields.io/badge/-C-lightgrey)
   A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
@@ -488,20 +501,20 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
+| Java | 🟡 Learning |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | 🔴 Beginner |
-| Go | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🟡 Learning |
 | Django | ⚪ Planned |
-| Node.js | ⚪ Planned |
+| Node.js | 🟡 Learning |
 | Next.js | 🟢 Proficient |
 
 ### Cybersecurity
@@ -509,20 +522,20 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟡 Learning |
-| Network Security | ⚪ Planned |
-| OWASP | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟢 Proficient |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
 | TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
@@ -530,17 +543,17 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | Docker | 🟡 Learning |
 | Kubernetes | 🟡 Learning |
-| CI/CD | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
 | AWS | 🟡 Learning |
-| Azure | ⚪ Planned |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟢 Proficient |
-| Web3 | 🟡 Learning |
-| Cloud Computing | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
