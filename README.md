@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 29, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August 30, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 15 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,34 +46,33 @@
 
 ### 📑 Hacker News
 
-- **[Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)**
-  *<p>Article URL: <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>
-<p>Comme...*
-  📅 Sat, 29 Aug 2026 19:33:23 +0000
+- **[FreeCORE TrueNAS Core – Continued](https://freecore.org/)**
+  *<p>Article URL: <a href="https://freecore.org/">https://freecore.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494856">https://news.ycombinator.com/item?id=49494856</a>...*
+  📅 Sun, 30 Aug 2026 01:31:32 +0000
 
-- **[Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)**
-  *<p>Article URL: <a href="https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</a></p>
-<p>Comments URL: <a hr...*
-  📅 Sat, 29 Aug 2026 19:09:33 +0000
+- **[Bug Blindness](https://danluu.com/bug-blind/)**
+  *<p>Article URL: <a href="https://danluu.com/bug-blind/">https://danluu.com/bug-blind/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494520">https://news.ycombinator.com/item...*
+  📅 Sun, 30 Aug 2026 00:21:40 +0000
 
-- **[DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)**
-  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits">https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-r...*
-  📅 Sat, 29 Aug 2026 18:44:37 +0000
+- **[Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)**
+  *<p>Article URL: <a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms">https://www.latimes.com/environment/story/2026-08-26/hi...*
+  📅 Sat, 29 Aug 2026 23:26:44 +0000
 
-- **[The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)**
-  *<p>Article URL: <a href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/">https://www.stephendiehl.com/posts/internet_predatory_cesspit/</a></p>
-<p>Comments URL: <a href="https://news.y...*
-  📅 Sat, 29 Aug 2026 18:40:56 +0000
+- **[Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)**
+  *<p>Article URL: <a href="https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mv...*
+  📅 Sat, 29 Aug 2026 23:17:17 +0000
 
-- **[vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0)**
-  *<p>Article URL: <a href="https://github.com/vllm-project/vllm/releases/tag/v0.28.0">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sat, 29 Aug 2026 18:22:00 +0000
+- **[I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)**
+  *<p>Article URL: <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Sat, 29 Aug 2026 23:12:25 +0000
 
-- **[Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)**
-  *<p>Article URL: <a href="https://tucker.wales/writing/bias-towards-action/">https://tucker.wales/writing/bias-towards-action/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=494...*
-  📅 Sat, 29 Aug 2026 17:39:18 +0000
+- **[Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com)**
+  *<p>Article URL: <a href="https://defrag98.com">https://defrag98.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494036">https://news.ycombinator.com/item?id=49494036</a></...*
+  📅 Sat, 29 Aug 2026 22:51:17 +0000
 
 ### 📑 TechCrunch
 
@@ -103,17 +102,15 @@
 
 ### 📑 Dev.to
 
-- **[Build an XRPL Token Screener in About 50 Lines](https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38)**
-  *<p>There are <strong>20,268 tokens</strong> issued on the XRP Ledger and only 1,543 of them traded today. A screener is how you tell those two groups apart.</p>
+- **[Designing a shared daily trivia set in Flutter (without an account wall)](https://dev.to/numorotech/designing-a-shared-daily-trivia-set-in-flutter-without-an-account-wall-5cj4)**
+  *<p>I shipped a small trivia app called <strong>Trivia Quest</strong>. The product bet is boring on purpose: <strong>ten questions, same set for everyone in your language today</strong>, with a short e...*
+  📅 Sun, 30 Aug 2026 02:23:12 +0000
 
-<p>Here is a complete one. No dependen...*
-  📅 Sat, 29 Aug 2026 20:00:23 +0000
+- **[The approval signature that could be spent twice](https://dev.to/shaanalpha/the-approval-signature-that-could-be-spent-twice-cdj)**
+  *<p>I built this project and wrote this article for the purposes of entering the Google Cloud "All Things Agentic" Hackathon 2026.</p>
 
-- **[The WebGPU Export Engine: Rendering High-Res Canvases to MP4, SVG, and PDF Like a Senior Architect](https://dev.to/programmingcentral/the-webgpu-export-engine-rendering-high-res-canvases-to-mp4-svg-and-pdf-like-a-senior-architect-1gbc)**
-  *<p>The permanent friction of modern web development is a silent war between interactive visualization and high-fidelity archival export. </p>
-
-<p>Imagine building a cutting-edge node-based visual work...*
-  📅 Sat, 29 Aug 2026 20:00:00 +0000
+<p>My human approval gate checked its one time signature, ran the...*
+  📅 Sun, 30 Aug 2026 02:21:11 +0000
 
 </details>
 
@@ -121,105 +118,37 @@
 
 ### 📈 Daily Trending
 
-- **[FlagOpen/InsertAny3D](https://github.com/FlagOpen/InsertAny3D)** ⭐ 51
+- **[alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill](https://github.com/alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Browser-native WebAssembly microcontainer node runtime (Bolt.new WebContainers style)
 
-- **[FlagOpen/UniVR](https://github.com/FlagOpen/UniVR)** ⭐ 48
+- **[alphaparkinc/genpark-multi-tenant-gitlab-webhook-event-router-skill](https://github.com/alphaparkinc/genpark-multi-tenant-gitlab-webhook-event-router-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Multi-tenant GitLab webhook event router & CI/CD trigger (GitLab Webhook style)
 
-- **[RegimentAntPower/Lost-Ark-Auto-Farm-Bot](https://github.com/RegimentAntPower/Lost-Ark-Auto-Farm-Bot)** ⭐ 37
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  Lost Ark Auto Farm Bot for Windows with configurable Chaos Dungeon profiles, daily-task routes, farming sessions, life-skill/gathering presets, inventory thresholds, auto-stop rules, break scheduling, session statistics, and reusable automation profiles.
-
-- **[artemtsitronov/glacex](https://github.com/artemtsitronov/glacex)** ⭐ 35
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  GPU-Rendered UI library built from scratch in Rust [WIP]
-
-- **[wavtechyukky/LeapSinger](https://github.com/wavtechyukky/LeapSinger)** ⭐ 32
+- **[alphaparkinc/genpark-unified-gitlab-ci-pipeline-analyzer-optimizer-skill](https://github.com/alphaparkinc/genpark-unified-gitlab-ci-pipeline-analyzer-optimizer-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Fast singing-voice acoustic model: harmonic + noise excitation refined into a mel by a 1-step rectified flow (bundled NHVSing vocoder). Multi-speaker + style control; ONNX/OpenUTAU export.
+  Unified GitLab CI pipeline analyzer & stage optimizer (GitLab CI Lint style)
 
-- **[Timefiles404/lean-mode-skill](https://github.com/Timefiles404/lean-mode-skill)** ⭐ 28
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  节制工程技能：什么时候该写防御性代码、什么时候不该，以及怎么把一轮的构建测试耗时从几十分钟压到几十秒。SKILL.md，可独立使用。
-
-- **[rpmalouin/AI-Research-Assistant](https://github.com/rpmalouin/AI-Research-Assistant)** ⭐ 25
+- **[alphaparkinc/genpark-dynamic-browser-session-recording-summarizer-skill](https://github.com/alphaparkinc/genpark-dynamic-browser-session-recording-summarizer-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+  Dynamic screen recording summarizer & interactive step extractor (Screenity style)
 
-- **[Zulwatha/content-parity](https://github.com/Zulwatha/content-parity)** ⭐ 19
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.
-
-### 📈 Weekly Trending
-
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 3,875
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  None
-
-- **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** ⭐ 3,428
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
-
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 2,920
+- **[alphaparkinc/genpark-multimodal-meeting-audio-agenda-task-extractor-skill](https://github.com/alphaparkinc/genpark-multimodal-meeting-audio-agenda-task-extractor-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous research system for measurable, computer-executable research.
+  Multimodal meeting audio scribe & agenda task extractor (Granola AI style)
 
-- **[tobi/walgit](https://github.com/tobi/walgit)** ⭐ 2,321
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  None
-
-- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,063
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
-
-- **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** ⭐ 996
-  ![Astro](https://img.shields.io/badge/-Astro-lightgrey)
-  302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
-
-- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 901
+- **[alphaparkinc/genpark-neural-form-field-auto-filler-workflow-skill](https://github.com/alphaparkinc/genpark-neural-form-field-auto-filler-workflow-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
+  Neural form auto-filler & schema field compliance extractor (Fillout style)
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 884
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-
-### 📈 Monthly Trending
-
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 203,284
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSeek Harness: Everything is a Plugin.
-
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 21,835
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,220
+- **[alphaparkinc/genpark-dependency-firewall-cve-quarantine-package-proxy-skill](https://github.com/alphaparkinc/genpark-dependency-firewall-cve-quarantine-package-proxy-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A privacy-first app that strips AI watermarks from content you own.
+  Dependency firewall package proxy & CVE quarantine gatekeeper (GitLab Firewall style)
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,189
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,536
+- **[alphaparkinc/genpark-kubernetes-gitops-manifest-drift-reconciliation-skill](https://github.com/alphaparkinc/genpark-kubernetes-gitops-manifest-drift-reconciliation-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-
-- **[trycompai/crm](https://github.com/trycompai/crm)** ⭐ 9,089
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
-
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 8,814
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
-
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,949
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+  Kubernetes GitOps manifest drift reconciliation & security scanner (GitLab Agent style)
 
 ## 🚀 Latest Releases
 
@@ -490,59 +419,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟢 Proficient |
-| JavaScript | 🟡 Learning |
-| TypeScript | 🔴 Beginner |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | ⚪ Planned |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
+| React | 🟡 Learning |
 | Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟢 Proficient |
-| Next.js | 🔴 Beginner |
+| Django | ⚪ Planned |
+| Node.js | 🔴 Beginner |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
+| Web Security | 🟢 Proficient |
+| Network Security | 🟡 Learning |
 | OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟢 Proficient |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | 🔴 Beginner |
 | Web3 | ⚪ Planned |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -560,7 +489,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** August 29, 2026
+**Last Updated:** August 30, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
