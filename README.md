@@ -46,36 +46,39 @@
 
 ### 📑 Hacker News
 
-- **[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)**
-  *<p>Article URL: <a href="https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Mon, 31 Aug 2026 01:28:22 +0000
+- **[Lake Ontario Now Called Lake America on Google Maps](https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b)**
+  *<p>Article URL: <a href="https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b">https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b<...*
+  📅 Mon, 31 Aug 2026 12:02:08 +0000
 
-- **[How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)**
-  *<p>Article URL: <a href="https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-mod...*
-  📅 Sun, 30 Aug 2026 23:41:32 +0000
+- **[I Think the Military Commissary's Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)**
+  *<p>Article URL: <a href="https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary">https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary</a></p>
+<p>Comment...*
+  📅 Mon, 31 Aug 2026 11:45:48 +0000
 
-- **[Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)**
-  *<p>Article URL: <a href="https://www.abortretry.fail/p/matrox">https://www.abortretry.fail/p/matrox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503934">https://news.ycombi...*
-  📅 Sun, 30 Aug 2026 23:39:35 +0000
+- **[Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)**
+  *<p>Article URL: <a href="https://calpaterson.com/memoryfields.html">https://calpaterson.com/memoryfields.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49508317">https://n...*
+  📅 Mon, 31 Aug 2026 11:17:25 +0000
 
-- **[“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)**
-  *<p>Article URL: <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>
+- **[A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)**
+  *<p>Article URL: <a href="https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/">https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
+  📅 Mon, 31 Aug 2026 11:13:17 +0000
+
+- **[The AI-Native SDLC Starts with Your Infrastructure](https://metalbear.com/blog/ai-native-sdlc-infrastructure/)**
+  *<p>Article URL: <a href="https://metalbear.com/blog/ai-native-sdlc-infrastructure/">https://metalbear.com/blog/ai-native-sdlc-infrastructure/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Sun, 30 Aug 2026 22:49:48 +0000
+  📅 Mon, 31 Aug 2026 10:57:30 +0000
 
-- **[Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html)**
-  *<p>Article URL: <a href="https://sander.ai/2026/08/24/continuous-dlms.html">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=495...*
-  📅 Sun, 30 Aug 2026 20:46:53 +0000
-
-- **[Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)**
-  *<p>Article URL: <a href="https://www.righto.com/2026/08/spacelab-core-memory.html">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 30 Aug 2026 20:00:25 +0000
+- **[OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)**
+  *<p>Article URL: <a href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/">https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-be...*
+  📅 Mon, 31 Aug 2026 09:59:05 +0000
 
 ### 📑 TechCrunch
+
+- **[The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
+  *The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....*
+  📅 Mon, 31 Aug 2026 02:34:00 +0000
 
 - **[Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)**
   *George Arison is done letting Wall Street's "Grindr discount" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcar...*
@@ -97,19 +100,15 @@
   *Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment....*
   📅 Sun, 30 Aug 2026 15:00:00 +0000
 
-- **[Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)**
-  *This latest lawsuit is particularly broad and homes in on accusations of illegal piracy....*
-  📅 Sat, 29 Aug 2026 18:41:59 +0000
-
 ### 📑 Dev.to
 
-- **[Fillable Tax Forms with Asynchronous Jobs, Retries, and Latency Control](https://dev.to/lachlanholm6518/fillable-tax-forms-with-asynchronous-jobs-retries-and-latency-control-2k75)**
-  *<p>A Node.js service can fill a tax form inline, but accepting the request is not the expensive part. Preserving page geometry while filling fields, validating the result, redacting personal data, and...*
-  📅 Mon, 31 Aug 2026 02:26:05 +0000
+- **[GitHub Copilot AI Credits vs Claude Code: The Real Math on What Your AI Coding Costs Now](https://dev.to/jamilxt/github-copilot-ai-credits-vs-claude-code-the-real-math-on-what-your-ai-coding-costs-now-852)**
+  *<p>Three months ago, almost every AI coding tool had the same deal: pay a flat monthly fee, use it until you hit a wall. That era is over. On June 1, 2026, GitHub flipped Copilot from counting request...*
+  📅 Mon, 31 Aug 2026 12:04:26 +0000
 
-- **[SaaS: reactivacion con senales de producto](https://dev.to/hannahdev56/saas-reactivacion-con-senales-de-producto-2731)**
-  *<p>Muchos equipos SaaS mandan emails de reactivación cuando un usuario lleva varios días sin entrar y esperan que eso alcance. A veces funciona un poco. Muchas veces no. El problema no suele ser el as...*
-  📅 Mon, 31 Aug 2026 02:23:53 +0000
+- **[Diff Every Tool Call: Replaying Agent Runs from a JSONL Trace](https://dev.to/apprs_6334/diff-every-tool-call-replaying-agent-runs-from-a-jsonl-trace-2b75)**
+  *<p>Production failed on Friday. My final transcript looked clean. The agent answered, cited sources, and summarized. The raw trace told a different story. It called the same endpoint three times with ...*
+  📅 Mon, 31 Aug 2026 12:01:47 +0000
 
 </details>
 
@@ -117,103 +116,103 @@
 
 ### 📈 Daily Trending
 
-- **[sharptoolbox/Onto-Contract](https://github.com/sharptoolbox/Onto-Contract)** ⭐ 5
+- **[GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool)** ⭐ 415
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Ontology-driven AI-native contract management system / 本体驱动的 AI 原生合同管理系统
+  Coomer Tool
 
-- **[ych8836-ops/ComfyUI-RTX-Video-Restoration](https://github.com/ych8836-ops/ComfyUI-RTX-Video-Restoration)** ⭐ 4
+- **[siknet/FreePEP](https://github.com/siknet/FreePEP)** ⭐ 113
   ![Python](https://img.shields.io/badge/-Python-blue)
-  ComfyUI video restoration and upscaling node using NVIDIA VFX VSR, Tensor detail recovery, temporal stabilization, and source-audio preservation.
+  人教社电子教材下载器
 
-- **[z985313021-alt/WebGIS-TEST](https://github.com/z985313021-alt/WebGIS-TEST)** ⭐ 2
-  ![Vue](https://img.shields.io/badge/-Vue-lightgrey)
+- **[AMAP-ML/LoopArena](https://github.com/AMAP-ML/LoopArena)** ⭐ 67
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Benchmarking models as runtime Controllers for Loop Engineering
+
+- **[HydromancerRoute/DiscordFix](https://github.com/HydromancerRoute/DiscordFix)** ⭐ 50
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  Дискорд фикс — модифицированная сборка на основе Zapret и GoodbyeDPI, предназначенная для обхода ограничений РКН и стабильного использования Discord в России.
+
+- **[blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game)** ⭐ 33
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[sharptoolbox/Onto-DataAnalyse](https://github.com/sharptoolbox/Onto-DataAnalyse)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Ontology-driven e-commerce analytics system / 本体驱动的电商数据智能分析系统
+- **[mizorewww/course2md](https://github.com/mizorewww/course2md)** ⭐ 29
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  None
 
-- **[zangquanye/GameHack](https://github.com/zangquanye/GameHack)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  gamehack AI game shell
+- **[armsjoninrescue/DiscordFix](https://github.com/armsjoninrescue/DiscordFix)** ⭐ 27
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  Дискорд фикс — кастомная сборка на базе Zapret и GoodbyeDPI, созданная для обхода ограничений РКН и стабильной работы Discord в России.
 
-- **[tech-shrimp/txt_image_animation](https://github.com/tech-shrimp/txt_image_animation)** ⭐ 2
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  AI 信息图动画生成器
-
-- **[ming1700/CVE-2026-38192](https://github.com/ming1700/CVE-2026-38192)** ⭐ 2
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  pluck-CMS-4.7.20-code-injection-vulnerability
-
-- **[Nagi-ovo/dsh-music-tui](https://github.com/Nagi-ovo/dsh-music-tui)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  YesPlayMusic controls and now-playing status for dsh-TUI
+- **[stalkertaleseparate/zapret-discord-youtube](https://github.com/stalkertaleseparate/zapret-discord-youtube)** ⭐ 27
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  Дискорд фикс — модифицированная сборка на основе Zapret и GoodbyeDPI, предназначенная для обхода ограничений РКН и стабильного использования Discord в России.
 
 ### 📈 Weekly Trending
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 4,531
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 4,818
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,148
+- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,179
   ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
   None
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 1,440
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 1,672
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** ⭐ 1,227
+- **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** ⭐ 1,228
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
 
-- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,084
+- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,120
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
 
-- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 942
+- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,118
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
+
+- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 977
   ![Python](https://img.shields.io/badge/-Python-blue)
   WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
 
-- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 930
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-
-- **[tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)** ⭐ 801
+- **[tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)** ⭐ 819
   ![Python](https://img.shields.io/badge/-Python-blue)
   None
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 204,905
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 205,882
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,129
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,353
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,499
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,596
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,434
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,565
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,725
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,847
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,058
+- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,113
   ![Python](https://img.shields.io/badge/-Python-blue)
   Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,976
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,993
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,520
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,564
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
@@ -486,59 +485,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🔴 Beginner |
+| React | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | ⚪ Planned |
 | Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | 🟢 Proficient |
-| Network Security | 🔴 Beginner |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🔴 Beginner |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | ⚪ Planned |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟡 Learning |
-| Kubernetes | ⚪ Planned |
-| CI/CD | ⚪ Planned |
-| AWS | 🔴 Beginner |
-| Azure | 🔴 Beginner |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🔴 Beginner |
+| AWS | ⚪ Planned |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
