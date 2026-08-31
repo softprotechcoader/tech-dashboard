@@ -46,69 +46,69 @@
 
 ### 📑 Hacker News
 
-- **[Lake Ontario Now Called Lake America on Google Maps](https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b)**
-  *<p>Article URL: <a href="https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b">https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b<...*
-  📅 Mon, 31 Aug 2026 12:02:08 +0000
+- **[How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)**
+  *<p>Article URL: <a href="https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails">https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails</a></p>
+<p>Comme...*
+  📅 Mon, 31 Aug 2026 21:12:22 +0000
 
-- **[I Think the Military Commissary's Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)**
-  *<p>Article URL: <a href="https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary">https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary</a></p>
-<p>Comment...*
-  📅 Mon, 31 Aug 2026 11:45:48 +0000
+- **[Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)**
+  *<p>Article URL: <a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/">https://webiterate.dev/google-removed-extensions-ublock-origin-108/</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Mon, 31 Aug 2026 21:10:58 +0000
 
-- **[Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)**
-  *<p>Article URL: <a href="https://calpaterson.com/memoryfields.html">https://calpaterson.com/memoryfields.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49508317">https://n...*
-  📅 Mon, 31 Aug 2026 11:17:25 +0000
+- **[Autonomous (YC F25) Is Hiring Engineers](https://news.ycombinator.com/item?id=49514781)**
+  *<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514781">https://news.ycombinator.com/item?id=49514781</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>...*
+  📅 Mon, 31 Aug 2026 21:00:09 +0000
 
-- **[A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)**
-  *<p>Article URL: <a href="https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/">https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Mon, 31 Aug 2026 11:13:17 +0000
+- **[A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)**
+  *<p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors...*
+  📅 Mon, 31 Aug 2026 18:21:33 +0000
 
-- **[The AI-Native SDLC Starts with Your Infrastructure](https://metalbear.com/blog/ai-native-sdlc-infrastructure/)**
-  *<p>Article URL: <a href="https://metalbear.com/blog/ai-native-sdlc-infrastructure/">https://metalbear.com/blog/ai-native-sdlc-infrastructure/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Mon, 31 Aug 2026 10:57:30 +0000
+- **[The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)**
+  *<p>Article URL: <a href="http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html">http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html</a></p...*
+  📅 Mon, 31 Aug 2026 18:12:20 +0000
 
-- **[OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)**
-  *<p>Article URL: <a href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/">https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-be...*
-  📅 Mon, 31 Aug 2026 09:59:05 +0000
+- **['Stunning' percolation proof solves decades-old puzzle about phase transitions](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)**
+  *<p>Article URL: <a href="https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/">https://www.quantamagazine.org/stunning-percolation-proo...*
+  📅 Mon, 31 Aug 2026 17:22:43 +0000
 
 ### 📑 TechCrunch
 
-- **[The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
-  *The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....*
-  📅 Mon, 31 Aug 2026 02:34:00 +0000
+- **[FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit](https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/)**
+  *Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising....*
+  📅 Mon, 31 Aug 2026 20:20:25 +0000
 
-- **[Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)**
-  *George Arison is done letting Wall Street's "Grindr discount" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcar...*
-  📅 Mon, 31 Aug 2026 02:18:57 +0000
+- **[The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)**
+  *Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools....*
+  📅 Mon, 31 Aug 2026 20:13:45 +0000
 
-- **[Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/)**
-  *The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability....*
-  📅 Sun, 30 Aug 2026 18:33:44 +0000
+- **[Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)**
+  *Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event....*
+  📅 Mon, 31 Aug 2026 19:32:21 +0000
 
-- **[Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)**
-  *Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg...*
-  📅 Sun, 30 Aug 2026 16:54:25 +0000
+- **[Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)**
+  *As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles....*
+  📅 Mon, 31 Aug 2026 19:16:59 +0000
 
-- **[TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)**
-  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
-  📅 Sun, 30 Aug 2026 16:03:00 +0000
+- **[Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down](https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/)**
+  *The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring....*
+  📅 Mon, 31 Aug 2026 19:02:06 +0000
 
-- **[Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)**
-  *Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment....*
-  📅 Sun, 30 Aug 2026 15:00:00 +0000
+- **[Microsoft tests fix for latest hours-long Outlook outage](https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/)**
+  *Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures....*
+  📅 Mon, 31 Aug 2026 18:56:41 +0000
 
 ### 📑 Dev.to
 
-- **[GitHub Copilot AI Credits vs Claude Code: The Real Math on What Your AI Coding Costs Now](https://dev.to/jamilxt/github-copilot-ai-credits-vs-claude-code-the-real-math-on-what-your-ai-coding-costs-now-852)**
-  *<p>Three months ago, almost every AI coding tool had the same deal: pay a flat monthly fee, use it until you hit a wall. That era is over. On June 1, 2026, GitHub flipped Copilot from counting request...*
-  📅 Mon, 31 Aug 2026 12:04:26 +0000
+- **[The Delegation Boundary: Why AI SEO Workflows Need Clear Permission Limits](https://dev.to/alifar/the-delegation-boundary-why-ai-seo-workflows-need-clear-permission-limits-4g3i)**
+  *<p>AI-assisted SEO is moving beyond content suggestions toward systems that can help discover information, evaluate brands, draft recommendations, and potentially take action. That makes a basic opera...*
+  📅 Mon, 31 Aug 2026 22:00:30 +0000
 
-- **[Diff Every Tool Call: Replaying Agent Runs from a JSONL Trace](https://dev.to/apprs_6334/diff-every-tool-call-replaying-agent-runs-from-a-jsonl-trace-2b75)**
-  *<p>Production failed on Friday. My final transcript looked clean. The agent answered, cited sources, and summarized. The raw trace told a different story. It called the same endpoint three times with ...*
-  📅 Mon, 31 Aug 2026 12:01:47 +0000
+- **[Preparing Your SEO Workflow for Potential Google Spam-Update Ranking Volatility](https://dev.to/alifar/preparing-your-seo-workflow-for-potential-google-spam-update-ranking-volatility-4agg)**
+  *<p>The available material points to concern about spam-related disruption in Google Search results, but it does not provide a verified Google announcement, update date, scope, or confirmed ranking-imp...*
+  📅 Mon, 31 Aug 2026 21:45:30 +0000
 
 </details>
 
@@ -116,49 +116,49 @@
 
 ### 📈 Daily Trending
 
-- **[GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool)** ⭐ 415
+- **[GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool)** ⭐ 625
   ![Python](https://img.shields.io/badge/-Python-blue)
   Coomer Tool
 
-- **[siknet/FreePEP](https://github.com/siknet/FreePEP)** ⭐ 113
+- **[siknet/FreePEP](https://github.com/siknet/FreePEP)** ⭐ 180
   ![Python](https://img.shields.io/badge/-Python-blue)
   人教社电子教材下载器
 
-- **[AMAP-ML/LoopArena](https://github.com/AMAP-ML/LoopArena)** ⭐ 67
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Benchmarking models as runtime Controllers for Loop Engineering
-
-- **[HydromancerRoute/DiscordFix](https://github.com/HydromancerRoute/DiscordFix)** ⭐ 50
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  Дискорд фикс — модифицированная сборка на основе Zapret и GoodbyeDPI, предназначенная для обхода ограничений РКН и стабильного использования Discord в России.
-
-- **[blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game)** ⭐ 33
+- **[blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game)** ⭐ 97
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   None
 
-- **[mizorewww/course2md](https://github.com/mizorewww/course2md)** ⭐ 29
+- **[mizorewww/course2md](https://github.com/mizorewww/course2md)** ⭐ 89
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   None
 
-- **[armsjoninrescue/DiscordFix](https://github.com/armsjoninrescue/DiscordFix)** ⭐ 27
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  Дискорд фикс — кастомная сборка на базе Zapret и GoodbyeDPI, созданная для обхода ограничений РКН и стабильной работы Discord в России.
+- **[PigeonAlembic/happ](https://github.com/PigeonAlembic/happ)** ⭐ 85
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  🚀 Happ — бесплатный кроссплатформенный прокси-клиент с поддержкой Windows.
 
-- **[stalkertaleseparate/zapret-discord-youtube](https://github.com/stalkertaleseparate/zapret-discord-youtube)** ⭐ 27
-  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
-  Дискорд фикс — модифицированная сборка на основе Zapret и GoodbyeDPI, предназначенная для обхода ограничений РКН и стабильного использования Discord в России.
+- **[subsy/skill-cabinet](https://github.com/subsy/skill-cabinet)** ⭐ 83
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  None
+
+- **[mattrajops2093d5/Meccha-CamoFlage](https://github.com/mattrajops2093d5/Meccha-CamoFlage)** ⭐ 81
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  None
+
+- **[AMAP-ML/LoopArena](https://github.com/AMAP-ML/LoopArena)** ⭐ 70
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Benchmarking models as runtime Controllers for Loop Engineering
 
 ### 📈 Weekly Trending
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 4,818
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,446
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,179
+- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,191
   ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
   None
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 1,672
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 1,816
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
@@ -166,53 +166,53 @@
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
 
-- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,120
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
-
-- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,118
+- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,213
   ![None](https://img.shields.io/badge/-None-lightgrey)
   De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
 
-- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 977
+- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,141
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
+
+- **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** ⭐ 1,000
   ![Python](https://img.shields.io/badge/-Python-blue)
   WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
 
-- **[tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)** ⭐ 819
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
+- **[jub0t/Concat](https://github.com/jub0t/Concat)** ⭐ 879
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Free & Open-Source CapCut replacement. (formerly WolfCut)
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 205,882
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 206,403
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,353
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,445
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,596
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,665
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,565
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,655
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,847
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,889
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,113
+- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,396
   ![Python](https://img.shields.io/badge/-Python-blue)
   Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,993
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 6,997
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,564
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,591
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
@@ -485,59 +485,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🔴 Beginner |
+| Java | 🟡 Learning |
+| Python | ⚪ Planned |
 | JavaScript | 🔴 Beginner |
 | TypeScript | ⚪ Planned |
-| Go | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
-| Spring Boot | 🟢 Proficient |
-| Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | 🟢 Proficient |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🟡 Learning |
+| Node.js | 🟢 Proficient |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
+| Penetration Testing | ⚪ Planned |
 | Web Security | 🔴 Beginner |
-| Network Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
 | OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
 | NLP | ⚪ Planned |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | ⚪ Planned |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
+| Docker | 🟡 Learning |
 | Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | ⚪ Planned |
-| Azure | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | 🟡 Learning |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Web3 | 🟡 Learning |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
