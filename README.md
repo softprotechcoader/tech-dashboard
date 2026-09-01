@@ -46,78 +46,70 @@
 
 ### 📑 Hacker News
 
-- **[AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)**
-  *<p>Article URL: <a href="https://github.com/ankidroid/Anki-Android/issues/21656">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i...*
-  📅 Tue, 01 Sep 2026 10:11:02 +0000
+- **[Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10](https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/)**
+  *<p>Article URL: <a href="https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/">https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos...*
+  📅 Tue, 01 Sep 2026 15:09:44 +0000
 
-- **[44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)**
-  *<p>Article URL: <a href="https://mvakde.github.io/blog/44-on-arc-1/">https://mvakde.github.io/blog/44-on-arc-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49519939">https:/...*
-  📅 Tue, 01 Sep 2026 09:52:45 +0000
+- **[EFF to Governor Newsom: Veto California's AB 1709](https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709)**
+  *<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709">https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709</a></p>
+<p>Comment...*
+  📅 Tue, 01 Sep 2026 15:04:14 +0000
 
-- **[CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer">https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-cust...*
-  📅 Tue, 01 Sep 2026 07:01:49 +0000
+- **[Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)**
+  *<p>Please state the location and include REMOTE for remote work, REMOTE (US)
+or similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you per...*
+  📅 Tue, 01 Sep 2026 15:01:17 +0000
 
-- **[Restroom Archive](https://restroomarchive.com)**
-  *<p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=...*
-  📅 Tue, 01 Sep 2026 03:23:48 +0000
+- **[State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)**
+  *<p>Article URL: <a href="https://huggingface.co/blog/state-of-open-models-summer-2026">https://huggingface.co/blog/state-of-open-models-summer-2026</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Tue, 01 Sep 2026 14:55:50 +0000
 
-- **[GPU World](https://www.gpuworld.org/)**
-  *<p>Article URL: <a href="https://www.gpuworld.org/">https://www.gpuworld.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517584">https://news.ycombinator.com/item?id=4951...*
-  📅 Tue, 01 Sep 2026 03:16:36 +0000
+- **[Urban Congestion Pricing and the Response Times of Emergency Medical Services](https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services)**
+  *<p>Article URL: <a href="https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services">https://www.nber.org/digest/202609/urban-congestion-pricing-and-resp...*
+  📅 Tue, 01 Sep 2026 14:28:24 +0000
 
-- **[Fastpotify](https://fastpotify.rocks/)**
-  *<p>Article URL: <a href="https://fastpotify.rocks/">https://fastpotify.rocks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517448">https://news.ycombinator.com/item?id=4951...*
-  📅 Tue, 01 Sep 2026 02:52:14 +0000
+- **[Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)**
+  *<p>Article URL: <a href="https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept">https://aviationweek.com/defense/aircraft-propulsion/saab...*
+  📅 Tue, 01 Sep 2026 14:19:30 +0000
 
 ### 📑 TechCrunch
 
-- **[If space data centers feel far-fetched, why not interstellar travel?](https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/)**
-  *The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri....*
-  📅 Tue, 01 Sep 2026 10:00:00 +0000
+- **[AIR raises $50M to help companies vet the skills and add-ons AI agents use](https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/)**
+  *AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour....*
+  📅 Tue, 01 Sep 2026 15:45:51 +0000
 
-- **[Magna increases bet on battery swapping in India with $35M for Yuma](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/)**
-  *Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm....*
-  📅 Tue, 01 Sep 2026 05:00:00 +0000
+- **[Microsoft 365 outage drags on, but things are improving](https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/)**
+  *Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates....*
+  📅 Tue, 01 Sep 2026 15:23:15 +0000
 
-- **[Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/)**
-  *Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months....*
-  📅 Tue, 01 Sep 2026 00:30:00 +0000
+- **[Fambot introduces an ‘AI chief of staff’ for families](https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/)**
+  *Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids....*
+  📅 Tue, 01 Sep 2026 15:10:58 +0000
 
-- **[Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/)**
-  *Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation....*
-  📅 Tue, 01 Sep 2026 00:13:00 +0000
+- **[Florida and Texas move to block Flock cameras over privacy concerns](https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/)**
+  *Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns....*
+  📅 Tue, 01 Sep 2026 15:00:10 +0000
 
-- **[Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/)**
-  *The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion....*
-  📅 Mon, 31 Aug 2026 23:41:10 +0000
+- **[This startup is fuel-injecting hydrogen to make cargo ships more efficient](https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/)**
+  *Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana....*
+  📅 Tue, 01 Sep 2026 14:52:12 +0000
 
-- **[a16z brings growth fund to $8.5B days after launching new $1.1B fund](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/)**
-  *Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups....*
-  📅 Mon, 31 Aug 2026 23:14:14 +0000
+- **[Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa](https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/)**
+  *Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook....*
+  📅 Tue, 01 Sep 2026 14:20:44 +0000
 
 ### 📑 Dev.to
 
-- **[Frameworks Didn't Solve CSS. They Avoided It.](https://dev.to/ortizfranklindev/frameworks-didnt-solve-css-they-avoided-it-4e8o)**
-  *<p><em>Also available in <a href="https://dev.to/ortizfranklindev/los-frameworks-no-resolvieron-el-problema-de-css-lo-evitaron-jfk">Español</a></em></p>
+- **[How an Abandoned Client Project Became My Proudest Showcase](https://dev.to/kate8382/how-an-abandoned-client-project-became-my-proudest-showcase-3icj)**
+  *<p>In the <a href="https://coderlegion.com/23258/why-titles-and-price-tags-dont-guarantee-quality-the-work-speaks-for-itself" rel="noopener noreferrer">first part of this series</a>, I walked through ...*
+  📅 Tue, 01 Sep 2026 15:37:02 +0000
 
-<h2>
-  
-  
-  The Problem
-</h2>
-
-<p>"We don't h...*
-  📅 Tue, 01 Sep 2026 10:45:26 +0000
-
-- **[Never run Puppeteer inside a web request: scheduled captures with WP-Cron + a background worker](https://dev.to/petr_savenok/never-run-puppeteer-inside-a-web-request-scheduled-captures-with-wp-cron-a-background-worker-5f9n)**
-  *<p>We let people put a URL on a schedule: re-capture this page daily, weekly, or monthly, and email me only when it actually changes. Simple feature, one sharp edge — and we found it in production.</p...*
-  📅 Tue, 01 Sep 2026 10:42:51 +0000
+- **[🤿 Diving Deep into Google SecOps: From Log Abyss to Automated Playbooks](https://dev.to/exegol/diving-deep-into-google-secops-from-log-abyss-to-automated-playbooks-23ac)**
+  *<ol>
+<li>Introduction: The Telemetry Abyss
+In information security, just like in technical deep-sea diving, we face a vast, silent, and potentially hostile environment. Modern corporate telemetry is a...*
+  📅 Tue, 01 Sep 2026 15:33:53 +0000
 
 </details>
 
@@ -125,11 +117,11 @@
 
 ### 📈 Daily Trending
 
-- **[tsouth89/omakade](https://github.com/tsouth89/omakade)** ⭐ 79
+- **[tsouth89/omakade](https://github.com/tsouth89/omakade)** ⭐ 118
   ![C++](https://img.shields.io/badge/-C++-pink)
   A beautiful, local-first game library built for Omarchy.
 
-- **[AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator)** ⭐ 74
+- **[AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator)** ⭐ 91
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Democratizing Native Audio-Video Generation at 2K Resolution
 
@@ -137,41 +129,41 @@
   ![None](https://img.shields.io/badge/-None-lightgrey)
   🚀 Happ — бесплатный кроссплатформенный прокси-клиент с поддержкой Windows.
 
+- **[niawjunior/aipass-bridge](https://github.com/niawjunior/aipass-bridge)** ⭐ 56
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  A terminal that speaks through a browser tab.
+
+- **[kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot)** ⭐ 52
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.
+
+- **[mahdidavoodi7/react-native-continued-task](https://github.com/mahdidavoodi7/react-native-continued-task)** ⭐ 52
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.
+
 - **[Oilacrossdrag44/Gta-6-Build](https://github.com/Oilacrossdrag44/Gta-6-Build)** ⭐ 50
   ![None](https://img.shields.io/badge/-None-lightgrey)
   Archive and research repository documenting the leaked GTA VI development build. Includes technical analysis, file structure research, version comparisons, and documentation of publicly known leaked materials. No copyrighted game files or executables are distributed.
 
-- **[niawjunior/aipass-bridge](https://github.com/niawjunior/aipass-bridge)** ⭐ 35
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A terminal that speaks through a browser tab.
-
-- **[Archiveuibarn/github-workflow-automation](https://github.com/Archiveuibarn/github-workflow-automation)** ⭐ 23
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  CI/CD orchestration script and automated pull request reviewer utilizing custom GitHub API actions.
-
-- **[HiveBoatwright/solana-sniper-bot](https://github.com/HiveBoatwright/solana-sniper-bot)** ⭐ 23
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Automated high-speed token sniper and liquidity pool monitor for decentralized exchanges on the Solana network.
-
-- **[FractionDefender2/crypto-arbitrage-scanner](https://github.com/FractionDefender2/crypto-arbitrage-scanner)** ⭐ 23
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Real-time cryptocurrency arbitrage scanner and DEX liquidity monitor tracking profitable trading routes across exchanges.
+- **[lisitskyaa/ComfyUI-DLSS5-NR](https://github.com/lisitskyaa/ComfyUI-DLSS5-NR)** ⭐ 30
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  Experimental support of DLSS 5 in ComfyUI
 
 ### 📈 Weekly Trending
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,699
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,925
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** ⭐ 4,210
-  ![TeX](https://img.shields.io/badge/-TeX-lightgrey)
-  None
-
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 2,048
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 2,103
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,311
+- **[crmne/fastpotify](https://github.com/crmne/fastpotify)** ⭐ 1,354
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+
+- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,344
   ![None](https://img.shields.io/badge/-None-lightgrey)
   De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
 
@@ -179,49 +171,49 @@
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
 
-- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,177
+- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,186
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
 
-- **[crmne/fastpotify](https://github.com/crmne/fastpotify)** ⭐ 1,106
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+- **[damejan80/tokentab](https://github.com/damejan80/tokentab)** ⭐ 1,005
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
 
-- **[cbrock84/headcount](https://github.com/cbrock84/headcount)** ⭐ 895
+- **[cbrock84/headcount](https://github.com/cbrock84/headcount)** ⭐ 914
   ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey)
   An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 207,413
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 207,761
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,664
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,724
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,765
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,761
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,801
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 13,997
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,800
+  ![Rust](https://img.shields.io/badge/-Rust-brown)
+  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,039
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,741
+- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,839
   ![Python](https://img.shields.io/badge/-Python-blue)
   Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,015
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,021
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,632
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,655
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
@@ -495,9 +487,9 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 | Skill | Status |
 |-------|--------|
 | Java | ⚪ Planned |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🔴 Beginner |
 | Go | 🟢 Proficient |
 
 ### Frameworks
@@ -505,40 +497,40 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 | Skill | Status |
 |-------|--------|
 | React | 🟢 Proficient |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Spring Boot | ⚪ Planned |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🔴 Beginner |
+| Web Security | ⚪ Planned |
+| Network Security | 🔴 Beginner |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
 | Deep Learning | ⚪ Planned |
 | NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟡 Learning |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
-| Azure | 🟡 Learning |
+| Docker | 🟢 Proficient |
+| Kubernetes | ⚪ Planned |
+| CI/CD | ⚪ Planned |
+| AWS | ⚪ Planned |
+| Azure | 🟢 Proficient |
 
 ### Other
 
@@ -546,7 +538,7 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | Blockchain | 🟢 Proficient |
 | Web3 | ⚪ Planned |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
