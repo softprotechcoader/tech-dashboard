@@ -20,7 +20,7 @@
 | Metric | Count |
 |--------|-------|
 | 📰 Latest News Articles | 26 |
-| 🔥 Trending Repositories | 45 |
+| 🔥 Trending Repositories | 15 |
 | 🎯 Latest Releases | 10 |
 | 🎯 Learning Goals | 4 |
 
@@ -46,71 +46,71 @@
 
 ### 📑 Hacker News
 
-- **[Exit the Cave](https://turtlespace.blog/p/exit-the-cave)**
-  *<p>Article URL: <a href="https://turtlespace.blog/p/exit-the-cave">https://turtlespace.blog/p/exit-the-cave</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536606">https://new...*
-  📅 Wed, 02 Sep 2026 14:16:45 +0000
+- **[The Post-AI Internet Doesn't Look Great](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)**
+  *<p>Article URL: <a href="https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/">https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/</a></p>
+<p>Comments URL: <a href="...*
+  📅 Wed, 02 Sep 2026 19:41:01 +0000
 
-- **[WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)**
-  *<p>Article URL: <a href="https://github.com/mlc-ai/web-llm">https://github.com/mlc-ai/web-llm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536411">https://news.ycombinator....*
-  📅 Wed, 02 Sep 2026 14:02:35 +0000
+- **[Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)**
+  *<p>Article URL: <a href="https://developer.meta.com/ai/models/muse-spark/">https://developer.meta.com/ai/models/muse-spark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541...*
+  📅 Wed, 02 Sep 2026 19:35:04 +0000
 
-- **[GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)**
-  *<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117194007157499435">https://grapheneos.social/@GrapheneOS/117194007157499435</a></p>
+- **[Introducing Muse Spark 1.3](https://research.meta.ai/blog/introducing-muse-spark-1-3)**
+  *<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Wed, 02 Sep 2026 14:00:28 +0000
+  📅 Wed, 02 Sep 2026 19:25:47 +0000
 
-- **[Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)**
-  *<p>Article URL: <a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>
-<p>Comments ...*
-  📅 Wed, 02 Sep 2026 13:59:59 +0000
+- **[Humanity has built the records of FATE by accident](https://ariadne.space/2026/09/01/humanity-has-built-the-records.html)**
+  *<p>Article URL: <a href="https://ariadne.space/2026/09/01/humanity-has-built-the-records.html">https://ariadne.space/2026/09/01/humanity-has-built-the-records.html</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Wed, 02 Sep 2026 19:01:17 +0000
 
-- **[A third of Perplexity's citations don't contain the number they're cited for](https://hausresearch.com/reports/perplexity-citation-audit/)**
-  *<p>Article URL: <a href="https://hausresearch.com/reports/perplexity-citation-audit/">https://hausresearch.com/reports/perplexity-citation-audit/</a></p>
-<p>Comments URL: <a href="https://news.ycombin...*
-  📅 Wed, 02 Sep 2026 13:49:23 +0000
+- **[The American Worker vs. the Most Qualified](https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified)**
+  *<p>Article URL: <a href="https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified">https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified</a></p>
+<p>C...*
+  📅 Wed, 02 Sep 2026 18:43:35 +0000
 
-- **[Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/)**
-  *<p>Article URL: <a href="https://stripeacross.com/posts/poisson-disk-sampling/">https://stripeacross.com/posts/poisson-disk-sampling/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite...*
-  📅 Wed, 02 Sep 2026 13:47:49 +0000
+- **[Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form](https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/)**
+  *<p>Article URL: <a href="https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/">https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-r...*
+  📅 Wed, 02 Sep 2026 18:43:30 +0000
 
 ### 📑 TechCrunch
 
-- **[HiddenLayer nabs $100M as enterprises rush to secure their AI deployments](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/)**
-  *HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others....*
-  📅 Wed, 02 Sep 2026 15:01:23 +0000
+- **[MapQuest is now the No. 1 U.S. app after bucking Trump’s ‘Lake America’ renaming](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/)**
+  *The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days....*
+  📅 Wed, 02 Sep 2026 20:12:41 +0000
 
-- **[PSA: Amazon’s shopping AI can now tell you if that message is a scam](https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/)**
-  *Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer....*
-  📅 Wed, 02 Sep 2026 14:56:34 +0000
+- **[It sure looks like hackers breached a major ID card verification service](https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/)**
+  *An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down....*
+  📅 Wed, 02 Sep 2026 19:35:09 +0000
 
-- **[Adobe acquires Indian market intelligence startup Rilo](https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/)**
-  *This is Adobe's second acquisition out of India after Rephrase.ai in 2023...*
-  📅 Wed, 02 Sep 2026 14:03:57 +0000
+- **[Delivery Hero board backs Uber’s $15B takeover bid](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/)**
+  *If approved, the combined company would become one of the largest food delivery platforms in the world....*
+  📅 Wed, 02 Sep 2026 19:25:35 +0000
 
-- **[Norway considers ban on camera-enabled wearable ‘pervert glasses’](https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/)**
-  *The Nordic country says wearable camera headsets need to be regulated given their privacy risks....*
-  📅 Wed, 02 Sep 2026 13:11:47 +0000
+- **[Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/)**
+  *The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ...*
+  📅 Wed, 02 Sep 2026 17:18:13 +0000
 
-- **[Adobe is making its tools available in Slack](https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/)**
-  *Users will be able to access Express, Premiere, and Acrobat in Slack...*
-  📅 Wed, 02 Sep 2026 13:09:27 +0000
+- **[X shifts US creator payouts from Stripe to X Money](https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/)**
+  *X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system....*
+  📅 Wed, 02 Sep 2026 17:12:27 +0000
 
-- **[Uber is laying off 10% of staff, or 3,300 people](https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/)**
-  *Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions....*
-  📅 Wed, 02 Sep 2026 12:14:35 +0000
+- **[US government sides with OpenAI on issue of training LLMs on copyrighted material](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)**
+  *"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use
+globally," t...*
+  📅 Wed, 02 Sep 2026 17:09:06 +0000
 
 ### 📑 Dev.to
 
-- **[Building a multi-region routing system with Cloudflare Workers](https://dev.to/vatsalpatel/building-a-multi-region-routing-system-with-cloudflare-workers-4p4o)**
-  *<p>We serve customers primarily in Australia, but we are now expanding to the USA. The timeline for launch is less than 2 months. This is now a race against time to design a multi-region routing syste...*
-  📅 Wed, 02 Sep 2026 15:30:39 +0000
+- **[How to Build a Website for Browsers and AI Agents From a Shared Content Model](https://dev.to/madebymonogram/how-to-build-a-website-for-browsers-and-ai-agents-from-a-shared-content-model-5dnc)**
+  *<p>The <a href="https://monogram.io/work/walden-robotics" rel="noopener noreferrer">Walden Robotics website</a> uses 19 reusable content components and publishes 6 discovery surfaces for automated cli...*
+  📅 Wed, 02 Sep 2026 20:08:22 +0000
 
-- **[CQRS: Read-Write Separation Design Pattern](https://dev.to/bibekkakati/cqrs-read-write-separation-design-pattern-49fe)**
-  *<p>In traditional software architectures, we almost instinctively reach for the CRUD (Create, Read, Update, Delete) paradigm. We design an entity model, map it to a relational schema using an ORM, and...*
-  📅 Wed, 02 Sep 2026 15:29:30 +0000
+- **[Almanac's Company-Context Agent: How YC S26 Wires Internal Knowledge into Every LLM Call](https://dev.to/mech_app_ai/almanacs-company-context-agent-how-yc-s26-wires-internal-knowledge-into-every-llm-call-45gc)**
+  *<p>Almanac (YC S26) launched with a promise to solve the context-persistence problem that breaks most multi-agent financial systems: agents that forget company policies between calls, hallucinate org ...*
+  📅 Wed, 02 Sep 2026 20:07:20 +0000
 
 </details>
 
@@ -126,97 +126,29 @@
   ![Java](https://img.shields.io/badge/-Java-orange)
   SmartBus is a web-based Bus Tracking and Management System developed to simplify public transportation management. The application allows users to view bus routes, bus stops, bus timings, and track bus locations.  The system also includes an admin module to manage buses, routes, stops, timings, and tracking information efficiently.
 
+- **[Maas6696/cloudflare-challenge-clearance](https://github.com/Maas6696/cloudflare-challenge-clearance)** ⭐ 65
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Bypass the Cloudflare challenge (Just a moment / 5s) in Python and get a valid cf_clearance cookie via the Peak API - headless-friendly, proxy-aware.
+
+- **[kowalski76057/cf-turnstile-token](https://github.com/kowalski76057/cf-turnstile-token)** ⭐ 63
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Scriptable Cloudflare Turnstile token CLI via the Peak API - sitekey discovery, solve, and token output for CI and automation.
+
 - **[ZekunCheng/novoweave](https://github.com/ZekunCheng/novoweave)** ⭐ 62
   ![Python](https://img.shields.io/badge/-Python-blue)
   NovoWeave — a conceptual generative protein-design framework (non-functional pseudocode).
+
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 58
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
 - **[guajiimi/unikeyfarmer](https://github.com/guajiimi/unikeyfarmer)** ⭐ 54
   ![Python](https://img.shields.io/badge/-Python-blue)
   Multi-thread Web3 wallet farmer untuk getunikey.ai — register → API key → precheck. Pure HTTP, multi-thread, per-worker proxy.
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 49
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
-
-- **[Wh1tZz/Tibo-Please](https://github.com/Wh1tZz/Tibo-Please)** ⭐ 42
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  基于Remotion制作的Codex动画
-
-- **[Mr-Karan3376/code-unnati-3rd-Year](https://github.com/Mr-Karan3376/code-unnati-3rd-Year)** ⭐ 41
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  This Repository will act like the codebase for the Pallavi College of Engineering 3rd Year Code Unnati Students 
-
-- **[antfu/eslint-plugin-slop](https://github.com/antfu/eslint-plugin-slop)** ⭐ 30
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ESLint rules for guarding AI slops in code.
-
-### 📈 Weekly Trending
-
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,786
+- **[aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard)** ⭐ 53
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous research system for measurable, computer-executable research.
-
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 2,255
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-
-- **[crmne/fastpotify](https://github.com/crmne/fastpotify)** ⭐ 1,758
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
-
-- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,482
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-
-- **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** ⭐ 1,229
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
-
-- **[damejan80/tokentab](https://github.com/damejan80/tokentab)** ⭐ 1,142
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
-
-- **[cbrock84/headcount](https://github.com/cbrock84/headcount)** ⭐ 1,055
-  ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey)
-  An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
-
-- **[jprx/darwin-vm](https://github.com/jprx/darwin-vm)** ⭐ 926
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
-
-### 📈 Monthly Trending
-
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 209,319
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSeek Harness: Everything is a Plugin.
-
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,002
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,028
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A privacy-first app that strips AI watermarks from content you own.
-
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,207
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 10,187
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
-
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,029
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,786
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Autonomous research system for measurable, computer-executable research.
-
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,724
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+  A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production.
 
 ## 🚀 Latest Releases
 
@@ -225,11 +157,11 @@
 
 ### 📦 microsoft/vscode
 
-**[1.135.0](https://github.com/microsoft/vscode/releases/tag/1.135.0)** `1.135.0`
+**[1.136.0](https://github.com/microsoft/vscode/releases/tag/1.136.0)** `1.136.0`
 
-📅 Released: August 26, 2026
+📅 Released: September 02, 2026
 
-https://code.visualstudio.com/updates/v1_135...
+https://code.visualstudio.com/updates/v1_136...
 
 ---
 
@@ -292,11 +224,11 @@ Please refer...
 
 ### 📦 pytorch/pytorch
 
-**[PyTorch 2.13.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.13.0)** `v2.13.0`
+**[PyTorch 2.14.0 Release](https://github.com/pytorch/pytorch/releases/tag/v2.14.0)** `v2.14.0`
 
-📅 Released: July 08, 2026
+📅 Released: September 02, 2026
 
-# PyTorch 2.13.0 Release Notes
+# PyTorch 2.14.0 Release Notes
 
 - [Highlights](#highlights)
 - [Backwards Incompatible Changes](#backwards-incompatible-changes)
@@ -487,59 +419,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | 🟢 Proficient |
-| JavaScript | ⚪ Planned |
-| TypeScript | 🟡 Learning |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟢 Proficient |
+| Go | 🔴 Beginner |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
-| Django | 🟡 Learning |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| React | 🟢 Proficient |
+| Spring Boot | 🟢 Proficient |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🔴 Beginner |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Web Security | 🟡 Learning |
+| Network Security | 🟢 Proficient |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟢 Proficient |
-| Deep Learning | 🟢 Proficient |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
 | PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Docker | 🔴 Beginner |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
+| Blockchain | 🟢 Proficient |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🟢 Proficient |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
