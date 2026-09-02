@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 01, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 02, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,71 +46,72 @@
 
 ### 📑 Hacker News
 
-- **[Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)**
-  *<p>Article URL: <a href="https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>
-<p>Comments ...*
-  📅 Tue, 01 Sep 2026 19:55:47 +0000
+- **[Claude Fable 5.1 made me a nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)**
+  *<p>Article URL: <a href="https://simonwillison.net/2026/Sep/1/claude-fable-5-1/">https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i...*
+  📅 Wed, 02 Sep 2026 01:05:52 +0000
 
-- **[What's the Scam?](https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html)**
-  *<p>Article URL: <a href="https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html">https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html</a></p>
-<p>Comments URL: <a href="https:...*
-  📅 Tue, 01 Sep 2026 18:46:59 +0000
+- **[The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)**
+  *<p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
+<p>Comments URL: <a href="ht...*
+  📅 Tue, 01 Sep 2026 23:48:05 +0000
 
-- **[How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)**
-  *<p>Article URL: <a href="https://danluu.com/zitron/">https://danluu.com/zitron/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49526069">https://news.ycombinator.com/item?id=49...*
-  📅 Tue, 01 Sep 2026 18:35:15 +0000
+- **[Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)**
+  *<p>Article URL: <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>
+<p>Comments URL: <a href="http...*
+  📅 Tue, 01 Sep 2026 23:12:45 +0000
 
-- **[There Is No AI](https://wadler.blogspot.com/2026/08/there-is-no-ai.html)**
-  *<p>Article URL: <a href="https://wadler.blogspot.com/2026/08/there-is-no-ai.html">https://wadler.blogspot.com/2026/08/there-is-no-ai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Tue, 01 Sep 2026 18:18:54 +0000
+- **[My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)**
+  *<p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://n...*
+  📅 Tue, 01 Sep 2026 22:30:52 +0000
 
-- **[Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)**
-  *<p>What's new in Claude Fable 5.1
- – <a href="https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1" rel="nofollow">https://platform.claude.com/docs/en/models/fable-5-1/whats-n...</...*
-  📅 Tue, 01 Sep 2026 17:53:53 +0000
+- **[Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)**
+  *<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube ...*
+  📅 Tue, 01 Sep 2026 22:06:57 +0000
 
-- **[The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)**
-  *<p>Article URL: <a href="https://ersc.io/blog/martin-joins-ersc">https://ersc.io/blog/martin-joins-ersc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49525297">https://news.yc...*
-  📅 Tue, 01 Sep 2026 17:46:21 +0000
+- **[Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)**
+  *<p>Article URL: <a href="https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears">https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Tue, 01 Sep 2026 21:19:10 +0000
 
 ### 📑 TechCrunch
 
-- **[John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO](https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/)**
-  *Apple is hosting its iPhone release event next week, which is rumored to feature the first ever foldable iPhone....*
-  📅 Tue, 01 Sep 2026 19:45:28 +0000
+- **[Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)**
+  *The company told TechCrunch he is "pursuing new endeavors." Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025....*
+  📅 Tue, 01 Sep 2026 23:59:59 +0000
 
-- **[Anthropic’s new Fable release is cheaper, less restrictive](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/)**
-  *Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards....*
-  📅 Tue, 01 Sep 2026 19:39:22 +0000
+- **[Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)**
+  *JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore....*
+  📅 Tue, 01 Sep 2026 23:00:00 +0000
 
-- **[Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer](https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/)**
-  *New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer....*
-  📅 Tue, 01 Sep 2026 19:30:24 +0000
+- **[Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)**
+  *Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America....*
+  📅 Tue, 01 Sep 2026 22:13:34 +0000
 
-- **[Who is John Ternus, the new Apple CEO?](https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/)**
-  *Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained ...*
-  📅 Tue, 01 Sep 2026 18:02:00 +0000
+- **[AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)**
+  *AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April....*
+  📅 Tue, 01 Sep 2026 22:08:24 +0000
 
-- **[Google’s answer to Canva is an AI tool where you prompt instead of design](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/)**
-  *With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach....*
-  📅 Tue, 01 Sep 2026 17:35:37 +0000
+- **[OpenAI’s Astra model is on the way — and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)**
+  *OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM....*
+  📅 Tue, 01 Sep 2026 21:06:24 +0000
 
-- **[ChatGPT Health adds Epic integration for clinicians to import patient data](https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/)**
-  *OpenAI said that the integration provides read-only access to health records for clinicians....*
-  📅 Tue, 01 Sep 2026 17:00:00 +0000
+- **[Google’s Android update tackles motion sickness, accessibility, and more](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/)**
+  *While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements....*
+  📅 Tue, 01 Sep 2026 20:53:05 +0000
 
 ### 📑 Dev.to
 
-- **[OpenAI Prism Launches a GPT-5.2 Workspace for Scientific and LaTeX Writing](https://dev.to/alifar/openai-prism-launches-a-gpt-52-workspace-for-scientific-and-latex-writing-1o5j)**
-  *<p>OpenAI has launched <strong>Prism</strong>, a free AI-native workspace for scientists to write, revise, collaborate on, and prepare research for publication. Built on GPT-5.2, <a href="https://scal...*
-  📅 Tue, 01 Sep 2026 20:15:30 +0000
+- **[OpenAI’s Astra Roadmap Signals a Safety-Gated Next Model, but Key Details Remain](https://dev.to/alifar/openais-astra-roadmap-signals-a-safety-gated-next-model-but-key-details-remain-1efb)**
+  *<p>OpenAI’s <a href="https://scalevise.com/resources/openai/" rel="noopener noreferrer">public model roadmap</a> points to a new phase of frontier AI development in which capability gains are paired w...*
+  📅 Wed, 02 Sep 2026 02:00:31 +0000
 
-- **[Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf)**
-  *<p>I am not a fan of pull requests (PRs). I've <a href="https://sethorell.substack.com/p/code-review-musings" rel="noopener noreferrer">written about them</a>, lost bloody battles over them (Hi, Amazo...*
-  📅 Tue, 01 Sep 2026 20:09:42 +0000
+- **[Phone Login Admin Operations — Exact Lookup, Profile Updates, and Controlled Deletion](https://dev.to/aidensterling3417/phone-login-admin-operations-exact-lookup-profile-updates-and-controlled-deletion-259d)**
+  *<p>Short answer: model every admin action as a validated, auditable, recoverable state transition; use the user ID after lookup, and put deletion behind an explicit policy check.</p>
+
+<p>This is the c...*
+  📅 Wed, 02 Sep 2026 01:51:00 +0000
 
 </details>
 
@@ -118,53 +119,53 @@
 
 ### 📈 Daily Trending
 
-- **[tsouth89/omakade](https://github.com/tsouth89/omakade)** ⭐ 141
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  A beautiful, local-first game library built for Omarchy.
+- **[Leoruiz197/1TIAPR-2026](https://github.com/Leoruiz197/1TIAPR-2026)** ⭐ 18
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  conteudo das aulas da turma 1TIAPR 2026
 
-- **[Sharonh43297/cloudflare-turnstile-examples](https://github.com/Sharonh43297/cloudflare-turnstile-examples)** ⭐ 106
+- **[Anay0305/burn](https://github.com/Anay0305/burn)** ⭐ 3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  BURN — live token & cost burn-rate monitor for Claude Code, Codex and OpenCode. Web dashboard + TUI + notifications, all local.
+
+- **[egondo/1tdspr_2026](https://github.com/egondo/1tdspr_2026)** ⭐ 3
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Repositorio da turma 1tdspr 2 sem 2026
+
+- **[Theresa-Gao-0529/MSSP607](https://github.com/Theresa-Gao-0529/MSSP607)** ⭐ 2
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-lightgrey)
+  None
+
+- **[hasan-ismail/themachine](https://github.com/hasan-ismail/themachine)** ⭐ 2
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Fully offline Android voice assistant — alarms, timers, reminders and tasks. Whisper + Gemma + Piper, all on-device. No telemetry.
+
+- **[LuizFelipeRodriguesM/voice-notes](https://github.com/LuizFelipeRodriguesM/voice-notes)** ⭐ 2
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Grava reunião pelo iPhone e a ata aparece organizada no Notion. Bun + LangGraph + OpenAI.
+
+- **[zeroa234/ryza-ai-revive](https://github.com/zeroa234/ryza-ai-revive)** ⭐ 2
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Offline fan-made Ryza AI companion. Bring your own LLM/TTS. 离线同人莱莎 AI 陪伴，自填大模型与语音。
+
+- **[Rang97/Final_Project](https://github.com/Rang97/Final_Project)** ⭐ 2
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
-- **[AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator)** ⭐ 98
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Democratizing Native Audio-Video Generation at 2K Resolution
-
-- **[mahdidavoodi7/react-native-continued-task](https://github.com/mahdidavoodi7/react-native-continued-task)** ⭐ 95
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.
-
-- **[CircuitSavage/cloudflare-turnstile-reversed](https://github.com/CircuitSavage/cloudflare-turnstile-reversed)** ⭐ 74
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Cloudflare Turnstile challenge internals: the live request flow, the challenge bundle, and a capture toolkit.
-
-- **[InletCardinalStrait/TelegramFix](https://github.com/InletCardinalStrait/TelegramFix)** ⭐ 64
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  ⚡ TG WS Proxy — MTProto-прокси для Windows с WebSocket (TLS) для быстрого Telegram.
-
-- **[niawjunior/aipass-bridge](https://github.com/niawjunior/aipass-bridge)** ⭐ 60
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  A terminal that speaks through a browser tab.
-
-- **[Virtualtaknot/happ-vpn](https://github.com/Virtualtaknot/happ-vpn)** ⭐ 59
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  🚀 Happ — бесплатный кроссплатформенный прокси-клиент с поддержкой Windows.
-
 ### 📈 Weekly Trending
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,082
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,208
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 2,119
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 2,145
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
-- **[crmne/fastpotify](https://github.com/crmne/fastpotify)** ⭐ 1,474
+- **[crmne/fastpotify](https://github.com/crmne/fastpotify)** ⭐ 1,552
   ![Rust](https://img.shields.io/badge/-Rust-brown)
   Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
-- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,349
+- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,358
   ![Python](https://img.shields.io/badge/-Python-blue)
   De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
 
@@ -172,41 +173,37 @@
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
   🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
 
-- **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** ⭐ 1,200
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
-
-- **[damejan80/tokentab](https://github.com/damejan80/tokentab)** ⭐ 1,132
+- **[damejan80/tokentab](https://github.com/damejan80/tokentab)** ⭐ 1,138
   ![Python](https://img.shields.io/badge/-Python-blue)
   A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
 
-- **[cbrock84/headcount](https://github.com/cbrock84/headcount)** ⭐ 931
+- **[cbrock84/headcount](https://github.com/cbrock84/headcount)** ⭐ 958
   ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey)
   An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
 
+- **[jprx/darwin-vm](https://github.com/jprx/darwin-vm)** ⭐ 884
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 207,958
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 208,186
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,749
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 22,772
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,826
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 19,879
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** ⭐ 19,823
-  ![Rust](https://img.shields.io/badge/-Rust-brown)
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,058
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,086
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,940
+- **[pathwaycom/arc-task-gen](https://github.com/pathwaycom/arc-task-gen)** ⭐ 9,945
   ![Python](https://img.shields.io/badge/-Python-blue)
   Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.
 
@@ -214,9 +211,13 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,661
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,667
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,208
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Autonomous research system for measurable, computer-executable research.
 
 ## 🚀 Latest Releases
 
@@ -489,57 +490,57 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | Java | 🟢 Proficient |
 | Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
-| TypeScript | ⚪ Planned |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🟡 Learning |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🔴 Beginner |
-| Spring Boot | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | ⚪ Planned |
 | Django | ⚪ Planned |
-| Node.js | 🟡 Learning |
-| Next.js | ⚪ Planned |
+| Node.js | ⚪ Planned |
+| Next.js | 🟢 Proficient |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| Penetration Testing | 🟡 Learning |
+| Web Security | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🟡 Learning |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🟢 Proficient |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🔴 Beginner |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🟢 Proficient |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟢 Proficient |
-| AWS | 🔴 Beginner |
-| Azure | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🟡 Learning |
+| AWS | ⚪ Planned |
+| Azure | 🔴 Beginner |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
-| Web3 | 🔴 Beginner |
-| Cloud Computing | ⚪ Planned |
+| Blockchain | ⚪ Planned |
+| Web3 | 🟢 Proficient |
+| Cloud Computing | 🟡 Learning |
 
 </details>
 
@@ -557,7 +558,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 01, 2026
+**Last Updated:** September 02, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
