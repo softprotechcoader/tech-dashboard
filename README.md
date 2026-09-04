@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 03, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 04, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,36 +46,50 @@
 
 ### 📑 Hacker News
 
-- **[Three-LLM: Three.js-based WebGPU LLM inference engine](https://three-llm.ben3d.ca)**
-  *<p>Article URL: <a href="https://three-llm.ben3d.ca">https://three-llm.ben3d.ca</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555712">https://news.ycombinator.com/item?id=49...*
-  📅 Thu, 03 Sep 2026 19:46:54 +0000
+- **[GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)**
+  *<p><a href="https://web.archive.org/web/20260903235256/https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796" rel="nofollow">https://web.arc...*
+  📅 Thu, 03 Sep 2026 22:37:31 +0000
 
-- **[The death of San Francisco's Market Street](https://www.noahpinion.blog/p/the-death-of-market-street)**
-  *<p>Article URL: <a href="https://www.noahpinion.blog/p/the-death-of-market-street">https://www.noahpinion.blog/p/the-death-of-market-street</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Thu, 03 Sep 2026 19:33:17 +0000
+- **[Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)**
+  *<p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
+<p>Comments URL: <a href="https://news.ycomb...*
+  📅 Thu, 03 Sep 2026 21:20:34 +0000
 
-- **[GPT-6 Astra](https://openai.com/index/gpt-6-astra/)**
-  *<p>System Card: <a href="https://deploymentsafety.openai.com/gpt-6-astra" rel="nofollow">https://deploymentsafety.openai.com/gpt-6-astra</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Thu, 03 Sep 2026 18:41:05 +0000
+- **[Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)**
+  *<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Thu, 03 Sep 2026 21:01:10 +0000
 
-- **[Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)**
-  *<p>Article URL: <a href="https://inference-docs.cerebras.ai/models/overview">https://inference-docs.cerebras.ai/models/overview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
-  📅 Thu, 03 Sep 2026 18:32:13 +0000
+- **[OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)**
+  *<p>Article URL: <a href="https://arcprize.org/blog/astra">https://arcprize.org/blog/astra</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555691">https://news.ycombinator.com/...*
+  📅 Thu, 03 Sep 2026 19:45:00 +0000
 
-- **[How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent)**
-  *<p>Article URL: <a href="https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent">https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we...*
-  📅 Thu, 03 Sep 2026 17:10:06 +0000
+- **[Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?](https://news.ycombinator.com/item?id=49555592)**
+  *<p>Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in "strict" mode. Disabled Privacy Badger for that site, and it didn't hel...*
+  📅 Thu, 03 Sep 2026 19:38:46 +0000
 
-- **[Gooseworks (YC W23) Is Hiring – Founding Creative Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer)**
-  *<p>Article URL: <a href="https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer">https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engin...*
-  📅 Thu, 03 Sep 2026 17:00:16 +0000
+- **[The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)**
+  *<p>Article URL: <a href="https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/">https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-dev...*
+  📅 Thu, 03 Sep 2026 19:17:24 +0000
 
 ### 📑 TechCrunch
+
+- **[Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)**
+  *The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street....*
+  📅 Fri, 04 Sep 2026 00:48:42 +0000
+
+- **[Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)**
+  *The ring maker says that its business has shown significant revenue growth over the past year....*
+  📅 Thu, 03 Sep 2026 22:35:41 +0000
+
+- **[Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)**
+  *The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."...*
+  📅 Thu, 03 Sep 2026 22:18:30 +0000
+
+- **[Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/)**
+  *The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate....*
+  📅 Thu, 03 Sep 2026 20:59:23 +0000
 
 - **[The Cybercab is Tesla’s ‘fork in the road’ moment](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/)**
   *The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever....*
@@ -85,32 +99,19 @@
   *The high-profile startup's annual revenue run rate stands at over $100 million....*
   📅 Thu, 03 Sep 2026 19:36:29 +0000
 
-- **[Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/)**
-  *The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups....*
-  📅 Thu, 03 Sep 2026 19:29:16 +0000
-
-- **[Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)**
-  *Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity....*
-  📅 Thu, 03 Sep 2026 18:37:57 +0000
-
-- **[Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)**
-  *For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of future m...*
-  📅 Thu, 03 Sep 2026 18:19:56 +0000
-
-- **[OpenAI launches Astra, its powerful (and controversial) new model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)**
-  *OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety."...*
-  📅 Thu, 03 Sep 2026 18:01:45 +0000
-
 ### 📑 Dev.to
 
-- **[Is This Really Required? Meet gh stack](https://dev.to/anchildress1/is-this-really-required-meet-gh-stack-5g1f)**
-  *<blockquote>
-<p>🦄 I'm writing this post much earlier than I usually would for all of my work friends. I've been using <code>gh stack</code> since the preview was made available in the GitHub UI a few ...*
-  📅 Thu, 03 Sep 2026 20:08:55 +0000
+- **[Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en)**
+  *<p>We're back with another <strong><a href="https://dev.to/challenges/weekend-2026-09-03">DEV Weekend Challenge</a></strong>, a short bite-sized challenge planned to fit into your weekend. We know the...*
+  📅 Fri, 04 Sep 2026 02:00:05 +0000
 
-- **[I built a small C++ game engine so an AI IDE could touch the whole thing](https://dev.to/ishan_shrestha/i-built-a-small-c-game-engine-so-an-ai-ide-could-touch-the-whole-thing-3fki)**
-  *<p><em>Originally posted on <a href="https://medium.com/@ishanshrestha/i-built-a-small-c-game-engine-so-an-ai-ide-could-touch-the-whole-thing-fee629c8fd78" rel="noopener noreferrer">Medium</a>.</em></...*
-  📅 Thu, 03 Sep 2026 20:08:11 +0000
+- **[Trying VLA (Part 5): Setting Up and Testing a SpaceMouse](https://dev.to/takeofuture/trying-vla-part-5-setting-up-and-testing-a-spacemouse-eio)**
+  *<p>In the previous article, I explained how to teleoperate the SO-101 using regular Python commands and verify that the robot moves correctly.</p>
+
+
+<div class="ltag__link--embedded">
+  <div class="cr...*
+  📅 Fri, 04 Sep 2026 02:00:05 +0000
 
 </details>
 
@@ -118,103 +119,103 @@
 
 ### 📈 Daily Trending
 
-- **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** ⭐ 388
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Crowdstrike Falcon 0day Privilege Escalation Vulnerability
-
-- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** ⭐ 136
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Open-source AI brand visibility and competitor reports
-
-- **[blendi-remade/unreel](https://github.com/blendi-remade/unreel)** ⭐ 96
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  your personal AI video streaming service
-
-- **[ahujasid/camera-to-blender](https://github.com/ahujasid/camera-to-blender)** ⭐ 79
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Take a photo of real objects, and paste them in Blender
-
-- **[R44VC0RP/superlocal](https://github.com/R44VC0RP/superlocal)** ⭐ 77
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  An email client & provider gateway so you can build your best email experience. 
-
-- **[ClassPheasant/CS2-External](https://github.com/ClassPheasant/CS2-External)** ⭐ 77
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Best Free CS2 External Overlay 2026 – ESP · Aim Assist · Triggerbot · Radar · Bhop · No Recoil · Skin Changer | Undetected | No Key
-
-- **[podsfamily/pods](https://github.com/podsfamily/pods)** ⭐ 73
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Rent out your idle GPU, get paid in tokenized NVDA on Robinhood Chain.
-
-- **[Saganaki22/ComfyUI-VDN-H3](https://github.com/Saganaki22/ComfyUI-VDN-H3)** ⭐ 57
+- **[Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill](https://github.com/Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Video Delta Net hybrid attention for MiniMax-H3 as a native ComfyUI node. 
+  Multi-step web form fill orchestrator with validation (Playwright / Puppeteer)
+
+- **[Alpha-Park/genpark-self-healing-dom-semantic-selector-skill](https://github.com/Alpha-Park/genpark-self-healing-dom-semantic-selector-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Self-healing DOM semantic selector resilient to class mutations (Tabbit / Stagehand)
+
+- **[Alpha-Park/genpark-cross-window-persistent-notes-ledger-skill](https://github.com/Alpha-Park/genpark-cross-window-persistent-notes-ledger-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Cross-window structured persistent notes ledger (Codex Astra)
+
+- **[alphaparkinc/genpark-multi-step-web-form-fill-orchestrator-skill](https://github.com/alphaparkinc/genpark-multi-step-web-form-fill-orchestrator-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Multi-step web form fill orchestrator with validation (Playwright / Puppeteer)
+
+- **[Alpha-Park/genpark-long-horizon-intent-drift-aligner-skill](https://github.com/Alpha-Park/genpark-long-horizon-intent-drift-aligner-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Long-horizon intent drift aligner & scope creep guard (Codex Astra)
+
+- **[alphaparkinc/genpark-searchable-context-telemetry-retriever-skill](https://github.com/alphaparkinc/genpark-searchable-context-telemetry-retriever-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Searchable historical context & raw telemetry retriever (Codex Astra)
+
+- **[alphaparkinc/genpark-visual-viewport-element-occlusion-resolver-skill](https://github.com/alphaparkinc/genpark-visual-viewport-element-occlusion-resolver-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Visual viewport element occlusion resolver & modal dismiser (Computer Use)
+
+- **[alphaparkinc/genpark-spa-network-idle-settlement-waiter-skill](https://github.com/alphaparkinc/genpark-spa-network-idle-settlement-waiter-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  SPA network idle & DOM mutation settlement waiter (Cypress / Playwright)
 
 ### 📈 Weekly Trending
 
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** ⭐ 2,379
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-
-- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** ⭐ 1,853
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,483
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,591
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** ⭐ 1,230
-  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-  🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
-
-- **[cbrock84/headcount](https://github.com/cbrock84/headcount)** ⭐ 1,169
-  ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey)
-  An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
-
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 1,018
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 1,106
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
 
-- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,010
+- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,018
   ![Python](https://img.shields.io/badge/-Python-blue)
   Dress AI Sponsor
 
-- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 920
+- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 966
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 790
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.
+
+- **[jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder)** ⭐ 670
+  ![C++](https://img.shields.io/badge/-C++-pink)
+  DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.
+
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 495
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+- **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** ⭐ 421
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  Crowdstrike Falcon 0day Privilege Escalation Vulnerability
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 210,925
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 211,107
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,344
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,376
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,292
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,327
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,357
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,375
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,051
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,055
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,911
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,895
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,788
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,795
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)** ⭐ 5,347
+- **[LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)** ⭐ 5,357
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳
 
@@ -487,58 +488,58 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | ⚪ Planned |
+| Java | 🔴 Beginner |
+| Python | 🟢 Proficient |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
 | Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | ⚪ Planned |
+| React | 🔴 Beginner |
 | Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🔴 Beginner |
+| Django | 🟢 Proficient |
+| Node.js | 🟢 Proficient |
+| Next.js | 🟡 Learning |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🟢 Proficient |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | ⚪ Planned |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🔴 Beginner |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | 🟡 Learning |
 | NLP | 🟢 Proficient |
 | Computer Vision | ⚪ Planned |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🔴 Beginner |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟢 Proficient |
+| Kubernetes | 🟡 Learning |
 | CI/CD | 🟡 Learning |
 | AWS | ⚪ Planned |
-| Azure | 🔴 Beginner |
+| Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🔴 Beginner |
-| Web3 | ⚪ Planned |
+| Blockchain | 🟢 Proficient |
+| Web3 | 🟢 Proficient |
 | Cloud Computing | 🟡 Learning |
 
 </details>
@@ -557,7 +558,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 03, 2026
+**Last Updated:** September 04, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
