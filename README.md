@@ -46,72 +46,68 @@
 
 ### 📑 Hacker News
 
-- **[The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)**
-  *<p>Article URL: <a href="https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline">https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline</a></p>
-<p>Comments URL: <...*
-  📅 Fri, 04 Sep 2026 08:35:15 +0000
+- **[GMails custom domain "send as" discontinues January 2027](https://support.google.com/mail/answer/22370?hl=en)**
+  *<p>Article URL: <a href="https://support.google.com/mail/answer/22370?hl=en">https://support.google.com/mail/answer/22370?hl=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4...*
+  📅 Fri, 04 Sep 2026 15:03:03 +0000
 
-- **[Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)**
-  *<p>Article URL: <a href="https://carbonawarepricing.com/">https://carbonawarepricing.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561975">https://news.ycombinator.com/...*
-  📅 Fri, 04 Sep 2026 08:19:57 +0000
+- **[Burnt out on a three-day week](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)**
+  *<p>Article URL: <a href="https://jennywanger.com/articles/burnt-out-on-a-three-day-week/">https://jennywanger.com/articles/burnt-out-on-a-three-day-week/</a></p>
+<p>Comments URL: <a href="https://news...*
+  📅 Fri, 04 Sep 2026 14:14:05 +0000
 
-- **[Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)**
-  *<p>Article URL: <a href="http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/">http://www.techdirt.com/2026/09/03/hackers-had-a-liv...*
-  📅 Fri, 04 Sep 2026 06:47:51 +0000
+- **[Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)**
+  *<p>Article URL: <a href="https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/">https://prospect.org/2026/08/21/pentagon-minerals...*
+  📅 Fri, 04 Sep 2026 13:54:26 +0000
 
-- **[Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)**
-  *<p>Article URL: <a href="https://www.agentconnect.md/blog/grep-beat-lsp-harness/">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com...*
-  📅 Fri, 04 Sep 2026 03:40:26 +0000
+- **[US Military disables ad trackers on troops' phones](https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers)**
+  *<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers">https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers</a></p...*
+  📅 Fri, 04 Sep 2026 13:44:14 +0000
 
-- **[From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)**
-  *<p>Article URL: <a href="https://computer.rip/2026-06-14-hookswitch-to-grave.html">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Fri, 04 Sep 2026 02:40:12 +0000
+- **[IBM Bob](https://bob.ibm.com/)**
+  *<p>Article URL: <a href="https://bob.ibm.com/">https://bob.ibm.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49563851">https://news.ycombinator.com/item?id=49563851</a></...*
+  📅 Fri, 04 Sep 2026 12:50:29 +0000
 
-- **[Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu)**
-  *<p>Article URL: <a href="https://gwern.net/xanadu">https://gwern.net/xanadu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559522">https://news.ycombinator.com/item?id=495595...*
-  📅 Fri, 04 Sep 2026 01:45:23 +0000
+- **[Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)**
+  *<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/">https://arstechnica.com/gadgets/2026/09/nearly-impossibl...*
+  📅 Fri, 04 Sep 2026 12:43:49 +0000
 
 ### 📑 TechCrunch
 
-- **[The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)**
-  *While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food....*
-  📅 Fri, 04 Sep 2026 04:21:03 +0000
+- **[CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/)**
+  *U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow....*
+  📅 Fri, 04 Sep 2026 15:00:00 +0000
 
-- **[Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)**
-  *The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street....*
-  📅 Fri, 04 Sep 2026 00:48:42 +0000
+- **[Krafton doubles down on India with another $250M bet beyond gaming](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/)**
+  *Krafton's planned investment in India is set to surpass $500 million with its latest commitment....*
+  📅 Fri, 04 Sep 2026 14:47:20 +0000
 
-- **[Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)**
-  *The ring maker says that its business has shown significant revenue growth over the past year....*
-  📅 Thu, 03 Sep 2026 22:35:41 +0000
+- **[Google’s Gemini Spark can now manage your Google Photos library](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/)**
+  *Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers....*
+  📅 Fri, 04 Sep 2026 14:47:11 +0000
 
-- **[Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)**
-  *The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."...*
-  📅 Thu, 03 Sep 2026 22:18:30 +0000
+- **[Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/)**
+  *Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT....*
+  📅 Fri, 04 Sep 2026 14:00:00 +0000
 
-- **[Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/)**
-  *The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate....*
-  📅 Thu, 03 Sep 2026 20:59:23 +0000
+- **[US military disabled ad tracking on troops’ devices following reports of targeted attacks](https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/)**
+  *A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops....*
+  📅 Fri, 04 Sep 2026 13:21:37 +0000
 
-- **[The Cybercab is Tesla’s ‘fork in the road’ moment](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/)**
-  *The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever....*
-  📅 Thu, 03 Sep 2026 19:42:48 +0000
+- **[Feds launch investigation into Tesla’s Cybercab deployment](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)**
+  *The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin....*
+  📅 Fri, 04 Sep 2026 12:01:14 +0000
 
 ### 📑 Dev.to
 
-- **[Buzz runs coding agents in a git worktree, not a sandbox](https://dev.to/engincanv/buzz-runs-coding-agents-in-a-git-worktree-not-a-sandbox-2876)**
-  *<p>I tried out Buzz, and really found some things worth noting, so I wanted to give a quick overview about the project.</p>
+- **[I shipped 14 free tools in 3 days with AI. What worked, what did not, and the numbers.](https://dev.to/arling/i-shipped-14-free-tools-in-3-days-with-ai-what-worked-what-did-not-and-the-numbers-4cho)**
+  *<p>I run ARLing s. r. o. out of Bratislava. It's a one-person company: I'm 22, I can't write code, and most of what gets built is written by AI. Three days ago I decided to test how far that setup cou...*
+  📅 Fri, 04 Sep 2026 15:17:59 +0000
 
-<p>I really liked the mentality, and by using the Huddle (a live session wh...*
-  📅 Fri, 04 Sep 2026 10:06:17 +0000
-
-- **[What I learned merging seven public datasets to train a single-class shelf detector](https://dev.to/morinaga/what-i-learned-merging-seven-public-datasets-to-train-a-single-class-shelf-detector-2k38)**
-  *<p>The conclusion first: licence filtering matters more than dataset size when you plan to use the model commercially. I merged seven public Roboflow datasets into 11,667 images — all CC BY 4.0 — trai...*
-  📅 Fri, 04 Sep 2026 10:05:47 +0000
+- **[The Great Architectural Cycle; And the Next Wave Just Hit](https://dev.to/mhmxs/the-great-architectural-cycle-and-the-next-wave-just-hit-17ko)**
+  *<p>Building modern software platforms often feels like riding an endless pendulum. Every decade, the tech industry promises a revolutionary paradigm shift that will solve all our development bottlenec...*
+  📅 Fri, 04 Sep 2026 15:14:46 +0000
 
 </details>
 
@@ -119,103 +115,103 @@
 
 ### 📈 Daily Trending
 
-- **[bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout)** ⭐ 39
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.
-
-- **[KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro)** ⭐ 22
+- **[KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro)** ⭐ 133
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。
 
-- **[BeigeDelegate/Multichain-Drainer-Tool](https://github.com/BeigeDelegate/Multichain-Drainer-Tool)** ⭐ 21
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot
-
-- **[Mantitup-Org/vista](https://github.com/Mantitup-Org/vista)** ⭐ 14
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- **[brendazure/balena-simple](https://github.com/brendazure/balena-simple)** ⭐ 88
+  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
   None
 
-- **[chenglou/hengshu](https://github.com/chenglou/hengshu)** ⭐ 9
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Chinese poems from a different universe
-
-- **[Theclues/TradeGenuis-Options](https://github.com/Theclues/TradeGenuis-Options)** ⭐ 9
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  None
-
-- **[fubiwangluo/qq-code](https://github.com/fubiwangluo/qq-code)** ⭐ 9
+- **[bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout)** ⭐ 76
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  QQ 经典农场小程序 （扫码登录）获取CODE  新版  NapCat插件 多用户自行扩展
+  Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.
 
-- **[alphaparkinc/genpark-spreadsheet-data-sanitization-normalizer-skill](https://github.com/alphaparkinc/genpark-spreadsheet-data-sanitization-normalizer-skill)** ⭐ 8
+- **[aaravshah1311/Agent-2](https://github.com/aaravshah1311/Agent-2)** ⭐ 51
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Tabular spreadsheet data sanitization normalizer (Livedocs / Julius)
+  Agent2 — An autonomous AI agent for coding, cybersecurity, terminal automation, and intelligent task execution.
+
+- **[Entityyufirewall/instagram-reporting-bot](https://github.com/Entityyufirewall/instagram-reporting-bot)** ⭐ 41
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Bots are automated tools designed to streamline the process of submitting reports on Instagram accounts that may violate the platform’s Community Guidelines. They can assist with reporting issues such as spam, report reporter mass acc ban bot impersonation, fake profile account, or other policy violations. Depending on their functionality, tool
+
+- **[Yuxuan2003/Awesome-GUI-Agent-Security](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security)** ⭐ 39
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  GUI / Computer-Use / Browser Agent 安全论文清单 —— 按攻防轴组织，每篇附中文简介
+
+- **[MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark)** ⭐ 28
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Qwen3.8-Flash-Next on ONE DGX Spark (TP=1)
+
+- **[Mantitup-Org/vista](https://github.com/Mantitup-Org/vista)** ⭐ 27
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  None
 
 ### 📈 Weekly Trending
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,785
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,857
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 1,244
+- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 1,368
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
 
-- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,031
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Dress AI Sponsor
-
-- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,022
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
-
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 895
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 1,167
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 842
+- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,057
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
+
+- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,038
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Dress AI Sponsor
+
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 859
   ![Python](https://img.shields.io/badge/-Python-blue)
   Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.
 
-- **[jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder)** ⭐ 688
+- **[jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder)** ⭐ 705
   ![C++](https://img.shields.io/badge/-C++-pink)
   DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.
 
-- **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** ⭐ 463
+- **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** ⭐ 479
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Crowdstrike Falcon 0day Privilege Escalation Vulnerability
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 211,736
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 212,009
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,506
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,563
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,430
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,520
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,425
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,448
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,068
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,070
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 7,024
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,908
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,825
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,853
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)** ⭐ 5,373
+- **[LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)** ⭐ 5,390
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳
 
@@ -488,59 +484,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
+| Java | 🔴 Beginner |
 | Python | 🔴 Beginner |
 | JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | 🔴 Beginner |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🔴 Beginner |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🟡 Learning |
-| Web Security | 🟡 Learning |
-| Network Security | 🟡 Learning |
-| OWASP | 🟢 Proficient |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🟢 Proficient |
+| Network Security | 🔴 Beginner |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
-| NLP | 🔴 Beginner |
+| Machine Learning | 🔴 Beginner |
+| Deep Learning | 🟢 Proficient |
+| NLP | ⚪ Planned |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🔴 Beginner |
-| CI/CD | ⚪ Planned |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🔴 Beginner |
 | AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
 | Blockchain | 🔴 Beginner |
-| Web3 | 🟡 Learning |
-| Cloud Computing | 🟢 Proficient |
+| Web3 | ⚪ Planned |
+| Cloud Computing | ⚪ Planned |
 
 </details>
 
