@@ -7,7 +7,7 @@
 ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-blue) ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-red) ![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-green)
 
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Enabled-success)](https://github.com/yourusername/tech-dashboard/actions)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 04, 2026-blue)](https://github.com/yourusername/tech-dashboard)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September 05, 2026-blue)](https://github.com/yourusername/tech-dashboard)
 
 *Automatically updated every 6 hours with the latest tech news, trending repositories, and learning resources.*
 
@@ -46,37 +46,46 @@
 
 ### 📑 Hacker News
 
-- **[Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)**
-  *<p>Article URL: <a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat...*
-  📅 Fri, 04 Sep 2026 19:48:29 +0000
+- **[Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)**
+  *<p>Article URL: <a href="https://codeberg.org/mv12star/shitter/wiki/Instances">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
+  📅 Sat, 05 Sep 2026 00:04:16 +0000
 
-- **[Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/)**
-  *<p>Article URL: <a href="https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/">https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/</a></p>
-<p>Comments URL: <a href...*
-  📅 Fri, 04 Sep 2026 19:06:39 +0000
+- **[Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)**
+  *<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>
+...*
+  📅 Sat, 05 Sep 2026 00:04:14 +0000
 
-- **[Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)**
-  *<p>Article URL: <a href="https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead">https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-ser...*
-  📅 Fri, 04 Sep 2026 18:50:28 +0000
+- **[Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/)**
+  *<p>Article URL: <a href="https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/">https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-...*
+  📅 Sat, 05 Sep 2026 00:03:08 +0000
 
-- **[Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)**
-  *<p>Article URL: <a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem">https://www.anthropic.com/research/formalizing-fermats-last-theorem</a></p>
-<p>Comments URL: <a href="http...*
-  📅 Fri, 04 Sep 2026 18:42:56 +0000
+- **[Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)**
+  *<p>Why can't we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mc...*
+  📅 Fri, 04 Sep 2026 23:50:29 +0000
 
-- **[The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/)**
-  *<p>Article URL: <a href="https://blog.master.dev/react-now-rusted-all-the-way-out/">https://blog.master.dev/react-now-rusted-all-the-way-out/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator...*
-  📅 Fri, 04 Sep 2026 17:49:09 +0000
+- **[Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)**
+  *<p>Article URL: <a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-...*
+  📅 Fri, 04 Sep 2026 23:38:50 +0000
 
-- **[Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)**
-  *<p><a href="https://archive.ph/3zcMG" rel="nofollow">https://archive.ph/3zcMG</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567594">https://news.ycombinator.com/item?...*
-  📅 Fri, 04 Sep 2026 17:29:22 +0000
+- **[Connecting every app to every other app](https://blog.val.town/connectors)**
+  *<p>Article URL: <a href="https://blog.val.town/connectors">https://blog.val.town/connectors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571263">https://news.ycombinator.co...*
+  📅 Fri, 04 Sep 2026 23:09:59 +0000
 
 ### 📑 TechCrunch
+
+- **[XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)**
+  *The round is being raised just months after the robot data startup exited from stealth....*
+  📅 Fri, 04 Sep 2026 23:36:14 +0000
+
+- **[OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)**
+  *OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews....*
+  📅 Fri, 04 Sep 2026 23:15:11 +0000
+
+- **[AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)**
+  *Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO....*
+  📅 Fri, 04 Sep 2026 21:12:11 +0000
 
 - **[Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/)**
   *A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet....*
@@ -90,31 +99,25 @@
   *The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis....*
   📅 Fri, 04 Sep 2026 16:51:23 +0000
 
-- **[Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)**
-  *It's the latest failure of OpenAI's internal monitoring and security systems....*
-  📅 Fri, 04 Sep 2026 16:21:11 +0000
-
-- **[CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/)**
-  *U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow....*
-  📅 Fri, 04 Sep 2026 15:00:00 +0000
-
-- **[Krafton doubles down on India with another $250M bet beyond gaming](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/)**
-  *Krafton's planned investment in India is set to surpass $500 million with its latest commitment....*
-  📅 Fri, 04 Sep 2026 14:47:20 +0000
-
 ### 📑 Dev.to
 
-- **[I Threw the Box Away. The Damage Was Already Done.](https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi)**
-  *<p><em>ShrekOS field notes · August 2026</em></p>
+- **[We Built Kolaboratr Because Finding the Right People to Build With Shouldn’t Be This Hard](https://dev.to/vaskeninteractive/we-built-kolaboratr-because-finding-the-right-people-to-build-with-shouldnt-be-this-hard-15j6)**
+  *<p>There’s a pattern we keep seeing across indie development and creative communities.</p>
 
-<p>I have no idea what I'm f*cking doing. Something I learned today:</p>
+<p>One person posts:</p>
 
-<p>Throwing away a disposable sandbox is a cleanup operation, not a securit...*
-  📅 Fri, 04 Sep 2026 20:01:22 +0000
+<blockquote>
+<p><strong>“I have a project, but I need an artist.”</strong></p>
+</b...*
+  📅 Sat, 05 Sep 2026 02:04:19 +0000
 
-- **[SEO in 2027 Will Depend on AI Answers, Community Signals and Traditional Search](https://dev.to/alifar/seo-in-2027-will-depend-on-ai-answers-community-signals-and-traditional-search-2p78)**
-  *<p>SEO in 2027 will not be adequately measured by a Google ranking report alone. Search Engine Land's analysis of the changing discipline argues that brands need to manage visibility across <strong>tr...*
-  📅 Fri, 04 Sep 2026 20:00:30 +0000
+- **[7 AWS Resources That Could Be Quietly Increasing Your Cloud Bill](https://dev.to/demarkolittle/7-aws-resources-that-could-be-quietly-increasing-your-cloud-bill-4j1f)**
+  *<p>AWS makes it incredibly easy to provision infrastructure.</p>
+
+<p>Sometimes, a little <em>too</em> easy.</p>
+
+<p>An EC2 instance gets created for a project. A volume survives after the instance is ...*
+  📅 Sat, 05 Sep 2026 02:00:23 +0000
 
 </details>
 
@@ -122,105 +125,105 @@
 
 ### 📈 Daily Trending
 
-- **[KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro)** ⭐ 157
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。
+- **[PowderVendor/discord-zapret](https://github.com/PowderVendor/discord-zapret)** ⭐ 50
+  ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
+  zapret-discord-youtube 1.10.2a| Как Обойти Блокировку Дискорда В России ?! Фикс ДС Фикс ! 05.09
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 107
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
-- **[bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout)** ⭐ 95
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.
-
-- **[brendazure/balena-simple](https://github.com/brendazure/balena-simple)** ⭐ 94
-  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
-  None
-
-- **[aaravshah1311/Agent-2](https://github.com/aaravshah1311/Agent-2)** ⭐ 65
+- **[Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill](https://github.com/Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Agent2 — An autonomous AI agent for coding, cybersecurity, terminal automation, and intelligent task execution.
+  Robotic joint actuator thermal and torque load monitor triggering preventative throttling (DJI / Robomaster)
 
-- **[MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark)** ⭐ 52
+- **[Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill](https://github.com/Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Qwen3.8-Flash-Next on ONE DGX Spark (TP=1)
+  Edge LiDAR/depth point cloud voxel slicer computing 2.5D occupancy grids (Isaac Sim / Livox)
 
-- **[Yuxuan2003/Awesome-GUI-Agent-Security](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security)** ⭐ 48
+- **[alphaparkinc/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill](https://github.com/alphaparkinc/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill)** ⭐ 8
   ![Python](https://img.shields.io/badge/-Python-blue)
-  GUI / Computer-Use / Browser Agent 安全论文清单 —— 按攻防轴组织，每篇附中文简介
+  Edge LiDAR/depth point cloud voxel slicer computing 2.5D occupancy grids (Isaac Sim / Livox)
 
-- **[Mantitup-Org/vista](https://github.com/Mantitup-Org/vista)** ⭐ 46
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  None
+- **[Alpha-Park/genpark-cross-chain-bridge-invariant-anomaly-detector-skill](https://github.com/Alpha-Park/genpark-cross-chain-bridge-invariant-anomaly-detector-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Cross-chain bridge token reserve invariant auditor & outflow spike monitor (LayerZero / Wormhole)
+
+- **[Alpha-Park/genpark-smart-contract-reentrancy-callgraph-auditor-skill](https://github.com/Alpha-Park/genpark-smart-contract-reentrancy-callgraph-auditor-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Solidity callgraph & control-flow reentrancy vulnerability auditor (Slither / Immunefi)
+
+- **[alphaparkinc/genpark-actuator-thermal-torque-throttle-sentinel-skill](https://github.com/alphaparkinc/genpark-actuator-thermal-torque-throttle-sentinel-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Robotic joint actuator thermal and torque load monitor triggering preventative throttling (DJI / Robomaster)
+
+- **[Alpha-Park/genpark-eip712-typed-signature-phishing-sanitizer-skill](https://github.com/Alpha-Park/genpark-eip712-typed-signature-phishing-sanitizer-skill)** ⭐ 8
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  EIP-712 typed signature phishing permit auditor & allowance sanitizer (Permit2 / MetaMask)
 
 ### 📈 Weekly Trending
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,899
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
-
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 1,581
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 2,038
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** ⭐ 1,458
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,933
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,090
+- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,108
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 
-- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,047
+- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,056
   ![Python](https://img.shields.io/badge/-Python-blue)
   Dress AI Sponsor
 
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 873
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 887
   ![Python](https://img.shields.io/badge/-Python-blue)
   Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.
 
-- **[jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder)** ⭐ 711
-  ![C++](https://img.shields.io/badge/-C++-pink)
-  DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.
+- **[nahrek/polyledger](https://github.com/nahrek/polyledger)** ⭐ 614
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL
 
-- **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** ⭐ 491
+- **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** ⭐ 503
   ![C](https://img.shields.io/badge/-C-lightgrey)
   Crowdstrike Falcon 0day Privilege Escalation Vulnerability
 
+- **[Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)** ⭐ 490
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  DLSS 5 Neural Video & Image Enhancer with Frame Interpolation
+
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 212,158
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 212,291
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,586
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,607
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,565
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,605
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,463
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,478
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,074
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,079
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,861
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,873
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,841
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,892
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)** ⭐ 5,397
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,125
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
 ## 🚀 Latest Releases
 
@@ -491,19 +494,19 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🔴 Beginner |
-| TypeScript | 🟢 Proficient |
-| Go | 🟡 Learning |
+| Java | 🔴 Beginner |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
+| TypeScript | 🔴 Beginner |
+| Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
+| React | 🟡 Learning |
 | Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
+| Django | ⚪ Planned |
 | Node.js | 🔴 Beginner |
 | Next.js | 🟢 Proficient |
 
@@ -511,39 +514,39 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | ⚪ Planned |
+| Penetration Testing | 🔴 Beginner |
 | Web Security | 🟡 Learning |
-| Network Security | 🟢 Proficient |
-| OWASP | 🟡 Learning |
+| Network Security | 🔴 Beginner |
+| OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | ⚪ Planned |
-| NLP | 🟡 Learning |
-| Computer Vision | 🟢 Proficient |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🟢 Proficient |
-| Kubernetes | 🟢 Proficient |
-| CI/CD | 🔴 Beginner |
-| AWS | 🔴 Beginner |
+| Docker | 🔴 Beginner |
+| Kubernetes | ⚪ Planned |
+| CI/CD | 🟢 Proficient |
+| AWS | ⚪ Planned |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟡 Learning |
+| Blockchain | ⚪ Planned |
 | Web3 | 🟢 Proficient |
-| Cloud Computing | ⚪ Planned |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
@@ -561,7 +564,7 @@ This dashboard is automatically updated every 6 hours using GitHub Actions. The 
 
 <div align="center">
 
-**Last Updated:** September 04, 2026
+**Last Updated:** September 05, 2026
 
 Made with ❤️ and automated with GitHub Actions
 
