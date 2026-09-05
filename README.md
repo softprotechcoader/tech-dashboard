@@ -46,6 +46,21 @@
 
 ### 📑 Hacker News
 
+- **[AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)**
+  *<p>Article URL: <a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch...*
+  📅 Sat, 05 Sep 2026 07:52:50 +0000
+
+- **[Git hosting that never leaves Europe](https://pushin.eu)**
+  *<p>Article URL: <a href="https://pushin.eu">https://pushin.eu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49573680">https://news.ycombinator.com/item?id=49573680</a></p>
+<p>...*
+  📅 Sat, 05 Sep 2026 06:31:49 +0000
+
+- **[GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)**
+  *<p>Article URL: <a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>
+<p>Comments URL: <a href="https://...*
+  📅 Sat, 05 Sep 2026 03:38:56 +0000
+
 - **[Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)**
   *<p>Article URL: <a href="https://codeberg.org/mv12star/shitter/wiki/Instances">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?...*
@@ -56,22 +71,9 @@
 ...*
   📅 Sat, 05 Sep 2026 00:04:14 +0000
 
-- **[Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/)**
-  *<p>Article URL: <a href="https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/">https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-...*
-  📅 Sat, 05 Sep 2026 00:03:08 +0000
-
-- **[Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)**
-  *<p>Why can't we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mc...*
-  📅 Fri, 04 Sep 2026 23:50:29 +0000
-
 - **[Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)**
   *<p>Article URL: <a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-...*
   📅 Fri, 04 Sep 2026 23:38:50 +0000
-
-- **[Connecting every app to every other app](https://blog.val.town/connectors)**
-  *<p>Article URL: <a href="https://blog.val.town/connectors">https://blog.val.town/connectors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571263">https://news.ycombinator.co...*
-  📅 Fri, 04 Sep 2026 23:09:59 +0000
 
 ### 📑 TechCrunch
 
@@ -101,23 +103,15 @@
 
 ### 📑 Dev.to
 
-- **[We Built Kolaboratr Because Finding the Right People to Build With Shouldn’t Be This Hard](https://dev.to/vaskeninteractive/we-built-kolaboratr-because-finding-the-right-people-to-build-with-shouldnt-be-this-hard-15j6)**
-  *<p>There’s a pattern we keep seeing across indie development and creative communities.</p>
+- **[I Tried Nx Plugin for AWS, Here's Why I'm Sold](https://dev.to/stevenwleung/i-tried-nx-plugin-for-aws-heres-why-im-sold-1lmn)**
+  *<p>Who hasn't built a full-stack app on AWS before, we all know the drill. You need an API (usually Lambda with API Gateway), a frontend, some authentication (Cognito) wired up, and IaC (CDK) to help ...*
+  📅 Sat, 05 Sep 2026 09:38:17 +0000
 
-<p>One person posts:</p>
+- **["Video won't play" turned out to be four different bugs](https://dev.to/patlolla_saikeerthana_56/video-wont-play-turned-out-to-be-four-different-bugs-3fkp)**
+  *<p>Our app ships long video lessons. Twenty to forty minutes each, watched mostly on hostel wifi and mobile data with two bars.</p>
 
-<blockquote>
-<p><strong>“I have a project, but I need an artist.”</strong></p>
-</b...*
-  📅 Sat, 05 Sep 2026 02:04:19 +0000
-
-- **[7 AWS Resources That Could Be Quietly Increasing Your Cloud Bill](https://dev.to/demarkolittle/7-aws-resources-that-could-be-quietly-increasing-your-cloud-bill-4j1f)**
-  *<p>AWS makes it incredibly easy to provision infrastructure.</p>
-
-<p>Sometimes, a little <em>too</em> easy.</p>
-
-<p>An EC2 instance gets created for a project. A volume survives after the instance is ...*
-  📅 Sat, 05 Sep 2026 02:00:23 +0000
+<p>Streaming video looks like a solved problem when you build the h...*
+  📅 Sat, 05 Sep 2026 09:35:38 +0000
 
 </details>
 
@@ -129,99 +123,99 @@
   ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
   zapret-discord-youtube 1.10.2a| Как Обойти Блокировку Дискорда В России ?! Фикс ДС Фикс ! 05.09
 
-- **[Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill](https://github.com/Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Robotic joint actuator thermal and torque load monitor triggering preventative throttling (DJI / Robomaster)
+- **[RestraintRatTurbine/onimusha-way-of-the-sword-trainer](https://github.com/RestraintRatTurbine/onimusha-way-of-the-sword-trainer)** ⭐ 46
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Onimusha Way of the Sword trainer — unlimited health, stamina, Red Souls & Blaze Gauge. Free, no key, no survey.
 
-- **[Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill](https://github.com/Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Edge LiDAR/depth point cloud voxel slicer computing 2.5D occupancy grids (Isaac Sim / Livox)
+- **[Toplyasquare/Multichain-Drainer-Tool](https://github.com/Toplyasquare/Multichain-Drainer-Tool)** ⭐ 46
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot
 
-- **[alphaparkinc/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill](https://github.com/alphaparkinc/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Edge LiDAR/depth point cloud voxel slicer computing 2.5D occupancy grids (Isaac Sim / Livox)
+- **[Appllama/liquid-glass-screens](https://github.com/Appllama/liquid-glass-screens)** ⭐ 23
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.
 
-- **[Alpha-Park/genpark-cross-chain-bridge-invariant-anomaly-detector-skill](https://github.com/Alpha-Park/genpark-cross-chain-bridge-invariant-anomaly-detector-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Cross-chain bridge token reserve invariant auditor & outflow spike monitor (LayerZero / Wormhole)
+- **[34306/vphone-web](https://github.com/34306/vphone-web)** ⭐ 21
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  vphone-cli but you can use your mac as a host and control it over the web
 
-- **[Alpha-Park/genpark-smart-contract-reentrancy-callgraph-auditor-skill](https://github.com/Alpha-Park/genpark-smart-contract-reentrancy-callgraph-auditor-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Solidity callgraph & control-flow reentrancy vulnerability auditor (Slither / Immunefi)
+- **[MiaM1ku/taierspeedtest](https://github.com/MiaM1ku/taierspeedtest)** ⭐ 20
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  全球网测 / 泰尔测速 Linux 客户端
 
-- **[alphaparkinc/genpark-actuator-thermal-torque-throttle-sentinel-skill](https://github.com/alphaparkinc/genpark-actuator-thermal-torque-throttle-sentinel-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Robotic joint actuator thermal and torque load monitor triggering preventative throttling (DJI / Robomaster)
+- **[Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)** ⭐ 14
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。
 
-- **[Alpha-Park/genpark-eip712-typed-signature-phishing-sanitizer-skill](https://github.com/Alpha-Park/genpark-eip712-typed-signature-phishing-sanitizer-skill)** ⭐ 8
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  EIP-712 typed signature phishing permit auditor & allowance sanitizer (Permit2 / MetaMask)
+- **[shaleflydisconnect/cookie-session-validator](https://github.com/shaleflydisconnect/cookie-session-validator)** ⭐ 12
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Multi-threaded web session cookie and proxy status checker designed for fast credential validation and automated logging.
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 2,038
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 2,780
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,933
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,978
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,108
+- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,136
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 
-- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,056
+- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,068
   ![Python](https://img.shields.io/badge/-Python-blue)
   Dress AI Sponsor
 
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 887
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 910
   ![Python](https://img.shields.io/badge/-Python-blue)
-  Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.
+  Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.
+
+- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 688
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  养成类游戏英语学习
 
 - **[nahrek/polyledger](https://github.com/nahrek/polyledger)** ⭐ 614
   ![Python](https://img.shields.io/badge/-Python-blue)
   Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL
 
-- **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** ⭐ 503
-  ![C](https://img.shields.io/badge/-C-lightgrey)
-  Crowdstrike Falcon 0day Privilege Escalation Vulnerability
-
-- **[Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)** ⭐ 490
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  DLSS 5 Neural Video & Image Enhancer with Frame Interpolation
+- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 541
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 212,291
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 212,678
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,607
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,714
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,605
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,667
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,478
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,534
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,079
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,087
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,873
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,912
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 5,892
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,199
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,125
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,150
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -494,59 +488,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🔴 Beginner |
-| Python | 🔴 Beginner |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🔴 Beginner |
+| Java | ⚪ Planned |
+| Python | ⚪ Planned |
+| JavaScript | 🟡 Learning |
+| TypeScript | ⚪ Planned |
 | Go | 🟢 Proficient |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟡 Learning |
-| Spring Boot | ⚪ Planned |
-| Django | ⚪ Planned |
-| Node.js | 🔴 Beginner |
-| Next.js | 🟢 Proficient |
+| React | 🟢 Proficient |
+| Spring Boot | 🟡 Learning |
+| Django | 🟢 Proficient |
+| Node.js | 🟡 Learning |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
-| Penetration Testing | 🔴 Beginner |
-| Web Security | 🟡 Learning |
-| Network Security | 🔴 Beginner |
+| Penetration Testing | 🟢 Proficient |
+| Web Security | 🔴 Beginner |
+| Network Security | ⚪ Planned |
 | OWASP | 🟢 Proficient |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | 🟡 Learning |
-| Deep Learning | 🟡 Learning |
+| Machine Learning | ⚪ Planned |
+| Deep Learning | ⚪ Planned |
 | NLP | 🔴 Beginner |
 | Computer Vision | 🟡 Learning |
-| TensorFlow | 🟡 Learning |
-| PyTorch | ⚪ Planned |
+| TensorFlow | 🟢 Proficient |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | 🔴 Beginner |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | ⚪ Planned |
+| Kubernetes | 🟡 Learning |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
 | Azure | 🟢 Proficient |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | 🟢 Proficient |
-| Cloud Computing | 🟢 Proficient |
+| Blockchain | 🔴 Beginner |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
