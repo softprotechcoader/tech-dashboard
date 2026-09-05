@@ -46,34 +46,32 @@
 
 ### 📑 Hacker News
 
+- **[Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)**
+  *<p>Article URL: <a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/">https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</a></p>
+<p>Comment...*
+  📅 Sat, 05 Sep 2026 14:02:44 +0000
+
+- **[The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)**
+  *<p>Article URL: <a href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/">https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</a></p>
+<p>Comments URL: <a href="https://news.ycombin...*
+  📅 Sat, 05 Sep 2026 13:36:38 +0000
+
+- **[Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)**
+  *<p>Article URL: <a href="https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/">https://arstechnica.com/health/2026/09/pentagon-releases-then-qui...*
+  📅 Sat, 05 Sep 2026 13:11:14 +0000
+
+- **[Terpstra Keyboard](http://terpstrakeyboard.com/)**
+  *<p>Article URL: <a href="http://terpstrakeyboard.com/">http://terpstrakeyboard.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49575150">https://news.ycombinator.com/item?i...*
+  📅 Sat, 05 Sep 2026 10:33:01 +0000
+
+- **[Netherlands pulls gold out of the US for fears of 'geopolitical unrest'](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)**
+  *<p>Article URL: <a href="https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-go...*
+  📅 Sat, 05 Sep 2026 10:14:28 +0000
+
 - **[AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)**
   *<p>Article URL: <a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch...*
   📅 Sat, 05 Sep 2026 07:52:50 +0000
-
-- **[Git hosting that never leaves Europe](https://pushin.eu)**
-  *<p>Article URL: <a href="https://pushin.eu">https://pushin.eu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49573680">https://news.ycombinator.com/item?id=49573680</a></p>
-<p>...*
-  📅 Sat, 05 Sep 2026 06:31:49 +0000
-
-- **[GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)**
-  *<p>Article URL: <a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sat, 05 Sep 2026 03:38:56 +0000
-
-- **[Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)**
-  *<p>Article URL: <a href="https://codeberg.org/mv12star/shitter/wiki/Instances">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?...*
-  📅 Sat, 05 Sep 2026 00:04:16 +0000
-
-- **[Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)**
-  *<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>
-...*
-  📅 Sat, 05 Sep 2026 00:04:14 +0000
-
-- **[Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)**
-  *<p>Article URL: <a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-...*
-  📅 Fri, 04 Sep 2026 23:38:50 +0000
 
 ### 📑 TechCrunch
 
@@ -103,15 +101,15 @@
 
 ### 📑 Dev.to
 
-- **[I Tried Nx Plugin for AWS, Here's Why I'm Sold](https://dev.to/stevenwleung/i-tried-nx-plugin-for-aws-heres-why-im-sold-1lmn)**
-  *<p>Who hasn't built a full-stack app on AWS before, we all know the drill. You need an API (usually Lambda with API Gateway), a frontend, some authentication (Cognito) wired up, and IaC (CDK) to help ...*
-  📅 Sat, 05 Sep 2026 09:38:17 +0000
+- **[Google Fixes Gemini 3.8 Flash Citation Bug in AI Mode After Missing Source Links](https://dev.to/alifar/google-fixes-gemini-38-flash-citation-bug-in-ai-mode-after-missing-source-links-jhf)**
+  *<p>Google has fixed an issue that caused some AI Mode responses using <a href="https://scalevise.com/resources/google-gemini-3-8-flash-flash-cyber-launch/" rel="noopener noreferrer"><strong>Gemini 3.8...*
+  📅 Sat, 05 Sep 2026 14:15:30 +0000
 
-- **["Video won't play" turned out to be four different bugs](https://dev.to/patlolla_saikeerthana_56/video-wont-play-turned-out-to-be-four-different-bugs-3fkp)**
-  *<p>Our app ships long video lessons. Twenty to forty minutes each, watched mostly on hostel wifi and mobile data with two bars.</p>
+- **[Can Your AI Use What It Remembers?](https://dev.to/p0rt/can-your-ai-use-what-it-remembers-57c)**
+  *<p>An assistant correctly recalls a user's tree-nut allergy. Given a request for macarons, it supplies an almond-flour recipe without applying that allergy to the user.</p>
 
-<p>Streaming video looks like a solved problem when you build the h...*
-  📅 Sat, 05 Sep 2026 09:35:38 +0000
+<p>This is a recorded exam...*
+  📅 Sat, 05 Sep 2026 14:09:59 +0000
 
 </details>
 
@@ -119,103 +117,103 @@
 
 ### 📈 Daily Trending
 
+- **[Appllama/liquid-glass-screens](https://github.com/Appllama/liquid-glass-screens)** ⭐ 92
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.
+
+- **[34306/vphone-web](https://github.com/34306/vphone-web)** ⭐ 76
+  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+  vphone-cli but you can use your mac as a host and control it over the web
+
+- **[johnj-eng96n9/Discord-Token-Generator](https://github.com/johnj-eng96n9/Discord-Token-Generator)** ⭐ 66
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Discord Token Generator for Mass Discord bot token generator and manager. Create, manage, and export bot tokens in bulk.
+
+- **[lewise-2065/age-of-empires-4-cheats-strategy-lab](https://github.com/lewise-2065/age-of-empires-4-cheats-strategy-lab)** ⭐ 50
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  Age of Empires IV Cheats themed strategy toolkit for official cheat-code references, build orders, civilization analytics, economy planning, unit counters, mods and trainer-style UI experiments.
+
 - **[PowderVendor/discord-zapret](https://github.com/PowderVendor/discord-zapret)** ⭐ 50
   ![Batchfile](https://img.shields.io/badge/-Batchfile-lightgrey)
   zapret-discord-youtube 1.10.2a| Как Обойти Блокировку Дискорда В России ?! Фикс ДС Фикс ! 05.09
 
-- **[RestraintRatTurbine/onimusha-way-of-the-sword-trainer](https://github.com/RestraintRatTurbine/onimusha-way-of-the-sword-trainer)** ⭐ 46
+- **[lillian2784/murder-mystery-2-script-2026-analysis-lab](https://github.com/lillian2784/murder-mystery-2-script-2026-analysis-lab)** ⭐ 48
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Onimusha Way of the Sword trainer — unlimited health, stamina, Red Souls & Blaze Gauge. Free, no key, no survey.
+  Roblox Murder Mystery 2 Script 2026 themed gameplay toolkit for round analytics, map knowledge, role statistics, coin-route planning, progression tracking and GUI-style experiments
 
-- **[Toplyasquare/Multichain-Drainer-Tool](https://github.com/Toplyasquare/Multichain-Drainer-Tool)** ⭐ 46
+- **[lewisr-9592/civilization-vi-cheats-strategy-lab](https://github.com/lewisr-9592/civilization-vi-cheats-strategy-lab)** ⭐ 48
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot
+  Sid Meier's Civilization VI themed strategy toolkit for civilization analytics, city planning, technology and civic research, mods, trainers, victory planning and gameplay optimization.
 
-- **[Appllama/liquid-glass-screens](https://github.com/Appllama/liquid-glass-screens)** ⭐ 23
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.
-
-- **[34306/vphone-web](https://github.com/34306/vphone-web)** ⭐ 21
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  vphone-cli but you can use your mac as a host and control it over the web
-
-- **[MiaM1ku/taierspeedtest](https://github.com/MiaM1ku/taierspeedtest)** ⭐ 20
-  ![Go](https://img.shields.io/badge/-Go-cyan)
-  全球网测 / 泰尔测速 Linux 客户端
-
-- **[Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)** ⭐ 14
-  ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-  GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。
-
-- **[shaleflydisconnect/cookie-session-validator](https://github.com/shaleflydisconnect/cookie-session-validator)** ⭐ 12
+- **[lilyramos132/phasmophobia-mod-menu-ghost-lab](https://github.com/lilyramos132/phasmophobia-mod-menu-ghost-lab)** ⭐ 47
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  Multi-threaded web session cookie and proxy status checker designed for fast credential validation and automated logging.
+  Phasmophobia Mod Menu themed investigation toolkit for ghost evidence tracking, map analysis, equipment planning, money and level statistics, investigation reports and trainer-style UI experiments.
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 2,780
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 3,189
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 1,978
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,011
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,136
+- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,156
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 
-- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,068
+- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,075
   ![Python](https://img.shields.io/badge/-Python-blue)
   Dress AI Sponsor
 
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 910
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 917
   ![Python](https://img.shields.io/badge/-Python-blue)
   Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.
 
-- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 688
+- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 816
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   养成类游戏英语学习
 
-- **[nahrek/polyledger](https://github.com/nahrek/polyledger)** ⭐ 614
+- **[nahrek/polyledger](https://github.com/nahrek/polyledger)** ⭐ 617
   ![Python](https://img.shields.io/badge/-Python-blue)
   Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL
 
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 541
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 591
+  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
+  None
 
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 212,678
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 212,887
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,714
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,761
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,667
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,725
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,534
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,555
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,087
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,093
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,912
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,928
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,199
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,295
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,150
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,161
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -488,50 +486,50 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | ⚪ Planned |
-| Python | ⚪ Planned |
-| JavaScript | 🟡 Learning |
+| Java | 🟢 Proficient |
+| Python | 🔴 Beginner |
+| JavaScript | 🟢 Proficient |
 | TypeScript | ⚪ Planned |
-| Go | 🟢 Proficient |
+| Go | ⚪ Planned |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | 🟡 Learning |
-| Django | 🟢 Proficient |
-| Node.js | 🟡 Learning |
-| Next.js | 🔴 Beginner |
+| React | 🟡 Learning |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
+| Node.js | 🟢 Proficient |
+| Next.js | ⚪ Planned |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | 🔴 Beginner |
-| Network Security | ⚪ Planned |
-| OWASP | 🟢 Proficient |
+| Web Security | ⚪ Planned |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
+| Machine Learning | 🔴 Beginner |
 | Deep Learning | ⚪ Planned |
-| NLP | 🔴 Beginner |
-| Computer Vision | 🟡 Learning |
-| TensorFlow | 🟢 Proficient |
-| PyTorch | 🟡 Learning |
+| NLP | 🟡 Learning |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | ⚪ Planned |
+| PyTorch | 🟢 Proficient |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | 🔴 Beginner |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | 🔴 Beginner |
+| Docker | ⚪ Planned |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟢 Proficient |
+| AWS | 🟡 Learning |
 | Azure | 🟢 Proficient |
 
 ### Other
@@ -540,7 +538,7 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | Blockchain | 🔴 Beginner |
 | Web3 | 🔴 Beginner |
-| Cloud Computing | 🔴 Beginner |
+| Cloud Computing | 🟢 Proficient |
 
 </details>
 
