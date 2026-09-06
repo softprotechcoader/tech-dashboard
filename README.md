@@ -46,36 +46,45 @@
 
 ### 📑 Hacker News
 
-- **[The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)**
-  *<p>Article URL: <a href="https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry">https://economist.com/interactive/culture/2026/09/03/the-many-myste...*
-  📅 Sun, 06 Sep 2026 13:38:07 +0000
+- **[Finder is so frustrating and has been since day one](https://kepter.app/finder)**
+  *<p>Article URL: <a href="https://kepter.app/finder">https://kepter.app/finder</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589722">https://news.ycombinator.com/item?id=4958...*
+  📅 Sun, 06 Sep 2026 19:06:09 +0000
 
-- **[I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/)**
-  *<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586151">h...*
-  📅 Sun, 06 Sep 2026 13:00:34 +0000
+- **[Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter)**
+  *<p>Article URL: <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589003">https://news.ycombinator.co...*
+  📅 Sun, 06 Sep 2026 17:51:23 +0000
 
-- **[Schemy Lisp En DOS](https://sled.neocities.org/)**
-  *<p>Article URL: <a href="https://sled.neocities.org/">https://sled.neocities.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586139">https://news.ycombinator.com/item?id=...*
-  📅 Sun, 06 Sep 2026 12:58:54 +0000
+- **[Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)**
+  *<p>Article URL: <a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>
+<p>C...*
+  📅 Sun, 06 Sep 2026 17:49:47 +0000
 
-- **[2026 Hugo Awards](https://www.thehugoawards.org/)**
-  *<p>Article URL: <a href="https://www.thehugoawards.org/">https://www.thehugoawards.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586005">https://news.ycombinator.com/it...*
-  📅 Sun, 06 Sep 2026 12:41:59 +0000
+- **[Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)**
+  *<p>Article URL: <a href="https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm">https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm</a></p>
+<p>Comme...*
+  📅 Sun, 06 Sep 2026 17:00:28 +0000
 
-- **[The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)**
-  *<p>Article URL: <a href="https://dub.uu.nl/en/column/pencil-case-model-creativity">https://dub.uu.nl/en/column/pencil-case-model-creativity</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c...*
-  📅 Sun, 06 Sep 2026 12:05:34 +0000
+- **[An Alien Mind](https://openai.com/index/an-alien-mind/)**
+  *<p>Article URL: <a href="https://openai.com/index/an-alien-mind/">https://openai.com/index/an-alien-mind/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588080">https://news....*
+  📅 Sun, 06 Sep 2026 16:27:05 +0000
 
-- **[Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)**
-  *<p>Article URL: <a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</a></p>
-<p>Comments URL: <a href...*
-  📅 Sun, 06 Sep 2026 11:56:43 +0000
+- **[Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)**
+  *<p>Article URL: <a href="https://www.netbsd.org/gallery/research.html">https://www.netbsd.org/gallery/research.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49587903">htt...*
+  📅 Sun, 06 Sep 2026 16:10:05 +0000
 
 ### 📑 TechCrunch
+
+- **[Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)**
+  *The Uber founder has said that Atoms will allow him to complete "unfinished business."...*
+  📅 Sun, 06 Sep 2026 16:45:00 +0000
+
+- **[TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)**
+  *Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....*
+  📅 Sun, 06 Sep 2026 16:08:00 +0000
 
 - **[Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)**
   *Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....*
@@ -93,30 +102,15 @@
   *Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....*
   📅 Sat, 05 Sep 2026 17:00:00 +0000
 
-- **[Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/)**
-  *While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it....*
-  📅 Sat, 05 Sep 2026 15:00:00 +0000
-
-- **[XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)**
-  *The round is being raised just months after the robot data startup exited from stealth....*
-  📅 Fri, 04 Sep 2026 23:36:14 +0000
-
 ### 📑 Dev.to
 
-- **[Make Your Code Review Agent Write Down How the Bug Actually Happens](https://dev.to/shupf/make-your-code-review-agent-write-down-how-the-bug-actually-happens-1g1)**
-  *<blockquote>
-<p>I wrote it together with an AI agent: I set the structure, the agent drafted, and I checked and rewrote the final text.</p>
-</blockquote>
+- **[🛡️ IMDSv1 vs IMDSv2 en EC2: SSRF, métricas, riesgos y una migración segura](https://dev.to/terry_cloud/imdsv1-vs-imdsv2-en-ec2-ssrf-metricas-riesgos-y-una-migracion-segura-4j62)**
+  *<p>Liquid syntax error: Tag '{% raw %}' was not properly terminated with regexp: /\%\}/</p>...*
+  📅 Sun, 06 Sep 2026 19:45:29 +0000
 
-<h2>
-  
-  
-  The review agent that quadrupled...*
-  📅 Sun, 06 Sep 2026 14:32:14 +0000
-
-- **[ASCII Smuggling Just Graduated From AI Attacks to Your Inbox](https://dev.to/coridev/ascii-smuggling-just-graduated-from-ai-attacks-to-your-inbox-40gg)**
-  *<p>Microsoft's threat intel team flagged something last week that should've been obvious in hindsight: spammers are now using ASCII smuggling in email campaigns. Not AI red-teamers. Not prompt injecti...*
-  📅 Sun, 06 Sep 2026 14:23:06 +0000
+- **[Mozaik in Plain English: A Gentle Introduction to Concurrent AI Agents](https://dev.to/jamilxt/mozaik-in-plain-english-a-gentle-introduction-to-concurrent-ai-agents-5bed)**
+  *<p>Most AI agent tutorials show you a pipeline. Agent A extracts data, hands it to Agent B, B hands it to C. It works, but it works like an assembly line: if A is slow, everyone waits. If B fails, the...*
+  📅 Sun, 06 Sep 2026 19:41:19 +0000
 
 </details>
 
@@ -124,7 +118,23 @@
 
 ### 📈 Daily Trending
 
-- **[v-modal/vmodal_sdk_robotics](https://github.com/v-modal/vmodal_sdk_robotics)** ⭐ 77
+- **[biusberline/cloudflare-turnstile-solver](https://github.com/biusberline/cloudflare-turnstile-solver)** ⭐ 224
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.
+
+- **[brinkravenmodify/How-To-Fish-Trainer](https://github.com/brinkravenmodify/How-To-Fish-Trainer)** ⭐ 100
+  ![None](https://img.shields.io/badge/-None-lightgrey)
+  How To Fish Trainer - Tool for having more fun with friends!
+
+- **[RankSpotAI/awesome-seo-agent-skills](https://github.com/RankSpotAI/awesome-seo-agent-skills)** ⭐ 86
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A curated list of Agent Skills for SEO. Technical audits, keyword research, content briefs, schema, GEO and AI visibility, for Claude Code, Codex, Cursor and OpenClaw.
+
+- **[alvinunreal/awesome-submitlist](https://github.com/alvinunreal/awesome-submitlist)** ⭐ 78
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits and marketplaces to submit your startup, with Domain Rating, traffic and pricing. Synced weekly from submitlist.io.
+
+- **[v-modal/vmodal_sdk_robotics](https://github.com/v-modal/vmodal_sdk_robotics)** ⭐ 78
   ![Python](https://img.shields.io/badge/-Python-blue)
   Robotics vision SDK
 
@@ -132,95 +142,79 @@
   ![Python](https://img.shields.io/badge/-Python-blue)
   A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.
 
-- **[madisonellis-24/mm2-script-no-key-detective-lab](https://github.com/madisonellis-24/mm2-script-no-key-detective-lab)** ⭐ 48
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Murder Mystery 2 Script 2026 themed Roblox toolkit for role statistics, coin-route planning, map research, Sheriff aim analytics, inventory tracking and script-style GUI experiments.
+- **[Tejashmakwana/astra-chatgpt-hyperframes](https://github.com/Tejashmakwana/astra-chatgpt-hyperframes)** ⭐ 64
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Reproducible Hyperframes source for a ChatGPT adaptation of Rajmoni’s motion-design reference, with raw assets and verified render.
 
-- **[linda1331-oss/dead-by-daylight-cheat-2026-trials-lab](https://github.com/linda1331-oss/dead-by-daylight-cheat-2026-trials-lab)** ⭐ 48
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Dead by Daylight Cheat 2026 themed gameplay toolkit for Survivor and Killer analytics, perk builds, Bloodpoint tracking, map research, chase statistics, progression and mod-menu-style UI experiments.
-
-- **[luke8230/grow-a-garden-2-script-pet-seed-lab](https://github.com/luke8230/grow-a-garden-2-script-pet-seed-lab)** ⭐ 48
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Grow a Garden 2 Script themed Roblox gameplay toolkit for garden planning, pet collection tracking, seed analytics, farming routes, inventory management and script-style GUI experiments.
-
-- **[marcus9119/jailbreak-script-2026-heist-lab](https://github.com/marcus9119/jailbreak-script-2026-heist-lab)** ⭐ 48
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Jailbreak Script 2026 themed Roblox gameplay toolkit for robbery-route planning, vehicle analytics, credits tracking, police and criminal statistics, map research and script-style GUI experiments.
-
-- **[lukemurray-08/doors-script-2026-entity-lab](https://github.com/lukemurray-08/doors-script-2026-entity-lab)** ⭐ 48
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  DOORS Script 2026 themed Roblox gameplay toolkit for entity tracking, room progression, hide timing practice, route analysis, recorded-session ESP visualization and script-style GUI experiments for PC and mobile.
-
-- **[marcushayes-23/arsenal-script-nokey-aim-training-lab](https://github.com/marcushayes-23/arsenal-script-nokey-aim-training-lab)** ⭐ 47
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Arsenal Script NOKEY themed Roblox FPS toolkit for aim analytics, weapon statistics, farming-route planning, gun progression, match analysis and script-style GUI experiments for PC and mobile.
+- **[RankSpotAI/awesome-seo-mcp](https://github.com/RankSpotAI/awesome-seo-mcp)** ⭐ 62
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,152
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,235
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,178
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,195
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,196
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
-
-- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,122
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Dress AI Sponsor
-
-- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 1,045
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 1,244
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 940
+- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,207
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
+
+- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,132
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Dress AI Sponsor
+
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 954
   ![Python](https://img.shields.io/badge/-Python-blue)
   Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.
 
-- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 828
+- **[Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** ⭐ 853
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
+
+- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 829
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   养成类游戏英语学习
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 786
-  ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
-  None
-
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 213,775
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 213,939
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,923
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,948
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,920
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,957
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,643
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,662
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,109
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,111
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,992
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 7,015
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,460
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,466
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,229
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,238
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -493,59 +487,59 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | 🟡 Learning |
-| JavaScript | 🟢 Proficient |
-| TypeScript | ⚪ Planned |
+| Java | ⚪ Planned |
+| Python | 🔴 Beginner |
+| JavaScript | ⚪ Planned |
+| TypeScript | 🟢 Proficient |
 | Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
-| React | 🟢 Proficient |
-| Spring Boot | ⚪ Planned |
-| Django | 🟡 Learning |
+| React | 🔴 Beginner |
+| Spring Boot | 🔴 Beginner |
+| Django | 🔴 Beginner |
 | Node.js | 🟢 Proficient |
-| Next.js | ⚪ Planned |
+| Next.js | 🔴 Beginner |
 
 ### Cybersecurity
 
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | 🟢 Proficient |
-| Web Security | ⚪ Planned |
+| Web Security | 🟡 Learning |
 | Network Security | 🟡 Learning |
-| OWASP | ⚪ Planned |
+| OWASP | 🔴 Beginner |
 
 ### Ai Ml
 
 | Skill | Status |
 |-------|--------|
-| Machine Learning | ⚪ Planned |
-| Deep Learning | 🟢 Proficient |
-| NLP | 🟡 Learning |
-| Computer Vision | ⚪ Planned |
-| TensorFlow | 🔴 Beginner |
-| PyTorch | 🔴 Beginner |
+| Machine Learning | 🟡 Learning |
+| Deep Learning | ⚪ Planned |
+| NLP | 🔴 Beginner |
+| Computer Vision | 🔴 Beginner |
+| TensorFlow | 🟡 Learning |
+| PyTorch | ⚪ Planned |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
-| Docker | ⚪ Planned |
-| Kubernetes | ⚪ Planned |
-| CI/CD | 🟢 Proficient |
-| AWS | 🟢 Proficient |
-| Azure | 🟢 Proficient |
+| Docker | 🟢 Proficient |
+| Kubernetes | 🟢 Proficient |
+| CI/CD | 🟡 Learning |
+| AWS | 🔴 Beginner |
+| Azure | ⚪ Planned |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | ⚪ Planned |
-| Web3 | ⚪ Planned |
-| Cloud Computing | 🟡 Learning |
+| Blockchain | 🟡 Learning |
+| Web3 | 🔴 Beginner |
+| Cloud Computing | 🔴 Beginner |
 
 </details>
 
