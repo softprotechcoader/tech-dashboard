@@ -46,33 +46,34 @@
 
 ### 📑 Hacker News
 
-- **[Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)**
-  *<p>Article URL: <a href="https://cloudinabottle.org/blog/launch-post">https://cloudinabottle.org/blog/launch-post</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582000">https...*
-  📅 Sun, 06 Sep 2026 00:03:29 +0000
+- **[You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)**
+  *<p>Article URL: <a href="https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/">https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/</a></p>
+<p>C...*
+  📅 Sun, 06 Sep 2026 09:14:22 +0000
 
-- **[Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)**
-  *<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/9/1.html">https://lapcatsoftware.com/articles/2026/9/1.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=495...*
-  📅 Sat, 05 Sep 2026 23:39:47 +0000
+- **[Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/)**
+  *<p>Article URL: <a href="https://quenq.com/apps/vice-city-online/">https://quenq.com/apps/vice-city-online/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584123">https://new...*
+  📅 Sun, 06 Sep 2026 07:33:17 +0000
 
-- **[OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)**
-  *<p>Article URL: <a href="https://github.com/okf-memory/okf-agent-memory">https://github.com/okf-memory/okf-agent-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581240"...*
-  📅 Sat, 05 Sep 2026 22:15:52 +0000
+- **[Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)**
+  *<p>Article URL: <a href="https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight">https://isaraerospace.com/press/history-fo...*
+  📅 Sun, 06 Sep 2026 07:21:06 +0000
 
-- **[The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)**
-  *<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</a></p>
-<p>Comments URL: <a href="https://...*
-  📅 Sat, 05 Sep 2026 21:37:49 +0000
+- **[Site Is Closed on Sundays](https://v7.robweychert.com/)**
+  *<p>Article URL: <a href="https://v7.robweychert.com/">https://v7.robweychert.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49583842">https://news.ycombinator.com/item?id=...*
+  📅 Sun, 06 Sep 2026 06:23:05 +0000
 
-- **[South African diamond mines are closing due to weak sales and lab-grown stones](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)**
-  *<p>Article URL: <a href="https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf">https://www.wsj.com/business/diamond-mines-are-closing-and-south-afri...*
-  📅 Sat, 05 Sep 2026 21:17:00 +0000
+- **[AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)**
+  *<p>Article URL: <a href="https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/">https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/</a></p>
+<p>Comment...*
+  📅 Sun, 06 Sep 2026 02:24:57 +0000
 
-- **[Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)**
-  *<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket">https://www.space.com/space-exploration/launc...*
-  📅 Sat, 05 Sep 2026 20:31:38 +0000
+- **[AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)**
+  *<p>Article URL: <a href="https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</a></p>
+<p>Comments ...*
+  📅 Sun, 06 Sep 2026 02:12:46 +0000
 
 ### 📑 TechCrunch
 
@@ -102,16 +103,17 @@
 
 ### 📑 Dev.to
 
-- **[Axiom: Stop Fighting Your Project Before You Even Run It](https://dev.to/the1of1matt/axiom-stop-fighting-your-project-before-you-even-run-it-30o2)**
-  *<p>Links to Axiom (if you want to directly access it and dont want to read the post):<br />
-Website: <a href="https://axiom.fwh.is/" rel="noopener noreferrer">https://axiom.fwh.is/</a> -- here are dow...*
-  📅 Sun, 06 Sep 2026 01:53:50 +0000
+- **[I Rewrote My Electron App in Tauri — and Claude Did 100% of the Work in Under 24 Hours 🚀](https://dev.to/ankurk91/i-rewrote-my-electron-app-in-tauri-and-claude-did-100-of-the-work-in-under-24-hours-3j5p)**
+  *<p><a class="article-body-image-wrapper" href="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws...*
+  📅 Sun, 06 Sep 2026 09:48:46 +0000
 
-- **[Capturing exact DOM elements in a Chrome MV3 extension: DPR, sticky elements, and redaction before pixels exist](https://dev.to/mustafa_bahaa/capturing-exact-dom-elements-in-a-chrome-mv3-extension-dpr-sticky-elements-and-redaction-before-1hgd)**
-  *<p>Every screenshot extension workflow I've used shares the same flaw: you take<br />
-a picture of the viewport, then crop. The capture is never <em>of</em> the thing you<br />
-wanted — it's of a rect...*
-  📅 Sun, 06 Sep 2026 01:51:10 +0000
+- **[RSA-2048 and RSA-3072 have different futures](https://dev.to/lvlrsajjad/rsa-2048-and-rsa-3072-have-different-futures-2ipc)**
+  *<blockquote>
+<p><strong>Published 2026-09-06</strong></p>
+
+<p>This describes <strong>NIST IR 8547 ipd</strong> — the initial public draft of November<br />
+2024 — as it stood on the date above. Its da...*
+  📅 Sun, 06 Sep 2026 09:44:51 +0000
 
 </details>
 
@@ -119,103 +121,103 @@ wanted — it's of a rect...*
 
 ### 📈 Daily Trending
 
-- **[mrliumdfkk/minis-euleros](https://github.com/mrliumdfkk/minis-euleros)** ⭐ 2
-  ![Swift](https://img.shields.io/badge/-Swift-lightgrey)
-  MinisEulerOS - OpenMinis 1.13 fork on Huawei Cloud EulerOS 2.0: on-device Linux AI agent for Android
-
-- **[Shiz0id/Bifrost-context-manager](https://github.com/Shiz0id/Bifrost-context-manager)** ⭐ 2
+- **[Nicholas2519/python-cloudflare-turnstile](https://github.com/Nicholas2519/python-cloudflare-turnstile)** ⭐ 76
   ![Python](https://img.shields.io/badge/-Python-blue)
-  An LLM context database for reverse-engineering projects
+  A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.
 
-- **[Victor-Kipruto-Rop/fraud_anomaly_detection](https://github.com/Victor-Kipruto-Rop/fraud_anomaly_detection)** ⭐ 2
+- **[pcm469768-droid/llm-api-speedtest](https://github.com/pcm469768-droid/llm-api-speedtest)** ⭐ 31
+  ![Go](https://img.shields.io/badge/-Go-cyan)
+  Benchmark LLM APIs, OpenAI-compatible gateways, and API proxies by token speed, TTFB, latency, and success rate. Compare multiple providers with reproducible JSON reports and scheduled GitHub Actions.
+
+- **[nevertoday/xxd-panel-116](https://github.com/nevertoday/xxd-panel-116)** ⭐ 15
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  XXD Panel 116 — independent image design Skill with multilingual prompts and eight sample artworks
+
+- **[atharvotech/FreeDeepseekAPI-EN](https://github.com/atharvotech/FreeDeepseekAPI-EN)** ⭐ 14
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  Local OpenAI-compatible API proxy for DeepSeek Web Chat (Global English Version). Connects DeepSeek to Open WebUI, Claude Code, and OpenAI SDK tools. Maintained by Atharvotech.
+
+- **[ProbiusOfficial/windows-ir-skill](https://github.com/ProbiusOfficial/windows-ir-skill)** ⭐ 13
   ![None](https://img.shields.io/badge/-None-lightgrey)
-  None
+  a windows-ir skill
 
-- **[Talos-popcorn/toolhub](https://github.com/Talos-popcorn/toolhub)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  🛠️ toolhub - Turn ANY console script into an LLM tool in 2 seconds. Lightweight, self-hosted, tree-structured alternative to MCP & LangChain.
+- **[trypsynth/evvdroid](https://github.com/trypsynth/evvdroid)** ⭐ 12
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey)
+  Eloquence text-to-speech engine for Android and Wear OS, built on openevv
 
-- **[xianxie6/solid-geometry-lab](https://github.com/xianxie6/solid-geometry-lab)** ⭐ 2
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-  高中立体几何交互实验室：10道数学题、动态展开与截面、Blender圆锥动画。
+- **[somerandomviolinkid/bob16](https://github.com/somerandomviolinkid/bob16)** ⭐ 11
+  ![C](https://img.shields.io/badge/-C-lightgrey)
+  extremely simple custom 16 bit cpu emulator and assembler as seen on youtube
 
-- **[pgold30/who-gets-the-house](https://github.com/pgold30/who-gets-the-house)** ⭐ 1
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  Replication package for 'Who Gets the House? Execution Certainty, the Mortgage Recording Tax, and the Design of Transfer Taxes in New York City'
-
-- **[theredcraft0803/TRC-PortableBlocks](https://github.com/theredcraft0803/TRC-PortableBlocks)** ⭐ 1
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  Adds /pb command to open any Crafting-Inventory anywhere
-
-- **[JPS2599/Notes](https://github.com/JPS2599/Notes)** ⭐ 1
+- **[vertexteachershanty/Frendly-Steps-trainer](https://github.com/vertexteachershanty/Frendly-Steps-trainer)** ⭐ 10
   ![None](https://img.shields.io/badge/-None-lightgrey)
   None
 
 ### 📈 Weekly Trending
 
-- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 3,729
+- **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** ⭐ 4,045
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
-- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,055
+- **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** ⭐ 2,136
   ![Python](https://img.shields.io/badge/-Python-blue)
   Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
-- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,172
+- **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** ⭐ 1,189
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
 
-- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,091
+- **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** ⭐ 1,115
   ![Python](https://img.shields.io/badge/-Python-blue)
   Dress AI Sponsor
 
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 923
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** ⭐ 933
   ![Python](https://img.shields.io/badge/-Python-blue)
   Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.
 
-- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 822
+- **[yczz/oc-english](https://github.com/yczz/oc-english)** ⭐ 826
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   养成类游戏英语学习
 
-- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 698
+- **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** ⭐ 799
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
+
+- **[anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** ⭐ 753
   ![Lean](https://img.shields.io/badge/-Lean-lightgrey)
   None
 
-- **[danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD)** ⭐ 656
-  ![None](https://img.shields.io/badge/-None-lightgrey)
-  Run DLSS 5 Neural Rendering on your AMD GPU. Magic!
-
 ### 📈 Monthly Trending
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 213,173
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ⭐ 213,566
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness: Everything is a Plugin.
 
-- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,792
+- **[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)** ⭐ 23,886
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,809
+- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** ⭐ 20,870
   ![Python](https://img.shields.io/badge/-Python-blue)
   A privacy-first app that strips AI watermarks from content you own.
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,578
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** ⭐ 14,616
   ![Python](https://img.shields.io/badge/-Python-blue)
   A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,098
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** ⭐ 7,103
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,943
+- **[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)** ⭐ 6,975
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,307
+- **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** ⭐ 6,386
   ![Python](https://img.shields.io/badge/-Python-blue)
   Autonomous research system for measurable, computer-executable research.
 
-- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,193
+- **[MengTo/threeui](https://github.com/MengTo/threeui)** ⭐ 5,213
   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
   Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
@@ -488,19 +490,19 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 
 | Skill | Status |
 |-------|--------|
-| Java | 🟢 Proficient |
-| Python | ⚪ Planned |
-| JavaScript | 🟢 Proficient |
-| TypeScript | 🟢 Proficient |
-| Go | 🟢 Proficient |
+| Java | 🔴 Beginner |
+| Python | 🟡 Learning |
+| JavaScript | 🔴 Beginner |
+| TypeScript | ⚪ Planned |
+| Go | 🟡 Learning |
 
 ### Frameworks
 
 | Skill | Status |
 |-------|--------|
 | React | ⚪ Planned |
-| Spring Boot | 🟡 Learning |
-| Django | ⚪ Planned |
+| Spring Boot | 🟢 Proficient |
+| Django | 🟢 Proficient |
 | Node.js | 🟡 Learning |
 | Next.js | 🔴 Beginner |
 
@@ -509,9 +511,9 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 | Skill | Status |
 |-------|--------|
 | Penetration Testing | ⚪ Planned |
-| Web Security | ⚪ Planned |
-| Network Security | ⚪ Planned |
-| OWASP | 🔴 Beginner |
+| Web Security | 🔴 Beginner |
+| Network Security | 🟡 Learning |
+| OWASP | 🟡 Learning |
 
 ### Ai Ml
 
@@ -519,27 +521,27 @@ Out-of-band release to fix `node --version` which was reporting an alpha version
 |-------|--------|
 | Machine Learning | 🔴 Beginner |
 | Deep Learning | ⚪ Planned |
-| NLP | 🟢 Proficient |
-| Computer Vision | 🔴 Beginner |
+| NLP | ⚪ Planned |
+| Computer Vision | 🟢 Proficient |
 | TensorFlow | 🔴 Beginner |
-| PyTorch | ⚪ Planned |
+| PyTorch | 🟡 Learning |
 
 ### Devops
 
 | Skill | Status |
 |-------|--------|
 | Docker | ⚪ Planned |
-| Kubernetes | 🟡 Learning |
-| CI/CD | 🟡 Learning |
-| AWS | ⚪ Planned |
+| Kubernetes | 🔴 Beginner |
+| CI/CD | 🔴 Beginner |
+| AWS | 🟡 Learning |
 | Azure | 🟡 Learning |
 
 ### Other
 
 | Skill | Status |
 |-------|--------|
-| Blockchain | 🟢 Proficient |
-| Web3 | 🟢 Proficient |
+| Blockchain | ⚪ Planned |
+| Web3 | 🔴 Beginner |
 | Cloud Computing | 🟢 Proficient |
 
 </details>
